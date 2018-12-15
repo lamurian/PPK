@@ -6,8 +6,6 @@ output:
     toc_depth: 3
     toc_float: true
     numbered_sections: true
-    highlight: tango
-    css: easy.css
 ---
 
 # Struktur Penulisan Panduan Praktik Klinis
