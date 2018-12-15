@@ -1,10 +1,13 @@
 
 ---
 output:
-  html:
+  html_document:
     toc: true
     toc_depth: 3
     toc_float: true
+    css: easy.css
+    numbered_sections: true
+    highlight: tango
 ---
 
 # Struktur Penulisan Panduan Praktik Klinis
@@ -14,27 +17,30 @@ penatalaksanaan penyakit tersebut. Panduan Praktik Klinis (PPK) Dokter
 Pelayanan Primer disusun berdasarkan pedoman yang berlaku secara global yang
 dirumuskan bersama perhimpunan profesi dan Kementerian Kesehatan.
 
-# Judul Penyakit
+# Judul Penyakit {.tabset .tabset-fade}
 
-Judul penyakit ebrdasarkan daftar penyakit terpilih di SKDI 2012, namun beberapa penyakit dengan karakteristik yang hampir sama dikelompokkan menjadi satu judul penyakit. 
+Judul penyakit berdasarkan daftar penyakit terpilih di SKDI 2012, namun
+beberapa penyakit dengan karakteristik yang hampir sama dikelompokkan menjadi
+satu judul penyakit. 
 
 Pada setiap judul penyakit dilengkapi:
 
-1. Kode penyakit
+## Kode penyakit
 
-   a. Kode *International Classification of Primary Care* (ICPC), menggunakan
-   kode ICPC-2 untuk diagnosis
+* Kode *International Classification of Primary Care* (ICPC), menggunakan kode
+	ICPC-2 untuk diagnosis 
+* Kode *International Classification of Disease* (ICD), menggunakan kode ICD-10
+	versi 10.
 
-   b. Kode *International Classification of Disease* (ICD), menggunakan kode
-   ICD-10 versi 10.
+Penggunaan kode penyakit untuk pencatatan dan pelaporan di fasiitas
+pelayanan kesehatan primer mengacu pada ketentuan peraturan perundangan yang
+berlaku
 
-   Penggunaan kode penyakit untuk pencatatan dan pelaporan di fasiitas
-   pelayanan kesehatan primer mengacu pada ketentuan peraturan perundangan yang
-   berlaku
+## Kompetensi Dokter
 
-2. Tingkat kemampuan dokter dalam penatalaksanaan penyakit berdasarkan
-   Peraturan Konsil Kedokteran Indonesia Nomor 11 tahun 2012 tentang Standar
-   Kompetensi Dokter Indonesia.
+Tingkat kemampuan dokter dalam penatalaksanaan penyakit berdasarkan Peraturan
+Konsil Kedokteran Indonesia Nomor 11 tahun 2012 tentang Standar Kompetensi
+Dokter Indonesia.
 
 # Masalah Kesehatan
 
@@ -80,13 +86,14 @@ rujukan).
 
 Dokter akan merujuk pasien apabila memenuhi salah satu dari kriteria "TACC" (*Time-Age-Complication-Comorbidity*) berikut:
 
-1. *Time*: jika perjalanan penyakit dapat digolongkan kepada kondisi kronis
-   atau melewati *Golden Time Standard*.
-2. *Age*: jika usia pasien masuk dalam kategori yang dikhawatirkan
-   meninngkatkan risiko komplikasi serta risiko kondisi penyakit lebih berat.
-3. *Complication*: jika komplikasi yang ditemui dapat memperberat kondisi pasien.
-4. *Comorbidity*: jika terdapat keluhan atau gejala penyakit lain yang
-   memperberat kondisi pasien
+1. *Time*: Jika perjalanan penyakit dapat digolongkan kepada kondisi kronisatau
+	 melewati *Golden Time Standard*.
+2. *Age*: Jika usia pasien masuk dalam kategori yang dikhawatirkan
+	 meninngkatkan risiko komplikasi serta risiko kondisi penyakit lebih berat.
+3. *Complication*: Jika komplikasi yang ditemui dapat memperberat kondisi
+	 pasien.
+4. *Comorbidity*: Jika terdapat keluhan atau gejala penyakit lain yang
+	 memperberat kondisi pasien
 
 Selain empat kriteria di atas, kondisi fasilitas pelayanan juga dapat menjadi
 dasar bagi dokter untuk melakukan rujukan demi menjamin keberlangsungan
