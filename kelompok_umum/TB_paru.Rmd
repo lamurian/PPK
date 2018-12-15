@@ -3,14 +3,18 @@ output:
   html_document:
     toc: true
     toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    bullet_section: true
 ---
+
+# Tuberkulosis (TB) Paru pada Dewasa
 
 No ICPC-2	: A70 *Tuberkulosis*  
 No ICD-10	: A15 *Respiratory tuberkulosis, bacteriologically and
 histologically confirmed*  
-Kompetensi	: 4A
-
-# Tuberkulosis (TB) Paru pada Dewasa
+**Kompetensi	: 4A**
 
 ## Masalah Kesehatan
 
