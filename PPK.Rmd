@@ -5,7 +5,6 @@ output:
     toc: true
     toc_depth: 3
     toc_float: true
-    css: easy.css
     numbered_sections: true
     highlight: tango
 ---
