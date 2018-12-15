@@ -10,5 +10,5 @@ output:
 
 Laman ini berisi kelompok umum penyakit
 
-* !['Struktur Penulisan'](https://lamurian.github.io/PPK)
-* !['Tuberkulosis Paru'](https://lamurian.github.io/PPK/kelompok_umum/TB_paru)
+* ['Struktur Penulisan'](https://lamurian.github.io/PPK)
+* ['Tuberkulosis Paru'](https://lamurian.github.io/PPK/kelompok_umum/TB_paru)
