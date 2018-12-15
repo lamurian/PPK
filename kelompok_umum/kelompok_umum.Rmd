@@ -6,6 +6,9 @@ output:
     toc_float: true
 ---
 
+# Kelompok Umum Penyakit
+
 Laman ini berisi kelompok umum penyakit
 
-# Kelompok Umum Penyakit
+* !['Struktur Penulisan'](https://lamurian.github.io/PPK)
+* !['Tuberkulosis Paru'](https://lamurian.github.io/PPK/kelompok_umum/TB_paru)
