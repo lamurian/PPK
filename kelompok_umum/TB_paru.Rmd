@@ -9,6 +9,12 @@ output:
     bullet_section: true
 ---
 
+# Laman dalam Jejaring
+
+* [Index Penyakit Umum](https://lamurian.github.io/PPK/kelompok_umum/index)
+* [Home](https://lamurian.github.io/PPK/home)
+* [Struktur Penulisan](https://lamurian.github.io/PPK)
+
 # Tuberkulosis (TB) Paru pada Dewasa
 
 No ICPC-2	: A70 *Tuberkulosis*  

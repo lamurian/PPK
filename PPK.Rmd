@@ -7,6 +7,12 @@ output:
     toc_float: true
 ---
 
+# Laman dalam Jejaring
+
+* [Index Penyakit Umum](https://lamurian.github.io/PPK/kelompok_umum/index)
+* [Home](https://lamurian.github.io/PPK/home)
+* [Struktur Penulisan](https://lamurian.github.io/PPK)
+
 # Struktur Penulisan Panduan Praktik Klinis
 
 Panduan ini memuat pengelolaan penyakit mulai dari penjelasan hingga
