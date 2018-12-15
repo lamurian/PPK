@@ -1,0 +1,11 @@
+
+---
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+Laman ini berisi kelompok umum penyakit
+
+# Kelompok Umum Penyakit
