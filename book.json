@@ -1,7 +1,7 @@
 {
-	"plugins": ["autocover", "katex"],
-	"pluginsConfig": {}
-	"structure": {
-		"readme": "README.md"
-	}
+"title": "Panduan Praktik Klinis",
+"plugins": ["autocover", "katex"],
+"structure": {
+    "readme": "README.md"
+}
 }
