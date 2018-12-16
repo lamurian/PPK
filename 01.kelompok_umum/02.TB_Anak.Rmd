@@ -14,7 +14,6 @@ output:
     highlight: tango
   slidy_presentation:
     highlight: tango
-bibliography: ref.bib
 csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
@@ -144,4 +143,17 @@ Catatan:
 Pasien usia balita yang mendapat skor 5, dengan gejala klinis yang meragukan,
 maka pasien tersebut dirujuk ke rumah sakit untuk evaluasi lebih lanjut.
 
-![Tabel 1.3 Sistem Skoring TB Anak](skoring-tb-anak.jpg)
+| Parameter                                        | 0                            | 1                                           | 2                                                        | 3                                                                    |
+|--------------------------------------------------|------------------------------|---------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------|
+| Kontak TB                                        | Tidak jelas                  |                                             | Laporan keluarga, BTA(-) atau BTA tidak jelas/tidak tahu | BTA (+)                                                              |
+| Uji Tuberkulin (Mantoux)                         | (-)                          |                                             |                                                          | (+) ($$\geq$$10mm, atau $$geq$$5mm pada keadaan *immunocompromised*) |
+| Gizi / BB                                        |                              | BB/TB < 90% atau BB/U < 80%                 | Klinis gizi buruk atau BB/TB < 70% atau BB/U < 60%       |                                                                      |
+| Demam yang tidak diketahui penyebabnya           |                              | $$\geq$$2 minggu                            |                                                          |                                                                      |
+| Batuk kronik                                     | $$\geq$$3 minggu             |                                             |                                                          |
+| Pembesaran kelenjar limfe koli, aksila, inguinal |                              | $$\geq$$1 cm, Lebih dari 1 KGB, tidak nyeri |                                                          |                                                                      |
+| Pembengkakan tulang/ sendi pangul lutut, falang  |                              | Ada pembengkakan                            |                                                          |                                                                      |
+| Foto toraks                                      | Normal, kelainan tidak jelas | Gambaran sugestif TB                        |                                                          |                                                                      |
+
+![Tabel 1.3 Sistem Skoring TB Anak](https://raw.githubusercontent.com/lamurian/PPK/master/01.kelompok_umum/skoring-tb-anak.png)
+
+{{ 'https://www.youtube.com/watch?v=yR51KVF4OX0' | noembed }}
