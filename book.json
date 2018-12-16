@@ -1,4 +1,7 @@
 {
-"plugins": ["autocover", "mathjax"],
-"pluginsConfig": {}
+	"plugins": ["autocover", "katex"],
+	"pluginsConfig": {}
+	"structure": {
+		"readme": "README.md"
+	}
 }
