@@ -16,6 +16,8 @@ No ICD-10	: A15 *Respiratory tuberkulosis, bacteriologically and
 histologically confirmed*  
 **Kompetensi	: 4A**
 
+***
+
 ## Masalah Kesehatan
 
 Tuberkulosis (TB) adalah penyakit menular langsung yang disebabkan oleh kuman
@@ -25,6 +27,8 @@ termasuk sebagai 5 besar dari 22 negara di dunia dengan beban TB. Kontribiusi
 TB di Indonesia sebesar 5,8%. Saat ini timbul kegawatdaruratan baru dalam
 penanggulangan TB, yaitu TB Resisten Obat (*Multi Drug Resistance*/ MDR).
 
+***
+
 ## Hasil Anamnesis (*Subjective*)
 
 Suspek TB adalah seseorang dengan gejala atau tanda TB. Gejala umum TB Paru adalah batuk produktif lebih dari 2 minggu, yang disertai:
@@ -33,14 +37,18 @@ Suspek TB adalah seseorang dengan gejala atau tanda TB. Gejala umum TB Paru adal
 2. Gejala sistemik (demam, tidak nafsu makan, penurunan berat badan, keringat
    malam dan mudah lelah) 
 
+***
+
 ## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (*Objective*) {.tabset .tabset-fade}
 
 ### Pemeriksaan Fisik
 
-Kelainan papda TB Paru tergantung luas kelainan struktur paru. Pada awal
+Kelainan pada TB Paru tergantung luas kelainan struktur paru. Pada awal
 permulaan perkembangan penyakit umumnya sulit sekali menemukan kelainan. Pada
-auskultasi terdengar suara napas bronhial/amforik/ronkhi basah/suara napas
+auskultasi terdengar suara napas bronkhial/amforik/ronkhi basah/suara napas
 melemah di apex paru, tanda-tanda penarikan paru, diafragma, dan mediastinum.
+
+***
 
 ### Pemeriksaan Penunjang
 
@@ -55,9 +63,11 @@ melemah di apex paru, tanda-tanda penarikan paru, diafragma, dan mediastinum.
    dapat menyertai yaitu, kavitas (bayangan berupa cincin berdinding tipis),
    pleuritis (penebalan pleura), efusi pleura (sudut kostrofenikus tumpul).
 
+***
+
 ## Penegakkan Diagnosis (*Assessment*)
 
-## Diagnosis Pasti TB
+### Diagnosis Pasti TB
 
 Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisis dan pemeriksaan
 penunjang (sputum untuk dewasa, tes tuberkulin pada anak).
@@ -90,6 +100,8 @@ Standar Diagnosis
    MTB/RIF* negatif pada pasien dengan gejala klinins yang mendukung TB,
    sebeaiknya segera diberikan pengobatan anti tuberkulosis setelah pemeriksaan
    kultur.
+
+***
 
 ## Penatalaksanaan Komprehensif (*Plan*)
 
