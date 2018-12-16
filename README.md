@@ -36,7 +36,7 @@ Indonesia. Substansi dari bagian ini diharapkan dapat memberikan pengetahuan
 awal serta gambaran kondisi yang mengarah kepada penegakan diagnosis penyakit
 tersebut.
 
-# Hasil Anamnesis (*Subjective*)
+# *Subjective*
 
 Hasil Anamnesis berisi keluhan utama maupun keluhan penyerta yang sering
 disampaikan oleh pasien atau keluarga pasien. Penelusuran riwayat penyakit yang
@@ -46,7 +46,7 @@ bagian ini. Pada beberapa penyakit, bagian ini memuat informasi spesifik yang
 harus diperoleh dokter dari pasien atau keluarga pasien untuk menguatkan
 diagnosis penyakit.
 
-# Hasil Pemeriksaan Fisik dan Pemeriksaan Penunjang Sederhana (*Objective*)
+# *Objective*
 
 Bagian ini berisi hasil pemeriksaan fisik dan pemeriksaan penunjang yang
 spesifik, mengarah kepada diagnosis penyakit (*pathognomonis*). Meskipun tidak
@@ -54,7 +54,7 @@ memuat rangkaian pemeriksaan fisik lainnya, pemeriksaan tanda vital dan
 pemeriksaan fisik menyeluruh tetap harus dilakukan oleh dokter layanan primer
 untuk memastikan diagnosis serta menyingkirkan diagnosis banding.
 
-# Penegakan Diagnosis (*Assessment*)
+# *Assessment*
 
 Bagian ini berisi diagnosis yang sebagian besar dapat ditegakkan dengan
 anamnesis dan pemeriksaan fisik. Beberapa penyakit membutuhkan hasil
@@ -62,7 +62,7 @@ pemeriksaan penunjang untuk memastikan diagnosis atau karena telah menjadi
 standar algoritma penegakan diagnosis. Selain itu, bagian ini juga memuat
 klasifikasi penyakit, diagnosa banding, dan komplikasi penyakit.
 
-# Rencana Penatalaksanaan Komprehensif (*Plan*) 
+# *Plan* 
 
 Bagian ini berisi sistematika rencana penatalaksanaan berorientasi pada pasien
 (*patient centered*) yang terbagi atas dua bagian yaitu penatalaksanaan non
@@ -71,12 +71,13 @@ konseling terhadap pasien dan keluarga (*family focus*), aspek komunitas
 lainnya (*community oriented*) serta kapan dokter perlu merujuk pasien (kriteria
 rujukan).
 
-Dokter akan merujuk pasien apabila memenuhi salah satu dari kriteria "TACC" (*Time-Age-Complication-Comorbidity*) berikut:
+Dokter akan merujuk pasien apabila memenuhi salah satu dari kriteria "TACC"
+(*Time-Age-Complication-Comorbidity*) berikut:
 
 1. *Time*: jika perjalanan penyakit dapat digolongkan kepada kondisi kronis
    atau melewati *Golden Time Standard*.
 2. *Age*: jika usia pasien masuk dalam kategori yang dikhawatirkan
-   meninngkatkan risiko komplikasi serta risiko kondisi penyakit lebih berat.
+   meningkatkan risiko komplikasi serta risiko kondisi penyakit lebih berat.
 3. *Complication*: jika komplikasi yang ditemui dapat memperberat kondisi pasien.
 4. *Comorbidity*: jika terdapat keluhan atau gejala penyakit lain yang
    memperberat kondisi pasien
@@ -88,8 +89,8 @@ penatalaksanaan dengan persetujuan pasien.
 # Peralatan
 
 Bagian ini berisi komponen fasilitas pendukung spesifik dalam penegakan
-diagnosis dan penatalaksanaan penyakit tersebut. Penyeiaan peralatan tersebut
-merupakan kewajiban fasilitas pelayanan kesehatan disamping peralatan medik
+diagnosis dan penatalaksanaan penyakit tersebut. Penyediaan peralatan tersebut
+merupakan kewajiban fasilitas pelayanan kesehatan di samping peralatan medik
 wajib untuk pemeriksaan umum tanda vital.
 
 # Prognosis
