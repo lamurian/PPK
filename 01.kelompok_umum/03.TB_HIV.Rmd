@@ -19,7 +19,7 @@ csl: $HOME$/.pandoc/vancouver-superscript.csl
 **TB:**  
 ICPC-2		: A70 *Tuberculosis*  
 ICD-10		: A15 *Respiratory tuberculosis, bacteriologically and
-histologically confirmed  
+histologically confirmed*  
 
 **HIV:**  
 ICPC-2		: B90 *HIV-infection/AIDS*  
