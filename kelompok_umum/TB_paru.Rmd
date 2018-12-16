@@ -39,7 +39,7 @@ Suspek TB adalah seseorang dengan gejala atau tanda TB. Gejala umum TB Paru adal
 
 ***
 
-## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (*Objective*) {.tabset .tabset-fade}
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (*Objective*) 
 
 ### Pemeriksaan Fisik
 
