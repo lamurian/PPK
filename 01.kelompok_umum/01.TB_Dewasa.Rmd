@@ -137,27 +137,27 @@ Tujuan pengobatan:
 1. Rekaman tertulis tentang pengobatan, respons bakteriologis dan efek samping
    harus tercatat dan tersimpan. 
 
+**Tabel 1.1 Dosis obat antituberkulosis KDT/FDC**
+
 | Berat |                | Fase Intensif |             | Fase Lanjutan |           |
 |-------|----------------|---------------|-------------|---------------|-----------|
-| Badan | Harian         | Harian    | 3x/minggu   | Harian | 3x/minggu |
-|       | (R/H/Z/E)      | (R/H/Z)   | (R/H/Z)     | (R/H)  | (R/H)     |
-|       | 150/75/400/275 | 150/75/40 | 150/150/500 | 150/75 | 150/150   |
-| 30-37 | 2              | 2         | 2           | 2      | 2         |
-| 38-54 | 3              | 3         | 3           | 3      | 3         |
-| 55-70 | 4              | 4         | 4           | 4      | 4         |
-| >71   | 5              | 5         | 5           | 5      | 5         |
+| Badan | Harian         | Harian        | 3x/minggu   | Harian        | 3x/minggu |
+|       | (R/H/Z/E)      | (R/H/Z)       | (R/H/Z)     | (R/H)         | (R/H)     |
+|       | 150/75/400/275 | 150/75/40     | 150/150/500 | 150/75        | 150/150   |
+| 30-37 | 2              | 2             | 2           | 2             | 2         |
+| 38-54 | 3              | 3             | 3           | 3             | 3         |
+| 55-70 | 4              | 4             | 4           | 4             | 4         |
+| >71   | 5              | 5             | 5           | 5             | 5         |
 
-[**Tabel 1.1 Dosis obat antituberkulosis KDT/FDC**]
+**Tabel 1.2 Dosis obat TB berdasarkan berat badan (BB)**
 
-| Rekomendasi dosis dalam mg/kgBB |                          |                             |
-|---------------------------------|--------------------------|-----------------------------|
-| Obat | Harian                   | 3x seminggu                 |
-| INH  | 5(4-6) max 300 mg/hr     | 10(8-12) max 900 mg/dosis   |
-| RIF  | 10(8-12) max 600 mg/hr   | 10(8-12) max 600 mg/dosis   |
-| PZA  | 25(20-30) max 1600 mg/hr | 35(30-40) max 2500 mg/dosis |
-| EMB  | 15(15-20) max 1600 mg/hr | 30(25-35) max 2400 mg/dosis |
-
-[**Tabel 1.2 Dosis obat TB berdasarkan berat badan (BB)**]
+|      | Rekomendasi dosis dalam mg/kgBB |                             |
+|------|---------------------------------|-----------------------------|
+| Obat | Harian                          | 3x seminggu                 |
+| INH  | 5(4-6) max 300 mg/hr            | 10(8-12) max 900 mg/dosis   |
+| RIF  | 10(8-12) max 600 mg/hr          | 10(8-12) max 600 mg/dosis   |
+| PZA  | 25(20-30) max 1600 mg/hr        | 35(30-40) max 2500 mg/dosis |
+| EMB  | 15(15-20) max 1600 mg/hr        | 30(25-35) max 2400 mg/dosis |
 
 #### Tahapan pengobatan
 
