@@ -1,9 +1,9 @@
 # Summary
 
 * [Kelompok Umum](01.kelompok_umum/README.md)
-	* [TB Dewasa](01.kelompok_umum/TB_Dewasa.Rmd)
-	* [TB Anak](01.kelompok_umum/TB_Anak.Rmd)
-* [Darah dan Imun](02.darah/READNE.md)
+	* [TB Dewasa](01.kelompok_umum/01.TB_Dewasa.Rmd)
+	* [TB Anak](01.kelompok_umum/02.TB_Anak.Rmd)
+* [Darah dan Imun](02.darah/README.md)
 * [Digestif](03.digestif/README.md)
 * [Mata](04.mata/README.md)
 * [Telinga](05.telinga/README.md)

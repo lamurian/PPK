@@ -81,7 +81,7 @@ Standar Diagnosis
 1. Untuk memastikan diagnosis lebih awal, petugas kesehatan harus waspada
    terhadap individu dan grup dengan faktor risiko TB dengan melakukan evaluasi
    klinis dan pemeriksaan diagnostik yang tepat pada mereka dengan gejala TB.
-2. Semua pasien dengan batuk produktif yang berlangsung selama $\geq$ 2 minggu
+2. Semua pasien dengan batuk produktif yang berlangsung selama $$\geq$$ 2 minggu
    yang tidak jelas penyebabnya, harus dievaluasi untuk TB.
 3. Semua pasien yang diduga menderita TB dan mampu mengeluarkan dahak, harus
    diperiksa mikroskopis spesimen apusan sputum/dahak minimal 2 kali atau
