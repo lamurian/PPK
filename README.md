@@ -7,17 +7,19 @@ dirumuskan bersama perhimpunan profesi dan Kementerian Kesehatan.
 
 # Judul Penyakit
 
-Judul penyakit ebrdasarkan daftar penyakit terpilih di SKDI 2012, namun beberapa penyakit dengan karakteristik yang hampir sama dikelompokkan menjadi satu judul penyakit. 
+Judul penyakit berdasarkan daftar penyakit terpilih di SKDI 2012, namun
+beberapa penyakit dengan karakteristik yang hampir sama dikelompokkan menjadi
+satu judul penyakit. 
 
 Pada setiap judul penyakit dilengkapi:
 
 1. Kode penyakit
 
-   a. Kode *International Classification of Primary Care* (ICPC), menggunakan
-   kode ICPC-2 untuk diagnosis
+   * Kode *International Classification of Primary Care* (ICPC), menggunakan
+     kode ICPC-2 untuk diagnosis
 
-   b. Kode *International Classification of Disease* (ICD), menggunakan kode
-   ICD-10 versi 10.
+   * Kode *International Classification of Disease* (ICD), menggunakan kode
+     ICD-10 versi 10.
 
    Penggunaan kode penyakit untuk pencatatan dan pelaporan di fasiitas
    pelayanan kesehatan primer mengacu pada ketentuan peraturan perundangan yang

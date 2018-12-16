@@ -9,7 +9,7 @@ output:
     bullet_section: true
 ---
 
-# Tuberkulosis (TB) Paru pada Dewasa
+# Tuberkulosis Paru Dewasa
 
 No ICPC-2	: A70 *Tuberkulosis*  
 No ICD-10	: A15 *Respiratory tuberkulosis, bacteriologically and
@@ -19,7 +19,7 @@ histologically confirmed*
 ## Masalah Kesehatan
 
 Tuberkulosis (TB) adalah penyakit menular langsung yang disebabkan oleh kuman
-TB yaitu *Mycobacterium tuberkulosis*. Sebagian besar kuman TB menyerang paru,
+TB yaitu *Mycobacterium tuberculosis*. Sebagian besar kuman TB menyerang paru,
 namun dapat juga mengenai organ tubuh lainnya. Indonesia merupakan engara yang
 termasuk sebagai 5 besar dari 22 negara di dunia dengan beban TB. Kontribiusi
 TB di Indonesia sebesar 5,8%. Saat ini timbul kegawatdaruratan baru dalam
@@ -33,7 +33,7 @@ Suspek TB adalah seseorang dengan gejala atau tanda TB. Gejala umum TB Paru adal
 2. Gejala sistemik (demam, tidak nafsu makan, penurunan berat badan, keringat
    malam dan mudah lelah) 
 
-## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (*Objective*)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (*Objective*) {.tabset .tabset-fade}
 
 ### Pemeriksaan Fisik
 
@@ -49,7 +49,11 @@ melemah di apex paru, tanda-tanda penarikan paru, diafragma, dan mediastinum.
    dari spesimen sputum/dahak sewaktu-pagi-sewaktu.
 3. Untuk TB non paru, spesimen dapat diambil dari bilas lambung, cairan
    serebrospinal, cairan pleura ataupun biopsi jaringan.
-4. Radiologi dengan foto toraks PA-Lateral/ top lordotik. Pada TB, umumnya di apeks paru terdapat gambaran bercaka-bercak awan dengan batas yang tidak jelas atau bila dengan batas jelas membentuk tuberkuloma. Gambaran lain yang dapat menyertai yaitu, kavitas (bayangan berupa cincin berdinding tipis), pleuritis (penebalan pleura), efusi pleura (sudut kostrofenikus tumpul).
+4. Radiologi dengan foto toraks PA-Lateral/ top lordotik. Pada TB, umumnya di
+   apeks paru terdapat gambaran bercaka-bercak awan dengan batas yang tidak
+   jelas atau bila dengan batas jelas membentuk tuberkuloma. Gambaran lain yang
+   dapat menyertai yaitu, kavitas (bayangan berupa cincin berdinding tipis),
+   pleuritis (penebalan pleura), efusi pleura (sudut kostrofenikus tumpul).
 
 ## Penegakkan Diagnosis (*Assessment*)
 
