@@ -143,17 +143,69 @@ Catatan:
 Pasien usia balita yang mendapat skor 5, dengan gejala klinis yang meragukan,
 maka pasien tersebut dirujuk ke rumah sakit untuk evaluasi lebih lanjut.
 
-| Parameter                                        | 0                            | 1                                           | 2                                                        | 3                                                                    |
-|--------------------------------------------------|------------------------------|---------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------|
-| Kontak TB                                        | Tidak jelas                  |                                             | Laporan keluarga, BTA(-) atau BTA tidak jelas/tidak tahu | BTA (+)                                                              |
-| Uji Tuberkulin (Mantoux)                         | (-)                          |                                             |                                                          | (+) ($$\geq$$10mm, atau $$geq$$5mm pada keadaan *immunocompromised*) |
-| Gizi / BB                                        |                              | BB/TB < 90% atau BB/U < 80%                 | Klinis gizi buruk atau BB/TB < 70% atau BB/U < 60%       |                                                                      |
-| Demam yang tidak diketahui penyebabnya           |                              | $$\geq$$2 minggu                            |                                                          |                                                                      |
-| Batuk kronik                                     | $$\geq$$3 minggu             |                                             |                                                          |
-| Pembesaran kelenjar limfe koli, aksila, inguinal |                              | $$\geq$$1 cm, Lebih dari 1 KGB, tidak nyeri |                                                          |                                                                      |
-| Pembengkakan tulang/ sendi pangul lutut, falang  |                              | Ada pembengkakan                            |                                                          |                                                                      |
-| Foto toraks                                      | Normal, kelainan tidak jelas | Gambaran sugestif TB                        |                                                          |                                                                      |
+![Tabel 2.1 Sistem Skoring TB Anak](https://raw.githubusercontent.com/lamurian/lamurian.github.io/master/_fig/a_tb_anak01.png)
 
-![Tabel 1.3 Sistem Skoring TB Anak](https://raw.githubusercontent.com/lamurian/PPK/master/01.kelompok_umum/skoring-tb-anak.png)
+{{ 'https://www.youtube.com/watch?v=yR51KVF4OX0' | video }}
 
-{{ 'https://www.youtube.com/watch?v=yR51KVF4OX0' | noembed }}
+## *Plan*
+
+![Figur 2.1 Alur Tata Laksana](https://raw.githubusercontent.com/lamurian/lamurian.github.io/master/_fig/p_tb_anak01.png)
+
+| BB    | 2 Bulan tiap hari   | 4 Bulan tiap hari |
+|-------|---------------------|-------------------|
+|       | **3 KDT Anak**      | **2 KDT Anak**    |
+|       | **RHZ (75/50/150)** | **RH (75/50)**    |
+| 5-9   | 1 Tablet            | 1 Tablet          |
+| 10-14 | 2 Tablet            | 2 Tablet          |
+| 15-29 | 3 Tablet            | 3 Tablet          |
+| 20-32 | 4 Tablet            | 4 Tablet          |
+
+**Tabel 2.2 OAT KDT pada anak (rekomendasi IDAI)**
+
+Keterangan:
+
+1. Bayi dengan berat badan kurang dari 5 kg harus dirujuk ke rumah sakit.
+1. Anak dengan BB $$\geq$$ 33 kg harus dirujuk ke rumah sakit.
+1. Obat harus diberikan secara utuh, tidak boleh dibelah.
+1. OAT KDT dapat diberikan dengan cara: ditelan secara utuh atau dilarutkan
+   dalam air mineral.
+
+### Sumber penularan dan case finding TB anak
+
+Apabila kita menemukan seorang anak dengan TB, maka harus dicari sumber
+penularan yang menyebabkan yang menyebabkan anak tersebut tertular TB. Sumber
+penularan adalah orang dewasa yang menderita TB aktif dan kontak erat dengan
+anak tersebut. Pelacakan sumber infeksi dilakukan dengan cara pemeriksaan
+radiologis dan BTA sputum (pelacakan sentripetal).
+
+### Evaluasi hasil pengobatan
+
+Sebaiknya pasien kontrol setiap bulan. Evaluasi hasil pengobatan dilakukan
+setelah 2 bulan terapi. Evaluasi pengobatan dilakukan dengan beberapa cara,
+yaitu evaluasi klinis, evaluasi radiologis, dan pemeriksaan LED. Evaluasi yang
+terpenting adalah evaluasi klinis, yaitu menghilang atau membaiknya kelainan
+klinis yang sebelumnya ada pada awal pengobatan, misalnya penambahan BB yang
+bermakna, hilangnya demam, hilangnya batuk, perbaikan nafsu makan, dan
+lain-lain. Apabila respons pengobatan baik, maka pengobatan dilanjutkan.
+Seperti yang telah diuraikan sebelumnya, OAT dapat menimbulkan berbagai efek
+samping. Efek ksamping yang cukup sering terjadi pada pemberian isoniazid dan
+rifampisin adalah gangguan gastrointestinal, hepatotoksisitas, ruam dan gatal,
+serta demam.
+
+### Kriteria rujukan
+
+1. Tidak ada perbaikan klinis dalam 2 bulan pengobatan.
+2. Terjadi efek samping obat yang berat.
+3. Putus obat yaitu bila berhenti menjalani pengobatan selama >2 minggu.
+
+### Peralatan
+
+1. Laboratorium untuk pemeriksaan sputum, darah rutin.
+1. *Mantoux test* (uji tuberkulin).
+1. Radiologi.
+
+## Referensi
+
+Rahajoe NN, Setyanto DB. Diagnosis tuberkulosis pada anak. Rahajoe NN,
+Supriyatno DB, editor. Buku ajar respirologi anak. Edisi I. Jakarta:
+IDAI;2011.p.170-87.

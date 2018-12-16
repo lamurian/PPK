@@ -46,4 +46,16 @@ Berat badan (dalam kilogram).
 ## INH
 
 Isoniazid, obat yang digunakan sebagai anti-*mycobacterium*, baik pada regimen
-TB maupun kusta
+TB maupun kusta.
+
+## KDT
+
+Kombinasi Dosis Tepat, disebut juga *Fixed Drug Combination* (FDC).
+
+## FDC
+
+*Fixed Drug Combination*, disebut juga Kombinasi Dosis Tepat (KDT).
+
+## IDAI
+
+Ikatan Dokter Anak Indonesia.
