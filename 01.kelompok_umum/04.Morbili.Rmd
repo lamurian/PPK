@@ -135,10 +135,10 @@ Prognosis pada umumnya baik karena penyakit ini termasuk *self-limiting disease*
 
 ## Referensi
 
-1. Djuanda, A. Hamzah, M. Aisah, S. *Buku Ajar Ilmu Penyakit Kulit dan Kelamin,
-   5<sup>th</sup> Ed.* Balai Ppenerbit FKUI. Jakarta. 2007. (Djuanda, et al., 2007)
-1. James, W.D. Berger, T.G. Elston, D.M. *Andrew's Diseases of the Skin:
-   Clinical Dermatology. 10<sup>th</sup> Ed*. Saunders Elsevier. Canada. 2000. (James,
-   et al., 2000)
+1. Djuanda, A. Hamzah, M. Aisah, S. *Buku Ajar Ilmu Penyakit Kulit dan Kelamin,*
+   *5<sup>th</sup> Ed*. Balai Ppenerbit FKUI. Jakarta. 2007. (Djuanda, et al., 2007)
+1. James, W.D. Berger, T.G. Elston, D.M. *Andrew's Diseases of the Skin:*
+   *Clinical Dermatology. 10{% sup %}th{% endsup %} Ed*. Saunders Elsevier.
+   Canada. 2000. (James, et al., 2000)
 1. Perhimpunan Dokter Spesialis Kulit dan Kelamin. *Pedoman Pelayanan Medik*. 2011
    (Perhimpunan Dokter Spesialis Kulit dan Kelamin, 2011) 
