@@ -23,7 +23,7 @@ histologically confirmed
 
 **HIV:**  
 ICPC-2		: B90 *HIV-infection/AIDS*  
-ICD=10		: Z21 *Asymptomatic human immunodeficiency virus (HIV) infection status*  
+ICD-10		: Z21 *Asymptomatic human immunodeficiency virus (HIV) infection status*  
 **Kompetensi 	: 3A**
 
 ## Masalah Kesehatan
