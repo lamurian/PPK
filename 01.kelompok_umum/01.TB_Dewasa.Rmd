@@ -190,7 +190,7 @@ Tuberkulosis di Indonesia adalah sebagai berikut:
    Artinya pengobatan tahap awal selama 2 bulan diberikan tiap hari dan tahap
    lanjutn selama 4 bulan diberikan 3 kali dalam semingu. Jadi lama pengobatan
    seluruhnya 6 bulan.
-1. Kategori 2: @HRZES/HRZE/5H3R3E3  
+1. Kategori 2: 2HRZES/HRZE/5H3R3E3  
    Diberikan pada TB paru pengobatan ulang (TB kambuh, gagal pengobatan, putus
    berobat/*default*). Pada kategori 2, tahap awal pengobatan selama 3 bulan
    terdiri dari 2 bulan RHZE ditambah suntikan streptomisin, dan 1 bulan HRZE.
