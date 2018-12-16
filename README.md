@@ -65,7 +65,7 @@ klasifikasi penyakit, diagnosa banding, dan komplikasi penyakit.
 # Rencana Penatalaksanaan Komprehensif (*Plan*) 
 
 Bagian ini berisi sistematika rencana penatalaksanaan berorientasi pada pasien
-(*patient centered) yang terbagi atas dua bagian yaitu penatalaksanaan non
+(*patient centered*) yang terbagi atas dua bagian yaitu penatalaksanaan non
 farmakologi dan farmakologi. Selain itu, bagian ini juga berisi edukasi dan
 konseling terhadap pasien dan keluarga (*family focus*), aspek komunitas
 lainnya (*community oriented*) serta kapan dokter perlu merujuk pasien (kriteria

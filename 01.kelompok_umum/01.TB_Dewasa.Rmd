@@ -138,24 +138,24 @@ Tujuan pengobatan:
    harus tercatat dan tersimpan. 
 
 | Berat |                | Fase Intensif |             | Fase Lanjutan |           |
-| Badan | Harian         | Harian        | 3x/minggu   | Harian        | 3x/minggu |
-|       | (R/H/Z/E)      | (R/H/Z)       | (R/H/Z)     | (R/H)         | (R/H)     |
-|       | 150/75/400/275 | 150/75/40     | 150/150/500 | 150/75        | 150/150   |
-|:-----:|:--------------:|:-------------:|:-----------:|:-------------:|:---------:|
-| 30-37 | 2              | 2             | 2           | 2             | 2         |
-| 38-54 | 3              | 3             | 3           | 3             | 3         |
-| 55-70 | 4              | 4             | 4           | 4             | 4         |
-| >71   | 5              | 5             | 5           | 5             | 5         |
+|-------|----------------|---------------|-------------|---------------|-----------|
+| Badan | Harian         | Harian    | 3x/minggu   | Harian | 3x/minggu |
+|       | (R/H/Z/E)      | (R/H/Z)   | (R/H/Z)     | (R/H)  | (R/H)     |
+|       | 150/75/400/275 | 150/75/40 | 150/150/500 | 150/75 | 150/150   |
+| 30-37 | 2              | 2         | 2           | 2      | 2         |
+| 38-54 | 3              | 3         | 3           | 3      | 3         |
+| 55-70 | 4              | 4         | 4           | 4      | 4         |
+| >71   | 5              | 5         | 5           | 5      | 5         |
 
 [**Tabel 1.1 Dosis obat antituberkulosis KDT/FDC**]
 
 | Rekomendasi dosis dalam mg/kgBB |                          |                             |
-| Obat                            | Harian                   | 3x seminggu                 |
 |---------------------------------|--------------------------|-----------------------------|
-| INH                             | 5(4-6) max 300 mg/hr     | 10(8-12) max 900 mg/dosis   |
-| RIF                             | 10(8-12) max 600 mg/hr   | 10(8-12) max 600 mg/dosis   |
-| PZA                             | 25(20-30) max 1600 mg/hr | 35(30-40) max 2500 mg/dosis |
-| EMB                             | 15(15-20) max 1600 mg/hr | 30(25-35) max 2400 mg/dosis |
+| Obat | Harian                   | 3x seminggu                 |
+| INH  | 5(4-6) max 300 mg/hr     | 10(8-12) max 900 mg/dosis   |
+| RIF  | 10(8-12) max 600 mg/hr   | 10(8-12) max 600 mg/dosis   |
+| PZA  | 25(20-30) max 1600 mg/hr | 35(30-40) max 2500 mg/dosis |
+| EMB  | 15(15-20) max 1600 mg/hr | 30(25-35) max 2400 mg/dosis |
 
 [**Tabel 1.2 Dosis obat TB berdasarkan berat badan (BB)**]
 
@@ -222,3 +222,43 @@ Tuberkulosis di Indonesia adalah sebagai berikut:
 1. Radiologi.
 1. Uji *Gen Xpert-Rif* Mtb jika fasilitas tersedia.
 
+## Prognosis
+
+Prognosis pada umumnya baik apabila pasien melakukan terapi sesuai dengan
+ketentuan pengobatan. Untuk TB dengan komorbid, prognosis menjadi kurang baik.
+
+Kriteria hasil pengobatan:
+
+1. Sembuh: pasien telah menyelesaikan pengobatannya secara lengkap dan
+   pemeriksaan apusan dahak ulang (*follow up*), hasilnya negatif pada foto
+   toraks AP dan pada satu pemeriksaan sebelumnya.
+1. Pengobatan lengkap: pasien yang telah menyelesaikan pengobatannya secara
+   lengkap tetapi tidak ada hasil pemeriksaan apusan dahak ulang pada foto
+   toraks AP dan pada satu pemeriksaan sebelumnya.
+1. Meninggal: pasien yang meninggal dalam masa pengobatan karena sebab apapun.
+1. Putus berobat (*default*): pasien yang tidak berobat 2 bulan berturut-turut
+   atau lebih sebelum masa pengobatannya selesai.
+1. Gagal: Pasien yang hasil pemeriksaan dahaknya tetap positif atau kembali
+   menjadi positif pada bulan ke lima atau selama pengobatan.
+1. Pindah (*transfer out*): pasien yang dipindah ke unit pencatatan dan
+   pelaporan (*register*) lain dan hasil pengobatannya tidak diketahui.
+ 
+## Referensi
+
+1. Perhimpunan Dokter Paru Indonesia. Tuberkulosis. PDPI. Jakarta. 2011.
+   (Perhimpunan Dokter Paru Indonesia, 2011) 
+1. Direktorat Jenderal Pengendalian Penyakit dan Penyehatan Lingkungan. Pedoman
+   nasional pengendalian tuberkulosis. Jakarta: Kementerian Kesehatan RI. 2011.
+   (Direktorat Jenderal Pengendalian Penyakit dan Penyehatan Lingkungan, 2011)
+1. Panduan tata laksana tuberkulosis sesuai ISTC dengan strategi DOTS untuk
+   praktik dokter swasta (DPS). Kementerian Kesehatan Republik Indonesia dan
+   Ikatan Dokter Indonesia. Jakarta. 2012. (Kementerian Kesehatan Republik
+   Indonesia, 2012)
+1. Tuberculosis Coalition for Technical Assistance. International standards for
+   tuberculosis care (ISTC). 3^rd^ Ed. Tuberculosis Coalition for Technical
+   Assistance. The Hague. 2014. (Tuberculosis Coalition for Technical
+   Assistance, 2014)
+1. Braunwald, E. Fauci, A.S. Kasper, D.L. Hauser, S.L. et al. Mycobacterial
+   disease: Tuberculosis. Harrison's: principle of internal medicine. 17^th^
+   Ed. New York: McGraw-Hill Companies. 2009: hal. 1006-1020. (Braunwald, et
+   al., 2009)
