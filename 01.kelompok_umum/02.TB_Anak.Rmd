@@ -19,3 +19,129 @@ csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
 # Tuberkulosis (TB) Anak
+
+No ICPC-2	: A70 *Tuberkulosis*  
+No ICD-10	: A15 *Respiratory tuberkulosis, bacteriologically and
+histologically confirmed*  
+**Kompetensi	: 4A**
+
+***
+
+## Masalah Kesehatan
+
+Menurut perkiraan WHO pada tahun 1999, jumlah kasus TB baru di Indonesia adalah
+583.000 orang per tahun dan menyebabkan kematian sekitar 140.000 orang per
+tahun. WHO memperkirakan bahwa TB merupakan penyakit infeksi yang paling banyak
+menyebabkan kematian pada anak dan orang dewasa. Kematian akibat TB lebih
+banyak daripada kematian akibat malaria dan AIDS. Pada wanita, kematian akibat
+TB lebih banyak daripada kematian karena kehamilan, persalinan, dan nifas.
+Jumlah seluruh kasus TB anak dari tujuh Rumah Sakit Pusat Pendidikan di
+Indonesia selama 5 tahun (1998-2002) adalah 1086 penyandang TB dengan angka
+kematian yang bervariasi dari 0% hingga 14,1%. Kelompok usia terbanyak adalah
+12-60 bulan (42,9%), sedangkan untuk bayi didapatkan 16,5%.
+
+## *Subjective*
+
+Anak kecil seringkali tidak menunjukkan gejala walaupun sudah tampak pembesaran
+kelenjar hilus pada foto toraks. Gejala sistemik/umum TB pada anak:
+
+1. Nafsu makan tidak ada (anoreksia) atau berkurang, disertai gagal tumbuh
+   (*failure to thrive*). 
+1. Masalah BB:
+   * BB turun selama 2-3 bulan berturut-turut tanpa sebab yang jelas,  
+     ATAU
+   * BB tidak naik dalam 1 bulan setelah diberikan upaya perbaikan gizi yang baik,  
+     ATAU
+   * BB tidak naik dengan adekuat.
+1. Demam lama ($$\geq$$2 minggu) dan atau berulang tanpa sebab yang jelas
+   (bukan demam tifoid, infeksi saluran kemih, malaria, dan lain lain lain).
+   Demam umumnya tidak tinggi (subfebris) dan dapat disertai keringat malam.
+1. Lesu atau malaise, anak kurang aktif bermain.
+1. Batuk lama atau persisten $$\geq$$3 minggu, batuk bersifat *non-remitting*
+   (tidak pernah reda atau intensitas semakin lama semakin parah) dan penyebab
+   batuk lain telah disingkirkan.
+1. Keringat malam dapat terjadi, namun keringat malam saja apabila tidak
+   disertai dengan gejala-gejala sistemik/umum lain bukan merupakan gejala
+   spesifik TB pada anak.
+
+## *Objective*
+
+### Pemeriksaan Fisik
+
+Pemeriksaan fisik pada anak tidak spesifik tergantung seberapa berat
+manifestasi respirasi dan sistemiknya.
+
+### Pemeriksaan Penunjang
+
+1. Uji Tuberkulin  
+   Uji tuberkulin cara *Mantoux* dilakukan dengan menyuntikkan 0,1 mL PPD RT-23
+   2TU atau PPD S 5TU, secara intrakutan di bagian volar lengan bawah.
+   Pembacaan dilakukan 48-72 jam setelah penyuntikkan. Pengukuran dilakukan
+   terhadap indurasi yang timbul, bukan hiperemi/eritemanya. Indurasi
+   diperiksa dengan cara palpasi untuk menentukan tepi indurasi, ditandai
+   dengan pulpen, kemudian diameter trasnversal indurasi diukur dengan alat
+   pengukur transparan, dan hasilnya dinyatakan dalam milimeter. Jika tidak
+   timbul indurasi sama sekali, maka hasilnya dilaporkan sebagai 0mm, jangan
+   hanya dilaporkan sebagai negatif. Selain ukuran indurasi, perlu dinilai
+   tebal tipisnya indurasi dan perlu dicatat jika ditemukan vesikel hingga
+   bula. Secara umum, hasil uji tuberkulin dengan diameter indurasi $$\geq$$10
+   mm dinyatakan positif tanpa menghiraukan penyebabnya.
+1. Foto Toraks  
+   Gambaran foto toraks pada TB anak tidak khas; kelainan-kelainan radiologis
+   pada TB dapat juga dijumpai pada penyakit lain. Foto toraks tidak cukup
+   hanya dibuat secara antero-posterior (AP), tetapi harus disertai dengan foto
+   lateral, mengingat bahwa pembesaran KGB di daerah hilus biasanya lebih
+   jelas. Secara umum, gambaran radiologis yang sugestif TB adalah sebagai
+   berikut:
+   * Pembesaran kelenjar hilus atau paratrakel dengan/tanpa infiltrat
+   * Konsolidasi segmental/lobar
+   * Milier
+   * Kalsifikasi dengan infiltrat
+   * Atelektasis
+   * Kavitas
+   * Efusi pleura
+   * Tuberkuloma
+1. Mikrobiologis  
+   Pemeriksaan ini sulit dilakukan pada anak karena sulitnya mendapatkan
+   spesimen berupa sputum. Sebagai gantinya, dilakukan pemeriksaan bilas
+   lambung (*gastric lavage*) 3 hari berturut-turut, minimal 2 hari. Hasil
+   pemeriksaan mikroskopik langsung pada anak sebagian besar negatif, sedangkan
+   hasil biakan *M. tuberculosis* memerlukan waktu yang lama yaitu sekitar 6-8
+   minggu. Saat ini ada pemerikskaan biakan yang hasilnya diperoleh lebih cepat
+   (1-3 minggu), yaitu pemeriksaan Bacte, tetapi biayanya mahal dan dan secara
+   teknologi lebih rumit.
+
+## *Assessment*
+
+Pasien TB anak dapat ditemukan melalui dua pendekatan utama, yaitu:
+
+1. Investigasi terhadap anak yang kontak erat dengan pasien TB dewasa aktif dan
+   menular.
+1. Anak yang datang ke pelayanan kesehatan dengan gejala dan tanda klinis yang
+   mengarah ke TB (Gejala klinis TB pada anak tidak khas).
+
+Sistem skoring (*scoring system*) diagnosis TB membantu tenaga kesehatan agar
+tidak terlewat dalam mengumpulkan data klinis maupun pemeriksaan penunjang
+sederhana sehingga diharapkan dapat mengurangi terjadinya *underdiagnosis*
+maupun *overdiagnosis*.
+
+Anak dinyatakan *probable* TB jika skoring mencapai nilai 6 atau lebih. Namun
+demikian, jika anak yang kontak dengan pasien BTA positif dan uji tuberkulinnya
+positif namun tidak didapatkan gejala, maka anak cukup diberikan profilaksis
+INH terutama anak balita.
+
+Catatan:
+
+1. Bila BB kurang, diberikan upaya perbaikan gizi dan dievaluasi selama 1 bulan.
+1. Demam ($$\geq$$2 minggu) dan batuk ($$\geq$$3 minggu) yang tidak membaik
+   setelah diberikan pengobatan sesuai baku terapi di puskesmas.
+1. Gambaran foto toraks mengarah ke TB berupa: pembesaran kelenjar hilus atau
+   paratrakeal dengan/tanpa infiltrat, atelektasis, konsolidasi
+   segmental/lobar, milier, kalsifikasi dengan infiltrat, tuberkuloma.
+1. Semua bayi dengan reaksi cepat (<2 minggu) saat imunisasi BCG harus
+   dievaluasi dengan sistem skoring TB anak.
+
+Pasien usia balita yang mendapat skor 5, dengan gejala klinis yang meragukan,
+maka pasien tersebut dirujuk ke rumah sakit untuk evaluasi lebih lanjut.
+
+![Tabel 1.3 Sistem Skoring TB Anak](skoring-tb-anak.jpg)

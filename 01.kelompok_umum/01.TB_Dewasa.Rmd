@@ -29,7 +29,7 @@ penanggulangan TB, yaitu TB Resisten Obat (*Multi Drug Resistance*/ MDR).
 
 ***
 
-## Hasil Anamnesis (*Subjective*)
+## *Subjective*
 
 Suspek TB adalah seseorang dengan gejala atau tanda TB. Gejala umum TB Paru adalah batuk produktif lebih dari 2 minggu, yang disertai:
 
@@ -39,7 +39,7 @@ Suspek TB adalah seseorang dengan gejala atau tanda TB. Gejala umum TB Paru adal
 
 ***
 
-## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (*Objective*) 
+## *Objective*
 
 ### Pemeriksaan Fisik
 
@@ -65,7 +65,7 @@ melemah di apex paru, tanda-tanda penarikan paru, diafragma, dan mediastinum.
 
 ***
 
-## Penegakkan Diagnosis (*Assessment*)
+## *Assessment*
 
 ### Diagnosis Pasti TB
 
@@ -103,7 +103,7 @@ Standar Diagnosis
 
 ***
 
-## Penatalaksanaan Komprehensif (*Plan*)
+## *Plan*
 
 ### Penatalaksanaan
 
