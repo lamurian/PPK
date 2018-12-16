@@ -1,5 +1,6 @@
 # Summary
 
+* [Struktur Penulisan](README.md)
 * [Kelompok Umum](01.kelompok_umum/README.md)
 	* [TB Dewasa](01.kelompok_umum/01.TB_Dewasa.Rmd)
 	* [TB Anak](01.kelompok_umum/02.TB_Anak.Rmd)

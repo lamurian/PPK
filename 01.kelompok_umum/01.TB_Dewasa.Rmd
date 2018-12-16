@@ -105,4 +105,120 @@ Standar Diagnosis
 
 ## Penatalaksanaan Komprehensif (*Plan*)
 
+### Penatalaksanaan
+
+Tujuan pengobatan:
+
+1. Menyembuhkan, mengembalikan kualitas hidup dan produktivitas pasien.
+1. Mencegah kematian akibat TB aktif atau efek lanjutan.
+1. Mencegah kekambuhan TB.
+1. Mengurangi penularan TB kepada orang lain.
+1. Mencegah terjadinya resistensi obat dan penularannya.
+
+### Prinsip-prinsip terapi:
+
+1. Obat Anti Tuberkulosis (OAT) harus diberikan dalam bentuk kombinasi dari
+   beberapa jenis obat, dalam jumlah cukup dan dosis tepat sesuai dengan
+   kategri pengoabtan. Hindari penggunaan monoterapi.
+1. Pemakaian OAT-Kombinasi Dosis Tepat (KDT) / *Fixed Dose Combination* (FDC)
+   akan lebih menguntungkan dan dianjurkan
+1. Obat ditelan sekaligus (*single dose*) dalam keadaan perut kosong.
+1. Setiap praktisi yang mengobati pasien tuberkulosis mengembang tanggung jawab
+   kesehatan masyarakat.
+1. Semua pasien (termasuk mereka yang terinfeksi HIV) yang belum pernah diobati
+   harus diberi paduan obat lini pertama.
+1. Untuk menjamin kepatuhan pasien berobat hingga selesai, diperlukan suatu
+   pendekatan yang berpihak kepada pasien (*patient centered approach*) dan
+   dilakukan dengan pengawasan langsung (DOT = *directly observed treatment*)
+   oleh seorang pengawas menelan obat.
+1. Semua pasien harus dimonitor respons pengobatannya. Indikator penilaian
+   terbaik adalah pemeriksaan dahak berkala yaitu pada akhir tahap awal, ulan
+   ke-5 dana akhir pengobatan.
+1. Rekaman tertulis tentang pengobatan, respons bakteriologis dan efek samping
+   harus tercatat dan tersimpan. 
+
+| Berat |                | Fase Intensif |             | Fase Lanjutan |           |
+| Badan | Harian         | Harian        | 3x/minggu   | Harian        | 3x/minggu |
+|       | (R/H/Z/E)      | (R/H/Z)       | (R/H/Z)     | (R/H)         | (R/H)     |
+|       | 150/75/400/275 | 150/75/40     | 150/150/500 | 150/75        | 150/150   |
+|:-----:|:--------------:|:-------------:|:-----------:|:-------------:|:---------:|
+| 30-37 | 2              | 2             | 2           | 2             | 2         |
+| 38-54 | 3              | 3             | 3           | 3             | 3         |
+| 55-70 | 4              | 4             | 4           | 4             | 4         |
+| >71   | 5              | 5             | 5           | 5             | 5         |
+
+[**Tabel 1.1 Dosis obat antituberkulosis KDT/FDC**]
+
+| Rekomendasi dosis dalam mg/kgBB |                          |                             |
+| Obat                            | Harian                   | 3x seminggu                 |
+|---------------------------------|--------------------------|-----------------------------|
+| INH                             | 5(4-6) max 300 mg/hr     | 10(8-12) max 900 mg/dosis   |
+| RIF                             | 10(8-12) max 600 mg/hr   | 10(8-12) max 600 mg/dosis   |
+| PZA                             | 25(20-30) max 1600 mg/hr | 35(30-40) max 2500 mg/dosis |
+| EMB                             | 15(15-20) max 1600 mg/hr | 30(25-35) max 2400 mg/dosis |
+
+[**Tabel 1.2 Dosis obat TB berdasarkan berat badan (BB)**]
+
+#### Tahapan pengobatan
+
+Pengobatan TB diberikan dalam 2 tahap, yaitu tahap awal dan lanjutan
+
+1. Tahap awal menggunakana paduan obat rifampisin, isoniazid, pirazinamid dan etambutol.
+   * Pada tahap awal pasien mendapat tatalaksana yang terdiri dari 4 jenis obat
+     (rifampisin, isoniazid, pirazinamid, dan etambutol), diminum setiap hari
+     dan diawasi secara langsung untuk menjamin kepatuhan minum obat dan
+     mencegah terjadinya kekebalan obat.
+   * Bila pengobatan tahap awal diberikan secara adekuat daya penularan menurun
+     dalam kurun waktu 2 minggu.
+   * Pasien TB paru BTA psitif sebagain besar menjadi BTA negatif (konversi)
+     setelah menyelesaikan pengobatan tahap awal. Setelah terjadi konversi
+     pengobatan dilanjutkan dengan tahap lanjut
+1. Tahap lanjutan menggunakan paduan obat rifampisin dan isoniazid.
+   * Pada tahap lanjutan pasien mendapat 2 jenis obat (rifampisin dan
+     isoniazid), namun dalam jangka waktu yang lebih lama (minimal 4 bulan). 
+   * Obat dapat diminum secara intermitten yaitu 3x/minggu (obat program) atau
+     tiap hari (obat non program)
+   * Tahap lanjutan penting untuk membunuh kuman persisten sehingga mencegah
+     terjadinya kekambuhan.
+
+#### OAT lini pertama
+
+Panduan OAT lini pertama yang digunakan oleh Program Nasional Pengendalian
+Tuberkulosis di Indonesia adalah sebagai berikut:
+
+1. Kategori 1: 2HRZE/4H3R3.  
+   Artinya pengobatan tahap awal selama 2 bulan diberikan tiap hari dan tahap
+   lanjutn selama 4 bulan diberikan 3 kali dalam semingu. Jadi lama pengobatan
+   seluruhnya 6 bulan.
+1. Kategori 2: @HRZES/HRZE/5H3R3E3  
+   Diberikan pada TB paru pengobatan ulang (TB kambuh, gagal pengobatan, putus
+   berobat/*default*). Pada kategori 2, tahap awal pengobatan selama 3 bulan
+   terdiri dari 2 bulan RHZE ditambah suntikan streptomisin, dan 1 bulan HRZE.
+   Pengobatan tahap awal diberikan seiap hari. Tahap lanjutan diberikan HRE
+   selama 5 bulan, 3 kali seminggu, Jadi lalma pengobatan 8 bulan.
+1. OAT sisipan: HRZE  
+   Apabila pemeriksaan dahak masih positif (belum konversi) pada akhir
+   pengobatan tahap awal kategori 1 maupun kategori 2, maka diberikan
+   pengobatan sisipan selama 1 bulan dengan HRZE.
+
+#### Konseling dan Edukasi
+
+1. Memberikan informasi kepada pasien dan keluarga tentang penyakit tuberkulosis.
+1. Pengawasan ketaatan minum obat dan kontrol secara teratur.
+1. Pola hidup sehat dan sanitasi lingkungan.
+
+#### Kriteria Rujukan
+
+1. Pasien dengan sputum BTA (-), klinis (+) tapi tidak menunjukkan perbaikan
+   setelah pengobatan dalam jangka waktu tertentu.
+1. Pasien dengan spsutum BTA (-), klinis (-/ meragukan).
+1. Psien dengan sputum BTA tetap (+) setelah jangka waktu tertentu.
+1. TB dengan komplikasi/keadaan khusus (TB dengan komorbid)
+1. Suspek TB-MDR harus dirujuk ke pusat rujukan TB-MDR.
+
+### Peralatan
+
+1. Laboratorium untuk pemeriksan sputum, darah rutin.
+1. Radiologi.
+1. Uji *Gen Xpert-Rif* Mtb jika fasilitas tersedia.
 
