@@ -80,7 +80,7 @@ HIV dan pada pasien TB dengan riwayat risiko terpajan HIV.
 
 |                             | Infeksi dini                     | Infeksi lanjut                         |
 |-----------------------------|----------------------------------|----------------------------------------|
-|                             | **(CD4 > 200/mm{% sup %}3{% endsup %})**            | **(CD4 < 200/mm^3^)**                    |
+|                             | **(CD4 > 200/mm$$^{3}$$)**            | **(CD4 < 200/mm$$^{3}$$)**                    |
 | Dahak mikroskopis           | Sering positif                   | Sering negatif                         |
 | TB ekstraparu               | Jarang                           | Umum/banyak                            |
 | Mikobakterimia              | Tidak ada                        | Ada                                    |
