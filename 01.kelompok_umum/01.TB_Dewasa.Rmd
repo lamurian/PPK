@@ -137,7 +137,7 @@ Tujuan pengobatan:
 1. Rekaman tertulis tentang pengobatan, respons bakteriologis dan efek samping
    harus tercatat dan tersimpan. 
 
-**Tabel 1.1 Dosis obat antituberkulosis KDT/FDC**
+##### Tabel 1.1 Dosis obat antituberkulosis KDT/FDC
 
 | Berat |                | Fase Intensif |             | Fase Lanjutan |           |
 |-------|----------------|---------------|-------------|---------------|-----------|
@@ -149,7 +149,7 @@ Tujuan pengobatan:
 | 55-70 | 4              | 4             | 4           | 4             | 4         |
 | >71   | 5              | 5             | 5           | 5             | 5         |
 
-**Tabel 1.2 Dosis obat TB berdasarkan berat badan (BB)**
+##### Tabel 1.2 Dosis obat TB berdasarkan berat badan (BB)
 
 |      | Rekomendasi dosis dalam mg/kgBB |                             |
 |------|---------------------------------|-----------------------------|
