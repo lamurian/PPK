@@ -16,9 +16,9 @@ output:
 csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
-ICPC-2		: A71 *Measles*
-ICD-10		: B05.9 *Measles without complication (Measles NOS)*
-**Kompetensi 	: 4A**
+ICPC-2		: A71 *Measles*  
+ICD-10		: B05.9 *Measles without complication (Measles NOS)*  
+**Kompetensi 	: 4A**  
 
 ## Masalah Kesehatan
 
