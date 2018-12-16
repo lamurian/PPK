@@ -1,0 +1,144 @@
+---
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+ICPC-2		: A71 *Measles*
+ICD-10		: B05.9 *Measles without complication (Measles NOS)*
+**Kompetensi 	: 4A**
+
+## Masalah Kesehatan
+
+Morbili adalah suatu penyakit yang disebabkan oleh virus measles. Nama lain
+dari penyakit ini adalah rubeola atau campak. Morbili merupakan penyakit yang
+sangat infeksius dan menular lewat udara melalui aktivitas bernafas, batuk,
+atau bersin. Pada bayi dan balita, morbili dapat menimbulkan komplikasi yang
+fatal, seperti pneumonia dan ensefalitis.
+
+Salah satu strategi menekan mortalitas dan morbiditas penyakit morbili adalah
+dengan vaksinasi. Namun, berdasarkan data Survei Demografi dan Kesehatan
+Indonesia tahun 2007, ternyata cakupan imunisasi campak pada anak-anak usia di
+bawah 6 tahun di Indonesia masih relatif lebih rendah (72,8%) dibandingkan
+negara-negara lain di Asia Tenggara yang sudah mencapai 84%. Pada tahun 2010,
+Indonesia merupakan negara dengan tingkat insiden tertinggi ketiga di Asia
+Tenggara. WHO melaporkan sebanyak 6.300 kasus terkonfirmasi morbili di
+Indonesia sepanjang tahun 2013. Dengan demikian, hingga kini, morbili masih
+menjadi masalah kesehatan yang krusial di Indonesia. Peran dokter di pelayanan
+kesehatan primer sangat penting dalam mencegah, mendiagnosis, menatalaksana,
+dan menekan mortalitas morbili.
+
+## *Subjective*
+
+1. Gejala prodromal berupa demam, malaise, gejala respirasi atas (pilek,
+   batuk), dan konjungtivitis.
+1. Pada demam hari keempat, biasanya muncul lesi makula dan papula eritem, yang
+   dimulai pada kepala daerah perbatasan dahi rambut, di belakang telinga, dan
+   menyebar secara sentrifugal ke bawah hingga muka, badan, ekstremitas, dan
+   mencapai kaki pada ari ketiga.
+1. Masa inkubasi 10-15 hari.
+1. Belum mendapat imunisasi campak.
+
+## *Objective*
+
+### Pemeriksaan fisik
+
+1. Demam, konjungtivitis, limfadenopati general.
+1. Pada orofaring ditemukan koplik spot sebelum munculnya eksantem.
+1. Gejala eksantem berupa lesi makula dan papula eritem, dimulai dari kepala
+   pada daerah perbatasan dahi rambut, di belakang telinga, lalu menyebar
+   secara sentrifugal ke muka, badan, serta ekstremitas.
+1. Pada hari ketiga, lesi ini perlahan-lahan menghilang dengan urutan sesuai
+   urutan muncul, dengan warna sisa cokelat kekuningan atau deskuamasi ringan.
+   Eksantem hilang dalam 4-6 hari.
+
+![Gambar 4.1 Eksantema pada morbili](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/a_morbili01.png?raw=true)
+
+### Pemeriksaan penunjang
+
+Pada umumnya tidak diperlukan. Pada pemeriksaan sitologi dapat ditemukan sel
+datia berinti banyak pada sekret. Pada kasus tertentu, mungkin diperlukan
+pemeriksaan serologi IgM anti-Rubella untuk mengkonfirmasi diagnosis.
+
+## *Assessment*
+
+Diagnosis umumnya dapat ditegakkan dengan anamnesis dan peemriksaan fisik.
+
+### Diagnosis banding
+
+1. Erupsi obat
+1. Eksantem virus yang lain (rubella, eksantem subitum)
+1. *Scarlet fever*
+1. Mononukleosis infeksiosa
+1. Infeksi *Mycoplasma pneumoniae*
+
+### Komplikasi
+
+Komplikasi lebih umum terjadi pada anak dengan gizi buruk, anak yang belum
+mendapat imunisasi, dan anak dengan imunodefisiensi dan leukemia. Komplikasi
+berupa otitis media, pneumonia, ensefalitis, trombositopenia. Pada anak HIV
+yang tidak diimunisasi, pneumonia yang fatal dapat terjadi tanpa munculnya lesi
+kulit.
+
+## *Plan*
+
+### Penatalaksanaan
+
+1. Terapi suportif diberikan dengan menjaga cairan tubuh dan mengganti cairan
+   yang hilang dari diare dan emesis.
+1. Obat diberikan untuk gejala simptomatis (misal: antipiretik untuk meredakan
+   demam). Jika terjadi infeksi bakteri sekunder, diberikan antibiotik.
+1. Suplementasi vitamin A diberikan pada:
+   * Usia < 6 bulan: 50.000 IU/hari PO 2 dosis.
+   * Usia 6-11 bulan: 100.000 IU/hari PO 2 dosis.
+   * Usia >12 bulan: 200.000 IU/hari PO 2 dosis.
+   * Anak dengan tanda defisiensi vitamin A: 2 dosis sesuai usia + dosis ketiga
+     2-4 minggu kemudian
+
+### Konseling dan edukasi
+
+Edukasi keluarga dan pasien bahwa morbili merupakan penyakit yang menular.
+Namun demikian, pada sebagian besar pasien infesi dapat sembuh sendiri,
+sehingga pengobatan bersifat suportif. Edukasi pentingnya memerhatikan cairan
+yang hilang dari diare/emesis.
+
+Untuk anggota keluarga/kontak yang rentan, dapat diberikan vaksin campak atau
+*human immunoglobulin* sebagai pencegahan. Vaksin efektif bila diberikan dalam
+3 hari terpapar dengan penderita. *Immunoglobulin* dapat diberikan pada
+individu dengan gangguan imun, bayi usia 6-12 bulan, bayi usia < 6 bulan yang
+terlahir dari ibu tanpa imunitas campak, dan wanita hamil.
+
+### Kriteria rujukan
+
+Perawatan di rumah sakit untuk campak dengan komplikasi (superinfeksi bakteri,
+pneumonia, dehidrasi, *croup*, ensefalitis) 
+
+### Peralatan
+
+Tidak diperlukan peralatan khusus untuk menegakkan diagnosis morbili.
+
+## Prognosis
+
+Prognosis pada umumnya baik karena penyakit ini termasuk *self-limiting disease*.
+
+## Referensi
+
+1. Djuanda, A. Hamzah, M. Aisah, S. *Buku Ajar Ilmu Penyakit Kulit dan Kelamin,
+   5^th^ Ed.* Balai Ppenerbit FKUI. Jakarta. 2007. (Djuanda, et al., 2007)
+1. James, W.D. Berger, T.G. Elston, D.M. *Andrew's Diseases of the Skin:
+   Clinical Dermatology. 10^th^ Ed*. Saunders Elsevier. Canada. 2000. (James,
+   et al., 2000)
+1. Perhimpunan Dokter Spesialis Kulit dan Kelamin. *Pedoman Pelayanan Medik*. 2011
+   (Perhimpunan Dokter Spesialis Kulit dan Kelamin, 2011) 

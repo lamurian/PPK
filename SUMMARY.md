@@ -4,6 +4,8 @@
 * [Kelompok Umum](01.kelompok_umum/README.md)
 	* [TB Dewasa](01.kelompok_umum/01.TB_Dewasa.Rmd)
 	* [TB Anak](01.kelompok_umum/02.TB_Anak.Rmd)
+	* [TB HIV](01.kelompok_umum/03.TB_HIV.Rmd)
+	* [Morbili](01.kelompok_umum/04.Morbili.Rmd)
 * [Darah dan Imun](02.darah/README.md)
 * [Digestif](03.digestif/README.md)
 * [Mata](04.mata/README.md)

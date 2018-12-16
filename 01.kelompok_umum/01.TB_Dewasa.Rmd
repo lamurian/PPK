@@ -11,8 +11,8 @@ output:
 
 # Tuberkulosis Paru Dewasa
 
-No ICPC-2	: A70 *Tuberkulosis*  
-No ICD-10	: A15 *Respiratory tuberkulosis, bacteriologically and
+ICPC-2		: A70 *Tuberkulosis*  
+ICD-10		: A15 *Respiratory tuberkulosis, bacteriologically and
 histologically confirmed*  
 **Kompetensi	: 4A**
 
@@ -41,7 +41,7 @@ Suspek TB adalah seseorang dengan gejala atau tanda TB. Gejala umum TB Paru adal
 
 ## *Objective*
 
-### Pemeriksaan Fisik
+### Pemeriksaan fisik
 
 Kelainan pada TB Paru tergantung luas kelainan struktur paru. Pada awal
 permulaan perkembangan penyakit umumnya sulit sekali menemukan kelainan. Pada
@@ -50,7 +50,7 @@ melemah di apex paru, tanda-tanda penarikan paru, diafragma, dan mediastinum.
 
 ***
 
-### Pemeriksaan Penunjang
+### Pemeriksaan penunjang
 
 1. Darah: limfositosis/ monositosis, LED meningkat, Hb turun.
 2. Pemeriksaan mikroskopis kuman TB (Bakteri Tahan Asam/BTA) atau kultur kuman
@@ -67,12 +67,12 @@ melemah di apex paru, tanda-tanda penarikan paru, diafragma, dan mediastinum.
 
 ## *Assessment*
 
-### Diagnosis Pasti TB
+### Diagnosis pasti TB
 
 Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik dan pemeriksaan
 penunjang (sputum untuk dewasa, tes tuberkulin pada anak).
 
-### Kriteria Diagnosis
+### Kriteria diagnosis
 
 Berdasarkan *International Standards for Tuberculosis Care* (ISTC 2014)
 

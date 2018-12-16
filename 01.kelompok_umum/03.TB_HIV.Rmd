@@ -1,0 +1,164 @@
+---
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+**TB:**
+ICPC-2		: A70 *Tuberculosis*
+ICD-10		: A15 *Respiratory tuberculosis, bacteriologically and
+histologically confirmed
+
+**HIV:**
+ICPC-2		: B90 *HIV-infection/AIDS*
+ICD=10		: Z21 *Asymptomatic human immunodeficiency virus (HIV) infection status*
+**Kompetensi 	: 3A**
+
+## Masalah Kesehatan
+
+TB meningkatkan progresivitas HIV karena penderita TB dan HIV sering mempunyai
+kadar jumlah virus HIV yang tinggi. Pada keadaan koinfeksi terjadi penurunan
+imunitas lebih cepat dan pertahanan hidup lebih singkat walaupun pengobatan TB
+berhasil. Penderita TB/HIV mempunyai kemungkinan hidup lebih singkat
+dibandingkan penderita HIV yang tidak pernah kena TB. Obat antivirus HIV (ART)
+menurunkan tingkat kematian pada pasien TB/HIV.
+
+## *Subjective*
+
+BAtuk tidak merupakan gejala utama pada pasien TB dengan HIV. Pasien
+diindikasikan untuk pemeriksaan HIV jika:
+
+1. BB turun drastis
+1. Sariawan/stomatitis berulang
+1. Sarkoma kaposi
+1. Riwayat perilaku risiko tinggi:
+   * Pengguna NAPZA suntik
+   * Homoseksual
+   * Waria
+   * Pekerja seks
+   * Pramuria panti pijat
+
+## *Objective*
+
+### Pemeriksaan fisik
+
+Kelainan pada TB Paru tergantung luas kelainan struktur paru. Pada awal
+permulaan perkembangan penyakit umumnya sulit sekali menemukan kelainan.
+
+### Pemeriksaan penunjang
+
+1. Pemeriksaan darah lengkap dapat dijumpai limfositosis/ monositosis, LED
+   meningkat, Hb turun.
+1. Pemeriksaan mikroskopis kuman TB (Bakteri Tahan Asam/ BTA) atau kultur kuman
+   dari spesimen sputum/ dahak sewaktu-pagi-sewaktu.
+1. Untuk TB non paru, spesimen dapat diambil dari bilas lambung, cairan
+   serebrospinal, cairan pleura ataupun biopsi jaringan.
+1. Radiologi dengan foto toraks PA-Lateral/ top lordotik.
+1. Pemeriksaan kadar CD4.
+1. Uji anti-HIV.
+
+## *Assessment*
+
+Pada daerah dengan angka prevalensi HIV yang tinggi pada populasi dengan
+kemungkinan koinfeksi TB-HIV maka konseling dan pemeriksaan HIV diindikasikan
+untuk seluruh pasien TB sebagai bagian dari penatalaksanaan rutin. Pada daerah
+dengan prevalensi HIV yang rendah, konseling dan pemeriksaan HIV diindikasi
+pada pasien TB dengan keluhan dan tanda-tanda yang diduga berhubungan dengan
+HIV dan pada pasien TB dengan riwayat risiko terpajan HIV.
+
+|                             | Infeksi dini                     | Infeksi lanjut                         |
+|-----------------------------|----------------------------------|----------------------------------------|
+|                             | **(CD4 > 200/mm^3^)**            | **(CD4 < 200/mm^3^)**                    |
+| Dahak mikroskopis           | Sering positif                   | Sering negatif                         |
+| TB ekstraparu               | Jarang                           | Umum/banyak                            |
+| Mikobakterimia              | Tidak ada                        | Ada                                    |
+| Tuberkulin                  | Positif                          | Negatif                                |
+| Foto toraks                 | Reaktivasi TB, kavitas di puncak | Topikal primer TB milier/ interstisial |
+| Adenopati hilus/mediastinum | Tidak ada                        | Ada                                    |
+| Efusi pleura                | Tidak ada                        | Ada                                    |
+
+**Tabel 3.1 Gambaran TB-HIV**
+
+### Diagnosis banding
+
+1. Kriptokokis
+1. Pneumocystic carinii pneumonia (PCP)
+1. Aspergillosis
+
+### Komplikasi
+
+1. Limfadenopati
+1. Efusi pleura
+1. Penyakit perikardial
+1. TB milier
+1. Meningitis TB
+
+## *Plan*
+
+### Penatalaksanaan
+
+1. Pada dasarnya pengobatannya sama dengan pengobatan TB tanpa HIV/AIDS.
+1. Prinsip pengobatan adalah menggunakan kombinasi beberapa jenis obat dalam
+   jumlah cukup dan dosis serta jangka waktu yang tepat.
+1. Pasien dengan koinfeksi TB-HIV, segera diberikan OAT dan pemberian ARV dalam
+   8 minggu pemberian OAT tanpa mempertimbangkan kadar CD4.
+1. Perlu diperhatikan, pemberian secara bersamaan membuat pasien menelan obat
+   dalam jumlah yang banyak sehingga dapat terjadi ketidakpatuhan, komplikasi,
+   efek samping, interaksi oabt dan *Immune Reoconstitution Inflammatory
+   Syndrome* (IRIS).
+1. Setiap penderita TB-HIV harus diberikan profilaksis kotrimoksasol dengan
+   dosis 960 mg/hari (dosis tunggal) selama pemberian OAT.
+1. Pemberian tiasetazon pada pasien HIV/AIDS sangat berbahaya karena akan
+   menyebabkan efek toksik berat pada kulit.
+1. Injeksi streptomisin hanya boleh diberikan jika tersedia alat susntik sekali
+   pakai yang steril.
+1. Desensitisasi obat (INH/Rifampisin) tidak boleh dilakukan karena
+   mengakibatkan efek toksik yang serius pada hati.
+1. Pada pasien TB dengan HIV/AIDS yang tidak memberi respons terhadap
+   pengobatan, perlu dipikirkan terdapatnya malabsorbsi obat. Pada pasien
+   HIV/AIDS terdapat korelasi antara imunosupresi yang beraat dengan derajat
+   penyerapan, karenanya dosis standar yang diterima suboptimal ehingga
+   konsentrasi obat rendah dalam serum.
+
+### Konseling dan edukasi
+
+Konseling dilakukan pada pasien yang dicurigai HIV dengan merujuk pasien ke pelayanan VCT.
+
+### Kriteria rujukan
+
+1. Pasien dengan sputum BTA (-), klinis (+) tapi tidak menunjnukkan perbaikan
+   setelah pengobatan dalam jangka waktu tertentu.
+1. Pasien dengan sputum BTA (-), klinis (-/ meragukan).
+1. Pasien dengan sputum BTA tetap (+) setelah jangka waktu tertentu.
+1. TB dengan komplikasi/keadaan khusus (TB dengan komorbid).
+1. Suspek TB-MDR harus dirujuk ke pusat rujukan TB-MDR.
+
+### Peralatan
+
+1. Laboratorium untuk pemeriksaan, darah rutin
+1. *Mantoux test*
+1. Radiologi
+
+## Prognosis
+
+Prognosis pada umumnya baik apabila pasien melakukan terapi sesuai dengan
+ketentuan pengobatan. Untuk TB dengan komorbid, prognosis menjadi kurang baik.
+
+## Referensi
+
+1. Perhimpunan Dokter Paru Indonesia. Tuberkulosis. PDPI. Jakarta. 2011.
+1. Panduan tata laksana tuberkulosis ISTC dengan strategi DOTS untuk Praktek
+   Dokter Swasta (DPS), oleh Kementerian Kesehatan Republik Indonesia dan
+   Ikatan Dokter Indonesia. Jakarta. 2012.
