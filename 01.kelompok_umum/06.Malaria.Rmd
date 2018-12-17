@@ -16,13 +16,8 @@ output:
 csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
-<<<<<<< HEAD
 No. ICPC-2	: A73 *Malaria*  
 No. ICD-10	: B54 *Unspecified malaria*  
-=======
-No. ICPC-2	: A73 *Malaria*
-No. ICD-10	: B54 *Unspecified malaria*
->>>>>>> 3061a447516c5db36517d78d98f3954ccbec63ba
 **Kompetensi	: 4A**
 
 ## Masalah Kesehatan
