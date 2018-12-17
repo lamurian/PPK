@@ -16,8 +16,13 @@ output:
 csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
+<<<<<<< HEAD
 No. ICPC-2	: A78 *Infection disease other/ NOS*  
 No. ICD-10	: A27.9 *Leptospirosis, unspecified*  
+=======
+No. ICPC-2	: A78 *Infection disease other/ NOS*
+No. ICD-10	: A27.9 *Leptospirosis, unspecified*
+>>>>>>> 3061a447516c5db36517d78d98f3954ccbec63ba
 **Kompetensi	: 4A**
 
 ## Masalah Kesehatan
