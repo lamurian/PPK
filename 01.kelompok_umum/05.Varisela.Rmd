@@ -53,7 +53,7 @@ berlangsung, timbul lagi vesikel-vesikel baru yang menimbulkan gambaran
 polimorfik khas untuk varisela. Penyebaran terjadi secara sentrifugal, serta
 dapat menyerang selaput lendir mata, mulut, dan saluran napas atas.
 
-![Gambar 1.2 Varisela]{https://github.com/lamurian/lamurian.github.io/blob/master/_fig/a_varisela01.png?raw=true}
+![Gambar 5.1 Varisela](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/a_varisela01.png?raw=true)
 
 ### Pemeriksaan penunjang
 
