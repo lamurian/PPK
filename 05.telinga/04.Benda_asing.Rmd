@@ -1,0 +1,132 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+Benda Asing di Telinga
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: H76. Foreign body in ear
+: T16. Foreign body in ear
+: 3A
+
+Masalah Kesehatan
+Meatus akustikus eksternus (MAE) merupakan salah satu bagian tubuh yang
+sering dimasuki benda asing, yang dapat berupa:
+1. Benda asing reaktif, misal: batere, potongan besi. Benda asing reaktif
+berbahaya karena dapat bereaksi dengan epitel MAE dan menyebabkan
+edema serta obstruksi hingga menimbulkan infeksi sekunder. Ekstraksi
+harus segera dilakukan.
+2. Benda asing non-reaktif (inert). Benda asing ini tidak bereaksi dengan
+epitel dan tetap ada di dalam MAE tanpa menimbulkan gejala hingga
+terjadi infeksi.
+3. Benda asing serangga, yang dapat menyebabkan iritasi dan nyeri akibat
+pergerakannya.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Riwayat jelas benda asing masuk ke telinga secara sengaja maupun tidak
+2. Telinga terasa tersumbat atau penuh
+3. Telinga berdengung
+4. Nyeri pada telinga
+
+216
+
+5. Keluar cairan telinga yang dapat berbau
+6. Gangguan pendengaran
+Faktor Risiko
+1. Anak-anak
+2. Retardasi mental
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Pemeriksaan MAE dengan senter / lampu kepala / otoskop menunjukkan
+adanya benda asing, edema dan hiperemia liang telinga luar, serta dapat
+disertai sekret.
+Penegakan Diagnosis (Assessment)
+Diagnosis Klinis
+Diagnosis klinis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik.
+Komplikasi
+Ruptur membran timpani, perdarahan liang telinga, otitis eksterna, tuli
+konduktif
+Penatalaksanaan Komprehensif (Plan)
+1. Non-medikamentosa: Ekstraksi benda asing
+a. Pada kasus benda asing yang baru, ekstraksi dilakukan dalam
+anestesi lokal.
+b. Pada kasus benda asing reaktif, pemberian cairan dihindari karena
+dapat mengakibatkan korosi.
+c. Pada kasus benda asing berupa serangga:
+ Dilakukan penetesan alkohol, obat anestesi lokal (Lidokain spray
+atau tetes), atau minyak mineral selama ± 10 menit untuk
+membuat serangga tidak bergerak dan melubrikasi dinding MAE.
+ Setelah serangga mati, serangga dipegang dan dikeluarkan
+dengan forceps aligator atau irigasi menggunakan air sesuai suhu
+tubuh.
+2. Medikamentosa
+a. Tetes telinga antibiotik hanya diberikan bila telah dipastikan tidak ada
+ruptur membran timpani.
+b. Analgetik untuk mengurangi rasa nyeri
+Konseling dan Edukasi
+Orang tua disarankan untuk menjaga lingkungan anak dari benda-benda yang
+berpotensi dimasukkan ke telinga atau hidung.
+Kriteria Rujukan
+Bila benda asing tidak berhasil dikeluarkan.
+
+217
+
+Peralatan
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Lampu kepala
+Otoskop
+Pengait serumen
+Aplikator kapas
+Forceps aligator
+Spuit 20 cc yang telah disambung dengan selang wing needle
+Suction
+
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Referensi
+1. Bernius M, Perlin D. Pediatric Ear, Nose, Throat Emergencies. Pediatric
+Clinics of North America 53 (2006) 195-214. (Bernius & Perlin, 2006)
+2. Heim SW, Maughan KL. Foreign Bodies in The Ear, Nose and Throat.
+American Family Physician. 2007 Oct 15:76(8):1185-1189. (Heim &
+Maughan, 2007)
+3. Davies PH, Benger JR. Foreign bodies in the nose and ear: a review of
+technique for removal in the emergency department. Emergency Medicine
+Journal.2000;17:91-94. (Davies & Benger, 2000)
+4. Sosialisman, Hafil AF, Helmi. Kelainan Telinga Luar. Buku Ajar Ilmu
+Kesehatan THT KL. FKUI. Jakarta.

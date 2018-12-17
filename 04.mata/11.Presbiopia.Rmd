@@ -1,0 +1,121 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+11. Presbiopia
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: F91 Refractive error
+: H52.4 Presbyopia
+: 4A
+
+Masalah Kesehatan
+Presbiopia adalah suatu kondisi yang berhubungan dengan usia dimana
+penglihatan kabur ketika melihat objek berjarak dekat. Presbiopia merupakan
+proses degeneratif mata yang pada umumnya dimulai sekitar usia 40 tahun.
+Kelainan ini terjadi karena lensa mata mengalami kehilangan elastisitas dan
+kemampuan untuk berubah bentuk.
+
+182
+
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Penglihatan kabur ketika melihat dekat.
+2. Gejala lainnya, setelah membaca mata terasa lelah, berair, dan sering
+terasa perih.
+3. Membaca dilakukan dengan menjauhkan kertas yang dibaca.
+4. Terdapat gangguan pekerjaan terutama pada malam hari dan perlu sinar
+lebih terang untuk membaca.
+Faktor Risiko
+Usia lanjut umumnya lebih dari 40 tahun.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Pemeriksaan refraksi untuk penglihatan jarak jauh dengan menggunakan
+Snellen Chart dilakukan terlebih dahulu.
+2. Dilakukan refraksi penglihatan jarak dekat dengan menggunakan kartu
+Jaeger. Lensa sferis positif (disesuaikan usia - lihat Tabel 1) ditambahkan
+pada lensa koreksi penglihatan jauh, lalu pasien diminta untuk
+menyebutkan kalimat hingga kalimat terkecil yang terbaca pada kartu.
+Target koreksi sebesar 20/30.
+Pemeriksaan Penunjang
+Tidak diperlukan
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Penegakan diagnosis berdasarkan anamnesis dan pemeriksaan fisik.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Koreksi kacamata lensa positif
+Tabel 4.1 Koreksi lensa positif disesuaikan usia
+USIA
+KOREKSI LENSA
+40 tahun
++ 1,0D
+45 tahun
++ 1,5 D
+50 tahun
++2,0 D
+55 tahun
++2,5 D
+60 tahun
++3,0 D
+Pemeriksaan Penunjang Lanjutan
+Tidak diperlukan
+
+183
+
+Konseling & Edukasi
+1. Memberitahu pasien dan keluarga bahwa presbiopia merupakan kondisi
+degeneratif yang dialami hampir semua orang dan dapat dikoreksi dengan
+kacamata.
+2. Pasien perlu kontrol setiap tahun, untuk memeriksa apakah terdapat
+perubahan ukuran lensa koreksi.
+Peralatan
+1. Kartu Jaeger
+2. Snellen Chart
+3. Satu set lensa coba dan trial frame
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Referensi
+1. Gerhard, K.L. Oscar, Gabriele. Doris, Peter. Ophtalmology a short
+nd
+textbook. 2 Ed. New York. Thieme Stuttgart. 2007. (Gerhard, et al.,
+2007)
+2. Gondhowiardjo, T.D. Simanjuntak, G. Panduan Manajemen Klinis
+th
+Perdami, 1 Ed. Jakarta: CV Ondo. 2006. (Gondhowiardjo & Simanjuntak,
+2006)
+3. James, Brus.dkk. Lecture Notes Oftalmologi. Erlangga. Jakarta. 2005.
+4. Riordan. Paul, E. Whitcher, John P. Vaughan & Asbury Oftalmologi Umum.
+Ed 17. Jakarta: EGC. 2009.
+5. Sidarta, I. Ilmu Penyakit Mata. Edisi III. Cetakan V. Jakarta: Balai Penerbit
+FK UI. 2008.
+6. Vaughan, D.G. Oftalmologi Umum. Ed 14. Cetakan I. Jakarta: Widya
+Medika. 2000.

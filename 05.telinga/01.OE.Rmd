@@ -1,0 +1,148 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+Otitis Eksterna
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: H70.Otitis externa
+: H60.9.Otitis externa, unspecified
+: 4A
+
+Masalah Kesehatan
+Otitis eksterna adalah radang pada liang telinga luar. Penyakit ini banyak
+ditemukan di layanan kesehatan primer sehingga dokter di pelayanan
+kesehatan primer harus memiliki kemampuan mendiagnosis dan
+menatalaksana secara komprehensif.
+Klasifikasi otitis eksterna (OE):
+1. OE akut
+a. OE akut difus
+b. OE akut sirkumskripta, yaitu infeksi folikel rambut yang menimbulkan
+furunkel di liang telinga luar.
+2. OE kronik
+3. OE ekzematoid, yang merupakan manifestasi dari kelainan dermatologis,
+seperti dermatitis atopik, psoriasis, atau SLE.
+4. OE nekrotikans
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Rasa sakit pada telinga (otalgia), yang bervariasi dari ringan hingga hebat,
+terutama saat daun telinga disentuh dan mengunyah
+2. Rasa penuh pada telinga
+3. Pendengaran dapat berkurang
+4. Terdengar suara mendengung (tinnitus)
+5. Keluhan biasanya dialami pada satu telinga dan sangat jarang mengenai
+kedua telinga dalam waktu bersamaan
+6. Keluhan penyerta lain yang dapat timbul: demam atau meriang, telinga
+terasa basah
+Faktor Risiko
+1. Riwayat sering beraktifitas di air, misalnya: berenang, berselancar,
+mendayung.
+2. Riwayat trauma yang mendahului keluhan, misalnya: membersihkan liang
+telinga dengan alat tertentu, memasukkan cotton bud, memasukkan air ke
+dalam telinga.
+3. Riwayat penyakit sistemik, seperti: diabetes mellitus, psoriasis, dermatitis
+atopik, SLE, HIV.
+
+207
+
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Nyeri tekan pada tragus
+2. Nyeri tarik daun telinga
+3. Otoskopi:
+a. OE akut difus: liang telinga luar sempit, kulit liang telinga luar
+hiperemis dan edem dengan batas yang tidak jelas, dan dapat
+ditemukan sekret minimal.
+b. OE akut sirkumskripta: furunkel pada liang telinga luar
+4. Tes garputala: Normal atau tuli konduktif
+Pemeriksaan Penunjang
+Tidak diperlukan
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik.
+Diagnosis Banding
+Perikondritis yang berulang, Kondritis, Otomikosis
+Komplikasi
+Jika pengobatan tidak adekuat, dapat timbul abses, infeksi kronik liang telinga,
+jaringan parut, dan stenosis liang telinga.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Non-medikamentosa:
+a. Membersihkan liang telinga secara hati-hati dengan pengisap atau
+kapas yang dibasahi dengan H2O2 3%.
+b. Bila terdapat abses, dilakukan insisi dan drainase.
+2. Medikamentosa:
+a. Topikal
+• Larutan antiseptik povidon iodine
+• OE akut sirkumskripta pada stadium infiltrat:
+ Salep ikhtiol, atau
+ Salep antibiotik: Polymixin-B, Basitrasin.
+• OE akut difus: Tampon yang telah diberi campuran Polimyxin-B,
+Neomycin, Hidrocortisone, dan anestesi topikal.
+b. Sistemik
+• Antibiotik sistemik diberikan bila infeksi cukup berat.
+• Analgetik, seperti Paracetamol atau Ibuprofen dapat diberikan.
+
+208
+
+Konseling dan Edukasi
+Pasien dan keluarga perlu diberi penjelasan, di antaranya:
+1. Tidak mengorek telinga baik dengan cotton bud atau alat lainnya
+2. Selama pengobatan pasien tidak boleh berenang
+3. Penyakit dapat berulang sehingga harus menjaga liang telinga agar dalam
+kondisi kering dan tidak lembab
+Kriteria Rujukan
+1. Otitis eksterna dengan komplikasi
+2. Otitis eksterna maligna
+Peralatan
+1.
+2.
+3.
+4.
+
+Lampu kepala
+Corong telinga
+Aplikator kapas
+Otoskop
+
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Referensi
+1. Hafil, F., Sosialisman, Helmi. Kelainan Telinga Luar dalam Buku Ajar,
+Hidung, Tenggorok, Kepala & Leher. Ed. ke-6. Fakultas Kedokteran
+Universitas Indonesia. Jakarta. 2007. (Hafil, et al., 2007)
+2. Adam, G.L. Boies, L.R. Higler, Boies. Buku Ajar Penyakit THT. Ed. ke-6.
+Jakarta: EGC. 1997. (Adam & Boies, 1997)
+3. Sander, R. Otitis Externa: A Practical Guide to Treatment and Prevention.
+Am Fam Physician. 2001. Mar 1; 63(5):927-937. (Sander, 2001)
+4. Lee, K. Essential Otolaryngology, Head and Neck Surgery. Ed. Ke-8.
+McGraw-Hill. 2003. (Lee, 2003)

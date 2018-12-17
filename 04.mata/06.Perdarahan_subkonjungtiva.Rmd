@@ -1,0 +1,119 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+Perdarahan Subkonjungtiva
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: F75 Contusion/ haemorrhage eye
+: H57.8 Other specified disorders of eye and adnexa
+: 4A
+
+Masalah Kesehatan
+Perdarahan subkonjungtiva adalah perdarahan akibat ruptur pembuluh darah
+dibawah lapisan konjungtiva yaitu pembuluh darah konjungtivalis atau
+episklera. Sebagian besar kasus perdarahan subkonjungtiva merupakan kasus
+spontan atau idiopatik, dan hanya sebagian kecil kasus yang terkait dengan
+trauma atau kelainan sistemik. Perdarahan subkonjungtiva dapat terjadi di
+semua kelompok umur. Perdarahan subkonjungtiva sebagian besar terjadi
+unilateral (90%).
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Pasien datang dengan keluhan adanya darah pada sklera atau mata
+berwarna merah terang (tipis) atau merah tua (tebal).
+2. Sebagian besar tidak ada gejala simptomatis yang berhubungan dengan
+perdarahan subkonjungtiva selain terlihat darah pada bagian sklera.
+3. Perdarahan akan terlihat meluas dalam 24 jam pertama setelah itu
+kemudian akan berkurang perlahan ukurannya karena diabsorpsi.
+Faktor Risiko
+1. Hipertensi atau arterosklerosis
+2. Trauma tumpul atau tajam
+3. Penggunaan obat, terutama pengencer darah
+4. Manuver valsava, misalnya akibat batuk atau muntah
+5. Anemia
+6. Benda asing
+7. Konjungtivitis
+
+173
+
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Pemeriksaan status generalis
+2. Pemeriksaan oftalmologi:
+a. Tampak adanya perdarahan di sklera dengan warna merah terang
+(tipis) atau merah tua (tebal).
+b. Melakukan pemeriksaan tajam penglihatan umumnya 6/6, jika visus
+<6/6 maka dicurigai terjadi kerusakan selain di konjungtiva
+c. Pemeriksaan funduskopi adalah perlu pada setiap penderita dengan
+perdarahan subkonjungtiva akibat trauma.
+Pemeriksaan Penunjang
+Tidak diperlukan
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Penegakan diagnosis berdasarkan anamnesis dan pemeriksaan fisik.
+Penatalaksanaan Komprehensif(Plan)
+Penatalaksanaan
+1. Perdarahan subkonjungtiva akan hilang atau diabsorpsi dalam 1-2 minggu
+tanpa diobati.
+2. Pengobatan penyakit yang mendasari bila ada.
+Pemeriksaan penunjang lanjutan
+Tidak diperlukan
+Konseling dan Edukasi
+Memberitahu keluarga bahwa:
+1. Tidak perlu khawatir karena perdarahan akan terlihat meluas dalam 24 jam
+pertama, namun setelah itu ukuran akan berkurang perlahan karena
+diabsorpsi.
+2. Kondisi hipertensi memiliki hubungan yang cukup tinggi dengan angka
+terjadinya perdarahan subkonjungtiva sehingga diperlukan pengontrolan
+tekanan darah pada pasien dengan hipertensi.
+Kriteria rujukan
+Perdarahan subkonjungtiva harus segera dirujuk ke spesialis mata jika
+ditemukan penurunan visus.
+Peralatan
+1. Snellen chart
+2. Oftalmoskop
+
+174
+
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Referensi
+1. Gondhowiardjo, T.D. Simanjuntak, G. Panduan Manajemen Klinis
+th
+Perdami, 1 Ed. Jakarta: CV Ondo. 2006.
+2. James, Brus.dkk. Lecture Notes Oftalmologi. Erlangga. Jakarta. 2005.
+3. Riordan. Paul, E. Whitcher, John P. Vaughan & Asbury Oftalmologi Umum.
+Ed 17. Jakarta: EGC. 2009.
+4. Sidarta, I. Ilmu Penyakit Mata. Edisi III. Cetakan V. Jakarta: Balai Penerbit
+FK UI. 2008.
+5. Vaughan, D.G. Oftalmologi Umum. Ed 14. Cetakan I. Jakarta: Widya
+Medika. 2000.

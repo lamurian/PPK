@@ -1,0 +1,164 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+16. Parotitis
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: D71. Mumps / D99. Disease digestive system, other
+: B26. Mumps
+: 4A
+
+Masalah Kesehatan
+Parotitis adalah peradangan pada kelenjar parotis. Parotitis dapat disebabkan
+oleh infeksi virus, infeksi bakteri, atau kelainan autoimun, dengan derajat
+kelainan yang bervariasi dari ringan hingga berat. Salah satu infeksi virus pada
+kelenjar parotis, yaitu parotitis mumps (gondongan) sering ditemui pada
+layanan primer dan berpotensi menimbulkan epidemi di komunitas. Dokter di
+pelayanan kesehatan primer dapat berperan menanggulangi parotitis mumps
+dengan melakukan diagnosis dan tatalaksana yang adekuat serta
+meningkatkan kesadaran masyarakat terhadap imunisasi, khususnya MMR.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Parotitis mumps
+a. Pembengkakan pada area di depan telinga hingga rahang bawah
+b. Bengkak berlangsung tiba-tiba
+c. Rasa nyeri pada area yang bengkak
+d. Onset akut, biasanya < 7 hari
+e. Gejala konstitusional: malaise, anoreksia, demam
+f. Biasanya bilateral, namun dapat pula unilateral
+2. Parotitis bakterial akut
+a. Pembengkakan pada area di depan telinga hingga rahang bawah
+b. Bengkak berlangsung progresif
+c. Onset akut, biasanya < 7 hari
+d. Demam
+e. Rasa nyeri saat mengunyah
+3. Parotitis HIV
+a. Pembengkakan pada area di depan telinga hingga rahang bawah
+
+144
+
+b. Tidak disertai rasa nyeri
+c. Dapat pula bersifat asimtomatik
+4. Parotitis tuberkulosis
+a. Pembengkakan pada area di depan telinga hingga rahang bawah
+b. Onset kronik
+c. Tidak disertai rasa nyeri
+d. Disertai gejala-gejala tuberkulosis lainnya
+5. Parotitis autoimun (Sjogren syndrome)
+a. Pembengkakan pada area di depan telinga hingga rahang bawah
+b. Onset kronik atau rekurens
+c. Tidak disertai rasa nyeri
+d. Dapat unilateral atau bilateral
+e. Gejala-gejala Sjogren syndrome, misalnya mulut kering, mata kering
+f. Penyebab parotitis lain telah disingkirkan
+Faktor Risiko
+1. Anak berusia 2–12 tahun merupakan kelompok tersering menderita
+parotitis mumps
+2. Belum diimunisasi MMR
+3. Pada kasus parotitis mumps, terdapat riwayat adanya penderita yang
+sama sebelumnya di sekitar pasien
+4. Kondisi imunodefisiensi
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Keadaan umum dapat bervariasi dari tampak sakit ringan hingga berat
+2. Suhu meningkat pada kasus parotitis infeksi
+3. Pada area preaurikuler (lokasi kelenjar parotis), terdapat:
+a. Edema
+b. Eritema
+c. Nyeri tekan (tidak ada pada kasus parotitis HIV, tuberkulosis, dan
+autoimun)
+
+Gambar 3.2 Edema pada area preaurikuler dan mandibula kanan pada
+kasus parotitis mumps
+
+145
+
+4. Pada kasus parotitis bakterial akut, bila dilakukan masase kelanjar parotis
+dari arah posterior ke anterior, nampak saliva purulen keluar dari duktur
+parotis.
+Pemeriksaan Penunjang
+Pada kebanyakan kasus parotitis, pemeriksaan penunjang biasanya tidak
+diperlukan. Pemeriksaan penunjang dapat dilakukan untuk menentukan
+etiologi pada kasus parotitis bakterial atau parotitis akibat penyakit sistemik
+tertentu, misalnya HIV, Sjogren syndrome, tuberkulosis.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis parotitis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik.
+Komplikasi
+1. Parotitis mumps dapat menimbulkan komplikasi berupa: Epididimitis,
+Orkitis, atau atrofi testis (pada laki-laki), Oovaritis (pada perempuan),
+ketulian, Miokarditis, Tiroiditis, Pankreatitis, Ensefalitis, Neuritis
+2. Kerusakan permanen kelenjar parotis yang menyebabkan gangguan
+fungsi sekresi saliva dan selanjutnya meningkatkan risiko terjadinya infeksi
+dan karies gigi.
+3. Parotitis autoimun berhubungan dengan peningkatan insiden limfoma.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Parotitis mumps
+a. Nonmedikamentosa
+ Pasien perlu cukup beristirahat
+ Hidrasi yang cukup
+ Asupan nutrisi yang bergizi
+b. Medikamentosa
+Pengobatan bersifat simtomatik (antipiretik, analgetik)
+2. Parotitis bakterial akut
+a. Nonmedikamentosa
+ Pasien perlu cukup beristirahat
+ Hidrasi yang cukup
+ Asupan nutrisi yang bergizi
+b. Medikamentosa
+ Antibiotik
+ Simtomatik (antipiretik, analgetik)
+3. Parotitis akibat penyakit sistemik (HIV, tuberkulosis, Sjogren syndrome)
+Tidak dijelaskan dalam bagian ini.
+
+146
+
+Konseling dan Edukasi
+1. Penjelasan mengenai diagnosis, penyebab, dan rencana tatalaksana.
+2. Penjelasan mengenai pentingnya menjaga kecukupan hidrasi dan higiene
+oral.
+3. Masyarakat perlu mendapatkan informasi yang adekuat mengenai
+pentingnya imunisasi MMR untuk mencegah epidemi parotitis mumps.
+Kriteria Rujukan
+1. Parotitis dengan komplikasi
+2. Parotitis akibat kelainan sistemik, seperti HIV, tuberkulosis, dan Sjogren
+syndrome.
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Peralatan
+1. Termometer
+2. Kaca mulut
+Referensi
+Fox, P. C. & Ship, J. A., 2008. Salivary Gland Diseases. Dalam: M. Greenberg,
+M. Glick & J. A. Ship, penyunt. Burket's Oral Medicine. Hamilton: BC Decker
+Inc, pp. 191-222. (Fox & Ship, 2008)

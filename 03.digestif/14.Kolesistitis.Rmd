@@ -1,0 +1,117 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+13. Kolesistitis
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: D98 Cholecystitis/cholelithiasis
+: K81.9 Cholecystitis, unspecified
+: 3B
+
+Masalah Kesehatan
+Kolesistitis adalah reaksi inflamasi akut atau kronis dinding kandung empedu.
+Faktor yang mempengaruhi timbulnya serangan kolesistitis adalah stasis
+cairan empedu, infeksi kuman dan
+iskemia dinding kandung empedu.
+Penyebab utama kolesistitis akut adalah batu kandung empedu (90%) yang
+terletak di duktus sistikus yang menyebabkan stasis cairan empedu.
+Hasil Anamnesis (Subjective)
+Keluhan
+Kolesistitis akut:
+1. Demam
+2. Kolik perut di sebelah kanan atas atau epigastrium dan teralihkan ke
+bawah angulus scapula dexter, bahu kanan atau yang ke sisi kiri, kadang
+meniru nyeri angina pektoris, berlangsung 30-60 menit tanpa peredaan,
+berbeda dengan spasme yang cuma berlangsung singkat pada kolik bilier.
+
+136
+
+3. Serangan muncul setelah konsumsi makanan besar atau makanan
+berlemak di malam hari.
+4. Flatulens dan mual
+Kolesistitis kronik
+1. Gangguan pencernaan menahun
+2. Serangan berulang namun tidak mencolok.
+3. Mual, muntah dan tidak tahan makanan berlemak
+4. Nyeri perut yang tidak jelas disertai dengan sendawa.
+Faktor Risiko
+1. Wanita
+2. Usia >40 tahun
+3. Sering mengkonsumsi makanan berlemak
+4. Adanya riwayat kolesistitis akut sebelumnya.
+Hasil Pemeriksaan dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Ikterik bila penyebab adanya batu di saluran empedu ekstrahepatik
+2. Teraba massa kandung empedu
+3. Nyeri tekan disertai tanda-tanda peritonitis lokal, tanda Murphy positif
+Pemeriksaan Penunjang
+Laboratorium darah menunjukkan adanya leukositosis
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan
+pemeriksaan laboratorium.
+Diagnosis Banding
+Angina pektoris, Apendisitis akut, Ulkus peptikum perforasi, Pankreatitis akut
+Komplikasi
+Gangren atau empiema kandung empedu, Perforasi kandung empedu,
+Peritonitis umum, Abses hepar
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Tirah baring
+2. Puasa
+3. Pemasangan infus
+4. Pemberian anti nyeri dan anti mual
+5. Pemberian antibiotik:
+a. Golongan penisilin: Ampisilin injeksi 500mg/6jam dan Amoksilin
+500mg/8jam IV, atau
+
+137
+
+b. Sefalosporin: Seftriakson 1 gram/ 12 jam, Sefotaksim 1 gram/8jam,
+atau
+c. Metronidazol 500mg/8jam
+Konseling dan Edukasi
+Keluarga diminta untuk mendukung pasien untuk menjalani diet rendah lemak
+dan menurunkan berat badan.
+Rencana Tindak Lanjut
+1. Pada pasien yang pernah mengalami serangan kolesistitis akut dan
+kandung empedunya belum diangkat kemudian mengurangi asupan lemak
+dan menurunkan berat badannya harus dilihat apakah terjadi kolesistitis
+akut berulang.
+2. Perlu dilihat ada tidak indikasi untuk dilakukan pembedahan.
+Kriteria rujukan
+Pasien yang telah terdiagnosis kolesistitis dirujuk ke layanan sekunder
+(spesialis penyakit dalam) sedangkan bila terdapat indikasi untuk pembedahan
+pasien dirujuk pula ke spesialis bedah.
+Peralatan
+Laboratorium untuk pemeriksaan darah rutin
+Prognosis
+Prognosis umumnya dubia ad bonam, tergantung komplikasi dan beratnya
+penyakit.
+Referensi
+1. Soewondo, P. Buku Ajar Ilmu Penyakit Dalam. Jilid III. Edisi ke 4. Jakarta:
+FK UI. 2006: Hal 1900-2.
+2. Panduan Pelayanan Medik Ilmu Penyakit Dalam. Jakarta: Departemen
+Ilmu Penyakit Dalam FKUI/RSCM. 2004: Hal 240.

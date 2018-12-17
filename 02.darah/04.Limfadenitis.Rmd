@@ -1,0 +1,167 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+Limfadenitis
+
+No ICPC-2
+No ICD-10
+Tingkat Kemampuan
+
+: L04.9 Acute lymphadenitis, unspecified
+: B70 Lymphadenitis Acute
+: 4A
+
+87
+
+Masalah Kesehatan
+Limfadenitis adalah peradangan pada satu atau beberapa kelenjar getah
+bening. Limfadenitis bisa disebabkan oleh infeksi dari berbagai organisme,
+yaitu bakteri, virus, protozoa, riketsia atau jamur. Secara khusus, infeksi
+menyebar ke kelenjar getah bening dari infeksi kulit, telinga, hidung atau mata.
+Bakteri Streptokokus, Stafilokokus, dan Tuberkulosis adalah penyebab paling
+umum dari Limfadenitis, meskipun virus, protozoa, riketsia, jamur juga dapat
+menginfeksi kelenjar getah bening.
+Hasil Anamnesis (Subjective)
+Keluhan:
+- Pembengkakan kelenjar getah bening
+- Demam
+- Kehilangan nafsu makan
+- Keringat berlebihan,
+- Nadi cepat
+- Kelemahan
+- Nyeri tenggorok dan batuk bila disebabkan oleh infeksi saluran
+pernapasan bagian atas.
+- Nyeri sendi bila disebabkan oleh penyakit kolagen atau penyakit serum
+(serum sickness)
+Faktor Risiko:
+- Riwayat penyakit seperti tonsilitis yang disebabkan oleh bakteri
+streptokokus, infeksi gigi dan gusi yang disebabkan oleh bakteri anaerob.
+- Riwayat perjalanan dan pekerjaan ke daerah endemis penyakit tertentu,
+misalnya perjalanan ke daerah-daerah Afrika dapat menunjukkan
+penyebab limfadenitis adalah penyakit Tripanosomiasis. Sedangkan pada
+orang yang bekerja di hutan Limfadenitis dapat terkena Tularemia.
+- Paparan terhadap infeksi/kontak sebelumnya kepada orang dengan infeksi
+saluran nafas atas, faringitis oleh Streptococcus, atau Tuberkulosis turut
+membantu mengarahkan penyebab limfadenopati.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+- Pembesaran kelenjar getah bening (KGB) leher bagian posterior
+(belakang) terdapat pada infeksi rubela dan mononukleosis. Sedangkan
+pada pembesaran KGB oleh infeksi virus, umumnya bilateral (dua sisikiri/kiri dan kanan) dengan ukuran normal bila diameter 0,5 cm, dan lipat
+paha bila diameternya >1,5 cm dikatakan abnormal).
+- Nyeri tekan bila disebabkan oleh infeksi bakteri
+- Kemerahan dan hangat pada perabaan mengarah kepada infeksi bakteri
+sebagai penyebabnya
+- Fluktuasi menandakan terjadinya abses
+
+88
+
+-
+
+-
+
+-
+
+-
+
+Bila disebabkan keganasan tidak ditemukan tanda-tanda peradangan
+tetapi teraba keras dan tidak dapat digerakkan dari jaringan sekitarnya.
+Pada infeksi oleh mikobakterium pembesaran kelenjar berjalan mingguanbulanan, walaupun dapat mendadak, KGB menjadi fluktuatif dan kulit
+diatasnya menjadi tipis, dan dapat pecah.
+Adanya tenggorokan yang merah, bercak-bercak putih pada tonsil, bintikbintik merah pada langit-langit mengarahkan infeksi oleh bakteri
+streptokokus.
+Adanya selaput pada dinding tenggorok, tonsil, langit-langit yang sulit
+dilepas dan bila dilepas berdarah, pembengkakan pada jaringan lunak
+leher (bull neck) mengarahkan kepada infeksi oleh bakteri Difteri.
+Faringitis, ruam-ruam dan pembesaran limpa mengarahkan kepada infeksi
+Epstein Barr Virus.
+Adanya radang pada selaput mata dan bercak koplik mengarahkan
+kepada Campak.
+Adanya bintik-bintik perdarahan (bintik merah yang tidak hilang dengan
+penekanan), pucat, memar yang tidak jelas penyebabnya, disertai
+pembesaran hati dan limpa mengarahkan kepada leukemia.
+
+Pemeriksaan Penunjang
+Pemeriksaan skrining TB: BTA Sputum, LED, Mantoux Test.
+Laboratorium: Darah perifer lengkap
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Limfadenititis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik.
+Diagnosis Banding
+1. Mumps
+2. Kista Duktus Tiroglosus
+3. Kista Dermoid
+4. Hemangioma
+Komplikasi
+1. Pembentukan abses
+2. Selulitis (infeksi kulit)
+3. Sepsis (septikemia atau keracunan darah)
+4. Fistula (terlihat dalam limfadenitis yang disebabkan oleh TBC)
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Pencegahan dengan menjaga kesehatan dan kebersihan badan bisa
+membantu mencegah terjadinya berbagai infeksi.
+2. Untuk membantu mengurangi rasa sakit, kelenjar getah bening yang
+terkena bisa dikompres hangat.
+3. Tata laksana pembesaran KGB leher didasarkan kepada penyebabnya.
+
+89
+
+-
+
+-
+
+Penyebab oleh virus dapat sembuh sendiri dan tidak membutuhkan
+pengobatan apa pun selain dari observasi.
+Pengobatan pada infeksi KGB oleh bakteri (limfadenitis) adalah
+antibiotik oral 10 hari dengan pemantauan dalam 2 hari pertama
+flucloxacillin 25 mg/kgBB empat kali sehari. Bila ada reaksi alergi
+terhadap antibiotik golongan penisilin dapat diberikan cephalexin 25
+mg/kg (sampai dengan 500 mg) tiga kali sehari atau eritromisin 15
+mg/kg (sampai 500 mg) tiga kali sehari.
+Bila penyebabnya adalah Mycobacterium tuberculosis maka diberikan
+obat anti tuberculosis.
+Biasanya jika infeksi telah diobati, kelenjar akan mengecil secara
+perlahan dan rasa sakit akan hilang. Kadang-kadang kelenjar yang
+membesar tetap keras dan tidak lagi terasa lunak pada perabaan.
+
+Konseling dan Edukasi
+1. Keluarga turut menjaga kesehatan dan kebersihan sehingga mencegah
+terjadinya berbagai infeksi dan penularan.
+2. Keluarga turut mendukung dengan memotivasi pasien dalam pengobatan.
+Rencana follow up:
+Pasien kontrol untuk mengevaluasi KGB dan terapi yang diberikan.
+Kriteria rujukan
+1. Kegagalan untuk mengecil setelah 4-6 minggu dirujuk untuk mencari
+penyebabnya (indikasi untuk dilaksanakan biopsi kelenjar getah bening).
+2. Biopsi dilakukan bila terdapat tanda dan gejala yang mengarahkan kepada
+keganasan, KGB yang menetap atau bertambah besar dengan
+pengobatan yang tepat, atau diagnosis belum dapat ditegakkan.
+Peralatan
+1. Alat ukur untuk mengukur beasarnya kelenjar getah bening
+2. Mikroskop
+3. Reagen BTA dan Gram
+Prognosis
+Prognosis pada umumnya bonam.
+Referensi
+Price, A. Sylvia. Patofisiologi. Jakarta: Penerbit Buku Kedokteran EGC. 2006.

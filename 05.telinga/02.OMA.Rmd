@@ -1,0 +1,218 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+Otitis Media Akut
+
+No. ICPC-2
+No. ICD-10
+
+Tingkat Kemampuan
+
+: H71. Acute otitis media/myringitis
+: H65.0. Acute serous otitis media
+H65.1. Other acure nonsuppurative otitis media
+H66.0 Acute suppurative otitis media
+: 4A
+
+Masalah Kesehatan
+Otitis media akut (OMA) adalah peradangan sebagian atau seluruh mukosa
+telinga tengah, tuba eustachius, antrum mastoid, dan sel-sel mastoid yang
+terjadi dalam waktu kurang dari 3 minggu.
+Hasil Anamnesis (Subjective)
+Keluhan (tergantung stadium OMA yang sedang dialami)
+1. Stadium oklusi tuba
+Telinga terasa penuh atau nyeri, pendengaran dapat berkurang.
+2. Stadium hiperemis
+Nyeri telinga makin intens, demam, rewel dan gelisah (pada bayi / anak),
+muntah, nafsu makan hilang, anak biasanya sering memegang telinga
+yang nyeri.
+3. Stadium supurasi
+Sama seperti stadium hiperemis
+4. Stadium perforasi
+Keluar sekret dari liang telinga
+5. Stadium resolusi
+Setelah sekret keluar, intensitas keluhan berkurang (suhu turun, nyeri
+mereda, bayi / anak lebih tenang. Bila perforasipermanen, pendengaran
+dapat tetap berkurang.
+Faktor Risiko
+1. Bayi dan anak
+2. Infeksi saluran napas atas berulang
+3. Menyusu dari botol dalam posisi berbaring telentang
+4. Kelainan kongenital, misalnya: sumbing langit-langit, sindrom Down,
+5. Paparan asap rokok
+6. Alergi
+7. Tingkat sosio-ekonomi yang rendah
+Hasil Pemeriksaan Fisik dan penunjang sederhana (Objective)
+Pemeriksaan Fisik
+1. Suhu dapat meningkat
+2. Otoskopi
+
+210
+
+Tabel 5.1 Hasil otoskopi pada OMA
+Stadium OMA
+Stadium oklusi tuba
+Stadium hiperemis
+Stadium supurasi
+
+Tampilan
+Membran timpani suram, retraksi, dan refleks
+cahayanya hilang
+Membran timpani hiperemis dan edema
+Membran timpani menonjol ke arah luar
+(bulging) berwarna kekuningan
+
+Stadium perforasi
+
+ Perforasi membran timpani
+ Liang telinga luar basah atau dipenuhi sekret
+
+Stadium resolusi
+
+ Membran timpani tetap perforasi atau utu
+ Sekret di liang telinga luar sudah berkurang
+atau mengering
+
+3. Tes penala
+Dapat ditemukan tuli konduktif, yaitu: tes Rinne (-) dan tes Schwabach
+memendek pada telinga yang sakit, tes Weber terjadi lateralisasi ke telinga
+yang sakit.
+Pemeriksaan Penunjang
+Audiometri nada murni, bila fasilitas tersedia
+Penegakan Diagnostik(Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik.
+Diagnosis Banding
+Otitis media serosa akut, Otitis eksterna
+Komplikasi
+1. Komplikasi intra-temporal: Labirinitis, Paresis nervus fasialis, Petrositis,
+Hidrosefalus otik
+2. Komplikasi ekstra-temporal / intrakranial: Abses subperiosteal, Abses
+epidura, Abses perisinus, Abses subdura, Abses otak, Meningitis,
+Trombosis sinus lateral, Sereberitis
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Medikamentosa
+a. Topikal
+i. Pada stadium oklusi tuba, terapi bertujuan membuka kembali tuba
+eustachius. Obat yang diberikan adalah:
+- Berikan tetes mata Tetrakain-HCl 2% sebanyak 1-2 tetes pada
+mata yang terkena benda asing.
+
+211
+
+-
+
+Gunakan kaca pembesar (lup) dalam pengangkatan benda
+asing.
+- Angkat benda asing dengan menggunakan lidi kapas atau
+jarum suntik ukuran 23G.
+- Arah pengambilan benda asing dilakukan dari tengah ke tepi.
+- Oleskan lidi kapas yang dibubuhkan Povidon Iodin pada
+tempat bekas benda asing.
+ii. Pada stadium perforasi, diberikan obat cuci telinga:
+- H2O2 3%, 3 kali sehari, 4 tetes di telinga yang sakit, didiamkan
+selama 2 – 5 menit.
+- Asam asetat 2%, 3 kali sehari, 4 tetes di telinga yang sakit.
+- Ofloxacin, 2 kali sehari, 5 – 10 tetes di telinga yang sakit,
+selama maksimal 2 minggu
+b. Oral Sistemik: antibiotik, antihistamin (bila terdapat tanda-tanda alergi),
+dekongestan, analgetik / antipiretik
+Konseling dan Edukasi
+1. Untuk bayi / anak, orang tua dianjurkan untuk memberikan ASI minimal 6
+bulan sampai 2 tahun.
+2. Menghindarkan bayi / anak dari paparan asap rokok.
+Pencegahan
+Imunisasi Hib dan PCV perlu dilengkapi, sesuai panduan Jadwal Imunisasi
+Anak tahun 2014 dari IDAI.
+Tabel 5.2. Daftar antibiotik untuk terapi OMA
+Obat
+Dewasa
+Anak
+Amoxicillin
+3 x 500
+25 – 50 mg/kgBB/hari, dibagi 3 dosis per
+mg/hari
+hari
+selama 10-14
+hari
+Trimetoprim –
+Sulfametoksazol
+
+2 x 160 mg
+TMP/hari
+
+8 – 20 mg TMP/kgBB/hari, dibagi 2 dosis
+per hari
+
+Amoxicillin –
+Asam Clavulanat
+
+3 x 500 mg /
+hari
+
+25 – 50 mg/kgBB/hari, dibagi 3 dosis per
+hari
+
+Erithromycin
+
+4 x 500
+mg/hari
+
+25 – 50 mg/kgBB/hari, dibagi 4 dosis per
+hari
+
+Kriteria Rujukan
+1. Jika terdapat indikasi miringotomi.
+2. Bila terjadi komplikasi dari otitis media akut.
+Peralatan
+1. Lampu kepala
+2. Corong telinga
+3. Otoskop
+
+212
+
+4. Aplikator kapas
+5. Garputala
+6. Suction
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Referensi
+1. Adam, GL. Boies LR. Higler, Boies. Buku Ajar Penyakit THT. Ed. ke-6.
+Jakarta: EGC. 1997.
+2. Hafil, F., Sosialisman, Helmi. Kelainan Telinga Luar dalam Buku Ajar Ilmu
+Kesehatan Telinga, Hidung, Tenggorok, Kepala & Leher. Ed. ke-6.
+Fakultas Kedokteran Universitas Indonesia. Jakarta. 2007.
+3. Lee, K. Essential Otolaryngology, Head and Neck Surgery. Ed. Ke-8.
+McGraw-Hill. 2003.
+4. Revai, Krystal et al. Incidence of Acute Otitis Media and Sinusitis
+Complicating Upper Respiratory Tract Infection: The Effect of Age.
+PEDIATRICS Vol. 119 No. 6 June 2007, pp. e1408-e1412.2007. (Reyai,
+2007)

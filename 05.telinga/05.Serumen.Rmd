@@ -1,0 +1,142 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+Serumen Prop
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: H81 Excessive ear wax
+: H61.2 Impacted cerumen
+: 4A
+
+Masalah Kesehatan
+Serumen adalah sekret kelenjar sebasea, kelenjar seruminosa, epitel kulit
+yang terlepas, dan partikel debu yang terdapat pada bagian kartilaginosa liang
+telinga. Bila serumen ini berlebihan maka dapat membentuk gumpalan yang
+menumpuk di liang telinga, dikenal dengan serumen prop.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Rasa penuh pada telinga
+2. Pendengaran berkurang
+3. Rasa nyeri pada telinga
+
+218
+
+4. Keluhan semakin memberat bila telinga kemasukan air (sewaktu mandi
+atau berenang)
+5. Beberapa pasien juga mengeluhkan adanya vertigo atau tinitus
+Faktor Risiko
+1. Dermatitis kronik liang telinga luar
+2. Liang telinga sempit
+3. Produksi serumen banyak dan kering
+4. Kebiasaan mengorek telinga
+Hasil Pemeriksaan Fisik dan penunjang sederhana (Objective)
+Pemeriksaan Fisik
+1. Otoskopi: obstruksi liang telinga luar oleh material berwarna kuning
+kecoklatan atau kehitaman. Konsistensi dari serumen dapat bervariasi.
+2. Tes penala: normal atau tuli konduktif
+Pemeriksaan Penunjang
+Tidak diperlukan pemeriksaan penunjang
+Penegakan diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik.
+Diagnosis Banding
+Benda asing di liang telinga.
+Komplikasi
+1. Otitis eksterna
+2. Trauma pada liang telinga dan atau membran timpani saat mengeluarkan
+serumen
+Penatalaksanaan komprehensif (Plan)
+Penatalaksanaan
+1. Non-medikamentosa: Evakuasi serumen
+a. Bila serumen lunak, dibersihkan dengan kapas yang dililitkan pada
+pelilit kapas.
+b. Bila serumen keras, dikeluarkan dengan pengait atau kuret. Apabila
+dengan cara ini serumen tidak dapat dikeluarkan, maka serumen
+harus dilunakkan lebih dahulu dengan tetes Karbogliserin 10% atau
+H2O2 3% selama 3 hari.
+c. Serumen yang sudah terlalu jauh terdorong kedalam liang telinga
+sehingga dikuatirkan menimbulkan trauma pada membran timpani
+sewaktu mengeluarkannya, dikeluarkan dengan mengalirkan (irigasi)
+air hangat yang suhunya disesuaikan dengan suhu tubuh.
+2. Medikamentosa
+Tetes telinga Karbogliserin 10% atau H2O2 3% selama 3 hari untuk
+melunakkan serumen.
+
+219
+
+Konseling dan Edukasi
+1. Menganjurkan pasien untuk tidak membersihkan telinga secara berlebihan,
+baik dengan cotton bud atau alat lainnya.
+2. Menganjurkan pasien untuk menghindari memasukkan air atau apapun ke
+dalam telinga
+Kriteria rujukan:
+Bila terjadi komplikasi akibat tindakan pengeluaran serumen.
+Peralatan
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+
+Lampu kepala
+Spekulum telinga
+Otoskop
+Serumen hook(pengait serumen)
+Aplikator kapas
+Kapas
+Cairan irigasi telinga
+Forsep aligator
+Suction
+Pinset bayonet
+Wadah ginjal (nierbekken)
+Irigator telinga (spuit 20 - 50 cc + cateter wing needle)
+Alkohol 70%
+
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Referensi
+1. Adam, GL. Boies LR. Higler,.Boies. Buku Ajar Penyakit THT. Ed. ke-6.
+Jakarta: EGC. 1997.
+2. Hafil, F., Sosialisman, Helmi. Kelainan Telinga Luar dalam Buku Ajar Ilmu
+Kesehatan Telinga, Hidung, Tenggorok, Kepala & Leher. Ed. ke-6.
+Fakultas Kedokteran Universitas Indonesia. Jakarta. 2007.
+3. Lee, K. Essential Otolaryngology, Head and Neck Surgery. Ed. Ke-8.
+McGraw-Hill. 2003.

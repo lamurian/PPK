@@ -1,0 +1,123 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+Perdarahan Saluran Cerna Bagian Bawah
+
+Masalah Kesehatan
+Perdarahan saluran cerna bagian bawah umumnya didefinisikan sebagai
+perdarahan yang berasal dari usus di sebelah bawah ligamentum Treitz.
+Hematokezia diartikan darah segar yang keluar melalui anus dan merupakan
+manifestasi tersering dari perdarahan saluran cerna bagian bawah.
+Penyebab tersering dari saluran cerna bagian bawah antara lain perdarahan
+divertikel kolon, angiodisplasia dan kolitis iskemik. Perdarahan saluran cerna
+bagian bawah yang kronik dan berulang biasanya berasal dari hemoroid dan
+neoplasia kolon.
+Hasil Anamnesis (Anemnesis)
+Keluhan
+1. Pasien datang dengan keluhan darah segar yang keluar melalui anus
+(hematokezia).
+2. Umumnya melena menunjukkan perdarahan di saluran cerna bagian atas
+atau usus halus, namun demikian melena dapat juga berasal dari
+perdarahan kolon sebelah kanan dengan perlambatan mobilitas.
+
+126
+
+3. Perdarahan dari divertikulum biasanya tidak nyeri. Tinja biasanya
+berwarna merah marun, kadang-kadang bisa juga menjadi merah.
+Umumnya terhenti secara spontan dan tidak berulang.
+4. Hemoroid dan fisura ani biasanya menimbulkan perdarahan dengan warna
+merah segar tetapi tidak bercampur dengan faeces.
+5. Pasien dengan perdarahan samar saluran cerna kronik umumnya tidak
+ada gejala atau kadang hanya rasa lelah akibat anemia.
+6. Nilai dalam anamnesis apakah bercampur dengan feses (seperti terjadi
+pada kolitis atau lesi di proksimal rektum) atau terpisah/menetes (terduga
+hemoroid), pemakaian antikoagulan, atau terdapat gejala sistemik lainnya
+seperti demam lama (tifoid, kolitis infeksi), menurunnya berat badan
+(kanker), perubahan pola defekasi (kanker), tanpa rasa sakit (hemoroid
+intema, angiodisplasia), nyeri perut (kolitis infeksi, iskemia mesenterial),
+tenesmus ani (fisura, disentri).
+Hasil pemeriksaan fisik dan penunjang sederhana (Objective)
+Pemeriksaan Fisik
+1. Pada colok dubur ditemukan darah segar
+2. Nilai tanda vital, terutama ada tidaknya renjatan atau hipotensi postural
+(Tilt test).
+3. Pemeriksaan fisis abdomen untuk menilai ada tidaknya rasa nyeri tekan
+(iskemia mesenterial), rangsang peritoneal (divertikulitis), massa
+intraabdomen (tumor kolon, amuboma, penyakit Crohn).
+Pemeriksaan Penunjang
+Pemeriksaan darah perifer lengkap, feses rutin dan tes darah samar.
+Penegakan diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan
+pemeriksaan penunjang.
+
+anamnesis,
+
+pemeriksaan
+
+fisik
+
+dan
+
+Diagnosis Banding
+Haemorhoid, Penyakit usus inflamatorik, Divertikulosis, Angiodisplasia, Tumor
+kolon
+Komplikasi
+1. Syok hipovolemik
+2. Gagal ginjal akut
+3. Anemia karena perdarahan
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Stabilkan hemodinamik
+a. Pemasangan IV line
+
+127
+
+b. Oksigen sungkup/kanula
+c. Mencatat intake output, harus dipasang kateter urin
+d. Memonitor tekanan darah, nadi, saturasi oksigen dan keadaan lainnya
+sesuai dengan komorbid yang ada.
+2. Beberapa perdarahan saluran cerna bagian bawah dapat diobati secara
+medikamentosa. Hemoroid fisura ani dan ulkus rektum soliter dapat diobati
+dengan bulk-forming agent, sitz baths, dan menghindari mengedan.
+3. Kehilangan darah samar memerlukan suplementasi besi yaitu Ferrosulfat
+325 mg tiga kali sehari.
+Konseling dan Edukasi
+Keluarga ikut mendukung untuk menjaga diet dan pengobatan pasien.
+Kriteria Rujukan
+1. Perdarahan saluran cerna bagian bawah yang terus menerus
+2. Rujuk ke pelayanan kesehatan sekunder untuk diagnosis definitif bila tidak
+dapat ditegakkan di pelayanan kesehatan primer
+Peralatan
+1. Laboratorium untuk pemeriksaan darah lengkap dan faeces darah samar
+2. Sarung tangan
+Prognosis
+Prognosis sangat tergantung pada kondisi pasien saat datang, ada/tidaknya
+komplikasi, dan pengobatannya.
+Referensi
+1. Abdullah. Murdani, Sudoyo. Aru, W. dkk. Buku Ajar Ilmu Penyakit Dalam
+Jilid I. Edisi IV. Jakarta: Pusat Penerbitan Dep. IPD. FKUI.2007. (Sudoyo,
+et al., 2006)
+2. Panduan Pelayanan Medik Ilmu Penyakit Dalam. Jakarta: Departemen
+Ilmu Penyakit Dalam FKUI/RSCM. 2004.Hal 234. (Departemen Ilmu
+Penyakit Dalam FKUI RSCM, 2004)

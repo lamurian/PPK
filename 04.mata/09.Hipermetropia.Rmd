@@ -1,0 +1,98 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+Hipermetropia
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: F91 Refractive error
+: H52.0 Hypermetropia
+: Hipermetropia ringan 4A
+
+Masalah Kesehatan
+Hipermetropia (rabun dekat) merupakan keadaan gangguan kekuatan
+pembiasan mata dimana sinar sejajar jauh tidak cukup kuat dibiaskan
+sehingga titik fokusnya terletak di belakang retina. Kelainan ini menyebar
+merata di berbagai geografis, etnis, usia dan jenis kelamin.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Penglihatan kurang jelas untuk objek yang dekat.
+2. Sakit kepala terutama daerah frontal dan makin kuat pada penggunaan
+mata yang lama dan membaca dekat. Penglihatan tidak enak (asthenopia
+akomodatif = eye strain) terutama bila melihat pada jarak yang tetap dan
+diperlukan penglihatan jelas pada jangka waktu yang lama, misalnya
+menonton TV dan lain-lain.
+3. Mata sensitif terhadap sinar.
+4. Spasme akomodasi yang dapat menimbulkan pseudomiopia. Mata juling
+dapat terjadi karena akomodasi yang berlebihan akan diikuti konvergensi
+yang berlebihan pula.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Pemeriksaan visus dengan Snellen Chart
+Pemeriksaan refraksi dengan trial lens dan trial frame
+
+179
+
+Pemeriksaan Penunjang
+Tidak diperlukan
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Penegakan diagnosis dengan anamnesis dan pemeriksaan refraksi.
+Komplikasi
+1. Esotropia atau juling ke dalam terjadi akibat pasien selamanya melakukan
+akomodasi
+2. Glaukoma sekunder terjadi akibat hipertrofi otot siliar pada badan siliar
+yang akan mempersempit sudut bilik mata
+3. Ambliopia
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Koreksi dengan lensa sferis positif terkuat yang menghasilkan tajam
+penglihatan terbaik.
+Konseling dan Edukasi
+Memberitahu keluarga jika penyakit ini harus dikoreksi dengan bantuan kaca
+mata. Karena jika tidak, maka mata akan berakomodasi terus menerus dan
+menyebabkan komplikasi.
+Kriteria rujukan
+Rujukan dilakukan jika timbul komplikasi.
+Peralatan
+1. Snellen chart
+2. Satu set trial frame dan trial frame
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Referensi
+1. Gondhowiardjo, T.D. Simanjuntak, G. Panduan Manajemen Klinis
+th
+Perdami, 1 Ed. Jakarta: CV Ondo. 2006.
+2. Sidarta, I. Ilmu Penyakit Mata. Edisi III. Cetakan V. Jakarta:Balai Penerbit
+FK UI. 2008.
+3. Vaughan, D.G. Oftalmologi Umum. Edisi 14. Cetakan I. Jakarta: Widya
+Medika. 2000

@@ -1,0 +1,131 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+19. Hifema
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: F75 Contusion/haemorrhage eye
+: H21.0Hyphaema
+: 3A
+
+Masalah Kesehatan
+Hifema adalah terdapatnya akumulasi darah pada bilik mata depan. Hifema
+dapat terjadi akibat trauma atau terjadi spontan. Hifema dapat disertai dengan
+abrasi kornea, iritis, midriasis, atau gangguan struktur lain pada mata akibat
+trauma penyebabnya. Hifema spontan jarang ditemui. Hifema spontan dapat
+menjadi penanda terdapatnya rubeosis iridis, gangguan koagulasi, penyakit
+herpes, masalah pada lensa intraokular (IOL), retinoblastoma, serta leukemia.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Nyeri pada mata
+2. Penglihatan terganggu (bila darah menutupi aksis visual)
+3. Fotofobia/silau
+
+201
+
+Faktor Risiko
+1. Hifema akibat trauma sering ditemui pada laki-laki usia muda
+2. Hifema spontan disebabkan oleh neovaskularisasi iris (seperti pada pasien
+diabetes dan oklusi vena retina), koagulopati, dan pemakaian antikoagulan
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Visus umumnya turun
+2. Tampak darah di bilik mata depan. Darah dapat tertampung di bagian
+inferior bilik mata depan atau dapat memenuhi seluruh bilik mata depan
+(hifema penuh).
+3. Perhatikan apakah ada trauma pada bagian mata yang lain
+Pemeriksaan Penunjang
+Pemeriksaan tekanan intraokular dengan Tonometer Schiotz
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Ditegakkan berdasarkan anamnesis dan pemeriksaan fisik
+1. Anamnesis untuk mengidentifikasi gejala, riwayat trauma, serta
+kemungkinan adanya faktor risiko lain.
+2. Pemeriksaan tajam penglihatan
+3. Pemeriksaan mata dengan senter dan lup untuk melihat adanya darah di
+bilik mata, menilai lebar pupil, serta mengidentifikasi kelainan kornea atau
+struktur lain akibat trauma.
+4. Pemeriksaan tekanan intraokular dengan tonometer Schiotz bila tidak
+terdapat defek pada kornea
+Diagnosis banding
+Tidak ada
+Komplikasi
+Prognosis umumnya baik pada hifema tanpa komplikasi.
+Komplikasi hifema antara lain:
+1. Perdarahan ulang (rebleeding), umumnya terjadi antara 2-5 hari setelah
+trauma
+2. Glaukoma sekunder
+3. Atrofi saraf optik
+4. Corneal blood staining
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Pembatasan aktivitas fisik
+2. Pelindung mata (protective shield)
+3. Analgesik yang tidak mengandung
+Inflammatory Drug)
+
+202
+
+NSAID
+
+(Non-Steroidal
+
+Anti
+
+4. Rujuk segera ke dokter spesialis mata di pelayanan kesehatan tingkat
+sekunder atau tersier
+Konseling dan Edukasi
+1. Memberitahukan ke pasien bahwa kemungkinan pasien perlu dirawat dan
+bed rest
+2. Posisi tidur dengan elevasi kepala
+Kriteria Rujukan
+Semua pasien yang didiagnosis dengan hifema perlu dirujuk ke dokter
+spesialis mata
+Peralatan
+1.
+2.
+3.
+4.
+
+Snellen chart
+Lup
+Senter
+Tonometer Schiotz
+
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Referensi
+1. Vaughan, D.G. Oftalmologi Umum. Ed 14. Cetakan I. Jakarta: Widya
+Medika. 2000
+2. Ehlers JP, Shah CP, editors. The Wills Eye Manual-office and emergency
+room diagnosis and treatment of eye disease. 5th edition. Philadelphia:
+Lippincott Williams and Wilkins; 2008.

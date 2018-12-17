@@ -1,0 +1,119 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+Blefaritis
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: F72 Blepharitis/stye/chalazion
+: H01.0 Blepharitis
+: 4A
+
+Masalah Kesehatan
+Blefaritis adalah radang pada tepi kelopak mata (margo palpebra) yang dapat
+disertai terbentuknya ulkus dan dapat melibatkan folikel rambut.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Gatal pada tepi kelopak mata
+2. Rasa panas pada tepi kelopak mata
+3. Merah/hiperemia pada tepi kelopak mata
+4. Terbentuk sisik yang keras dan krusta terutama di sekitar dasar bulu mata
+5. Kadang disertai kerontokan bulu mata (madarosis), putih pada bulu mata
+(poliosis), dan trikiasis
+6. Dapat keluar sekret yang mengering selama tidur, sehingga ketika bangun
+kelopak mata sukar dibuka
+Faktor Risiko
+1. Kelainan kulit, misalnya dermatitis seboroik
+2. Higiene personal dan lingkungan yang kurang baik
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Skuama atau krusta pada tepi kelopak.
+2. Bulu mata rontok.
+3. Dapat ditemukan tukak yang dangkal pada tepi kelopak mata.
+4. Dapat terjadi pembengkakan dan merah pada kelopak mata.
+5. Dapat terbentuk krusta yang melekat erat pada tepi kelopak mata. Jika
+krusta dilepaskan, bisa terjadi perdarahan.
+Pemeriksaan Penunjang
+Tidak diperlukan
+
+171
+
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Penegakan diagnosis dilakukan berdasarkan anamnesis dan pemeriksaan
+fisik.
+Komplikasi
+1. Blefarokonjungtivitis
+2. Madarosis
+3. Trikiasis
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Non-medikamentosa
+a. Membersihkan kelopak mata dengan lidi kapas yang dibasahi air
+hangat
+b. Membersihkan dengan sampo atau sabun
+c. Kompres hangat selama 5-10 menit
+2. Medikamentosa
+Apabila ditemukan ulkus pada kelopak mata, dapat diberikan salep atau
+tetes mata antibiotik hingga gejala menghilang.
+Konseling & Edukasi
+1. Memberikan informasi kepada pasien dan keluarga bahwa kulit kepala, alis
+mata, dan tepi palpebra harus selalu dibersihkan terutama pada pasien
+dengan dermatitis seboroik.
+2. Memberitahu pasien dan keluarga untuk menjaga higiene personal dan
+lingkungan.
+Kriteria Rujukan
+Pasien dengan blefaritis perlu dirujuk ke layanan sekunder (dokter spesialis
+mata) bila terdapat minimal satu dari kelainan di bawah ini:
+1. Tajam penglihatan menurun
+2. Nyeri sedang atau berat
+3. Kemerahan yang berat atau kronis
+4. Terdapat keterlibatan kornea
+5. Episode rekuren
+6. Tidak respon terhadap terapi
+Peralatan
+1. Senter
+2. Lup
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+172
+
+Referensi
+1. Gondhowiardjo, T.D. Simanjuntak, G. Panduan Manajemen Klinis
+th
+Perdami, 1 Ed. Jakarta: CV Ondo. 2006.
+2. Riordan. Paul, E. Whitcher, John P. Vaughan & Asbury Oftalmologi Umum.
+Ed 17. Jakarta: EGC. 2009.
+3. Sidarta, I. Ilmu Penyakit Mata. Edisi III. Cetakan V. Jakarta: Balai Penerbit
+FK UI. 2008.
+4. Vaughan, D.G. Oftalmologi Umum. Ed 14. Cetakan I. Jakarta: Widya
+Medika. 2000.

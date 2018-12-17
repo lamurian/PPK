@@ -1,0 +1,162 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+16. Episkleritis
+No ICPC-2
+No ICD-10
+Tingkat Kemampuan
+
+: F99. Eye / adnexa disease, other
+: H15.1. Episcleritis
+: 4A
+
+Masalah Kesehatan
+Episkleritis merupakan reaksi radang pada episklera, yaitu jaringan ikat
+vaskular yang terletak di antara konjungtiva dan permukaan sklera. Penyakit
+ini termasuk dalam kelompok “mata merah dengan penglihatan normal”. Tidak
+ada data yang spesifik mengenai tingkat insiden episkleritis di Indonesia.
+Episkleritis umumnya terjadi pada usia 20-50 tahun dan membaik dalam
+beberapa hari sampai beberapa minggu. Umumnya, episkleritis bersifat ringan,
+namun dapat pula merupakan tanda adanya penyakit sistemik, seperti
+tuberkulosis, reumatoid artritis, dan systemic lupus erythematosus (SLE).
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Mata merah merupakan gejala utama atau satu-satunya
+2. Tidak ada gangguan dalam ketajaman penglihatan
+3. Keluhan penyerta lain, misalnya: rasa kering, nyeri, mengganjal, atau
+berair. Keluhan-keluhan tersebut bersifat ringan dan tidak mengganggu
+aktifitas sehari-hari. Bila keluhan dirasakan amat parah, maka perlu
+dipikirkan diagnosis lain
+4. Keluhan biasanya mengenai satu mata dan dapat berulang pada mata
+yang sama atau bergantian
+5. Keluhan biasanya bersifat akut, namun dapat pula berlangsung beberapa
+minggu hingga beberapa bulan
+
+194
+
+6. Dapat ditemukan gejala-gejala terkait penyakit dasar, di antaranya:
+tuberkulosis, reumatoid artritis, SLE, alergi (misal: eritema nodosum), atau
+dermatitis kontak
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Episkleritis terbagi menjadi dua tipe, yaitu nodular dan simpel. Secara umum,
+tanda dari episkleritis adalah:
+1. Kemerahan hanya melibatkan satu bagian dari area episklera. Pada
+penyinaran dengan senter, tampak warna pink seperti daging salmon,
+sedangkan pada skleritis warnanya lebih gelap dan keunguan.
+2. Kemerahan pada episkleritis disebabkan oleh kongesti pleksus episklera
+superfisial dan konjungtival, yang letaknya di atas dan terpisah dari lapisan
+sklera dan pleksus episklera profunda di dalamnya. Dengan demikian,
+pada episkleritis, penetesan Fenil Efedrin 2,5% akan mengecilkan kongesti
+dan mengurangi kemerahan; sesuatu yang tidak terjadi pada skleritis.
+3. Pada episkleritis nodular, ditemukan nodul kemerahan berbatas tegas di
+bawah konjungtiva. Nodul dapat digerakkan. Bila nodul ditekan dengan
+kapas atau melalui kelopak mata yang dipejamkan di atasnya, akan timbul
+rasa sakit yang menjalar ke sekitar mata.
+4. Hasil pemeriksaan visus dalam batas normal.
+5. Dapat ditemukan mata yang berair, dengan sekret yang jernih dan encer.
+Bila sekret tebal, kental, dan berair, perlu dipikirkan diagnosis lain.
+6. Pemeriksaan status generalis harus dilakukan untuk memastikan tandatanda penyakit sistemik yang mungkin mendasari timbulnya episkleritis,
+seperti tuberkulosis, reumatoid artritis, SLE, eritema nodosum, dermatitis
+kontak. Kelainan sistemik umumnya lebih sering menimbulkan episkleritis
+nodular daripada simpel.
+
+(a)
+
+(b)
+
+Gambar 4.5 Tampilan episkleritis simpel (a) dan nodular (b)
+Penegakan Diagnosis (Assessment)
+Diagnosis dapat ditegakkan dengan anamnesis dan pemeriksaan fisis
+sebagaimana dijelaskan dalam bagian sebelumnya.
+
+195
+
+Diagnosis banding:
+1. Konjungtivitis
+2. Skleritis
+Cara membedakan episkleritis dengan skleritis adalah dengan melakukan tes
+Fenil Efrin 2,5% (tetes mata), yang merupakan vasokonstriktor. Pada
+episkleritis, penetesan Fenil Efrin 2,5% akan mengecilkan kongesti dan
+mengurangi kemerahan (blanching / memucat); sedangkan pada skleritis
+kemerahan menetap.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Non-medikamentosa
+a. Bila terdapat riwayat yang jelas mengenai paparan zat eksogen,
+misalnya alergen atau iritan, maka perlu dilakukan avoidance untuk
+mengurangi progresifitas gejala dan mencegah rekurensi.
+b. Bila terdapat gejala sensitifitas terhadap cahaya, penggunaan
+kacamata hitam dapat membantu.
+2. Medikamentosa
+a. Episkleritis simpel biasanya tidak membutuhkan pengobatan khusus.
+b. Gejala ringan hingga sedang dapat diatasi dengan tetes air mata
+buatan.
+c. Gejala berat atau yang memanjang dan episkleritis nodular dapat
+diatasi dengan tetes mata kortikosteroid, misalnya: Prednisolon 0,5%,
+Deksametason 0,1%, atau Betametason 0,1%.
+d. Episkleritis nodular yang tidak membaik dengan obat topikal, dapat
+diberikan
+anti-inflamasi
+non-steroid
+(NSAID),
+misalnya
+Ibuprofen.Konseling dan Edukasi
+Dokter perlu memberikan informasi kepada pasien mengenai penyakit
+yang dideritanya, serta memberikan reassurance dan informasi yang
+relevan, di antaranya tentang natur penyakit yang ringan, umumnya selflimited, dan hal-hal yang pasien dapat lakukan untuk menyembuhkan
+penyakitnya.
+Peralatan
+1.
+2.
+3.
+4.
+
+Snellen chart
+Lampu senter
+Kapas bersih
+Tetes mata vasokontriktor: Fenil Efrin 2,5%
+
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Dubia ad bonam
+
+196
+
+Referensi
+1. Galor, A. & Jeng, B.H., 2008. Red Eye for the Internist: When to Treat,
+When to Refer. Cleveland Clinic Journal of Medicine, 75(2), pp.137–44.
+Available at: http://www.ncbi.nlm.nih.gov/pubmed/18290357. (Galor &
+Jeng, 2008)
+2. Ilyas, S., 2005. Ilmu Penyakit Mata 3rd ed., Jakarta: Balai Penerbit FKUI.
+3. Sims, J., 2012. Scleritis: Presentations, Disease Associations and
+Management. Postgraduate Medical Journal, 88(1046), pp.713–8.
+Available at: http://www.ncbi.nlm.nih.gov/pubmed/22977282 [Accessed
+May 27, 2014]. (Sims, 2012)
+4. Watson, P., Hayreh, S. & Awdry, P., 1968. Episcleritis and Scleritis I.
+British Journal Ophthalmology, 52, pp.278–279. (Watson, et al., 1968)
+Sumber Gambar : http://www.studyblue.com

@@ -1,0 +1,267 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+Lupus Eritematosus Sistemik
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: L99 Systemic Lupus Erythematosus
+: M32 Systemic Lupus Erythematosus
+: 3A
+
+Masalah Kesehatan
+Lupus Eritematosus Sistemik (LES) telah menjadi salah satu penyakit reumatik
+utama di dunia dalam 30 tahun terakhir. Prevalensi LES di berbagai negara
+sangat bervariasi antara 2,9/100.000-400/100.000 dan terutama menyerang
+wanita usia reproduktif yaitu 15-40 tahun. Rasio wanita dibandingkan pria
+berkisar antara (5,5-9):1. Berdasarkan penelitian di RS Cipto Mangunkusumo
+Jakarta antara tahun 1988-1990 insidensi rata-rata adalah 37,7 per 10.000
+perawatan.
+Hasil Anamnesis (Subjective)
+Keluhan
+Manifestasi klinik LES sangat beragam dan seringkali tidak terjadi saat
+bersamaan. Keluhan awal dapat berupa:
+1. Kelelahan
+2. Nyeri sendi yang berpindah-pindah
+3. Rambut rontok
+4. Ruam pada wajah
+5. Sakit kepala
+6. Demam
+7. Ruam kulit setelah terpapar sinar matahari
+8. Gangguan kesadaran
+9. Sesak
+10. Edema anasarka
+Keluhan-keluhan tersebut akhirnya akan berkembang sesuai manifestasi
+organ yang terlibat pada LES.
+Faktor Risiko
+Pasien dengan gejala klinis yang mendukung dan memiliki riwayat keluarga
+yang menderita penyakit autoimun meningkatkan kecurigaan adanya LES.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Hampir seluruh sistem organ dapat terlibat dalam LES. Manifestasi yang
+umum didapatkan antara lain:
+1. Gejala konstitusional, misalnya: kelelahan, demam (biasanya tidak disertai
+menggigil), penurunan berat badan, rambut rontok, bengkak, dan sakit
+kepala.
+2. Manifestasi muskuloskeletal dijumpai lebih dari 90%, misalnya: mialgia,
+artralgia atau artritis (tanpa bukti jelas inflamasi sendi).
+
+83
+
+3. Manifestasi mukokutaneus, misalnya ruam malar/ruam kupu-kupu,
+fotosensitifitas, alopecia, dan ruam diskoid.
+4. Manifestasi paru, misalnya pneumonitis (sesak, batuk kering, ronkhi di
+basal), emboli paru, hipertensi pulmonum, dan efusi pleura.
+5. Manifestasi kardiologi, misalnya Pleuropericardial friction rubs, takipneu,
+murmur sistolik, gambaran perikarditis, miokarditis dan penyakit jantung
+koroner.
+6. Manifestasi renal dijumpai pada 40-75% penderita setelah 5 tahun
+menderita lupus, misalnya hipertensi, hematuria, edema perifer, dan
+edema anasarka.
+7. Manifestasi gastrointestinal umumnya merupakan keterlibatan berbagai
+organ dan akibat pengobatan, misalnya mual, dispepsia, nyeri perut, dan
+disfagi.
+8. Manifestasi neuropsikiatrik misalnya kejang dan psikosis.
+9. Manifestasi hematologi, misalnya leukopeni, lymphopenia, anemia atau
+trombositopenia.
+Pemeriksaan Penunjang
+1. Laboratorium
+a. Pemeriksaan DPL (darah perifer lengkap) dengan hitung diferensial
+dapat menunjukkan leukopeni, trombositopeni, dan anemia.
+b. Pemeriksaan serum kreatinin menunjukkan peningkatan serum
+kreatinin.
+c. Urinalisis menunjukkan adanya eritrosit dan proteinuria.
+2. Radiologi
+X-ray Thoraks dapat menunjukkan adanya efusi pleura.
+Penegakan Diagnosis (Assessment)
+Diagnosis Klinis
+Diagnosis LES dapat ditegakkan berdasarkan gambaran klinik dan
+laboratorium. Berdasarkan American College of Rheumatology (ACR) tahun
+1982, LES dapat ditegakkan bila didapatkan 4 dari 11 kriteria yang terjadi
+secara bersamaan atau dengan tenggang waktu.
+
+84
+
+Tabel. 2.4 Kriteria Diagnosis LES berdasarkan American College of
+Rheumatology
+Kriteria
+Batasan
+Ruam malar
+Ruam diskoid
+
+Fotosensitifitas
+
+Ulkus mulut
+Artritis non-erosif
+Pleuritis
+atau perikarditis
+
+Gangguan renal
+
+Gangguan neurologi
+
+Gangguan hematologic
+
+Gangguan imunologik
+
+Antibodi
+antinuklear
+positif (ANA)
+
+Eritema menetap, datar atau menonjol, pada malar eminence
+dan lipat nasolabial.
+Bercak eritema menonjol dengan gambaran LES keratotik
+dan sumbatan folikular. Pada LES lanjut dapat ditemukan
+parut atrofik.
+Ruam kulit yang diakibatkan reaksi abnormal terhadap sinar
+matahari, baik dari anamnesis pasien atau yang dilihat oleh
+dokter pemeriksa.
+Ulkus mulut atau orofaring, umumnya tidak nyeri dan dilihat
+oleh dokter pemeriksa.
+Melibatkan dua atau lebih sendi perifer, ditandai oleh rasa
+nyeri, bengkak dan efusi.
+a. Pleuritis-riwayat nyeri pleuritik atau pleuritic friction rub
+yang didengar oleh dokter pemeriksa atau bukti efusi
+pleura atau
+b. Perikarditis-bukti rekaman EKG atau pleuritic friction rub
+yang didengar oleh dokter pemeriksa atau bukti efusi
+perikardial.
+a. Protein urin menetap >0,5 gram per hari atau >3+ atau
+b. Cetakan selular- dapat eritrosit, hemoglobin, granular,
+tubular atau gabungan.
+a. Kejang- tanpa disebabkan obat-obatan atau gangguan
+metabolik,
+misalnya
+uremia,
+ketoasidosis,
+atau
+ketidakseimbangan elektrolit atau
+b. Psikosis-tanpa disebabkan obat-obatan atau gangguan
+metabolik,
+misalnya
+uremia,
+ketoasidosis,
+atau
+ketidakseimbangan elektrolit.
+a. Anemia hemolitik dengan retikulosis atau
+3
+b. Leukopenia- <4.000/mm pada dua kali pemeriksaan atau
+3
+c. Limfopenia- <1.500/mm pada dua kali pemeriksaan atau
+3
+d. Trombositopenia- <100.000/mm tanpa disebabkan obatobatan.
+a. Anti-DNA: antibodi terhadap native DNA dengan titer yang
+abnormal atau
+b. Anti-Sm: terdapatnya antibodi terhadap antigen nuklear
+Sm atau
+c. Temuan positif terhadap antibodi antifosfolipid yang
+didasarkan atas: 1) kadar serum antibodi antikardiolipin
+abnormal baik IgG atau IgM, 2) Tes lupus antikoagulan
+positif menggunakan metoda standar, atau 3) hasil tes
+positif palsu paling tidak selama 6 bulan dan dikonfirmasi
+dengan tes imobilisasi Treponema pallidum atau tes
+fluoresensi absorbsi antibodi treponemal.
+Titer positif dari antibodi antinuklear berdasarkan
+pemeriksaan imunofluoresensi atau pemeriksaan setingkat
+pada setiap kurun waktu perjalanan penyakit tanpa
+keterlibatan obat.
+
+85
+
+Diagnosis Banding
+1. Mixed connective tissue disease
+2. Sindrom vaskulitis
+Komplikasi
+1. Anemia hemolitik
+2. Trombosis
+3. Lupus serebral
+4. Nefritis lupus
+5. Infeksi sekunder
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Penatalaksanaan berupa terapi konservatif
+Pemberian analgetik sederhana atau obat antiinflamasi non steroid, misalnya
+parasetamol 3-4 x 500-1000 mg, atau ibuprofen 400-800 mg 3-4 kali perhari,
+natrium diklofenak 2-3 x 25-50 mg/hari pada keluhan artritis, artralgia dan
+mialgia.
+Rencana Tindak Lanjut
+1. Segera dirujuk ke layanan sekunder untuk penegakan diagnosis pasti
+kecuali pada lupus berat misalnya yang mengancam nyawa dapat dirujuk
+ke layanan tersier terdekat.
+2. Pemeriksaan laboratorium dan follow-up secara berkelanjutan diperlukan
+untuk memonitor respon atau efek samping terapi serta keterlibatan organ
+baru.
+3. Keterlibatan berbagai organ pada LES memerlukan penanganan dari
+berbagai bidang misalnya spesialis reumatologi, neurologi, nefrologi,
+pulmonologi, kardiologi, dermatologi, serta hematologi.
+Konseling dan Edukasi
+Konseling dan edukasi diberikan oleh dokter setelah menerima rujukan balik
+dari layanan sekunder
+1. Intervensi psikososial dan penyuluhan langsung pada pasien dan
+keluarganya.
+2. Menyarankan pasien untuk bergabung dalam kelompok penyandang lupus
+3. Pasien disarankan untuk tidak terlalu banyak terpapar sinar matahari dan
+selalu menggunakan krem pelindung sinar matahari, baju lengan panjang
+serta menggunakan payung.
+4. Pemantauan dan penjelasan mengenai efek penggunaan steroid jangka
+panjang terhadap pasien.
+5. Pasien diberi edukasi agar berobat teratur dan bila ada keluhan baru untuk
+segera berobat.
+
+86
+
+Kriteria Rujukan
+1. Setiap pasien yang di diagnosis sebagai LES atau curiga LES harus
+dirujuk ke dokter spesialis penyakit dalam atau spesialis anak untuk
+memastikan diagnosis
+2. Pada pasien LES manifestasi berat atau mengancam nyawa perlu segera
+dirujuk ke pelayanan kesehatan tersier bila memungkinkan.
+Peralatan
+1. Laboratorium untuk pemeriksaan DPL, urinalisis, dan fungsi ginjal
+2. Radiologi: X-ray Thoraks
+Prognosis
+Prognosis pasien LES sangat bervariasi bergantung pada keterlibatan
+organnya. Sekitar 25% pasien dapat mengalami remisi selama beberapa
+tahun, tetapi hal ini jarang menetap. Prognosis buruk (50% mortalitas dalam 10
+tahun) terutama berkaitan dengan keterlibatan ginjal. Penyebab utama
+mortalitas umumnya gagal ginjal, infeksi, serta tromboemboli.
+Referensi
+1. Rani AA, Soegondo S, Nasir AUZ, Wijaya IP, Nafrialdi, Mansjoer A (ed).
+Panduan Pelayanan Medik Perhimpunan Dokter Spesialis Penyakit Dalam
+Indonesia. Pusat Penerbitan Departemen IPD FKUI. Jakarta. 2008. hlm
+127-128. (Rani, et al., 2008)
+2. Isbagio H, Albar Z, Kasjmir YI, Setiyohadi B. Lupus Eritematosus Sistemik.
+Buku Ajar Ilmu Penyakit Dalam Jilid II. Pusat Penerbitan Departemen IPD
+FKUI. Jakarta. 2006. (Sudoyo, et al., 2006)
+3. Longmore M, Wilkinson I, Turmezei T, Cheung CK (ed). Oxford handbook
+th
+of clinical medicine. 7 edition. Oxford University Press. Oxford. 2008. hlm
+540-541. (Longmore, et al., 2008)
+th
+4. Fauci AS (ed). Harrison’s Manual of Medicine. 17 edition. McGraw Hill
+Medical. USA. 2009. hlm 885-886. (Braunwald, et al., 2009)
+5. Petri M, et al. derivation and validation of the Systemic Lupus International
+Collborating Clinics classification criteria for systemic lupus eritematosus.
+Arthritis and Rheumatism. 2012 Aug;64(8):2677-86. (Petri, et al., 2012)

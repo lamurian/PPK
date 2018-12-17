@@ -1,0 +1,152 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+18. Ankilostomiasis (infeksi Cacing Tambang)
+No. ICPC II
+No. ICD X
+Tingkat Kemampuan
+
+: D96 Worms/other parasites
+: B76.0 Ankylostomiasis
+B76.1 Necatoriasis
+: 4A
+
+Masalah Kesehatan
+Penyakit cacing tambang adalah suatu penyakit yang disebabkan oleh
+infestasi parasit Necator americanus dan Ancylostoma duodenale. Di
+Indonesia infeksi oleh N. americanus lebih sering dijumpai dibandingkan
+infeksi oleh A.duodenale. Hospes parasit ini adalah manusia, cacing ini
+menyebabkan nekatoriasis dan ankilostomiasis. Diperkirakan sekitar 576 –
+740 juta orang di dunia terinfeksi dengan cacing tambang. Di Indonesia insiden
+tertinggi ditemukan terutama didaerah pedesaan khususnya perkebunan.
+Seringkali golongan pekerja perkebunan yang langsung berhubungan dengan
+tanah, mendapat infeksi lebih dari 70%. Dari suatu penelitian diperoleh bahwa
+separuh dari anak-anak yang telah terinfeksi sebelum usia 5 tahun, 90%
+terinfeksi pada usia 9 tahun. Intensitas infeksi meningkat sampai usia 6-7
+tahun dan kemudian stabil.
+Hasil Anamnesis (Subjective)
+Keluhan
+Migrasi larva
+1. Sewaktu menembus kulit, bakteri piogenik dapat terikut masuk pada saat
+larva menembus kulit, menimbulkan rasa gatal pada kulit (ground itch).
+Creeping eruption (cutaneous larva migrans), umumnya disebabkan larva
+cacing tambang yang berasal dari hewan seperti kucing ataupun anjing,
+tetapi kadang-kadang dapat disebabkan oleh larva Necator americanus
+ataupun Ancylostoma duodenale.
+2. Sewaktu larva melewati paru, dapat terjadi pneumonitis, tetapi tidak
+sesering oleh larva Ascaris lumbricoides.
+Cacing dewasa
+Cacing dewasa umumnya hidup di sepertiga bagian atas usus halus dan
+melekat pada mukosa usus. Gejala klinis yang sering terjadi tergantung pada
+berat ringannya infeksi; makin berat infeksi manifestasi klinis yang terjadi
+semakin mencolok seperti :
+1. Gangguan gastro-intestinal yaitu anoreksia, mual, muntah, diare,
+penurunan berat badan, nyeri pada daerah sekitar duodenum, jejunum dan
+ileum.
+2. Pada pemeriksaan laboratorium, umumnya dijumpai anemia hipokromik
+mikrositik.
+3. Pada anak, dijumpai adanya korelasi positif antara infeksi sedang dan
+berat dengan tingkat kecerdasan anak.
+
+151
+
+Bila penyakit berlangsung kronis, akan timbul gejala anemia, hipoalbuminemia
+dan edema. Hemoglobin kurang dari 5 g/dL dihubungkan dengan gagal
+jantung dan kematian yang tiba-tiba. Patogenesis anemia pada infeksi cacaing
+tambang tergantung pada 3 faktor yaitu:
+1. Kandungan besi dalam makanan
+2. Status cadangan besi dalam tubuh pasien
+3. Intensitas dan lamanya infeksi
+Faktor Risiko
+1. Kurangnya penggunaan jamban keluarga
+2. Kebiasaan menggunakan tinja sebagai pupuk
+3. Tidak menggunakan alas kaki saat bersentuhan dengan tanah
+4. Perilaku hidup bersih dan sehat yang kurang.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Gejala dan tanda klinis infestasi cacing tambang bergantung pada jenis
+spesies cacing, jumlah cacing, dan keadaan gizi penderita.
+Pemeriksaan Fisik
+1. Konjungtiva pucat
+2. Perubahan pada kulit (telapak kaki) bila banyak larva yang menembus
+kulit, disebut sebagai ground itch.
+Pemeriksaan Penunjang
+Pemeriksaan mikroskopik pada tinja segar ditemukan telur atau larva atau
+cacing dewasa.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan
+pemeriksaan penunjang.
+Klasifikasi:
+1. Nekatoriasis
+2. Ankilostomiasis
+Diagnosis Banding: Komplikasi: anemia, jika menimbulkan perdarahan.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Memberi pengetahuan kepada masyarakat akan pentingnya kebersihan
+diri dan lingkungan, antara lain:
+a. Masing-masing keluarga memiliki jamban keluarga.
+b. Tidak menggunakan tinja sebagai pupuk
+c. Menggunakan alas kaki, terutama saat berkontak dengan tanah.
+
+152
+
+2. Farmakologis
+a. Pemberian Pirantel pamoat dosis tunggal 10 mg/kgBB, atau
+b. Mebendazole 100 mg, 2x sehari, selama 3 hari berturut-turut, atau
+c. Albendazole untuk anak di atas 2 tahun 400 mg, dosis tunggal,
+sedangkan pada anak yang lebih kecil diberikan dengan dosis
+separuhnya. Tidak diberikan pada wanita hamil. Creeping eruption:
+tiabendazol topikal selama 1 minggu. Untuk cutaneous laeva migrans
+pengobatan dengan Albendazol 400 mg selama 5 hari berturut-turut.
+d. Sulfasferosus
+Konseling dan Edukasi
+Memberikan informasi kepada pasien dan keluarga mengenai pentingnya
+menjaga kebersihan diri dan lingkungan, yaitu antara lain:
+1. Sebaiknya masing-masing keluarga memiliki jamban keluarga. Sehingga
+kotoran manusia tidak menimbulkan pencemaran pada tanah disekitar
+lingkungan tempat tinggal kita.
+2. Tidak menggunakan tinja sebagai pupuk.
+3. Menghindari kontak dengan tanah yang tercemar oleh tinja manusia.
+4. Menggunakan sarung tangan jika ingin mengelola limbah/sampah.
+5. Mencuci tangan sebelum dan setelah melakukkan aktifitas dengan
+menggunakan sabun dan air mengalir.
+6. Menggunakan alas kaki saat berkontak dengan tanah.
+Kriteria Rujukan: Peralatan
+1. Peralatan laboratorium mikroskopis sederhana untuk pemeriksaan
+spesimen tinja.
+2. Peralatan laboratorium sederhana untuk pemeriksaan darah rutin.
+Prognosis
+Penyakit ini umumnya memiliki prognosis bonam, jarang menimbulkan kondisi
+klinis yang berat, kecuali terjadi perdarahan dalam waktu yang lama sehingga
+terjadi anemia.
+Referensi
+1. Gandahusada, S. 2000. Parasitologi Kedokteran. Edisi ketiga. Jakarta.
+Balai Penerbit Fakultas Kedokteran Universitas Indonesia. (Gandahusada,
+2000)
+2. Written for World Water Day. 2001. Reviewed by staff and experts from the
+cluster on Communicable Diseases (CDS) and Water, Sanitation and
+Health unit (WSH), World Health Organization (WHO).
+3. King CH. Hookworms. In: Berhman RE, Kliegman RM, Arvin AM, editors.
+th
+Nelson’s Tetxbook of Pediatrics. 19 ed. Philadelphia: W.B.Saunders
+Company; 2012. p.1000-1.

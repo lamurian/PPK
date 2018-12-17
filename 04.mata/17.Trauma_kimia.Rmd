@@ -1,0 +1,131 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+17. Trauma Kimia Mata
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: F79 Injury eye other
+: T26Burn and corrosion confined to eye and adnexa
+: 3A
+
+Masalah Kesehatan
+Trauma kimia mata adalah salah satu kasus kedaruratan mata, umumnya
+terjadi karena masuknya zat-zat kimia ke jaringan mata dan adneksa di
+sekitarnya. Keadaan ini memerlukan penanganan cepat dan segera oleh
+karena dapat mengakibatkan kerusakan berat pada jaringan mata dan
+menyebabkan kebutaan. Zat kimia penyebab dapat bersifat asam atau basa.
+Trauma basa terjadi dua kali lebih sering dibandingkan trauma asam dan
+umumnya menyebabkan kerusakan yang lebih berat pada mata. Selain itu,
+beratnya kerusakan akibat trauma kimia juga ditentukan oleh besarnya area
+yang terkena zat kimia serta lamanya pajanan.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Mata merah, bengkak dan iritasi
+2. Rasa sakit pada mata
+3. Penglihatan buram
+4. Sulit membuka mata
+5. Rasa mengganjal pada mata
+Faktor Risiko
+Pajanan terhadap zat kimia yang sering menjadi penyebab trauma antara lain
+detergen, desinfektan, pelarut kimia, cairan pembersih rumah tangga, pupuk,
+pestisida, dan cairan aki. Anamnesis perlu dilakukan untuk mengetahui zat
+kimia penyebab trauma, lama kontak dengan zat kimia, tempat dan kronologis
+
+197
+
+kejadian, adanya kemungkinan kejadian kecelakaan di tempat kerja atau
+tindak kriminal, serta penanganan yang sudah dilakukan sebelumnya.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Dengan bantuan senter dan lup, dapat ditemukan kelainan berikut ini:
+1. Hiperemia konjungtiva
+2. Defek epitel kornea dan konjungtiva
+3. Iskemia limbus kornea
+4. Kekeruhan kornea dan lensa
+Pemeriksaan visus menunjukkan ada penurunan ketajaman penglihatan. Bila
+tersedia, dapat dilakukan tes dengan kertas lakmus untuk mengetahui zat
+kimia penyebab
+1. Bila kertas lakmus terwarnai merah, maka zat penyebab bersifat asam
+2. Bila kertas lakmus terwarnai biru, maka zat penyebab bersifat basa
+Pemeriksaan Penunjang
+Tidak diperlukan
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan melalui anamnesis dan pemeriksaan fisis.
+Komplikasi
+1. Simblefaron
+2. Hipotoni bola mata
+3. Ptisis bulbi
+4. Entropion
+5. Katarak
+6. Neovaskularisasi kornea
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Segera lakukan irigasi mata yang terkena zat kimia dengan cairan
+mengalir sebanyak mungkin dan nilai kembali dengan kertas lakmus.
+Irigasi terus dilakukan hingga tidak terjadi pewarnaan pada kertas lakmus.
+2. Lakukan eversi pada kelopak mata selama irigasi dan singkirkan debris
+yang mungkin terdapat pada permukaan bola mata atau pada forniks.
+3. Setelah irigasi selesai dilakukan, nilai tajam penglihatan, kemudian rujuk
+segera ke dokter spesialis mata di fasilitas sekunder atau tersier.
+Konseling & Edukasi
+Anjuran untuk menggunakan pelindung (kacamata / goggle, sarung tangan,
+atau masker) pada saat kontak dengan bahan kimia
+
+198
+
+Kriteria Rujukan
+Setelah penanganan awal dengan irigasi, rujuk pasien ke dokter spesialis mata
+untuk tatalaksana lanjut
+Peralatan
+1.
+2.
+3.
+4.
+5.
+
+Lup
+Senter
+Lidi kapas
+Kertas lakmus (jika memungkinkan)
+Cairan fisiologis untuk irigasi
+
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Dubia
+: Dubia
+
+Referensi
+1. Sidarta, I. Ilmu Penyakit Mata. Edisi III. Cetakan V. Jakarta: Balai Penerbit
+FK UI. 2008.
+2. Vaughan, D.G. Oftalmologi Umum. Ed 14. Cetakan I. Jakarta: Widya
+Medika. 2000.
+3. Ehlers JP, Shah CP, editors. The Wills Eye Manual-office and emergency
+room diagnosis and treatment of eye disease. 5th edition. Philadelphia:
+Lippincott Williams and Wilkins; 2008. (Ehlers & Shah, 2008)

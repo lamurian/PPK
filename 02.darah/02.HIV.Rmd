@@ -1,0 +1,245 @@
+---
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+No. ICPC-2	: B90 *HIV-infection/AIDS*  
+No. ICD-10	: Z21 *Asymptomatic Human Immunodeficiency Virus (HIV) infection status*  
+**Kompetensi	: 4A**
+
+## Masalah Kesehatan
+
+Masalah HIV/AIDS adalah masalah besar yang mengancam Indonesia dan banyak
+negara di dunia serta menyebabkan krisis multidimensi. Berdasarkan hasil
+estimasi Departemen Kesehatan tahun 2006 diperkirakan terdapat 169.000-216.000
+orang dengan HIV dan AIDS di Indonesia. Program bersama UNAIDS dan WHO
+memperkirakan sekitar 4,9 juta orang hidup dengan HIV di Asia.
+
+## *Subjective*
+
+### Keluhan
+
+Infeksi HIV tidak akan langsung memperlihatkan gejala atau keluhan tertentu.
+Pasien datang dapat dengan keluhan:
+
+1. Demam (suhu >37,5$$&o$$ C) terus menerus atau intermiten lebih dari satu
+   bulan.
+2. Diare yang terus menerus atau intermiten lebih dari satu bulan.
+3. Keluhan disertai kehilangan berat badan (BB) >10% dari berat badan dasar.
+4. Keluhan lain bergantung dari penyakit yang menyertainya.
+
+### Faktor risiko
+
+1. Penjaja seks laki-laki atau perempuan
+2. Pengguna NAPZA suntik
+3. Laki-laki yang berhubungan seks dengan sesama laki-laki dan transgender
+4. Hubungan seksual yang berisiko atau tidak aman
+5. Pernah atau sedang mengidap penyakit infeksi menular seksual (IMS)
+6. Pernah mendapatkan transfusi darah
+7. Pembuatan tato dan atau alat medis/alat tajam yang tercemar HIV
+8. Bayi dari ibu dengan HIV/AIDS
+9. Pasangan serodiskordan – salah satu pasangan positif HIV
+
+## *Objective*
+
+### Pemeriksaan Fisik
+
+1. Keadaan Umum
+   * Berat badan turun
+   * Demam
+2. Kulit
+   * Tanda-tanda masalah kulit terkait HIV misalnya kulit kering dan dermatitis
+     seboroik
+   * Tanda-tanda herpes simpleks dan zoster atau jaringan parut bekas herpes
+     zoster
+1. Pembesaran kelenjar getah bening
+1. Mulut: kandidiasis oral, oral hairy leukoplakia, keilitis angularis
+1. Dada: dapat dijumpai ronki basah akibat infeksi paru
+1. Abdomen: hepatosplenomegali, nyeri, atau massa
+1. Anogenital: tanda-tanda herpes simpleks, duh vagina atau uretra
+1. Neurologi: tanda neuropati dan kelemahan neurologis
+
+### Pemeriksaan penunjang
+
+1. Laboratorium
+   * Hitung jenis leukosit : Limfopenia dan CD4 hitung <350 (CD4 sekitar 30% dari
+     jumlah total limfosit)
+   * Tes HIV menggunakan strategi III yatu menggunakan 3 macam tes dengan titik
+     tangkap yang berbeda, umumnya dengan ELISA dan dikonfirmasi Western Blot
+   * Pemeriksaan DPL
+2. Radiologi: X-ray torak
+
+Sebelum melakukan tes HIV perlu dilakukan konseling sebelumnya. Terdapat dua
+macam pendekatan untuk tes HIV.
+
+1. Konseling dan tes HIV sukarela (KTS-VCT = Voluntary Counseling and Testing)
+2. Tes HIV dan konseling atas inisiatif petugas kesehatan (TIPK – PITC =
+   Provider-Initiated Testing and Counseling)
+
+## *Assessment*
+
+### Diagnosis klinis
+
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik dan hasil tes
+HIV. Stadium klinis harus dinilai pada saat kunjungan awal dan setiap kali
+kunjungan.
+
+| Stadium 1 Asimptomatik                                              |
+|---------------------------------------------------------------------|
+| 1. Tidak ada penurunan BB                                           |
+| 2. Tidak ada gejala atau hanya limfadenopati generalisata persisten |
+
+| Stadium 2 Sakit Ringan                                              |
+|---------------------------------------------------------------------|
+| 1. Penurunan BB bersifat sedang yang tidak diketahui penyebabnya    |
+| (<10% dari perkiraan BB atau BB sebelumnya)                         |
+| 2. ISPA berulang (sinusitis, tonsilitis, otitis media, faringitis)  |
+| 3. Herpes zoster dalam 5 tahun terakhir                             |
+| 4. Keilitis angularis                                               |
+| 5. Ulkus mulut yang berulang                                        |
+| 6. Ruam kulit yang gatal (Papular pruritic eruption)                |
+| 7. Dermatitis seboroik                                              |
+| 8. Infeksi jamur pada kuku                                          |
+
+| Stadium 3 Sakit Sedang                                                   |
+|--------------------------------------------------------------------------|
+| 1. Penurunan berat badan yang tak diketahui penyebabnya (> 10% dari      |
+| perkiraan BB atau BB sebelumnya)                                         |
+| 2. Diare kronis yang tak diketahui penyebabnya lebih dari 1 bulan        |
+| 3. Demam menetap yang tak diketahui penyebabnya                          |
+| 4. Kandidiasis pada mulut yang menetap                                   |
+| 5. Oral hairy leukoplakia                                                |
+| 6. Tuberkulosis paru                                                     |
+| 7. Infeksi bakteri yang berat (contoh: pneumonia, empiema, meningitis,   |
+| piomiositis, infeksi tulang atau sendi, bakteriemia, penyakit inflamasi  |
+| panggul yang berat)                                                      |
+| 8. Stomatitis nekrotikans ulseratif akut, ginggivitis atau periodontitis |
+| 9. Anemia yang tak diketahui penyebabnya (Hb <8g/dL), neutropeni (<0,5   |
+| x 10 g/L) dan/atau trombositopenia kronis (<50 x 10 g/L)                 |
+
+| Stadium 4 Sakit Berat (AIDS)  |                                  |
+|-------------------------------|----------------------------------|
+| 1. Sindrom wasting HIV        | 11. Pneumonia kriptokokus        |
+| 2. Pneumonia pneumocystis     | ekstrapulmoner, termasuk         |
+| jiroveci                      | meningitis                       |
+| 3. Pneumonia bakteri berat    | 12. Infeksi mikobakterium non    |
+| yang berulang                 | tuberkulosis yang menyebar       |
+| 4. Infeksi herpes simpleks    | 13. Leukoencephalopathy          |
+| multifocal progresif          |
+| kronis (orolabial, genital,   | 14. Kriptosporidiosis kronis     |
+| atau anorektal selama lebih   | 15. Isosporiasis kronis          |
+| dari 1 bulan atau viseral di  | 16. Mikosis diseminata           |
+| bagian manapun)               | (histoplasmosis,                 |
+| 5. Kandidiasis esofageal      | coccidiomycosis)                 |
+| (atau kandidiasis trakea,     | 17. Septikemi yang berulang      |
+| bronkus atau paru)            | (termasuk Salmonella nontifoid)  |
+| 6. Tuberkulosis ekstra paru   | 18. Limfoma (serebral atau Sel B |
+| 7. Sarkoma kaposi             | non-Hodgkin)                     |
+| 8. Penyakit sitomegalovirus   | 19. Karsinoma serviks invasif    |
+| (retinitis atau infeksi organ | 20. Leishmaniasis diseminata     |
+| lain, tidak termasuk hati,    | atipikal                         |
+| limpa dan kelenjar getah      | 21. Nefropati atau kardiomiopati |
+| bening)                       | terkait HIV yang simtomatis      |
+| 9. Toksoplasmosis di sistem   |                                  |
+| saraf pusat                   |                                  |
+| 10. Ensefalopati HIV          |                                  |
+
+**Tabel 2.1. Stadium klinis HIV**
+
+### Diagnosis banding
+
+Penyakit gangguan sistem imun
+
+## *Plan*
+
+### Penatalaksanaan
+
+Tatalaksana HIV di layanan primer dapat dimulai apabila penderita HIV sudah
+dipastikan tidak memiliki komplikasi atau infeksi oportunistik yang dapat
+memicu terjadinya sindrom pulih imun. Evaluasi ada tidaknya infeksi
+oportunistik dapat dengan merujuk ke layanan sekunder untuk pemeriksaan lebih
+lanjut karena gejala klinis infeksi pada penderita HIV sering tidak spesifik.
+Untuk memulai terapi antiretroviral perlu dilakukan pemeriksaan jumlah CD4
+(bila tersedia) dan penentuan stadium klinis infeksi HIV.
+
+1. Tidak tersedia pemeriksaan CD4 Penentuan mulai terapi ARV didasarkan pada
+   penilaian klinis.
+2. Tersedia pemeriksaan CD4
+   * Mulai terapi ARV pada semua pasien dengan jumlah CD4 <350 sel/mm$$^3$$ tanpa
+     memandang stadium klinisnya.
+   * Terapi ARV dianjurkan pada semua pasien dengan TB aktif, ibu hamil dan
+     koinfeksi Hepatitis B tanpa memandang jumlah CD4
+
+[Tabel 2.2. Rekomendasi lini pertama pasien yang belum mendapat terapi](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/02_02_p_HIV01.png?raw=true)
+
+[Tabel. 2.3. Dosis antiretroviral untuk ODHA dewasa](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/02_02_p_HIV02.png?raw=true)
+
+### Rencana tindak lanjut
+
+1. Pasien yang belum memenuhi syarat terapi ARV Monitor perjalanan klinis
+   penyakit dan jumlah CD4-nya setiap 6 bulan sekali.
+2. Pemantauan pasien dalam terapi antiretroviral
+   * Pemantauan klinis Dilakukan pada minggu 2, 4, 8, 12 dan 24 minggu sejak
+     memulai terapi ARV dan kemudian setiap 6 bulan bila pasien telah mencapai
+     keadaan stabil.
+   * Pemantauan laboratorium
+   * Pemantauan CD4 secara rutin setiap 6 bulan atau lebih sering bila ada
+     indikasi klinis.
+   * Pasien yang akan memulai terapi dengan AZT maka perlu dilakukan pengukuran
+     kadar Hemoglobin (Hb) sebelum memulai terapi dan pada minggu ke 4, 8 dan
+     12 sejak mulai terapi atau ada indikasi tanda dan gejala anemia
+   * Bila menggunakan NVP untuk perempuan dengan CD4 antara 250–350
+     sel/mm$$^3$$ maka perlu dilakuan pemantauan enzim transaminase pada minggu
+     2, 4, 8 dan 12 sejak memulai terapi ARV (bila memungkinkan), dilanjutkan
+     dengan pemantauan berdasarkan gejala klinis.
+   * Evaluasi fungsi ginjal perlu dilakukan untuk pasien yang mendapatkan TDF.
+
+### Konseling dan edukasi
+
+1. Menganjurkan tes HIV pada pasien TB, infeksi menular seksual (IMS), dan
+   kelompok risiko tinggi beserta pasangan seksualnya, sesuai dengan ketentuan
+   yang berlaku.
+2. Memberikan informasi kepada pasien dan keluarga tentang penyakit HIV/AIDS.
+   Pasien disarankan untuk bergabung dengan kelompok penanggulangan HIV/AIDS
+   untuk menguatkan dirinya dalam menghadapi pengobatan penyakitnya.
+
+### Kriteria rujukan
+
+1. Setelah dinyatakan terinfeksi HIV maka pasien perlu dirujuk ke Pelayanan
+   Dukungan Pengobatan untuk menjalankan serangkaian layanan yang meliputi
+   penilaian stadium klinis, penilaian imunologis dan penilaian virologi.
+2. Pasien HIV/AIDS dengan komplikasi.
+
+### Peralatan
+
+Layanan VCT
+
+## Prognosis
+
+Prognosis sangat tergantung kondisi pasien saat datang dan pengobatan. Terapi
+hingga saat ini adalah untuk memperpanjang masa hidup, belum merupakan terapi
+definitif, sehingga prognosis pada umumnya dubia ad malam.
+
+## Referensi
+
+1. Direktorat Jenderal Pengendalian Penyakit dan Penyehatan Lingkungan. Pedoman
+   Nasional Tatalaksana Infeksi HIV dan Terapi Antiretroviral pada Orang
+   Dewasa.Jakarta: Kemenkes. 2011. (Kementerian Kesehatan Republik Indonesia,
+   2011)
+2. Djoerban Z, Djauzi S. HIV/AIDS di Indonesia. Dalam: Sudoyo AW, Setiyohadi B,
+   Alwi I, Simadibrata M, Setiati S. Buku Ajar Ilmu Penyakit Dalam. 4$$^{th}$$ Ed. 
+   Vol II. Jakarta: Pusat Penerbitan Departemen Ilmu Penyakit Dalam FKUI.
+   2006. hlm 1825-30. (Sudoyo, et al., 2006)

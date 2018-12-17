@@ -1,0 +1,100 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+10. Miopia Ringan
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: F91 Refractive error
+: H52.1 Myopia
+: 4A
+
+Masalah Kesehatan
+Miopia ringan adalah kelainan refraksi dimana sinar sejajar yang masuk ke
+mata dalam keadaan istirahat (tanpa akomodasi) akan dibiaskan ke titik fokus
+di depan retina.
+Hasil Anamnesis (Subjective)
+Keluhan
+Penglihatan kabur bila melihat jauh, mata cepat lelah, pusing dan mengantuk,
+cenderung memicingkan mata bila melihat jauh. Tidak terdapat riwayat
+kelainan sistemik, seperti diabetes mellitus, hipertensi, serta buta senja.
+Faktor Risiko
+Genetik dan faktor lingkungan meliputi kebiasaan melihat/membaca dekat,
+kurangnya aktivitas luar rumah, dan tingkat pendidikan yang lebih tinggi.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Pemeriksaan visus dengan Snellen Chart
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Penegakan diagnosis berdasarkan anamnesis dan pemeriksaan refraksi.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Koreksi dengan kacamata lensa sferis negatif terlemah yang menghasilkan
+tajam penglihatan terbaik
+Konseling dan Edukasi
+1. Membaca dalam cahaya yang cukup dan tidak membaca dalam jarak
+terlalu dekat.
+2. Kontrol setidaknya satu kali dalam setahun untuk pemeriksaan refraksi,
+bila ada keluhan.
+Kriteria rujukan
+1. Kelainan refraksi yang progresif
+2. Kelainan refraksi yang tidak maju dengan koreksi atau tidak ditemukan
+ukuran lensa yang memberikan perbaikan visus
+3. Kelainan yang tidak maju dengan pinhole.
+
+181
+
+Peralatan
+1. Snellen char
+2. Satu set lensa coba dan trial frame
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Referensi
+1. Gondhowiardjo, T.D. Simanjuntak, G. Panduan Manajemen Klinis
+th
+Perdami, 1 Ed. Jakarta: CV Ondo. 2006.
+nd
+2. Grosvenor,T. Primary Care Optometry. 2 Ed. New York: Fairchild
+Publication. 1989. (Grosvenor, 1989)
+nd
+3. Casser, L. Atlas of Primary Eyecare Procedures. 2 Ed. Stamfort
+Connecticut: Appleton&Lange. 1997. (Casser, 1997)
+4. Sidarta, I. Ilmu Penyakit Mata. Edisi III. Cetakan V. Jakarta:Balai Penerbit
+FK UI. 2008. (Ilyas, 2008)
+5. Soewono, W. Kuliah ilmu penyakit mata. RSUD Dr.Soetomo. Surabaya.
+1999. (Soewono, 1999)
+6. RSUD Dr.Soetomo. Pedoman Diagnosis dan Terapi. Bag/SMF Ilmu
+rd
+Penyakit Mata. 3 Ed. 2006 (Bag/SMF Ilmu Penyakit Mata RSUD Dr.
+Soetomo, 2006)
+7. Pan C-W, Ramamurthy D & Saw S-M. Worldwide prevalence and risk
+factors for myopia. Ophthalmic Physiol Opt 2012, 32, 3–16. (Pan, et al.,
+2012)

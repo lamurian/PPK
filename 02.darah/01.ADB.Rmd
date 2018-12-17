@@ -1,0 +1,161 @@
+---
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+No. ICPC-2	: B80 *Iron Deficiency Anaemia*  
+No. ICD-10	: 280 *Iron Deficiency Anemias*  
+**Kompetensi	: 4A**
+
+## Masalah Kesehatan
+
+Anemia secara fungsional didefinisikan sebagai penurunan jumlah massa eritrosit
+sehingga tidak dapat memenuhi fungsinya untuk membawa oksigen dalam jumlah
+cukup ke jaringan perifer. Anemia merupakan masalah medik yang paling sering
+dijumpai di klinik di seluruh dunia. Diperkirakan >30% penduduk dunia menderita
+anemia dan sebagian besar di daerah tropis. Oleh karena itu anemia seringkali
+tidak mendapat perhatian oleh para dokter di klinik.
+
+## *Subjective*
+
+### Keluhan
+
+Pasien datang ke dokter dengan keluhan:
+
+1. Lemah
+2. Lesu
+3. Letih
+4. Lelah
+5. Penglihatan berkunang-kunang
+6. Pusing
+7. Telinga berdenging
+8. Penurunan konsentrasi
+9. Sesak nafas
+
+### Faktor Risiko
+
+1. Ibu hamil
+2. Remaja putri
+3. Status gizi kurang
+4. Faktor ekonomi kurang
+5. Infeksi kronik
+6. Vegetarian
+
+## *Objective*
+
+### Pemeriksaan fisik
+
+1. Gejala umum  
+   Pucat dapat terlihat pada: konjungtiva, mukosa mulut, telapak
+   tangan, dan jaringan di bawah kuku.
+
+2. Gejala anemia defisiensi besi
+   * Disfagia
+   * Atrofi papil lidah
+   * Stomatitis angularis
+   * Koilonikia
+
+### Pemeriksaan penunjang
+
+1. Pemeriksaan darah: hemoglobin (Hb), hematokrit (Ht), leukosit, trombosit,
+   jumlah eritrosit, morfologi darah tepi (apusan darah tepi), MCV, MCH, MCHC,
+   feses rutin, dan urin rutin.
+2. Pemeriksaan Khusus (dilakukan di layanan sekunder) Serum iron, TIBC,
+   saturasi transferin, dan feritin serum.
+
+## *Assessment*
+
+### Diagnosis klinis
+
+Anemia adalah suatu sindrom yang dapat disebabkan oleh penyakit dasar sehingga
+penting menentukan penyakit dasar yang menyebabkan anemia. Diagnosis ditegakkan
+berdasarkan anamnesis, pemeriksaan fisik dan hasil pemeriksaan darah dengan
+kriteria Hb darah kurang dari kadar Hb normal.
+
+Nilai rujukan kadar hemoglobin normal menurut WHO:
+
+1. Laki-laki: >13 g/dL
+2. Perempuan: >12 g/dL
+3. Perempuan hamil: >11 g/dL
+
+### Diagnosis banding
+
+1. Anemia defisiensi vitamin B12
+2. Anemia aplastik
+3. Anemia hemolitik
+4. Anemia pada penyakit kronik
+
+### Komplikasi
+
+1. Penyakit jantung anemia
+2. Pada ibu hamil: BBLR dan IUFD
+3. Pada anak: gangguan pertumbuhan dan perkembangan
+
+## *Plan*
+
+### Penatalaksanaan
+
+Prinsip penatalaksanaan anemia harus berdasarkan diagnosis definitif yang telah
+ditegakkan. Setelah penegakan diagnosis dapat diberikan sulfas ferrosus 3 x 200
+mg (200 mg mengandung 66 mg besi elemental).
+
+### Rencana tindak lanjut
+
+Untuk penegakan diagnosis definitif anemia defisiensi besi memerlukan
+pemeriksaan laboratorium di layananan sekunder dan penatalaksanaan selanjutnya
+dapat dilakukan di layanan primer.
+
+### Konseling dan edukasi
+
+1. Memberikan pengertian kepada pasien dan keluarga tentang perjalanan penyakit
+   dan tata laksananya, sehingga meningkatkan kesadaran dan kepatuhan dalam
+   berobat serta meningkatkan kualitas hidup pasien.
+2. Pasien diinformasikan mengenai efek samping obat berupa mual, muntah,
+   heartburn, konstipasi, diare, serta BAB kehitaman.
+3. Bila terdapat efek samping obat maka segera ke pelayanan kesehatan.
+
+### Kriteria rujukan
+
+1. Anemia tanpa gejala dengan kadar Hb <8 g/dL.
+2. Anemia dengan gejala tanpa melihat kadar Hb segera dirujuk.
+3. Anemia berat dengan indikasi transfusi (Hb <7 g/dL).
+4. Anemia karena penyebab yang tidak termasuk kompetensi dokter layanan primer
+   misalnya anemia aplastik, anemia hemolitik dan anemia megaloblastik.
+5. Jika didapatkan kegawatan (misal perdarahan aktif atau distres pernafasan)
+   pasien segera dirujuk.
+
+### Peralatan
+
+Pemeriksaan laboratorium sederhana (darah rutin, urin rutin, feses rutin).
+
+## Prognosis
+
+Prognosis umumnya dubia ad bonam karena sangat tergantung pada penyakit yang
+mendasarinya. Bila penyakit yang mendasarinya teratasi, dengan nutrisi yang
+baik anemia defisiensi besi dapat teratasi.
+
+## Referensi
+
+1. Braunwald, E. Fauci, A.S. Kasper, D.L. Hauser, S.L. et al.Harrisson’s:
+   Principle of Internal Medicine. 17$$^{th}$$ Ed. New York: McGraw-Hill
+   Companies. 2009. (Braunwald, et al., 2009)
+2. Sudoyo, A.W. Setiyohadi, B. Alwi, I. Simadibrata, M. Setiati, S. Eds. Buku
+   ajar ilmu penyakit dalam. 4$$^{th}$$ Ed. Vol. III. Jakarta: Pusat Penerbitan
+   Departemen Ilmu Penyakit Dalam FKUI. 2006. (Sudoyo, et al., 2006)
+3. Bakta IM. Pendekatan Terhadap Pasien Anemia. Dalam: Sudoyo AW, Setiyohadi B,
+   Alwi I, Simadibrata M, Setiati S. Buku Ajar Ilmu Penyakit Dalam. 4$$^{th}$$
+   Ed. Vol II. Jakarta: Pusat Penerbitan Departemen Ilmu Penyakit Dalam FKUI.
+   2006. hlm 632-36. (Sudoyo, et al., 2006)

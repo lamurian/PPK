@@ -1,0 +1,185 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+14. Apendisitis Akut
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: S87 (Appendicitis)
+: K.35.9 (Acute appendicitis)
+: 3B
+
+Masalah Kesehatan
+Apendisitis akut adalah radang yang timbul secara mendadak pada apendik,
+merupakan salah satu kasus akut abdomen yang paling sering ditemui, dan
+jika tidak ditangani segera dapat menyebabkan perforasi.
+Penyebab:
+1. Obstruksi lumen merupakan faktor penyebab dominan apendisitis akut
+
+138
+
+2. Erosi mukosa usus karena parasit Entamoeba hystolitica dan benda asing
+lainnya
+Hasil Anamnesis(Subjective)
+Keluhan
+Nyeri perut kanan bawah, mula-mula daerah epigastrium kemudian menjalar
+ke Mc Burney. Apa bila telah terjadi inflamasi (>6 jam) penderita dapat
+menunjukkan letak nyeri karena bersifat somatik.
+Gejala Klinis
+1. Muntah (rangsangan viseral) akibat aktivasi nervus vagus.
+2. Anoreksia, nausea dan vomitus yang timbul beberapa jam sesudahnya,
+merupakan kelanjutan dari rasa nyeri yang timbul saat permulaan.
+3. Disuria juga timbul apabila peradangan apendiks dekat dengan vesika
+urinaria.
+4. Obstipasi sebelum datangnya rasa nyeri dan beberapa penderita
+mengalami diare, timbul biasanya pada letak apendiks pelvikal yang
+merangsang daerah rektum.
+5. Gejala lain adalah demam yang tidak terlalu tinggi, yaitu suhu antara
+0
+0
+37,5 C - 38,5 C tetapi bila suhu lebih tinggi, diduga telah terjadi perforasi.
+6. Variasi lokasi anatomi apendiks akan menjelaskan keluhan nyeri somatik
+yang beragam. Sebagai contoh apendiks yang panjang dengan ujung yang
+mengalami inflamasi di kuadran kiri bawah akan menyebabkan nyeri di
+daerah tersebut, apendiks retrosekal akan menyebabkan nyeri flank atau
+punggung, apendiks pelvikal akan menyebabkan nyeri pada supra pubik
+dan apendiks retroileal bisa menyebabkan nyeri testikuler, mungkin karena
+iritasi pada arteri spermatika dan ureter.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Inspeksi
+1. Penderita berjalan membungkuk sambil memegangi perutnya yang sakit
+2. Kembung bila terjadi perforasi
+3. Penonjolan perut kanan bawah terlihat pada appendikuler abses.
+Palpasi
+1. Terdapat nyeri tekan Mc Burney
+2. Adanya rebound tenderness (nyeri lepas tekan)
+3. Adanya defans muscular
+4. Rovsing sign positif
+5. Psoas sign positif
+6. Obturator Sign positif
+Perkusi
+Nyeri ketok (+)
+
+139
+
+Auskultasi
+Peristaltik normal, peristaltik tidak ada pada illeus paralitik karena peritonitis
+generalisata akibat appendisitis perforata.
+Colok dubur
+Nyeri tekan pada jam 9-12
+Tanda Peritonitis umum (perforasi) :
+1. Nyeri seluruh abdomen
+2. Pekak hati hilang
+3. Bising usus hilang
+Apendiks yang mengalami gangren atau perforasi lebih sering terjadi dengan
+gejala-gejala sebagai berikut:
+1. Gejala progresif dengan durasi lebih dari 36 jam
+o
+2. Demam tinggi lebih dari 38,5 C
+3. Lekositosis (AL lebih dari 14.000)
+4. Dehidrasi dan asidosis
+5. Distensi
+6. Menghilangnya bising usus
+7. Nyeri tekan kuadran kanan bawah
+8. Rebound tenderness sign
+9. Rovsing sign
+10. Nyeri tekan seluruh lapangan abdominal
+Pemeriksaan Penunjang
+1. Laboratorium darah perifer lengkap
+a. Pada apendisitis akut, 70-90% hasil laboratorium nilai leukosit dan
+neutrofil akan meningkat.
+b. Pada anak ditemuka lekositosis 11.000-14.000/mm3, dengan
+pemeriksaan hitung jenis menunjukkan pergeseran ke kiri hampir 75%.
+c. Jika jumlah lekosit lebih dari 18.000/mm3 maka umumnya sudah
+terjadi perforasi dan peritonitis.
+d. Pemeriksaan urinalisa dapat digunakan sebagai konfirmasi dan
+menyingkirkan kelainan urologi yang menyebabkan nyeri abdomen.
+e. Pengukuran kadar HCG bila dicurigai kehamilan ektopik pada wanita
+usia subur.
+2. Foto polos abdomen
+a. Pada apendisitis akut, pemeriksaan foto polos abdomen tidak banyak
+membantu..
+b. Padaperadangan lebih luas dan membentuk infiltrat maka usus pada
+bagian kanan bawah akan kolaps.
+c. Dinding usus edematosa, keadaan seperti ini akan tampak pada
+daerah kanan bawah abdomen kosong dari udara.
+d. Gambaran udara seakan-akan terdorong ke pihak lain.
+e. Proses peradangan pada fossa iliaka kanan akan menyebabkan
+kontraksi otot sehingga timbul skoliosis ke kanan.
+
+140
+
+f.
+
+Bila sudah terjadi perforasi, maka pada foto abdomen tegak akan
+tampak udara bebas di bawah diafragma.\
+g. Foto polos abdomen supine pada abses appendik kadang-kadang
+memberi pola bercak udara dan air fluid level pada posisi berdiri/LLD
+(dekubitus), kalsifikasi bercak rim-like (melingkar) sekitar perifer
+mukokel yang asalnya dari appendik.
+Penegakan Diagnostik(Assessment)
+Diagnosis Klinis
+Riwayat penyakit dan pemeriksaan fisik masih merupakan dasar diagnosis
+apendisitis akut.
+Diagnosis Banding
+1. Kolesistitis akut
+2. Divertikel Mackelli
+3. Enteritis regional
+4. Pankreatitis
+5. Batu ureter
+6. Cystitis
+7. Kehamilan Ektopik Terganggu (KET)
+8. Salpingitis akut
+Penatalaksanaan Komprehensif (Plan)
+Pasien yang telah terdiagnosis apendisitis akut harus segera dirujuk ke
+layanan sekunder untuk dilakukan operasi cito.
+Penatalaksanaan di pelayanan kesehatan primer sebelum dirujuk:
+1. Bed rest total posisi fowler (anti Trandelenburg)
+2. Pasien dengan dugaan apendisitis sebaiknya tidak diberikan apapun
+melalui mulut.
+3. Penderita perlu cairan intravena untuk mengoreksi jika ada dehidrasi.
+4. Pipa nasogastrik dipasang untuk mengosongkan lambung agar
+mengurangi distensi abdomen dan mencegah muntah.
+Komplikasi
+1. Perforasi apendiks
+2. Peritonitis umum
+3. Sepsis
+Kriteria Rujukan
+Pasien yang telah terdiagnosis harus dirujuk ke layanan sekunder untuk
+dilakukan operasi cito.
+Peralatan
+Labotorium untuk pemeriksaan darah perifer lengkap
+
+141
+
+Prognosis
+Prognosis pada umumnya bonam tetapi bergantung tatalaksana dan kondisi
+pasien.
+Referensi
+1. Sjamsuhidajat, R., Jong, W.D., editor., “Usus Halus, Apendiks, Kolon, dan
+Anorektum”, dalam Buku Ajar Ilmu Bedah, Edisi 2. EGC, Jakarta,
+2005,hlm.639-645.
+2. Schwartz, Seymour, (2000), Intisari Prinsip-Prinsip Ilmu Bedah, Penerbit
+Buku Kedokteran, EGC. Jakarta. (Seymour, 2000).

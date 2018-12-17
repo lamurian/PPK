@@ -1,0 +1,166 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+Otitis Media Supuratif Kronik
+
+No. ICPC-2
+No. ICD-10
+
+Tingkat Kemampuan
+
+: H74. Chronic otitis media
+: H66.1. Chronic tubotympanic suppurative otitis media
+H66.2. Chronic atticoantral suppurative otitis media
+H66.3. Other chronic suppurative otitis media
+: 3A
+
+Masalah Kesehatan
+Survei Nasional Kesehatan Indra Penglihatan dan Pendengaran (1993-1996)
+di 8 provinsi Indonesia menunjukkan angka morbiditas THT sebesar 38,6%.
+Otitis media supuratif kronik merupakan penyebab utama gangguan
+pendengaran yang didapat pada anak-anak terutama pada negara
+berkembang. Pada tahun 1990, sekitar 28.000 kematian di seluruh dunia
+disebabkan oleh komplikasi otitis media.
+Otitis media supuratif kronik (OMSK) adalah peradangan kronik telinga tengah
+dengan perforasi membran timpani dan riwayat keluarnya sekret dari telinga
+lebih dari 2 bulan, baik terus menerus maupun hilang timbul. Terdapat dua tipe
+OMSK, yaitu OMSK tipe aman (tanpa kolesteatoma) dan tipe bahaya (dengan
+kolesteatoma).
+
+213
+
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Keluar cairan dari liang telinga secara terus menerus atau hilang timbul
+lebih dari 2 bulan
+2. Riwayat pernah keluar cairan dari liang telinga sebelumnya.
+3. Cairan dapat berwarna kuning / kuning-kehijauan / bercampur darah /
+jernih / berbau
+4. Gangguan pendengaran
+Faktor Risiko
+Higienitas kurang dan gizi buruk, infeksi saluran nafas atas berulang, daya
+tahan tubuh yang rendah, dan penyelam.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Otoskopi:
+1. OMSK tipe aman (tubotimpani)
+ Perforasi pada sentral atau pars tensa berbentuk ginjal atau bundar
+ Sekret biasanya mukoid dan tidak terlalu berbau
+ Mukosa kavum timpani tampak edema, hipertrofi, granulasi, atau
+timpanosklerosis
+2. OMSK tipe bahaya
+ Perforasi atik, marginal, atau sental besar (total)
+ Sekret sangat berbau, berwarna kuning abu-abu, purulen, dan dapat
+terlihat kepingan berwarna putih mengkilat
+ Kolesteatoma
+Pemeriksaan Penunjang
+1. Tes garputala Rinne, Weber, Schwabach menunjukkan jenis ketulian yang
+dialami pasien
+2. Audiometri nada murni
+3. Foto mastoid (bila tersedia)
+Penegakan Diagnosis (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis dan pemeriksaan fisis.
+Komplikasi
+1. Komplikasi intratemporal: Labirinitis, Paresis nervus fasialis, Hidrosefalus
+otik, Petrositis
+2. Komplikasi intrakranial Abses (subperiosteal, epidural, perisinus, subdura,
+otak), Trombosis sinus lateralis, Sereberitis
+
+214
+
+Penatalaksanaan Komprehensif (Plan)
+1. Non-Medikamentos
+Membersihkan dan mengeringkan saluran telinga dengan kapas lidi atau
+cotton bud. Obat cuci telinga dapat berupa NaCl 0,9%, Asam Asetat 2%,
+atau Hidrogen Peroksida 3%.
+2. Medikamentosa
+a. Antibiotik topikal golongan Ofloxacin, 2 x 4 tetes per hari di telinga
+yang sakit
+b. Antibiotik oral:
+• Dewasa:
+- Lini pertama : Amoxicillin 3 x 500 mg per hari selama 7 hari,
+atau Amoxicillin-Asam clavulanat 3 x500 mg per hari selama 7
+hari, atau Ciprofloxacin 2 x 500 mg selama 7 hari.
+- Lini kedua : Levofloxacin 1 x 500 mg per hari selama 7 hari,
+atau Cefadroxil 2 x 500 – 100 mg per hari selama 7 hari.
+• Anak:
+- Amoxicillin – Asam clavulanat 25 – 50 mg/kgBB/hari, dibagi
+menjadi 3 dosis per hari, atau
+- Cefadroxil 25 – 50 mg/kgBB/hari, dibagi menjadi 2 dosis per
+hari.
+Rencana Tindak Lanjut
+Respon atas terapi dievaluasi setelah pengobatan selama 7 hari.
+Konseling dan Edukasi
+1. Menjaga kebersihan telinga dan tidak mengorek-ngorek telinga dengan
+benda tajam.
+2. Menjaga agar telinga tidak kemasukan air.
+3. Menjelaskan bahwa penyakit ini merupakan penyakit infeksi sehingga
+dengan penanganan yang tepat dapat disembuhkan tetapi bila dibiarkan
+dapat mengakibatkan hilangnya pendengaran serta komplikasi lainnya.
+Kriteria Rujukan
+1. OMSK tipe bahaya
+2. Tidak ada perbaikan atas terapi yang dilakukan
+3. Terdapat komplikasi ekstrakranial maupun intrakranial
+4. Perforasi menetap setelah 2 bulan telinga kering
+Peralatan
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+Lampu kepala
+Spekulum telinga
+Otoskop
+Aplikator kapas
+Kapas
+Cairan irigasi telinga
+Suction
+Wadah ginjal (nierbekken)
+
+215
+
+9. Irigator telinga (spuit 20 - 50 cc + cateter wing needle)
+10. Garputala frekuensi 512 – 1024 Hz
+Prognosis
+1. Ad Vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Referensi
+1. Acuin J. Chronic suppurative otitis media: Burden of Illness and
+Management Options. WHO Library Cataloguing in publication data. 2004.
+(J, 2004)
+2. Verhoeff M, Van der Veen EL, Rovers MM, Sanders EAM, Schilder AGM.
+Chronic suppurative otitis media: A review. International Journal of
+Pediatric Otorhinolaryngology (2006) 70, 1-12. (Verhoeff, et al., 2006)
+3. Buku Ajar Ilmu Kesehatan Telinga-Hidung-Tenggorok Kepala Leher. FKUI.
+2001

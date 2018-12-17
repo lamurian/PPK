@@ -1,0 +1,131 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+13. Glaukoma Akut
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: F93 Glaucoma
+: H40.2 Primary angle-closure glaucoma
+: 3B
+
+Masalah Kesehatan
+Glaukoma akut adalah glaukoma yang diakibatkan peninggian tekanan
+intraokular yang mendadak. Glaukoma akut dapat bersifat primer atau
+
+186
+
+sekunder. Glaukoma primer timbul dengan sendirinya pada orang yang
+mempunyai bakat bawaan glaukoma, sedangkan glaukoma sekunder timbul
+sebagai penyulit penyakit mata lain ataupun sistemik. Umumnya penderita
+glaukoma telah berusia lanjut, terutama bagi yang memiliki risiko. Bila tekanan
+intraokular yang mendadak tinggi ini tidak diobati segera akan mengakibatkan
+kehilangan penglihatan sampai kebutaan yang permanen.
+Hasil Anamnesis (Subjective)
+Keluhan
+1.
+2.
+3.
+4.
+
+Mata merah
+Tajam penglihatan turun mendadak
+Rasa sakit atau nyeri pada mata yang dapat menjalar ke kepala
+Mual dan muntah (pada tekanan bola mata yang sangat tinggi)
+
+Faktor Risiko
+Bilik mata depan yang dangkal
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+1. Visus turun
+2. Tekanan intra okular meningkat
+3. Konjungtiva bulbi: hiperemia kongesti, kemosis dengan injeksi silier, injeksi
+konjungtiva
+4. Edema kornea
+5. Bilik mata depan dangkal
+6. Pupil mid-dilatasi, refleks pupil negatif
+
+Gambar 4.3. Injeksi silier pada glaukoma
+Pemeriksaan Penunjang
+Tidak dilakukan pada pelayanan primer.
+
+187
+
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Penegakan diagnosis dilakukan berdasarkan anamnesis dan pemeriksaan
+oftalmologis.
+Diagnosis Banding:
+1. Uveitis Anterior
+2. Keratitis
+3. Ulkus Kornea
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Penatalaksanaan kasus glaukoma pada layanan primer bertujuan menurunkan
+tekanan intra okuler sesegera mungkin dan kemudian merujuk ke dokter
+spesialis mata di rumah sakit.
+1. Non-Medikamentosa
+Pembatasan asupan cairan untuk menjaga agar tekanan intra okular tidak
+semakin meningkat
+2. Medikamentosa
+a. Asetazolamid HCl 500 mg, dilanjutkan 4 x 250 mg/hari.
+b. KCl 0.5 gr 3 x/hari.
+c. Timolol 0.5%, 2 x 1 tetes/hari.
+d. Tetes mata kombinasi kortikosteroid + antibiotik 4-6 x 1 tetes sehari
+e. Terapi simptomatik.
+Konseling dan Edukasi
+Memberitahu keluarga bahwa kondisi mata dengan glaukoma akut tergolong
+kedaruratan mata, dimana tekanan intra okuler harus segera diturunkan
+Kriteria Rujukan
+Pada glaukoma akut, rujukan dilakukan setelah penanganan awal di layanan
+primer.
+Peralatan
+1. Snellen chart
+2. Tonometri Schiotz
+3. Oftalmoskopi
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Dubia ad malam
+: Dubia ad malam
+
+188
+
+Referensi
+1. Gerhard, K.L. Oscar, Gabriele. Doris, Peter. Ophtalmology a short
+nd
+textbook. 2 Ed. New York: Thieme Stuttgart. 2007.
+2. Gondhowiardjo, T.D. Simanjuntak, G. Panduan Manajemen Klinis
+th
+Perdami, 1 Ed.Jakarta: CV Ondo. 2006.
+3. James, Brus. dkk. Lecture Notes Oftalmologi. Jakarta: Erlangga. 2005.
+4. Riordan, P.E, Whitcher, J.P. Vaughan & Asbury Oftalmologi Umum.
+Ed17.Jakarta: EGC. 2009.
+5. Sidarta, I. Ilmu Penyakit Mata, Ed III. Cetakan V. Jakarta: Balai Penerbit
+FK UI. 2008.
+6. Vaughan, D.G.Oftalmologi Umum. Edisi 14. Cetakan I. Jakarta: Widya
+Medika. 2000.
+7. Sumber Gambar http://www.studyblue.com

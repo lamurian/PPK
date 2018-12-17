@@ -1,0 +1,131 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+15. Trikiasis
+No ICPC-2
+No ICD-10
+Tingkat Kemampuan
+
+: F99. Eye / adnexa disease, other
+: H02. Entropion and trichiasis of eyelid
+: 4A
+
+Masalah Kesehatan
+Trikiasis adalah kondisi di mana bulu mata tumbuh mengarah ke dalam, yaitu
+ke arah permukaan bola mata, sehingga dapat menggores kornea atau
+konjungtiva dan menyebabkan berbagai komplikasi, seperti nyeri, erosi, infeksi,
+dan ulkus kornea. Data mengenai tingkat prevalensi penyakit ini di Indonesia
+tidak ada. Dokter di pelayanan kesehatan primer harus memiliki kompetensi
+menangani kasus trikiasis karena pasien-pasien yang mengalami tanda
+maupun komplikasi dari trikiasis sangat mungkin mencari pertolongan di
+layanan primer terlebih dahulu.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Keluhan pasien dapat bermacam-macam, misalnya: mata berair, rasa
+mengganjal, silau bila terpapar cahaya, atau kelilipan. Penglihatan dapat
+terganggu bila sudah timbul ulkus pada kornea.
+2. Keluhan dapat dialami pada satu atau kedua mata.
+3. Bila telah terjadi inflamasi, dapat timbul keluhan mata merah.
+4. Terdapat riwayat penyakit yang berkaitan dengan faktor predisposisi,
+misalnya: blefaritis, trakoma, trauma mekanik atau kimiawi, herpes zoster
+oftalmik, dan berbagai kelainan yang menyebabkan timbulnya sikatriks dan
+entropion.
+5. Keluhan dapat dialami oleh pasien dari semua kelompok usia.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+1. Beberapa atau seluruh bulu mata berkontak dengan permukaan bola
+mata.
+2. Dapat ditemukan entropion, yaitu terlipatnya margo palpebra ke arah
+dalam.
+3. Bila terdapat inflamasi atau infeksi, dapat ditemukan injeksi konjungtival
+atau silier.
+4. Kelainan pada kornea, misalnya: abrasi, ulkus, nebula / makula / leukoma
+kornea.
+5. Bila telah merusak kornea, dapat menyebabkan penurunan visus.
+
+192
+
+6. Bila terdapat ulkus pada kornea, uji fluoresein akan memberi hasil positif.
+7. Pemeriksaan harus dilakukan pada kedua mata, terlepas dari ada tidaknya
+keluhan.
+Penegakan Diagnosis (Assessment)
+Diagnosis trikiasis ditegakkan melalui anamnesis dan pemeriksaan fisis
+sebagaimana disebutkan sebelumnya. Tes fluoresens dapat menunjukkan
+erosi atau ulkus kornea.
+Diagnosis banding: Penyebab inflamasi lain pada mata
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Non-medikamentosa
+Epilasi, yaitu pencabutan bulu mata dengan pinset. Hal ini bertujuan
+mengurangi gejala dan mencegah komplikasi pada bola mata. Namun,
+bulu mata akan tumbuh kembali dalam waktu 4 – 6 minggu, sehingga
+epilasi perlu diulang kembali.
+2. Medikamentosa
+Pengobatan topikal diberikan sesuai indikasi, misalnya: salep atau tetes
+mata antibiotik untuk mengatasi infeksi.
+Konseling dan Edukasi
+1. Pasien perlu diinformasikan untuk menjaga kebersihan matanya dan
+menghindari trauma pada mata yang dapat memperparah gejala.
+2. Dokter perlu menjelaskan beberapa alternatif pilihan terapi, mulai dari
+epilasi dan pengobatan topikal yang dapat dilakukan oleh dokter di
+pelayanan kesehatan primer hingga operasi yang dilakukan oleh spesialis
+mata di layanan sekunder. Terapi yang akan dijalani sesuai dengan pilihan
+pasien.
+Kriteria Rujukan
+1. Bila tatalaksana di atas tidak membantu pasien, dapat dilakukan rujukan
+ke layanan sekunder
+2. Bila telah terjadi penurunan visus
+3. Bila telah terjadi kerusakan kornea
+4. Bila pasien menghendaki tatalaksana langsung di layanan sekunder
+Peralatan
+1.
+2.
+3.
+4.
+5.
+
+Lampu senter
+Snellen Chart
+Pinset untuk epilasi
+Lup
+Dapat pula disediakan kertas fluoresein dan larutan NaCl 0.9% untuk ter
+fluoresein
+6. Lampu biru (bisa berasal lampu biru pada oftalmoskop)
+
+193
+
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Dubia
+: Malam
+
+Referensi
+1.
+
+Carter, S.R., 1998. Eyelid Disorders: Diagnosis and Management.
+American Family Physician, 57(11), pp.2695–702. Available at:
+http://www.ncbi.nlm.nih.gov/pubmed/9636333.
+2. Ilyas, S., 2005. Ilmu Penyakit Mata 3rd ed., Jakarta: Balai Penerbit FKUI.

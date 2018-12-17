@@ -1,0 +1,130 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+Benda asing di konjungtiva
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: F76 Foreign body in eye
+: T15.9 Foreign body on external eye, part unspecified
+: 4A
+
+Masalah Kesehatan
+Benda asing di konjungtiva adalah benda yang dalam keadaan normal tidak
+dijumpai di konjungtiva dan dapat menyebabkan iritasi jaringan. Pada
+umumnya kelainan ini bersifat ringan, namun pada beberapa keadaan dapat
+berakibat serius terutama pada benda asing yang bersifat asam atau basa dan
+bila timbul infeksi sekunder.
+Hasil Anamnesis (Subjective)
+Keluhan
+Pasien datang dengan keluhan adanya benda yang masuk ke dalam
+konjungtiva atau matanya. Gejala yang ditimbulkan berupa nyeri, mata merah
+dan berair, sensasi benda asing, dan fotofobia.
+Faktor Risiko
+Pekerja di bidang industri yang tidak memakai kacamata pelindung, seperti:
+pekerja gerinda, pekerja las, pemotong keramik, pekerja yang terkait dengan
+bahan-bahan kimia (asam-basa).
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Visus biasanya normal.
+
+175
+
+2. Ditemukan injeksi konjungtiva tarsal dan/atau bulbi.
+3. Ditemukan benda asing pada konjungtiva tarsal superior dan/atau inferior
+dan/atau konjungtiva bulbi.
+Pemeriksaan Penunjang
+Tidak diperlukan.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan melalui anamnesis dan pemeriksaan fisis.
+Diagnosis banding
+Konjungtivitis akut
+Komplikasi
+1. Ulkus kornea
+2. Keratitis
+Terjadi bila benda asing pada konjungtiva tarsal menggesek permukaan
+kornea dan menimbulkan infeksi sekunder. Reaksi inflamasi berat dapat terjadi
+jika benda asing merupakan zat kimia.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Non-medikamentosa: Pengangkatan benda asing
+Berikut adalah cara yang dapat dilakukan:
+a. Berikan tetes mata Tetrakain-HCl 2% sebanyak 1-2 tetes pada mata
+yang terkena benda asing.
+b. Gunakan kaca pembesar (lup) dalam pengangkatan benda asing.
+c. Angkat benda asing dengan menggunakan lidi kapas atau jarum suntik
+ukuran 23G.
+d. Arah pengambilan benda asing dilakukan dari tengah ke tepi.
+e. Oleskan lidi kapas yang dibubuhkan Povidon Iodin pada tempat bekas
+benda asing.
+2. Medikamentosa
+Antibiotik topikal (salep atau tetes mata), misalnya Kloramfenikol tetes
+mata, 1 tetes setiap 2 jam selama 2 hari
+Konseling dan Edukasi
+1. Memberitahu pasien agar tidak menggosok matanya agar tidak
+memperberat lesi.
+2. Menggunakan alat/kacamata pelindung pada saat bekerja atau
+berkendara.
+3. Menganjurkan pasien untuk kontrol bila keluhan bertambah berat setelah
+dilakukan tindakan, seperti mata bertambah merah, bengkak, atau disertai
+dengan penurunan visus.
+
+176
+
+Kriteria Rujukan
+1. Bila terjadi penurunan visus
+2. Bila benda asing tidak dapat dikeluarkan, misal: karena keterbatasan
+fasilitas
+Peralatan
+1.
+2.
+3.
+4.
+5.
+
+Lup
+Lidi kapas
+Jarum suntik 23G
+Tetes mata Tetrakain HCl 0,5%
+Povidon Iodin
+
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Referensi
+1. Gondhowiardjo, T.D. Simanjuntak, G. Panduan Manajemen Klinis
+th
+Perdami, 1 Ed. Jakarta: CV Ondo. 2006.
+2. Sidarta, I. Ilmu Penyakit Mata. Edisi III. Cetakan V. Jakarta: Balai Penerbit
+FK UI. 2008.
+3. Vaughan, D.G. Oftalmologi Umum. Ed 14. Cetakan I. Jakarta: Widya
+Medika. 2000.

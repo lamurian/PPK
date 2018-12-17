@@ -1,0 +1,126 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+11. Hepatitis A
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: D72 Viral Hepatitis
+: B15 Acute Hepatitis A
+: 4A
+
+Masalah Kesehatan
+Hepatitis A adalah infeksi akut di liver yang disebabkan oleh hepatitis A virus
+(HAV), sebuah virus RNA yang disebarkan melalui rute fekal oral. Lebih dari
+75% orang dewasa simtomatik, sedangkan pada anak < 6 tahun 70%
+asimtomatik. Kurang dari 1% penderita hepatitis A dewasa berkembang
+menjadi hepatitis A fulminan.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Demam
+2. Mata dan kulit kuning
+3. Penurunan nafsu makan
+4. Nyeri otot dan sendi
+5. Lemah, letih, dan lesu.
+6. Mual dan muntah
+7. Warna urine seperti teh
+8. Tinja seperti dempul
+Faktor Risiko
+1. Sering mengkonsumsi makanan atau minuman yang tidak terjaga
+sanitasinya.
+
+131
+
+2. Menggunakan alat makan dan minum dari penderita hepatitis.
+Hasil pemeriksaan fisik dan penunjang sederhana (Objective)
+Pemeriksaan Fisik
+1. Febris
+2. Sklera ikterik
+3. Hepatomegali
+4. Warna urin seperti teh
+Pemeriksaan Penunjang
+1. Tes laboratorium urin (bilirubin di dalam urin)
+2. Pemeriksaan darah : peningkatan kadar bilirubin dalam darah, kadar
+SGOT dan SGPT ≥ 2x nilai normal tertinggi, dilakukan pada fasilitas
+primer yang lebih lengkap.
+3. IgM anti HAV (di layanan sekunder)
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan
+pemeriksaan penunjang.
+Diagnosis Banding
+Ikterus obstruktif, Hepatitis B dan C akut, Sirosis hepatis
+Komplikasi
+Hepatitis A fulminan, Ensefalopati hepatikum, Koagulopati
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Asupan kalori dan cairan yang adekuat
+2. Tirah baring
+3. Pengobatan simptomatik
+a. Demam: Ibuprofen 2x400mg/hari.
+b. Mual: antiemetik seperti Metoklopramid 3x10 mg/hari atau Domperidon
+3x10mg/hari.
+c. Perut perih dan kembung: H2 Bloker (Simetidin 3x200 mg/hari atau
+Ranitidin
+2x
+150mg/hari)
+atau
+Proton
+Pump
+Inhibitor
+(Omeprazol 1 x 20 mg/hari).
+Rencana Tindak Lanjut
+Kontrol secara berkala untuk menilai hasil pengobatan.
+Konseling dan Edukasi
+1. Sanitasi dan higiene mampu mencegah penularan virus.
+2. Vaksinasi Hepatitis A diberikan kepada orang-orang yang berisiko tinggi
+terinfeksi.
+
+132
+
+3. Keluarga ikut menjaga asupan kalori dancairan yang adekuat, dan
+membatasi aktivitas fisik pasien selama fase akut.
+Kriteria Rujukan
+1. Penegakan diagnosis dengan pemeriksaan penunjang laboratorium
+2. Penderita Hepatitis A dengan keluhan ikterik yang menetap disertai
+keluhan yang lain.
+3. Penderita Hepatitis A dengan penurunan kesadaran dengan kemungkinan
+ke arah ensefalopati hepatik.
+Peralatan
+Laboratorium darah rutin, urin rutin dan pemeriksaan fungsi hati
+Prognosis
+Prognosis umumnya adalah bonam.
+Referensi
+1. Dienstaq, J.L. Isselbacher, K.J. Acute Viral Hepatitis. In: Braunwald, E. et
+th
+al. Harrison’s Principles of Internal Medicine, 16 Ed.New York: McGrawHill. 2004.
+2. Sherlock, S. Hepatitis B virus and hepatitis delta virus. In: Disease of Liver
+and Biliary System. Blackwell Publishing Company. 2002: p.285-96.
+(Sherlock, 2002)
+3. Sanityoso, Andri. Buku Ajar Ilmu Penyakit Dalam. Jilid I. Edisi ke 4.
+Jakarta: FK UI. 2006: Hal 429-33.
+4. Soemohardjo, Soewignjo. Gunawan, Stephanus. Buku Ajar Ilmu Penyakit
+Dalam. Jilid I. Edisi ke 4. Jakarta: FK UI. 2006:Hal 435-9.
+5. Panduan Pelayanan Medik Ilmu Penyakit Dalam. Jakarta: Departemen
+Ilmu Penyakit Dalam FKUI/RSCM. 2004:Hal15-17.

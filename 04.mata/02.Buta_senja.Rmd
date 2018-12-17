@@ -1,0 +1,103 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+Buta Senja
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: F99 Eye/adnexa disease other
+: H53.6 Night blindness
+: 4A
+
+Masalah Kesehatan
+Buta senja atau rabun senja, disebut juga nyctalopia atau hemarolopia, adalah
+ketidakmampuan untuk melihat dengan baik pada malam hari atau pada
+keadaan gelap. Kondisi ini lebih merupakan tanda dari suatu kelainan yang
+mendasari. Hal ini terjadi akibat kelainan pada sel batang retina yang berperan
+pada penglihatan gelap. Penyebab buta senja adalah defisiensi vitamin A dan
+retinitis pigmentosa.
+Hasil Anamnesis (Subjective)
+Keluhan
+Penglihatan menurun pada malam hari atau pada keadaan gelap, sulit
+beradaptasi pada cahaya yang redup. Pada defisiensi vitamin A, buta senja
+merupakan keluhan paling awal.
+
+164
+
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Dapat ditemukan tanda-tanda lain defisiensi vitamin A:
+1. Kekeringan (xerosis) konjungtiva bilateral
+2. Terdapat bercak bitot pada konjungtiva
+3. Xerosis kornea
+4. Ulkus kornea dan sikatriks kornea
+5. Kulit tampak xerosis dan bersisik
+6. Nekrosis kornea difus atau keratomalasia
+Pemeriksaan Penunjang
+Tidak diperlukan.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Pada defisiensi vitamin A, diberikan vitamin A dosis tinggi.
+2. Lubrikasi kornea.
+3. Pencegahan terhadap infeksi sekunder dengan tetes mata antibiotik.
+Konseling dan Edukasi
+1. Memberitahu keluarga bahwa rabun senja disebabkan oleh kelainan
+mendasar, yaitu defisiensi vitamin A dan retinitis pigmentosa.
+2. Pada kasus defisiensi vitamin A, keluarga perlu diedukasi untuk
+memberikan asupan makanan bergizi seimbang dan suplementasi vitamin
+A dosis tinggi.
+Peralatan
+1. Lup
+2. Oftalmoskop
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanasionam
+
+: Bonam
+: Dubia Ad bonam
+: Bonam
+
+Referensi
+1. Gerhard, K.L. Oscar, Gabriele. Doris, Peter. Ophtalmology a short
+nd
+textbook. 2 Ed. New York: Thieme Stuttgart. 2007. (Gerhard, et al.,
+2007)
+2. Gondhowiardjo, T.D. Simanjuntak, G. Panduan Manajemen Klinis
+th
+Perdami. 1 Ed. Jakarta: CV Ondo. 2006.
+
+165
+
+3. James, Brus. dkk. Lecture Notes Oftalmologi.Jakarta: Erlangga. 2005.
+4. Riordan, P.E. Whitcher, J.P. Vaughan & Asbury Oftalmologi Umum.
+Ed.17.Jakarta: EGC. 2009.
+5. Sidarta, I. Ilmu Penyakit Mata. Ed. III. Cetakan V. Jakarta: Balai Penerbit
+FK UI. 2008.
+6. Vaughan, D.G. Oftalmologi Umum. Edisi 14. Cetakan I.Jakarta: Widya
+Medika. 2000.

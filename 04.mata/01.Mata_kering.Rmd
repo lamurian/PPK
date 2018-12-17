@@ -1,0 +1,121 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+1.
+
+Mata Kering/Dry Eye
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: F99Eye/adnexa disease, other
+: H04.1Otherdisorders of lacrimal gland
+: 4A
+
+Masalah Kesehatan
+Mata kering adalah suatu keadaan keringnya permukaan kornea dan
+konjungtiva yang diakibatkan berkurangnya produksi komponen air mata
+(musin, akueous, dan lipid). Mata kering merupakan salah satu gangguan yang
+sering pada mata dengan insiden sekitar 10-30% dari populasi dan terutama
+dialami oleh wanita berusia lebih dari 40 tahun. Penyebab lain adalah
+meningkatnya evaporasi air mata akibat faktor lingkungan rumah, kantor atau
+akibat lagoftalmus.
+Hasil Anamnesis (Subjective)
+Keluhan
+Pasien datang dengan keluhan mata terasa gatal dan seperti berpasir.
+Keluhan dapat disertai sensasi terbakar, merah, perih dan silau. Pasien
+seringkali menyadari bahwa gejala terasa makin berat di akhir hari
+(sore/malam).
+Faktor Risiko
+1. Usia > 40 tahun
+2. Menopause
+3. Penyakit sistemik, seperti: sindrom Sjogren, sklerosis sistemik progresif,
+sarkoidosis, leukemia, limfoma, amiloidosis, dan hemokromatosis
+4. Penggunaan lensa kontak
+5. Penggunaan komputer dalam waktu lama
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Visus normal
+2. Terdapat foamy tears pada konjungtiva forniks
+3. Penilaian produksi air mata dengan tes Schirmer menunjukkan hasil <10
+mm (nilai normal ≥20 mm).
+
+162
+
+Gambar 4.1. Tes Schirmer
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan:
+1. Anamnesis dan pemeriksaan fisik
+2. Tes Schirmer bila diperlukan
+Komplikasi
+1. Keratitis
+2. Penipisan kornea
+3. Infeksi sekunder oleh bakteri
+4. Neovaskularisasi kornea
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Pemberian air mata buatan, yaitu tetes mata karboksimetilselulosa atau
+sodium hialuronat.
+Pemeriksaan Penunjang Lanjutan
+Umumnya tidak diperlukan
+Konseling & Edukasi
+Keluarga dan pasien harus mengerti bahwa mata kering adalah keadaan
+menahun dan pemulihan total sukar terjadi, kecuali pada kasus ringan, saat
+perubahan epitel pada kornea dan konjungtiva masih reversibel.
+Kriteria Rujukan
+Dilakukan rujukan ke spesialis mata jika keluhan tidak berkurang setelah terapi
+atau timbul komplikasi.
+Peralatan
+1. Lup
+2. Strip Schirmer (kertas saring Whatman No. 41)
+
+163
+
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Referensi
+1. Gondhowiardjo, T. D. Simanjuntak, G. Panduan Manajemen Klinis
+th
+Perdami. 1 Ed. Jakarta: CV Ondo. 2006. (Gondhowiardjo & Simanjuntak,
+2006)
+2. James, Brus.dkk. Lecture Notes Oftalmologi.Jakarta:Erlangga. 2005.
+(Brus, 2005)
+3. Riordan, Paul E. Whitcher, John P. Vaughan & Asbury Oftalmologi Umum.
+Ed 17. Jakarta: EGC. 2009. (Riordan & Whitcher, 2009)
+4. Sastrawan, D. dkk. Standar Pelayanan Medis Mata.Palembang:
+Departemen Ilmu Kesehatan Mata RSUP M. Hoesin. 2007. (Sastrawan,
+2007)
+5. Sidarta, I. Ilmu Penyakit Mata. Edisi III. Cetakan V.Jakarta: Balai Penerbit
+FK UI. 2008. (Ilyas, 2008)
+6. Vaughan, D.G. Oftalmologi Umum. Ed 14. Cetakan I.Jakarta: Widya
+Medika. 2000. (Vaughn, 2000)
+7. Sumber Gambar: http://www.thevisioncareinstitute.co.uk/library/

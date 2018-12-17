@@ -1,0 +1,117 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+15. Peritonitis
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: D99 Disease digestive system, other
+: K65.9 Peritonitis, unspecified
+: 3B
+
+Masalah Kesehatan
+Peritonitis adalah inflamasi dari peritoneum. Peritonitis dapat disebabkan oleh
+kelainan di dalam abdomen berupa inflamasi dan penyulitnya misalnya
+perforasi apendisitis, perforasi tukak lambung, perforasi tifus abdominalis. Ileus
+obstruktif dan perdarahan oleh karena perforasi organ berongga karena
+trauma abdomen.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Nyeri hebat pada abdomen yang dirasakan terus-menerus selama
+beberapa jam, dapat hanya di satu tempat ataupun tersebar di seluruh
+abdomen. Intensitas nyeri semakin kuat saat penderita bergerak seperti
+jalan, bernafas, batuk, atau mengejan.
+2. Bila telah terjadi peritonitis bakterial, suhu badan penderita akan naik dan
+terjadi takikardia, hipotensi dan penderita tampak letargik dan syok.
+3. Mual dan muntah timbul akibat adanya kelainan patologis organ visera
+atau akibat iritasiperitoneum.
+4. Kesulitan bernafas disebabkan oleh adanya cairan dalam abdomen, yang
+dapat mendorong diafragma.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Pasien tampak letargik dan kesakitan
+2. Dapat ditemukan demam
+3. Distensi abdomen disertai nyeri tekan dan nyeri lepas abdomen
+
+142
+
+4.
+5.
+6.
+7.
+8.
+9.
+
+Defans muskular
+Hipertimpani pada perkusi abdomen
+Pekak hati dapat menghilang akibat udara bebas di bawah diafragma
+Bising usus menurun atau menghilang
+Rigiditas abdomen atau sering disebut perut papan
+Pada colok dubur akan terasa nyeri di semua arah, dengan tonus
+muskulus sfingter ani menurun dan ampula rekti berisi udara.
+
+Pemeriksaan Penunjang
+Pemeriksaan penunjang tidak dilakukan di layanan primer untuk menghindari
+keterlambatan dalam melakukan rujukan.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasar anamnesis dan pemeriksaan fisik dari tandatanda khas yang ditemukan pada pasien.
+Diagnosis Banding: Komplikasi
+1. Septikemia
+2. Syok
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Pasien segera dirujuk setelah penegakan diagnosis dan penatalaksanaan awal
+seperti berikut:
+1. Memperbaiki keadaan umum pasien
+2. Pasien puasa
+3. Dekompresi saluran cerna dengan pipa nasogastrik atau intestinal
+4. Penggantian cairan dan elektrolit yang hilang yang dilakukan secara
+intravena
+5. Pemberian antibiotik spektrum luas intravena.
+6. Tindakan-tindakan
+menghilangkan
+nyeri
+dihindari
+untuk
+tidak
+menyamarkan gejala
+Kriteria Rujukan
+Rujuk ke layanan sekunder yang memiliki dokter spesialis bedah.
+Peralatan
+Nasogastric Tube
+Prognosis
+Prognosis untuk peritonitis adalah dubia ad malam.
+
+143
+
+Referensi
+1. Wim de jong. Sjamsuhidayat, R. Buku Ajar Ilmu Bedah. Edisi 3. Jakarta:
+EGC. 2011.
+2. Schwartz. Shires. Spencer. Peritonitis dan Abses Intraabdomen dalam
+Intisari Prinsip – Prinsip Ilmu Bedah. Edisi 6. Jakarta: EGC. 2000.
+3. Rasad, S. Kartoleksono, S. Ekayuda, I. Abdomen Akut, dalam Radiologi
+Diagnostik. Jakarta: Gaya Baru. 1999. (Rasad, et al., 1999)
+4. Schrock, T.R. Peritonitis dan Massa abdominal dalam IlmuBedah. Ed7.Alih
+bahasa dr. Petrus Lukmanto. Jakarta: EGC. 2000. (Shrock, 2000)

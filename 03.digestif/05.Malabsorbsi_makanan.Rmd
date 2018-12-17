@@ -1,0 +1,112 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+Malabsorbsi Makanan
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: D29 Digestive syndrome/complaint other
+: K90.9 Intestinal malabsorbtion, unspecified
+: 3A
+
+Masalah Kesehatan
+Malabsorbsi adalah suatu keadaan terdapatnya gangguan pada proses
+absorbsi dan digesti secara normal pada satu atau lebih zat gizi. Pada
+umumnya pasien datang dengan diare sehingga kadang sulit membedakan
+apakah diare disebabkan oleh malabsorbsi atau sebab lain. Selain itu kadang
+
+102
+
+penyebab dari diare tersebut tumpang tindih antara satu sebab dengan sebab
+lain termasuk yang disebabkan oleh malabsorbsi.
+Berbagai hal dan keadaan dapat menyebabkan malabsorbsi dan maldigesti
+pada seseorang. Malabsorbsi dan maldigesti dapat disebabkan oleh karena
+defisiensi enzim atau adanya gangguan pada mukosa usus tempat absorbsi
+dan digesti zat tersebut.
+Hasil Anamnesis (Subjective)
+Keluhan
+Pasien dengan malabsorbsi biasanya datang dengan keluhan diare kronis,
+biasanya bentuk feses cair mengingat gangguan pada usus halus tidak ada
+zat nutrisi yang terabsorbsi sehingga feses tak berbentuk. Jika masalah pasien
+karena malabsorbsi lemak maka pasien akan mengeluh fesesnya berminyak
+(steatore).
+Anamnesis yang tepat tentang kemungkinan penyebab dan perjalanan
+penyakit merupakan hal yang penting untuk menentukan apa terjadi
+malabsorbsi.
+Faktor Risiko: Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Pada pemeriksaan fisik dapat ditemukan tanda anemia (karena defisiensi besi,
+asam folat, dan B12): konjungtiva anemis, kulit pucat, status gizi kurang. Dicari
+tanda dan gejala spesifik tergantung dari penyebabnya.
+Pemeriksaan Penunjang
+1. Darah perifer lengkap: anemia mikrositik hipokrom karena defisiensi besi
+atau anemia makrositik karena defisiensi asam folat dan vitamin B12.
+2. Radiologi: foto polos abdomen
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasar anamnesis, pemeriksaan fisik, dan penunjang.
+Diagnosis Banding
+1. Pankreatititis
+2. Penyakit Chrons pada illeum terminalis
+3. Sprue Celiac
+4. Penyakit whipple
+5. Amiloidosis
+6. Defisiensi laktase
+7. Sindrom Zollinger-Ellison
+8. Gangguan paska gasterektomi, reseksi usus halus atau kolon
+Komplikasi
+Dehidrasi
+
+103
+
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Perlu dilakukan konsultasi ke spesialis penyakit dalam untuk mencari
+penyebab malabsorbsi kemudian ditatalaksana sesuai penyebabnya.
+1. Tatalaksana tergantung dari penyebab malabsorbsi
+2. Pembatasan nutrisi tertentu
+3. Suplemen vitamin dan mineral
+4. Suplemen enzim pencernaan
+5. Tata laksana farmakologi: Antibiotik diberikan jika malabsorbsi disebakan
+oleh overgrowth bakteri enterotoksigenik: E. colli, K. Pneumoniae dan
+Enterrobacter cloacae.
+Rencana Tindak Lanjut
+Perlu dipantau keberhasilan diet atau terapi yang diberikan kepada pasien.
+Konseling dan Edukasi
+Memberi edukasi ke keluarga untuk ikut membantu dalam hal pembatasan
+nutrisi tertentu pada pasien dan mengamati keadaaan pasien selama
+pengobatan.
+Kriteria Rujukan
+Perlu dilakukan konsultasi ke spesialis penyakit dalam untuk mencari
+penyebab malabsorbsi kemudian ditatalaksana sesuai penyebabnya.
+Peralatan
+Laboratorium sederhana untuk pemeriksaan darah perifer lengkap.
+Prognosis
+Prognosis sangat tergantung pada kondisi pasien saat datang, komplikasi, dan
+pengobatannya. Pada umumnya, prognosis tidak mengancam jiwa, namun
+fungsionam dan sanationamnya adalah dubia ad bonam.
+Referensi
+Syam, Ari Fachrial. Buku Ajar Ilmu Penyakit Dalam. Jilid III. Edisi ke 4. Jakarta:
+FK UI. 2006. hal 312-3. (Sudoyo, et al., 2006)

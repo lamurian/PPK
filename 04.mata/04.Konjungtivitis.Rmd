@@ -1,0 +1,143 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+Konjungtivitis
+
+Konjungtivitis infeksi
+No. ICPC-2
+No. ICD-10
+Konjungtivitis alergi
+No. ICPC-2
+No ICD-10
+Tingkat Kemampuan
+
+: F70 Conjunctivitis infectious
+: H10.9 Conjunctivitis, unspecified
+: F71 Conjunctivitis allergic
+: H10.1 Acute atopic conjunctivitis
+: 4A
+
+Masalah Kesehatan
+Konjungtivitis adalah radang konjungtiva yang dapat disebabkan oleh
+mikroorganisme (virus, bakteri), iritasi, atau reaksi alergi. Konjungtivitis
+ditularkan melalui kontak langsung dengan sumber infeksi. Penyakit ini dapat
+menyerang semua umur.
+Hasil Anamnesis (Subjective)
+Keluhan
+Pasien datang dengan keluhan mata merah, rasa mengganjal, gatal dan
+berair, kadang disertai sekret. Keluhan tidak disertai penurunan tajam
+penglihatan.
+Faktor Risiko
+1. Daya tahan tubuh yang menurun
+2. Adanya riwayat atopi
+
+168
+
+3. Penggunaan kontak lens dengan perawatan yang tidak baik
+4. Higiene personal yang buruk
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Visus normal
+2. Injeksi konjungtival
+3. Dapat disertai edema kelopak, kemosis
+4. Eksudasi; eksudat dapat serous, mukopurulen, atau purulen tergantung
+penyebab
+5. Pada konjungtiva tarsal dapat ditemukan folikel, papil atau papil raksasa,
+flikten, membrane, atau pseudomembran.
+Pemeriksaan Penunjang (bila diperlukan)
+1. Sediaan langsung swab konjungtiva dengan perwarnaan Gram atau
+Giemsa
+2. Pemeriksaan sekret dengan perwarnaan biru metilen pada kasus
+konjungtivitis gonore
+
+Gambar 4.2. Konjungtivitis
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Penegakan diagnosis berdasarkan anamnesis dan pemeriksaan fisik.
+Klasifikasi Konjungtivitis
+1. Konjungtivitis bakterial: Konjungtiva hiperemis, sekret purulen atau
+mukopurulen dapat disertai membran atau pseudomembran di konjungtiva
+tarsal. Curigai konjungtivitis gonore, terutama pada bayi baru lahir, jika
+ditemukan konjungtivitis pada dua mata dengan sekret purulen yang
+sangat banyak.
+2. Konjungtivitis viral: Konjungtiva hiperemis, sekret umumnya mukoserosa,
+dan pembesaran kelenjar preaurikular
+3. Konjungtivitis alergi: Konjungtiva hiperemis, riwayat atopi atau alergi, dan
+keluhan gatal.
+
+169
+
+Komplikasi
+Keratokonjuntivitis
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Pemberian obat mata topikal
+1. Pada infeksi bakteri: Kloramfenikol tetes sebanyak 1 tetes 6 kali sehari
+atau salep mata 3 kali sehari selama 3 hari.
+2. Pada alergi: Flumetolon tetes mata dua kali sehari selama 2 minggu.
+3. Pada konjungtivitis gonore: Kloramfenikol tetes mata 0,5-1% sebanyak 1
+tetes tiap jam dan suntikan pada bayi diberikan 50.000 U/kgBB tiap hari
+sampai tidak ditemukan kuman GO pada sediaan apus selama 3 hari
+berturut-turut.
+4. Pada konjungtivitis viral: Salep Acyclovir 3%, 5 kali sehari selama 10 hari.
+Pemeriksaan Penunjang Lanjutan
+Umumnya tidak diperlukan, kecuali pada kecurigaan konjungtivitis gonore,
+dilakukan pemeriksaan sediaan apus dengan pewarnaan Gram
+Konseling dan Edukasi
+1. Konjungtivitis mudah menular, karena itu sebelum dan sesudah
+membersihkan atau mengoleskan obat, penderita harus mencuci
+tangannya bersih-bersih.
+2. Jangan menggunakan handuk atau lap bersama-sama dengan penghuni
+rumah lainnya.
+3. Menjaga kebersihan lingkungan rumah dan sekitar.
+Kriteria rujukan
+1. Jika terjadi komplikasi pada kornea
+2. Bila tidak ada respon perbaikan terhadap pengobatan yang diberikan
+Peralatan
+1. Lup
+2. Laboratorium sederhana untuk pemeriksaan Gram
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Referensi
+1. Gondhowiardjo, T.D. Simanjuntak, G. Panduan Manajemen Klinis
+th
+Perdami, 1 Ed. Jakarta: CV Ondo. 2006.
+2. James,Brus.dkk.Lecture Notes Oftalmologi. Erlangga. Jakarta. 2005
+3. Riordan. Paul, E. Whitcher, John P. Vaughan & Asbury Oftalmologi Umum.
+Ed 17. Jakarta: EGC. 2009.
+
+170
+
+4. Sidarta, I. Ilmu Penyakit Mata. Edisi III. Cetakan V.Jakarta:Balai Penerbit
+FK UI. 2008.
+5. Vaughan, D.G. Oftalmologi Umum. Ed 14. Cetakan I.Jakarta:Widya
+Medika. 2000.
+6. http://www.advancedvisioncare.co.uk/wpcontent/uploads/2013/09/conjuncti
+vitis0.jpg,

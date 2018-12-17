@@ -1,0 +1,586 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+Gastroenteritis (kolera dan giardiasis)
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: D73 Gastroenteritis presumed infection
+: A09 Diarrhoea and gastroenteritis of presumed
+infection origin
+: 4A
+
+Masalah Kesehatan
+Gastroenteritis (GE) adalah peradangan mukosa lambung dan usus halus
+yang ditandai dengan diare dengan frekuensi 3 kali atau lebih dalam waktu 24
+jam. Apabila diare > 30 hari disebut kronis. WHO (World Health Organization)
+mendefinisikan diare akut sebagai diare yang biasanya berlangsung selama 3
+– 7 hari tetapi dapat pula berlangsung sampai 14 hari. Diare persisten adalah
+episode diare yang diperkirakan penyebabnya adalah infeksi dan mulainya
+sebagai diare akut tetapi berakhir lebih dari 14 hari, serta kondisi ini
+menyebabkan malnutrisi dan berisiko tinggi menyebabkan kematian
+Gastroenteritis lebih sering terjadi pada anak-anak karena daya tahan tubuh
+yang belum optimal. Diare merupakan salah satu penyebab angka morbiditas
+dan mortalitas yang tinggi pada anak di bawah umur lima tahun di seluruh
+dunia, yaitu mencapai 1 milyar kesakitan dan 3 juta kematian per tahun.
+Penyebab gastroenteritis antara lain infeksi, malabsorbsi, keracunan atau
+alergi makanan dan psikologis penderita.
+Infeksi yang menyebabkan GE akibat Entamoeba histolytica disebut disentri,
+bila disebabkan oleh Giardia lamblia disebut giardiasis, sedangkan bila
+disebabkan oleh Vibrio cholera disebut kolera.
+Hasil Anamnesis (Subjective)
+Keluhan
+Pasien datang ke dokter karena buang air besar (BAB) lembek atau cair, dapat
+bercampur darah atau lendir, dengan frekuensi 3 kali atau lebih dalam waktu
+24 jam. Dapat disertai rasa tidak nyaman di perut (nyeri atau kembung), mual
+dan muntah serta tenesmus.
+Setiap kali diare, BAB dapat menghasilkan volume yang besar (asal dari usus
+kecil) atau volume yang kecil (asal dari usus besar). Bila diare disertai demam
+maka diduga erat terjadi infeksi.
+Bila terjadinya diare didahului oleh makan atau minum dari sumber yang
+kurang higienenya, GE dapat disebabkan oleh infeksi. Riwayat bepergian ke
+daerah dengan wabah diare, riwayat intoleransi laktosa (terutama pada bayi),
+konsumsi makanan iritatif, minum jamu, diet cola, atau makan obat-obatan
+seperti laksatif, magnesium hidroklorida, magnesium sitrat, obat jantung
+
+112
+
+quinidine, obat gout (kolkisin), diuretika (furosemid, tiazid), toksin (arsenik,
+organofosfat), insektisida, kafein, metil xantine, agen endokrin (preparat
+pengantian tiroid), misoprostol, mesalamin, antikolinesterase dan obat-obat
+diet perlu diketahui.
+Selain itu, kondisi imunokompromais (HIV/AIDS) dan demam tifoid perlu
+diidentifikasi.
+Pada pasien anak ditanyakan secara jelas gejala diare:
+1. Perjalanan penyakit diare yaitu lamanya diare berlangsung, kapan diare
+muncul (saat neonatus, bayi, atau anak-anak) untuk mengetahui, apakah
+termasuk diare kongenital atau didapat, frekuensi BAB, konsistensi dari
+feses, ada tidaknya darah dalam tinja
+2. Mencari faktor-faktor risiko penyebab diare
+3. Gejala penyerta: sakit perut, kembung, banyak gas, gagal tumbuh.
+4. Riwayat bepergian, tinggal di tempat penitipan anak merupakan risiko
+untuk diare infeksi.
+Faktor Risiko
+1. Higiene pribadi dan sanitasi lingkungan yang kurang.
+2. Riwayat intoleransi laktosa, riwayat alergi obat.
+3. Infeksi HIV atau infeksi menular seksual.
+Hasil Pemeriksaan Fisik dan penunjang sederhana (Objective)
+Pemeriksaan Fisik
+1. Pada pemeriksaan fisik perlu diperiksa: berat badan, suhu tubuh, frekuensi
+denyut jantung dan pernapasan serta tekanan darah.
+2. Mencari tanda-tanda utama dehidrasi: kesadaran, rasa haus, dan turgor
+kulit abdomen dan tanda-tanda tambahan lainnya: ubun-ubun besar
+cekung atau tidak, mata: cekung atau tidak, ada atau tidaknya air mata,
+bibir, mukosa mulut dan lidah kering atau basah.
+3. Pernapasan yang cepat indikasi adanya asidosis metabolik.
+4. Bising usus yang lemah atau tidak ada bila terdapat hipokalemia.
+5. Pemeriksaan ekstremitas perlu karena perfusi dan capillary refill dapat
+menentukan derajat dehidrasi yang terjadi.
+6. Penilaian beratnya atau derajat dehidrasi dapat ditentukan dengan cara:
+obyektif yaitu dengan membandingkan berat badan sebelum dan selama
+diare. Subyektif dengan menggunakan kriteria. Pada anak menggunakan
+kriteria WHO 1995.
+
+113
+
+Tabel 3.3 Pemeriksaan derajat dehidrasi
+Gejala
+Minimal (< 3%
+dari berat badan)
+Status mental
+
+Baik, sadar penuh
+
+Rasa haus
+
+Minum normal,
+mungkin menolak
+minum
+Normal
+
+Denyut jantung
+
+Kualitas
+denyut nadi
+Pernapasan
+Mata
+Air mata
+Mulut dan
+lidah
+Turgor kulit
+Isian kapiler
+
+Normal
+
+Ekstremitas
+Output urin
+
+Derajat Dehidrasi
+Ringan sampai
+sedang (3-9%
+dari berat badan)
+Normal, lemas,
+atau gelisah,
+iritabel
+Sangat haus,
+sangat ingin
+minum
+Normal sampai
+meningkat
+
+Normal
+Normal
+Ada
+Basah
+
+Normal sampai
+menurun
+Normal cepat
+Sedikit cekung
+Menurun
+Kering
+
+Baik
+Normal
+
+< 2 detik
+Memanjang
+
+Hangat
+Normal sampai
+menurun
+
+Dingin
+Menurun
+
+Berat (> 9% dari
+berat badan)
+Apatis, letargi, tidak
+sadar
+Tidak dapat minum
+
+Takikardi, pada
+kasus berat
+bradikardi
+Lemah atau tidak
+teraba
+Dalam
+Sangat cekung
+Tidak ada
+Pecah-pecah
+> 2 detik
+Memanjang,
+minimal
+Dingin
+Minimal
+
+Metode Pierce
+Dehidrasi ringan= 5% x Berat badan (kg)
+Dehidrasi sedang= 8% x Berat badan (kg)
+Dehidrasi berat= 10% x Berat badan (kg)
+Tabel 3.4 Skor penilaian klinis dehidrasi
+Klinis
+
+Skor
+
+Rasa hasus/ muntah
+Tekanan Darah sistolik 60 -90 mmHg
+Tekanan darah sistolik <60 mmHg
+
+1
+1
+2
+
+Frekuensi nadi > 120 x/menit
+Kesadaran apati
+Kesadaran somnolen, spoor atau koma
+Frekuensi napas > 30x/ menit
+Facies Cholerica
+Vox Cholerica
+Turgor kulit menurun
+Washer woman’s hand
+Ekstremitas dingin
+Sianosis
+Umur 50 – 60 tahun
+Umur > 60 tahun
+
+1
+1
+2
+1
+2
+2
+1
+1
+1
+2
+-1
+-2
+
+114
+
+Tabel 3.5. Penentuan derajat dehidrasi menurut WHO 1995
+Penilaian
+Lihat :
+Keadaan umum
+
+A
+
+B
+
+C
+
+Baik, sadar
+
+*Gelisah, rewel
+
+Mata
+
+Normal
+
+Cekung
+
+*Lesu, lunglai, atau
+tidak sadar
+Sangat cekung dan
+kering
+
+Air mata
+Mulut dan lidah
+Rasa haus
+Periksa turgor kulit
+
+Ada
+Basah
+Minum biasa tidak
+haus
+Kembali cepat
+
+Tidak ada
+Kering
+*haus ingin minum
+banyak
+*kembali lambat
+
+Hasil pemeriksaan
+
+Tanpa dehidrasi
+
+Terapi
+
+Rencana Terapi A
+
+Dehidrasi
+ringan/sedang
+Bila ada 1 tanda (*)
+ditambah 1 atau lebih
+tanda lain
+Rencana Terapi B
+
+Sangat kering
+*malas minum atau
+tidak bias minum
+*kembali
+sangat
+lambat
+Dehidrasi berat
+Bila ada 1 tanda (*)
+ditambah 1 atau
+lebih tanda lain
+Rencana Terapi C
+
+Rencana terapi A, B, dan C dapat dilihat pada lampiran 6, 7, 8
+Penegakan Diagnosis (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis (BAB cair lebih dari 3 kali
+sehari) dan pemeriksaan fisik (ditemukan tanda-tanda hipovolemik dan
+pemeriksaan konsistensi BAB). Untuk diagnosis defenitif dilakukan
+pemeriksaan penunjang.
+Diagnosis Banding
+Demam tifoid, Kriptosporidia (pada penderita HIV), Kolitis pseudomembran
+Komplikasi: Syok hipovolemik
+Penatalaksanaan komprehensif (Plan)
+Penatalaksanaan pada Pasien Dewasa
+Pada umumnya diare akut bersifat ringan dan sembuh cepat dengan
+sendirinya melalui rehidrasi dan obat antidiare, sehingga jarang diperlukan
+evaluasi lebih lanjut.
+Terapi dapat diberikan dengan
+1. Memberikan cairan dan diet adekuat
+a. Pasien tidak dipuasakan dan diberikan cairan yang adekuat untuk
+rehidrasi.
+b. Hindari susu sapi karena terdapat defisiensi laktase transien.
+c. Hindari juga minuman yang mengandung alkohol atau kafein , karena
+dapat meningkatkan motilitas dan sekresi usus.
+d. Makanan yang dikonsumsi sebaiknya yang tidak mengandung gas,
+dan mudah dicerna.
+2. Pasien diare yang belum dehidrasi dapat diberikan obat antidiare untuk
+mengurangi gejala dan antimikroba untuk terapi definitif.
+
+115
+
+Pemberian terapi antimikroba empirik diindikasikan pada pasien yang
+diduga mengalami infeksi bakteri invasif, traveller’s diarrhea, dan
+imunosupresi. Antimikroba: pada GE akibat infeksi diberikan antibiotik atau
+antiparasit, atau antijamur tergantung penyebabnya.
+Obat antidiare, antara lain:
+1. Turunan opioid: Loperamid, Difenoksilat atropin, Tinktur opium.
+2. Obat ini sebaiknya tidak diberikan pada pasien dengan disentri yang
+disertai demam, dan penggunaannya harus dihentikan apabila diare
+semakin berat walaupun diberikan terapi.
+3. Bismut subsalisilat, hati-hati pada pasien immunokompromais, seperti HIV,
+karena dapat meningkatkan risiko terjadinya bismuth encephalopathy.
+4. Obat yang mengeraskan tinja: atapulgit 4x2 tablet/ hari atau smectite 3x1
+sachet diberikan tiap BAB encer sampai diare stop.
+5. Obat anti sekretorik atau anti enkefalinase: Racecadotril 3x1
+Antimikroba, antara lain:
+1. Golongan kuinolon yaitu Siprofloksasin 2 x 500 mg/hari selama 5-7 hari,
+atau
+2. Trimetroprim/Sulfametoksazol 160/800 2x 1 tablet/hari.
+3. Apabila diare diduga disebabkan oleh Giardia, Metronidazol dapat
+digunakan dengan dosis 3x500 mg/ hari selama 7 hari.
+4. Bila diketahui etiologi dari diare akut, terapi disesuaikan dengan etiologi.
+Apabila terjadi dehidrasi, setelah ditentukan derajat dehidrasinya, pasien
+ditangani dengan langkah sebagai berikut:
+1. Menentukan jenis cairan yang akan digunakan
+Pada diare akut awal yang ringan, tersedia cairan oralit yang hipotonik
+dengan komposisi 29 gr glukosa, 3,5 gr NaCl, 2,5 gr Natrium bikarbonat
+dan 1,5 KCl setiap liter. Cairan ini diberikan secara oral atau lewat selang
+nasogastrik. Cairan lain adalah cairan ringer laktat dan NaCl 0,9% yang
+diberikan secara intravena.
+2. Menentukan jumlah cairan yang akan diberikan
+Prinsip dalam menentukan jumlah cairan inisial yang dibutuhkan adalah:
+BJ plasma dengan rumus:
+Defisit cairan : BJ plasma – 1,025 X Berat badan X 4 ml
+0,001
+Kebutuhan cairan = Skor X 10% X kgBB X 1 liter
+15
+3. Menentukan jadwal pemberian cairan:
+a. Dua jam pertama (tahap rehidrasi inisial): jumlah total kebutuhan
+cairan menurut BJ plasma atau skor Daldiyono diberikan langsung
+dalam 2 jam ini agar tercapai rehidrasi optimal secepat mungkin.
+b. Satu jam berikutnya/jam ke-3 (tahap ke-2) pemberian diberikan
+berdasarkan kehilangan selama 2 jam pemberian cairan rehidrasi
+inisial sebelumnya. Bila tidak ada syok atau skor Daldiyono kurang
+dari 3 dapat diganti cairan per oral.
+
+116
+
+c. Jam berikutnya pemberian cairan diberikan berdasarkan kehilangan
+cairan melalui tinja dan insensible water loss.
+Kondisi yang memerlukan evaluasi lebih lanjut pada diare akut apabila
+ditemukan:
+1. Diare memburuk atau menetap setelah 7 hari, feses harus dianalisa lebih
+lanjut
+o
+2. Pasien dengan tanda-tanda toksik (dehidrasi, disentri, demam ≥ 38,5 C,
+nyeri abdomen yang berat pada pasien usia di atas 50 tahun
+3. Pasien usia lanjut
+4. Muntah yang persisten
+5. Perubahan status mental seperti lethargi, apatis, irritable
+6. Terjadinya outbreak pada komunitas
+7. Pada pasien yang immunokompromais.
+Konseling dan Edukasi
+Pada kondisi yang ringan, diberikan edukasi kepada keluarga untuk membantu
+asupan cairan. Edukasi juga diberikan untuk mencegah terjadinya GE dan
+mencegah penularannya.
+Kriteria Rujukan
+1. Tanda dehidrasi berat
+2. Terjadi penurunan kesadaran
+3. Nyeri perut yang signifikan
+4. Pasien tidak dapat minum oralit
+5. Tidak ada infus set serta cairan infus di fasilitas pelayanan
+Penatalaksanaan pada Pasien Anak
+Menurut Kemenkes RI (2011), prinsip tatalaksana diare pada balita adalah
+LINTAS DIARE (Lima Langkah Tuntaskan Diare), yang didukung oleh Ikatan
+Dokter Anak Indonesia dengan rekomendasi WHO. Rehidrasi bukan satusatunya cara untuk mengatasi diare tetapi memperbaiki kondisi usus serta
+mempercepat penyembuhan/menghentikan diare dan mencegah anak
+kekurangan gizi akibat diare juga menjadi cara untuk mengobati diare.
+Adapun program LINTAS DIARE yaitu:
+1. Rehidrasi menggunakan Oralit osmolalitas rendah
+Untuk mencegah terjadinya dehidrasi dapat dilakukan mulai dari rumah
+tangga dengan memberikan oralit osmolaritas rendah, dan bila tidak
+tersedia berikan cairan rumah tangga seperti larutan air garam. Oralit saat
+ini yang beredar di pasaran sudah oralit yang baru dengan osmolaritas
+yang rendah, yang dapat mengurangi rasa mual dan muntah. Oralit
+merupakan cairan yang terbaik bagi penderita diare untuk mengganti
+cairan yang hilang. Bila penderita tidak bisa minum harus segera di bawa
+ke sarana kesehatan untuk mendapat pertolongan cairan melalui infus.
+Pemberian oralit didasarkan pada derajat dehidrasi (Kemenkes RI, 2011).
+a. Diare tanpa dehidrasi
+ Umur < 1 tahun: ¼ - ½ gelas setiap kali anak mencret (50–100 ml)
+ Umur 1 – 4 tahun: ½-1 gelas setiap kali anak mencret (100–200 ml)
+
+117
+
+ Umur diatas 5 Tahun: 1–1½ gelas setiap kali anak mencret (200–
+300 ml)
+b. Diare dengan dehidrasi ringan sedang
+ Dosis oralit yang diberikan dalam 3 jam pertama 75 ml/ kg bb dan
+selanjutnya diteruskan dengan pemberian oralit seperti diare tanpa
+dehidrasi.
+c. Diare dengan dehidrasi berat
+ Penderita diare yang tidak dapat minum harus segera dirujuk ke
+Puskesmas untuk diinfus.
+Tabel 3.6 Kebutuhan Oralit per Kelompok Umur
+
+Umur
+< 12 bulan
+1-4 tahun
+
+Jumlah
+oralit
+diberikan tiap BAB
+50-100 ml
+100-200 ml
+
+> 5 tahun
+
+200-300 ml
+
+Dewasa
+
+300-400 ml
+
+yang Jumlah oralit yang disediakan
+di rumah
+400 ml/hari ( 2 bungkus)
+600-800 ml/hari ( 3-4
+bungkus)
+800-1000
+ml/hari
+(4-5
+bungkus)
+1200-2800 ml/hari
+
+Untuk anak dibawah umur 2 tahun cairan harus diberikan dengan sendok
+dengan cara 1 sendok setiap 1 sampai 2 menit. Pemberian dengan botol
+tidak boleh dilakukan. Anak yang lebih besar dapat minum langsung dari
+gelas. Bila terjadi muntah hentikan dulu selama 10 menit kemudian mulai
+lagi perlahan-lahan misalnya 1 sendok setiap 2-3 menit. Pemberian cairan
+ini dilanjutkan sampai dengan diare berhenti.
+2. Zinc diberikan selama 10 hari berturut-turut
+Pemberian zinc selama diare terbukti mampu mengurangi lama dan tingkat
+keparahan diare, mengurangi frekuensi buang air besar, mengurangi
+volume tinja, serta menurunkan kekambuhan kejadian diare pada 3 bulan
+berikutnya. Berdasarkan bukti ini semua anak diare harus diberi Zinc
+segera saat anak mengalami diare.
+Dosis pemberian Zinc pada balita:
+ Umur < 6 bulan : ½ tablet (10 mg) per hari selama 10 hari.
+ Umur > 6 bulan : 1 tablet (20 mg) per hari selama 10 hari.
+Zinc tetap diberikan selama 10 hari walaupun diare sudah berhenti.
+Cara pemberian tablet zinc : Larutkan tablet dalam 1 sendok makan air
+matang atau ASI, sesudah larut berikan pada anak diare.
+3. Teruskan pemberian ASI dan Makanan
+Pemberian makanan selama diare bertujuan untuk memberikan gizi pada
+penderita terutama pada anak agar tetap kuat dan tumbuh serta
+mencegah berkurangnya berat badan. Anak yang masih minum ASI harus
+lebih sering diberi ASI. Anak yang minum susu formula juga diberikan lebih
+sering dari biasanya. Anak usia 6 bulan atau lebih termasuk bayi yang
+
+118
+
+telah mendapatkan makanan padat harus diberikan makanan yang mudah
+dicerna dan diberikan sedikit lebih sedikit dan lebih sering. Setelah diare
+berhenti, pemberian makanan ekstra diteruskan selama 2 minggu untuk
+membantu pemulihan berat badan
+4. Antibiotik Selektif
+Antibiotika tidak boleh digunakan secara rutin karena kecilnya kejadian
+diare pada balita yang disebabkan oleh bakteri. Antibiotika hanya
+bermanfaat pada penderita diare dengan darah (sebagian besar karena
+Shigellosis) dan suspek kolera
+Obat-obatan anti diare juga tidak boleh diberikan pada anak yang
+menderita diare karena terbukti tidak bermanfaat. Obat anti muntah tidak
+dianjurkan kecuali muntah berat. Obat-obatan ini tidak mencegah dehidrasi
+ataupun meningkatkan status gizi anak, bahkan sebagian besar
+menimbulkan efek samping yang berbahaya dan bisa berakibat fatal. Obat
+anti protozoa digunakan bila terbukti diare disebabkan oleh parasit
+(amuba, giardia).
+5. Nasihat kepada orang tua/pengasuh
+Ibu atau pengasuh yang berhubungan erat dengan balita harus diberi
+nasehat tentang:
+a. Cara memberikan cairan dan obat di rumah
+b. Kapan harus membawa kembali balita ke petugas kesehatan bila :
+ Diare lebih sering
+ Muntah berulang
+ Sangat haus
+ Makan/minum sedikit
+ Timbul demam
+ Tinja berdarah
+ Tidak membaik dalam 3 hari.
+Konseling dan Edukasi
+Pencegahan diare menurut Pedoman Tatalaksana Diare Depkes RI (2006)
+adalah sebagai berikut:
+1. Pemberian ASI
+2. Pemberian makanan pendamping ASI
+3. Menggunakan air bersih yang cukup
+4. Mencuci tangan
+5. Menggunakan jamban
+6. Membuang tinja bayi dengan benar
+7. Pemberian imunisasi campak
+Kriteria Rujukan
+1. Anak diare dengan dehidrasi berat dan tidak ada fasilitas rawat inap dan
+pemasangan intravena.
+2. Jika rehidrasi tidak dapat dilakukan atau tercapai dalam 3 jam pertama
+penanganan.
+
+119
+
+3. Anak dengan diare persisten
+4. Anak dengan syok hipovolemik
+Peralatan
+Infus set, cairan intravena, peralatan laboratorium untuk pemeriksaan darah
+rutin, feses dan WIDAL
+Prognosis
+Prognosis sangat tergantung pada kondisi pasien saat datang, ada/tidaknya
+komplikasi, dan pengobatannya, sehingga umumnya prognosis adalah dubia
+ad bonam. Bila kondisi saat datang dengan dehidrasi berat, prognosis dapat
+menjadi dubia ad malam.
+Referensi
+1. Depkes RI. 2009. Pedoman pemberantasan penyakit diare. Jakarta: Ditjen
+PPM dan PL. (Kementerian Kesehatan Republik Indonesia, 2009)
+2. Kementrian Kesehatan RI. 2011. Panduan sosialisasi tatalaksana diare
+pada balita. Jakarta: Ditjen PP dan PL (Kementerian Kesehatan Republik
+Indonesia, 2011)
+3. Simadibrata, M. D. Diare akut. In: Sudoyo, A.W. Setiyohadi, B. Alwi, I.
+th
+Simadibrata, M.D. Setiati, S. Eds. Buku ajar ilmu penyakit dalam. 5 Ed.
+Vol. I. Jakarta: Pusat Penerbitan Departemen Ilmu Penyakit Dalam FKUI.
+2009: p. 548-556.
+4. Makmun, D. Simadibrata, M.D. Abdullah, M. Syam, A.F. Fauzi, A.
+Konsensus Penatalaksanaan Diare Akut pada Dewasa di Indonesia.
+Jakarta: Perkumpulan Gastroenterologi Indonesia. 2009.
+5. Setiawan, B. Diare akut karena Infeksi. In: Sudoyo, A.W. Setiyohadi, B.
+Alwi, I. Simadibrata, M. Setiati, S.Eds. Buku ajar ilmu penyakit dalam.
+th
+4 Ed. Vol. III. Jakarta: Pusat Penerbitan Departemen Ilmu Penyakit Dalam
+FKUI. 2006: p. 1794-1798.
+6. Sansonetti, P. Bergounioux, J. Shigellosis. In: Kasper. Braunwald. Fauci.
+th
+et al. Harrison’s Principles of Internal Medicine.Vol II. 17 Ed. McGraw-Hill.
+2009: p. 962-964. (Braunwald, et al., 2009)
+7. Reed, S.L. Amoebiasis dan Infection with Free Living Amoebas. In:
+Kasper. Braunwald. Fauci. et al. Harrison’s Principles of Internal
+th
+Medicine.Vol I. 17 Ed. McGraw-Hill. 2009: p. 1275-1280.

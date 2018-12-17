@@ -1,0 +1,138 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+20. Retinopati Diabetik
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: F83 Retinopathy
+: H36.0 Diabetic retinopathy
+:2
+
+Masalah Kesehatan
+Retinopati diabetik adalah suatu mikroangiopati yang mengenai prekapiler
+retina, kapiler dan venula, sehingga menyebabkan oklusi mikrovaskuler dan
+kebocoran vaskuler, akibat kadar gula darah yang tinggi dan lama. Retinopati
+diabetik dapat menyebabkan penurunan visus dan kebutaan, terutama akibat
+komplikasi seperti edema makula, perdarahan vitreus, ablasio retina traksional
+dan glaukoma neovaskular.
+
+203
+
+Retinopati diabetik adalah penyebab kebutaan ke 5 terbesar secara global
+(WHO, 2007). Setidaknya terdapat 171 juta penduduk dunia yang
+menyandang diabetes melitus, yang akan meningkat menjadi dua kali lipat
+pada tahun 2030 menjadi 366 million. Setelah 15 tahun, sekitar 2%
+penyandang diabetes dapat menjadi buta, dan sekitar 10% mengalami
+gangguan penglihatan berat. Setelah 20 tahun, retinopati diabetik dapat
+ditemukan pada 75% lebih penyandang diabetes.
+Terdapat dua tahap retinopati diabetik yaitu non-proliferative diabetic
+retinopathy (NPDR) dan proliferative diabetic retinopathy (PDR).
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Tidak ada keluhan penglihatan
+2. Penglihatan buram terjadi terutama bila terjadi edema makula
+3. Floaters atau penglihatan mendadak terhalang akibat
+perdarahan vitreus dan / atau ablasio retina traksional
+
+komplikasi
+
+Faktor Risiko
+1. Kadar glukosa darah yang tidak terkontrol dengan baik
+2. Hipertensi yang tidak terkontrol dengan baik
+3. Hiperlipidemia
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Riwayat diabetes mellitus (tipe I / tipe II).
+2. Mata tenang dengan atau tanpa penurunan visus.
+3. Pada pemeriksaan funduskopi pupil lebar pada retina dapat ditemukan
+perdarahan retina, eksudat keras, pelebaran vena, dan mikroaneurisma
+(pada NPDR), yang pada kondisi lebih lanjut disertai neovaskularisasi di
+diskus optik atau di tempat lain di retina (pada PDR).
+4. Pada keadaan berat dapat ditemukan neovaskularisasi iris (rubeosis iridis).
+5. Refleks cahaya pada pupil normal, pada kerusakan retina yang luas dapat
+ditemukan RAPD (Relative Aferent Pupilary Defect), serta penurunan
+refleks pupil pada cahaya langsung dan tak langsung normal.
+Pemeriksaan Penunjang
+Tidak ada
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan melalui anamnesis dan pemeriksaan fisik, teruttama
+funduskopi.
+Diagnosis banding
+1. Oklusi vena retina
+2. Retinopati hipertensi
+
+204
+
+Komplikasi
+1. Perdarahan vitreus
+2. Edema makula diabetik
+3. Ablasio retina traksional
+4. Glaukoma neovaskular
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Setiap pasien yang terdiagnosis diabetes melitus perlu segera dilakukan
+pemeriksaan mata, sekalipun belum ada keluhan mata.
+2. Apabila tidak didapatkan tanda-tanda retinopati, pasien harus diperiksa
+ulang dalam waktu 1 tahun (follow-up).
+3. Apabila didapatkan tanda-tanda retinopati, pasien perlu dirujuk ke dokter
+spesialis mata.
+Konseling dan Edukasi
+1. Kontrol gula darah dan pengendalian faktor sistemik lain (hipertensi,
+hiperlipidemia) penting untuk memperlambat timbulnya atau progresifitas
+retinopati diabetik.
+2. Setiap pasien diabetes perlu menjalani pemeriksaan mata awal (skrining),
+diikuti pemeriksaan lanjutan minimal 1 kali dalam setahun.
+3. Menjelaskan bahwa bila dirujuk, kemungkinan memerlukan terapi
+fotokoagulasi laser, yang bertujuan mencegah progresifitas retinopati
+diabetik. Pada kondisi berat (perdarahan vitreus, ablasio retina)
+kemungkinan perlu tindakan bedah.
+Kriteria Rujukan
+Setiap pasien diabetes yang ditemukan tanda-tanda retinopati diabetik
+sebaiknya dirujuk ke dokter mata.
+Peralatan
+1. Snellen chart
+2. Oftalmoskop
+3. Tropikamid 1% tetes mata untuk melebarkan pupil
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Dubia ad bonam
+: Dubia ad malam
+: Dubia ad malam
+
+Referensi
+1. Vaughan, D.G. Oftalmologi Umum. Ed 14. Cetakan I. Jakarta: Widya
+Medika. 2000.
+2. World Health Organization. Global initiative for the elimination of avoidable
+blindness. Action Plan 2006–2011 (World Health Organization, 2012)
+
+205
+
+3. Ehlers JP, Shah CP, editors. The Wills Eye Manual-office and emergency
+room diagnosis and treatment of eye disease. 5th edition. Philadelphia:
+Lippincott Williams and Wilkins; 2008.
