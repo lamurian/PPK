@@ -35,7 +35,7 @@ memperkirakan sekitar 4,9 juta orang hidup dengan HIV di Asia.
 Infeksi HIV tidak akan langsung memperlihatkan gejala atau keluhan tertentu.
 Pasien datang dapat dengan keluhan:
 
-1. Demam (suhu >37,5$$&o$$ C) terus menerus atau intermiten lebih dari satu
+1. Demam (suhu >37,5$$^o$$ C) terus menerus atau intermiten lebih dari satu
    bulan.
 2. Diare yang terus menerus atau intermiten lebih dari satu bulan.
 3. Keluhan disertai kehilangan berat badan (BB) >10% dari berat badan dasar.
@@ -130,32 +130,31 @@ kunjungan.
 | 9. Anemia yang tak diketahui penyebabnya (Hb <8g/dL), neutropeni (<0,5   |
 | x 10 g/L) dan/atau trombositopenia kronis (<50 x 10 g/L)                 |
 
-| Stadium 4 Sakit Berat (AIDS)  |                                  |
-|-------------------------------|----------------------------------|
-| 1. Sindrom wasting HIV        | 11. Pneumonia kriptokokus        |
-| 2. Pneumonia pneumocystis     | ekstrapulmoner, termasuk         |
-| jiroveci                      | meningitis                       |
-| 3. Pneumonia bakteri berat    | 12. Infeksi mikobakterium non    |
-| yang berulang                 | tuberkulosis yang menyebar       |
-| 4. Infeksi herpes simpleks    | 13. Leukoencephalopathy          |
-| multifocal progresif          |
-| kronis (orolabial, genital,   | 14. Kriptosporidiosis kronis     |
-| atau anorektal selama lebih   | 15. Isosporiasis kronis          |
-| dari 1 bulan atau viseral di  | 16. Mikosis diseminata           |
-| bagian manapun)               | (histoplasmosis,                 |
-| 5. Kandidiasis esofageal      | coccidiomycosis)                 |
-| (atau kandidiasis trakea,     | 17. Septikemi yang berulang      |
-| bronkus atau paru)            | (termasuk Salmonella nontifoid)  |
-| 6. Tuberkulosis ekstra paru   | 18. Limfoma (serebral atau Sel B |
-| 7. Sarkoma kaposi             | non-Hodgkin)                     |
-| 8. Penyakit sitomegalovirus   | 19. Karsinoma serviks invasif    |
-| (retinitis atau infeksi organ | 20. Leishmaniasis diseminata     |
-| lain, tidak termasuk hati,    | atipikal                         |
-| limpa dan kelenjar getah      | 21. Nefropati atau kardiomiopati |
-| bening)                       | terkait HIV yang simtomatis      |
-| 9. Toksoplasmosis di sistem   |                                  |
-| saraf pusat                   |                                  |
-| 10. Ensefalopati HIV          |                                  |
+| Stadium 4 Sakit Berat (AIDS)  |                                              |
+|-------------------------------|----------------------------------------------|
+| 1. Sindrom wasting HIV        | 11. Pneumonia kriptokokus                    |
+| 2. Pneumonia pneumocystis     | ekstrapulmoner, termasuk                     |
+| jiroveci                      | meningitis                                   |
+| 3. Pneumonia bakteri berat    | 12. Infeksi mikobakterium non                |
+| yang berulang                 | tuberkulosis yang menyebar                   |
+| 4. Infeksi herpes simpleks    | 13. Leukoencephalopathy multifocal progresif |
+| kronis (orolabial, genital,   | 14. Kriptosporidiosis kronis                 |
+| atau anorektal selama lebih   | 15. Isosporiasis kronis                      |
+| dari 1 bulan atau viseral di  | 16. Mikosis diseminata                       |
+| bagian manapun)               | (histoplasmosis,                             |
+| 5. Kandidiasis esofageal      | coccidiomycosis)                             |
+| (atau kandidiasis trakea,     | 17. Septikemi yang berulang                  |
+| bronkus atau paru)            | (termasuk Salmonella nontifoid)              |
+| 6. Tuberkulosis ekstra paru   | 18. Limfoma (serebral atau Sel B             |
+| 7. Sarkoma kaposi             | non-Hodgkin)                                 |
+| 8. Penyakit sitomegalovirus   | 19. Karsinoma serviks invasif                |
+| (retinitis atau infeksi organ | 20. Leishmaniasis diseminata                 |
+| lain, tidak termasuk hati,    | atipikal                                     |
+| limpa dan kelenjar getah      | 21. Nefropati atau kardiomiopati             |
+| bening)                       | terkait HIV yang simtomatis                  |
+| 9. Toksoplasmosis di sistem   |                                              |
+| saraf pusat                   |                                              |
+| 10. Ensefalopati HIV          |                                              |
 
 **Tabel 2.1. Stadium klinis HIV**
 
@@ -183,9 +182,9 @@ Untuk memulai terapi antiretroviral perlu dilakukan pemeriksaan jumlah CD4
    * Terapi ARV dianjurkan pada semua pasien dengan TB aktif, ibu hamil dan
      koinfeksi Hepatitis B tanpa memandang jumlah CD4
 
-[Tabel 2.2. Rekomendasi lini pertama pasien yang belum mendapat terapi](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/02_02_p_HIV01.png?raw=true)
+![Tabel 2.2. Rekomendasi lini pertama pasien yang belum mendapat terapi](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/02_02_p_HIV01.png?raw=true)
 
-[Tabel. 2.3. Dosis antiretroviral untuk ODHA dewasa](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/02_02_p_HIV02.png?raw=true)
+![Tabel. 2.3. Dosis antiretroviral untuk ODHA dewasa](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/02_02_p_HIV02.png?raw=true)
 
 ### Rencana tindak lanjut
 
