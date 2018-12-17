@@ -16,8 +16,8 @@ output:
 csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
-No. ICPC-2	: A72 *Chickenpox*
-No. ICD-10	: B01.9 *Varicella without complication (Varicella NOS)*
+No. ICPC-2	: A72 *Chickenpox*  
+No. ICD-10	: B01.9 *Varicella without complication (Varicella NOS)*  
 **Kompetensi	: 4A**
 
 ## Masalah Kesehatan

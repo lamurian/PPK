@@ -16,8 +16,8 @@ output:
 csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
-No. ICPC-2	: A73 *Malaria*
-No. ICD-10	: B54 *Unspecified malaria*
+No. ICPC-2	: A73 *Malaria*  
+No. ICD-10	: B54 *Unspecified malaria*  
 **Kompetensi	: 4A**
 
 ## Masalah Kesehatan
