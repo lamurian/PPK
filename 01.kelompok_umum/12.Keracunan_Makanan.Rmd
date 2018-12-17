@@ -1,0 +1,113 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+11. Keracunan Makanan
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: A86Toxic Effect Non Medical Substance
+: T.62.2 Other Ingested (parts of plant(s))
+: 4A
+
+Masalah Kesehatan
+Keracunan makanan merupakan suatu kondisi gangguan pencernaan yang
+disebabkan oleh konsumsi makanan atau air yang terkontaminasi dengan zat
+patogen dan atau bahan kimia, misalnya Norovirus, Salmonella, Clostridium
+perfringens, Campylobacter, dan Staphylococcus aureus.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Diare akut.
+Pada keracunan makanan biasanya berlangsung kurang dari 2 minggu.
+Darah atau lendir pada tinja; menunjukkan invasi mukosa usus atau kolon.
+2. Nyeri perut.
+3. Nyeri kram otot perut; menunjukkan hilangnya elektrolit yang mendasari,
+seperti pada kolera yang berat.
+4. Kembung.
+Faktor Risiko
+1. Riwayat makan/minum di tempat yang tidak higienis
+2. Konsumsi daging/unggas yang kurang matang dapat dicurigai untuk
+Salmonella spp, Campylobacter spp, toksin Shiga E coli, dan Clostridium
+perfringens.
+3. Konsumsi makanan laut mentah dapat dicurigai untuk Norwalk-like virus,
+Vibrio spp, atau hepatitis A.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective )
+Pemeriksaan Fisik Patognomonis
+Pemeriksaan fisik harus difokuskan untuk menilai keparahan dehidrasi.
+1. Diare, dehidrasi, dengan tanda–tanda tekanan darah turun, nadi cepat,
+mulut kering, penurunan keringat, dan penurunan output urin.
+2. Nyeri tekan perut, bising usus meningkat atau melemah.
+
+52
+
+Pemeriksaan Penunjang
+1. Lakukan pemeriksaan mikroskopis dari feses untuk telur cacing dan
+parasit.
+2. Pewarnaan Gram, Koch dan metilen biru Loeffler untuk membantu
+membedakan penyakit invasif dari penyakit non-invasif.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasar anamnesis, pemeriksaan fisik dan penunjang.
+Diagnosis Banding
+1. Intoleransi
+2. Diare spesifik seperti disentri, kolera dan lain-lain.
+Komplikasi
+Dehidrasi berat
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Karena sebagian besar kasus gastroenteritis akut adalah self-limiting,
+pengobatan khusus tidak diperlukan. Dari beberapa studi didapatkan
+bahwa hanya 10% kasus membutuhkan terapi antibiotik. Tujuan utamanya
+adalah rehidrasi yang cukup dan suplemen elektrolit. Hal ini dapat dicapai
+dengan pemberian cairan rehidrasi oral (oralit) atau larutan intravena
+(misalnya, larutan natrium klorida isotonik, larutan Ringer Laktat). Rehidrasi
+oral dicapai dengan pemberian cairan yang mengandung natrium dan
+glukosa. Obat absorben (misalnya, kaopectate, aluminium hidroksida)
+membantu memadatkan feses diberikan bila diare tidak segera berhenti.
+Diphenoxylate dengan atropin (Lomotil) tersedia dalam tablet (2,5 mg
+diphenoxylate) dan cair (2,5 mg diphenoxylate / 5 mL). Dosis awal untuk
+orang dewasa adalah 2 tablet 4 kali sehari (20 mg / d), digunakan hanya
+bila diare masif.
+2. Jika gejalanya menetap setelah 3-4 hari, etiologi spesifik harus ditentukan
+dengan melakukan kultur tinja. Untuk itu harus segera dirujuk.
+3. Modifikasi gaya hidup dan edukasi untuk menjaga kebersihan diri.
+Konseling dan Edukasi
+Edukasi kepada keluarga untuk turut menjaga higiene keluarga dan pasien.
+Kriteria Rujukan
+1. Gejala keracunan tidak berhenti setelah 3 hari ditangani dengan adekuat.
+2. Pasien mengalami perburukan.
+Dirujuk ke pelayanan kesehatan sekunder dengan spesialis penyakit dalam
+atau spesialis anak.
+Peralatan
+1. Cairan rehidrasi (NaCl 0,9%, RL, oralit )
+
+53
+
+2. Infus set
+3. Antibiotik bila diperlukan
+Prognosis
+Prognosis umumnya bila pasien tidak mengalami komplikasi adalah bonam.
+Referensi
+1. Panduan Pelayanan Medik. PAPDI.
+2. Panduan Puskesmas untuk keracunan makanan. Depkes: Jakarta. 2007.
+(Kementerian Kesehatan Republik Indonesia, 2007)

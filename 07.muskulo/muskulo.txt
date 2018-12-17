@@ -1,0 +1,877 @@
+G. Muskuloskeletal
+
+1.
+
+Fraktur Terbuka
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: L76 fracture other
+: T14 fracture of unspecified body
+: 3B
+
+Masalah Kesehatan
+Fraktur adalah terputusnya kontinuitas tulang, tulang rawan sendi, tulang
+rawan epifisis baik yang bersifat total maupun parsial.
+Fraktur terbuka adalah suatu fraktur yang terdapat hubungan dengan
+lingkungan luar melalui kulit sehingga terjadi kontaminasi bakteri dan dapat
+menimbulkan komplikasi infeksi.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Adanya patah tulang terbuka setelah terjadinya trauma
+2. Nyeri
+3. Sulit digerakkan
+4. Deformitas
+5. Bengkak
+6. Perubahan warna
+7. Gangguan sensibilitas
+8. Kelemahan otot
+Faktor Risiko: Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Inspeksi (look)
+Adanya luka terbuka pada kulit yang dapat berupa tusukan tulang yang
+tajam keluar menembus kulit atau dari luar oleh karena tertembus,
+misalnya oleh peluru atau trauma langsung dengan fraktur yang terpapar
+dengan dunia luar.
+2. Palpasi (feel)
+a. Robekan kulit yang terpapar dunia luar
+b. Nyeri tekan
+c. Terabanya jaringan tulang yang menonjol keluar
+d. Adanya deformitas
+e. Panjang anggota gerak berkurang dibandingkan sisi yang sehat
+3. Gerak (move)
+Umumnya tidak dapat digerakkan
+
+242
+
+Pemeriksaan Penunjang
+Pemeriksaan radiologi, berupa: Foto polos dilakukan pemeriksaan dalam
+proyeksi AP dan lateral
+Penegakan Diagnostik (Assessment)
+Diagnosis klinis
+Diagnosis ditegakkan berdasar anamnesis, pemeriksaan fisik dan penunjang.
+Klasifikasi
+Fraktur terbuka dibagi menjadi tiga kelompok:
+1. Grade I
+a. Fraktur terbuka dengan luka kulit kurang dari 1 cm dan bersih
+b. Kerusakan jaringan minimal, frakturnya simple atau oblique dan sedikit
+kominutif .
+2. Grade II
+a. Fraktur terbuka dengan luka robek lebih dari 1 cm, tanpa ada
+kerusakan jaringan lunak,
+b. Flap kontusio avulsi yang luas serta fraktur kominutif sedang dan
+kontaminasi sedang.
+3. Grade III
+Fraktur terbuka segmental atau kerusakan jaringan lunak yang luas atau
+amputasi traumatic, derajad kontaminasi yang berat dan trauma dengan
+kecepatan tinggi.
+Fraktur grade III dibagi menjadi tiga, yaitu:
+a. Grade IIIa: Fraktur segmental atau sangat kominutif penutupan tulang
+dengan jaringan lunak cukup adekuat.
+b. Grade IIIb: Trauma sangat berat atau kehilangan jaringan lunak yang
+cukup luas, terkelupasnya daerah periosteum dan tulang tampak
+terbuka, serta adanya kontaminasi yang cukup berat.
+c. Grade IIIc: Fraktur dengan kerusakan pembuluh darah.
+Diagnosis Banding: Komplikasi
+Perdarahan, syok septik sampai kematian, septikemia, toksemia oleh karena
+infeksi piogenik, tetanus, gangrene, perdarahan sekunder, osteomielitis kronik,
+delayed union, nonunion dan malunion, kekakuan sendi, komplikasi lain oleh
+karena perawatan yang lama
+Penatalaksanaan Komprehensif (Plan)
+Prinsip penanganan fraktur terbuka
+1. Semua fraktur terbuka dikelola secara emergensi dengan metode ATLS
+2. Lakukan irigasi luka
+3. Lakukan imobilisasi fraktur
+4. Pasang cairan dan berikan antibiotika intra vena yang sesuai dan adekuat
+kemudian segera rujuk kelayanan sekunder.
+
+243
+
+Penatalaksanaan
+1. Pembersihan terhadap luka fraktur, dengan cara irigasi dengan NaCl
+fisiologis secara mekanis untuk mengeluarkan benda asing yang melekat.
+2. Balut luka untuk menghentikan perdarahan, pada fraktur dengan tulang
+menonjol keluar sedapat mungkin dihindari memasukkan komponen tulang
+tersebut kembali kedalam luka.
+3. Fraktur grade II dan III sebaiknya difiksasi dengan fiksasi eksterna.
+4. Pemberian antibiotika: merupakan cara efektif mencegah terjadinya infeksi
+pada fraktur terbuka. Antibiotika yang diberikan sebaiknya dengan dosis
+yang besar. Untuk fraktur terbuka antibiotika yang dianjurkan adalah
+golongan
+cephalosporin,
+dan
+dikombinasi
+dengan
+golongan
+aminoglikosida.
+5. Pencegahan tetanus: semua penderita dengan fraktur terbuka perlu
+diberikan pencegahan tetanus. Pada penderita yang telah mendapat
+imunisasi aktif cukup dengan pemberian tetanus toksoid tapi bagi yang
+belum, dapat diberikan 250 unit tetanus imunoglobulin.
+Kriteria Rujukan
+Pasien segera dirujuk setelah kondisi lebih stabil dengan tetap mengawasi
+tanda vital.
+Peralatan
+Bidai, set bedah minor
+Prognosis
+Prognosis quo ad fungsionam adalah dubia ad bonam, tergantung pada
+kecepatan dan ketepatan tindakan yang dilakukan.
+Referensi
+1. Schaller, T.M. Calhoun, J.H. Open Fracture. E-medicine. Medscape.
+Update 21 May. 2011. (Schaller & Calhoun, 2011)
+2. Chairuddin, R. Pengantar Ilmu Bedah Ortopedi. Fraktur Terbuka. Edisi 3.
+Jakarta: PT Yarsif Watampone. 2007. Hal: 332 - 334. (Chairuddin, 2007)
+
+2.
+
+Fraktur Tertutup
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: L76 fracture other
+: T14 fracture of unspecified body
+: 3B
+
+MasalahKesehatan
+Fraktur adalah terputusnya kontinuitas tulang, tulang rawan sendi, tulang
+rawan epifisis baik yang bersifat total maupun parsial. Fraktur tertutup adalah
+suatu fraktur yang tidakberhubungan dengan lingkungan luar.
+
+244
+
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Adanya riwayat trauma (terjatuh, kecelakaan, dll)
+2. Nyeri
+3. Sulit digerakkan
+4. Deformitas
+5. Bengkak
+6. Perubahan warna
+7. Gangguan sensibilitas
+8. Kelemahan otot
+Faktor Risiko:
+Osteoporosis
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Inspeksi (look)
+Adanya deformitas dari jaringan tulang, namun tidak menembus kulit.
+Anggota tubuh tdak dapat digerakkan.
+2. Palpasi (feel)
+a. Teraba deformitas tulang jika dibandingkan dengan sisi yang sehat.
+b. Nyeri tekan.
+c. Bengkak.
+d. Perbedaan panjang anggota gerak yang sakitdibandingkan dengan sisi
+yang sehat.
+3. Gerak (move)
+Umumnya tidak dapat digerakkan
+Pemeriksaan Penunjang
+Pemeriksaan radiologi berupa foto polos dilakukan pemeriksaan dalam
+proyeksi AP dan lateral.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan
+penunjang.
+
+berdasarkan
+
+anamnesis,
+
+pemeriksaan
+
+Diagnosis Banding : Komplikasi : Compartemen syndrome
+Penatalaksanaan Komprehensif (Plan)
+Prinsip penatalaksanaan dilakukan dengan:
+1. Semua fraktur dikelola secara emergensi dengan metode ATLS
+
+245
+
+fisik
+
+dan
+
+2. Lakukan stabilisasi fraktur dengan bidai, waspadai adanya tanda-tanda
+compartemen syndrome seperti edema, kulit yang mengkilat dan adanya
+nyeri tekan.
+3. Rujuk segera kelayanan sekunder
+Kriteria Rujukan:
+Pasien segera dirujuk setelah kondisi lebih stabil dengan tetap mengawasi
+tanda vital.
+Peralatan
+1. Bidai
+2. Jarum kecil
+Prognosis
+Prognosis umumnya bonam, namun quo ad fungsionam adalah dubia ad
+bonam. Hal ini bergantung kepada kecepatan dan ketepatan tindakan yang
+dilakukan.
+Referensi
+Chairuddin, R. Pengantar Ilmu Bedah Ortopedi. Fraktur Tertutup. Edisi 3.
+Jakarta: PT Yarsif Watampone. 2007. Hal:327-332.
+
+3.
+
+Polimialgia Reumatik
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: L99 Musculosceletal disease other
+: M53.3 Polymyalgia rheumatica
+: 3A
+
+Masalah Kesehatan
+Poly Myalgia Rheumatica (PMR) adalah suatu sindrom klinis dengan etiologi
+yang tidak diketahui yang mempengaruhi individu usia lanjut. Hal ini ditandai
+dengan mialgia proksimal dari pinggul dan gelang bahu dengan kekakuan pagi
+hari yang berlangsung selama lebih dari 1 jam.
+Hasil Anamnesis (Subjective)
+Keluhan
+Pada sekitar 50 % pasien berada dalam kesehatan yang baik sebelum onset
+penyakit yang tiba-tiba. Pada kebanyakan pasien, gejala muncul pertama kali
+pada bahu. Sisanya, pinggul atau leher yang terlibat saat onset. Gejala terjadi
+mungkin pada satu sisi tetapi biasanya menjadi bilateral dalam beberapa
+minggu.
+Gejala-gejala termasuk nyeri dan kekakuan bahu dan pinggul. Kekakuan
+mungkin begitu parah sehingga pasien mungkin mengalami kesulitan bangkit
+
+246
+
+dari kursi, berbalik di tempat tidur, atau mengangkat tangan mereka di atas
+bahu tinggi. Kekakuan setelah periode istirahat (fenomena gel) serta kekakuan
+pada pagi hari lebih dari 1 jam biasanya terjadi. Pasien juga mungkin
+menggambarkan sendi distal bengkak atau yang lebih jarang berupa edema
+tungkai. Carpal tunnel syndrome dapat terjadi pada beberapa pasien.
+Faktor Risiko : Hasil pemeriksaan fisik dan penunjang sederhana (Objective )
+Pemeriksaan Fisik Patognomonis
+Tanda-tanda dan gejala polymyalgia rheumatic tidak spesifik, dan temuan
+obyektif pada pemeriksaan fisik sering kurang.
+Gejala umum sebagai berikut:
+1. Penampilan lelah
+2. Pembengkakan ekstremitas distal dengan pitting edema.
+Temuan muskuloskeletal sebagai berikut:
+1. Kekuatan otot normal, tidak ada atrofi otot
+2. Nyeri pada bahu dan pinggul dengan gerakan
+3. Sinovitis transien pada lutut, pergelangan
+sternoklavikula.
+
+tangan,
+
+dan
+
+sendi
+
+Pemeriksaan Penunjang
+Pemeriksaan laju endap darah (LED)
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan satu set kriteria diagnostik berikut, yaitu:
+1. Usia onset 50 tahun atau lebih tua
+2. Laju endap darah ≥ 40 mm / jam
+3. Nyeri bertahan selama ≥ 1 bulan dan melibatkan 2 dari daerah berikut:
+leher, bahu, dan korset panggul
+4. Tidak adanya penyakit lain dapat menyebabkan gejala muskuloskeletal
+5. Kekakuan pagi berlangsung ≥ 1 jam
+6. Respon cepat terhadap prednison (≤ 20 mg)
+Diagnosis Banding
+Amiloidosis, AA (Inflammatory), Depresi, Fibromialgia, Giant Cell Arteritis,
+Hipotiroidism, Multipel mieloma, Osteoartritis, Sindroma paraneoplastik, Artritis
+reumatoid.
+Komplikasi : Penatalaksanaan komprehensif (Plan)
+Penatalaksanaan
+1. Prednison dengan dosis 10-15 mg peroral setiap hari, biasanya
+menghasilkan perbaikan klinis dalam beberapa hari.
+
+247
+
+2. ESR biasanya kembali ke normal selama pengobatan awal, tetapi
+keputusan terapi berikutnya harus berdasarkan status ESR dan klinis.
+3. Terapi glukokortikoid dapat diturunkan secara bertahap dengan dosis
+pemeliharaan 5-10 mg peroral setiap hari tetapi harus dilanjutkan selama
+minimal 1 tahun untuk meminimalkan risiko kambuh.
+Konsultasi dan Edukasi
+Edukasi keluarga bahwa penyakit ini mungkin menimbulkan gangguan dalam
+aktivitas penderita, sehingga dukungan keluarga sangatlah penting.
+Kriteria Rujukan
+Setelah ditegakkan dugaan diagnosis, pasien dirujuk ke pelayanan kesehatan
+sekunder.
+Peralatan
+Laboratorium sederhana untuk pemeriksaan darah
+Prognosis
+Prognosis adalah dubia ad bonam, tergantung dari ada/tidaknya komplikasi.
+Referensi
+Buku Ajar Ilmu Penyakit Dalam. Edisi V. 2009.
+
+4.
+
+Artritis Reumatoid
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: L99 Musculosceletal disease other
+: M53.3 Polymyalgia rheumatica
+: 3A
+
+Masalah Kesehatan
+Penyakit autoimun yang ditandai dengan terdapatnya sinovitis erosif simetrik
+yang walaupun terutama mengenai jaringan persendian, seringkali juga
+melibatkan organ tubuh lainnya.
+Hasil Anamnesis (Subjective)
+Keluhan
+Gejala pada awal onset
+Gejala prodromal: lelah (malaise), anoreksia, seluruh tubuh terasa lemah yang
+berlangsung berminggu-minggu atau berbulan-bulan.
+Gejala spesifik pada banyak sendi (poliartrikular) secara simetris, dapat
+mengenai seluruh sendi terutama sendi PIP (proximal interphalangeal), sendi
+MCP (metacarpophalangeal) atau MTP (metatarsophalangeal), pergelangan
+tangan, bahu, lutut, dan kaki. Sendi DIP (distal interphalangeal) umumnya
+tidak terkena.
+
+248
+
+Gejala sinovitis pada sendi yang terkena: bengkak, nyeri yang diperburuk
+dengan gerakan sehingga gerakan menjadi terbatas, kekakuan pada pagi hari
+> 1 jam.
+Gejala ekstraartikular: mata (episkleritis), kardiovaskular (nyeri dada pada
+perikarditis), hematologi (anemia).
+Faktor Risiko
+1. Wanita,
+2. Faktor genetik.
+3. Hormon seks.
+4. Infeksi
+5. Merokok
+Hasil Pemeriksaan Fisik dan penunjang sederhana (Objective)
+Pemeriksaan Fisik
+Manifestasi artikular:
+Bengkak/efusi sendi, nyeri tekan sendi, sendi teraba hangat, deformotas (swan
+neck, boutonniere, deviasi ulnar)
+Manifestasi ekstraartikular:
+1. Kulit: terdapat nodul rheumatoid pada daerah yg banyak menerima
+penekanan, vaskulitis.
+2. Soft tissue rheumatism, seperti carpal tunnel syndrome atau frozen
+shoulder.
+3. Mata dapat ditemukan kerato-konjungtivitis sicca yang merupakan
+manifestasi sindrom Sjorgen, episkleritis/ skleritis. Konjungtiva tampak
+anemia akibat penyakit kronik.
+4. Sistem respiratorik dapat ditemukan adanya radang sendi krikoaritenoid,
+pneumonitis interstitial, efusi pleura, atau fibrosis paru luas.
+5. Sistem kardiovaskuler dapat ditemukan perikarditis konstriktif, disfungsi
+katup, fenomena embolisasi, gangguan konduksi, aortritis, kardiomiopati.
+Pemeriksaan Penunjang
+Pemeriksaan laju endap darah (LED)
+Pemeriksaan di pelayanan kesehatan sekunder atau rujukan horizontal:
+1. Faktor reumatoid (RF) serum.
+2. Radiologi tangan dan kaki. Gambaran dini berupa pembengkakan jaringan
+lunak, diikuti oleh osteoporosis juxta-articular dan erosi pada bare area
+tulang. Keadaan lanjut terlihat penyempitan celah sendi, osteoporosis
+difus, erosi meluas sampai daerah subkondral.
+
+249
+
+Gambar 6.2 Radiologi tangan pada Artritis Rheumatoid
+3.
+4.
+5.
+6.
+
+ACPA (anti-cyclic citrullinated peptide antibody) / anti-CCP
+CRP
+Analisis cairan sendi
+Biopsi sinovium/ nodul rheumatoid
+
+Penegakan Diagnosis (Assessment)
+Diagnosis Klinis
+Diagnosis RA biasanya didasarkan pada gambaran klinis dan radiografis.
+Kriteria Diagnosis
+Berdasarkan ACR-EULAR 2010:
+Dibuat skor dari beberapa poin dibawah ini :
+1. Jumlah sendi yang terlibat
+a. 1 sendi besar
+:0
+b. 2-10 sendi besar
+:1
+c. 1-3 sendi kecil (dengan atau tanpa sendi besar)
+:2
+d. 4-10 sendi kecil (dengan atau tanpa sendi besar)
+:3
+e. >10 sendi dengan minimal 1 sendi kecil
+:5
+Sendi DIP, MTP I, carpometacarpal I tidak termasuk dalam kriteria
+Yang dimaksud sendi kecil adalah MCP, PIP, MTP II-V, ibu jari, dan
+pergelangan tangan
+Yang dimaksud sendi besar adalah bahu, siku, lutut, pangkal paha, dan
+pergelangan kaki.
+2. Acute phase reactants : LED dan CRP
+a. LED atau CRP naik
+:1
+3. RF atau anti CCP
+a. RF dan anti CRP (-)
+:0
+b. RF atau anti CRP naik < 3 batas atas normal (BAN)
+:2
+c. RF atau CRP naik > 3 BAN
+:3
+4. Durasi
+a. Lebih dari 6 Minggu
+:1
+b. Kurang dari 6 Minggu
+:0
+Skor 6 atau lebih dapat dibuat diagnosis RA
+
+250
+
+Tabel 6.4 Sistem penilaian klasifikasi kriteria RA (American College of
+Rheumatology/European League Against Rheumatism, 2010)
+Kriteria Klasifikasi untuk RA (algoritma berdasarkan skor: tambahkan skor
+dari kategori A-D; dari total skor 10, jika didapatkan jumlah skor ≥ 6 adalah
+3
+definisi pasti RA)
+1. Keterlibatan sendi
+5
+1 sendi besar
+2-10 sendi besar
+6
+1-3 sendi kecil (dengan atau tanpa keterlibatan sendi besar)
+4-10 sendi kecil (dengan atau tanpa keterlibatan sendi besar)3
+7
+>10 sendi (min.1 sendi kecil)
+8
+2. Serologi (min.1 hasil tes yang dibutuhkan untuk klasifikasi)
+RF (-) dan ACPA (-)
+RF (+) rendah dan ACPA (+) rendah
+RF (+) tinggi dan ACPA (+) tinggi
+9
+3. Reaktan fase akut (min.1 hasil tes yang dibutuhkan untuk klasifikasi)
+CRP normal dan LED normal
+CRP tidak normal dan LED tidak normal
+10
+4. Durasi dari gejala
+< 6 minggu
+≥ 6 minggu
+Catatan:
+1. Kriteria tersebut ditujukan untuk klasifikasi pasien baru.
+Sebagai tambahan, pasien dengan penyakit erosif tipikal RA dengan
+riwayat yang sesuai dengan kriteria 2010 ini harus diklasifikasikan ke
+dalam RA. Pasien dengan penyakit lama, termasuk yang tidak aktif
+(dengan atau tanpa pengobatan), yang berdasarkan data retrospektif yang
+dimiliki memenuhi kriteria 2010 ini harus diklasifikasikan ke dalam RA.
+2. Diagnosis banding bervariasi diantara pasien dengan manifestasi yang
+berbeda, tetapi boleh memasukkan kondisi seperti SLE, artritis psoriatic,
+dan gout. Jika diagnosis banding masih belum jelas, hubungi ahli
+reumatologi.
+3. Walaupun pasien dengan skor < 6 dari tidak diklasifikasikan ke dalam RA,
+status mereka dapat dinilai ulang dan kriteria ini bisa dipenuhi secara
+kumulatif seiring waktu.
+4. Keterlibatan sendi merujuk pada sendi yang bengkak atau nyeri pada
+pemeriksaan, yang dikonfirmasi oleh bukti pencitraan akan adanya
+sinovitis. Sendi interfalang distal, sendi karpometakarpal I, dan sendi
+metatarsofalangeal I tidak dimasukkan dalam pemeriksaan. Kategori
+distribusi sendi diklasifikasikan berdasarkan lokasi dan jumlah sendi yang
+terlibat, ditempatkan ke dalam kategori tertinggi berdasarkan pola
+keterlibatan sendi.
+
+251
+
+0
+1
+2
+3
+5
+0
+2
+3
+0
+1
+0
+1
+
+5. Sendi-sendi besar merujuk pada bahu, siku, pinggul, lutut, dan
+pergelangan kaki.
+6. Sendi-sendi kecil merujuk pada sendi metakarpofalangeal, sendi
+interfalang proksimal, sendi metatarsophalangeal II-V, sendi interfalang
+ibujari, dan pergelangan tangan.
+7. Dalam kategori ini, minimal 1 dari sendi yg terlibat harus sendi kecil; sendi
+lainnya dapat berupa kombinasi dari sendi besar dan sendi kecil
+tambahan, seperti sendi lainnya yang tidak terdaftar secara spesifik
+dimanapun (misal temporomandibular, akromioklavikular, sternoklavikular
+dan lain-lain).
+8. Negatif merujuk pada nilai IU yg ≤ batas atas nilai normal (BAN)
+laboratorium dan assay; positif rendah merujuk pada nilai IU yang ≥ BAN
+tetapi ≤ 3x BAN laboratorium dan assay; positif tinggi merujuk pada nilai IU
+yg > 3x BAN laboratorium dan assay. Ketika RF hanya dapat dinilai
+sebagai positif atau negatif, hasil positif harus dinilai sebagai positif rendah
+untuk RA. ACPA = anti-citrullinated protein antibody.
+9. Normal/tidak normal ditentukan oleh standar laboratorium setempat. CRP
+(C-reactive protein); LED (Laju Endap Darah).
+10. Durasi gejala merujuk pada laporan dari pasien mengenai durasi gejala
+dan tanda sinovitis (misal nyeri, bengkak, dan nyeri pada penekanan) dari
+sendi yang secara klinis terlibat pada saat pemeriksaan, tanpa
+memandang status pengobatan.
+Diagnosis Banding
+Penyebab arthritis lainnya, Spondiloartropati seronegatif, Lupus eritematosus
+istemik, Sindrom Sjogren
+Komplikasi
+1. Deformitas sendi (boutonnierre, swan neck, deviasi ulnar)
+2. Sindrom terowongan karpal (TCS)
+3. Sindrom Felty (gabungan gejala RA, splenomegali, leukopenia, dan ulkus
+pada tungkai; juga sering disertai limfadenopati dan trombositopenia)
+Penatalaksanaan komprehensif (Plan)
+Penatalaksanaan
+1. Pasien diberikan informasi untuk memproteksi sendi, terutama pada
+stadium akut dengan menggunakan decker.
+2. Pemberian obat anti inflamasi non-steroid, seperti: diklofenak 50-100 mg
+2x/hari, meloksikam 7,5–15 mg/hari, celecoxib 200-400 mg/sehari.
+3. Pemberian golongan steroid, seperti: prednison atau metil prednisolon
+dosis rendah (sebagai bridging therapy).
+4. Fisioterapi, tatalaksana okupasi, bila perlu dapat diberikan ortosis.
+Kriteria rujukan
+1. Tidak membaik dengan pemberian obat anti inflamasi dan steroid dosis
+rendah.
+2. RA dengan komplikasi.
+
+252
+
+3. Rujukan pembedahan jika terjadi deformitas.
+Peralatan
+Laboratorium sederhana untuk pemeriksaan darah.
+Prognosis
+Prognosis adalah dubia ad bonam, sangat tergantung dari perjalanan penyakit
+dan penatalaksanaan selanjutnya.
+Referensi
+1. Lipsky, P.E. Rheumatoid Arthritis. In: Braunwald. Fauci. Hauser. Eds.
+th
+Harrison’s Principals of Internal Medicine. 17 Ed. USA: McGraw-Hill. 2008:
+p. 2083-92.
+2. Daud, R. Artritis Reumatoid. Dalam: Sudoyo, A.W. Setiyohadi, B. Alwi, I.
+Simadibrata, M. Setiati, S.Eds. Buku Ajar Ilmu Penyakit Dalam. Edisi 4.
+Jakarta: Pusat Penerbitan Departemen Ilmu Penyakit Dalam FKUI. 2006:
+p. 1184-91.
+3. Panduan Pelayanan Medis Departemen Penyakit Dalam. Jakarta: RSUP
+Nasional Dr. Cipto Mangunkusumo. 2007
+
+5.
+
+Artritis, Osteoartritis
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: L91 Osteoarthrosis other
+: M19.9 Osteoarthrosis other
+: 3A
+
+Masalah Kesehatan
+Penyakit sendi degeneratif yang berkaitan dengan kerusakan kartilago sendi.
+Pasien sering datang berobat pada saat sudah ada deformitas sendi yang
+bersifat permanen.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Nyeri sendi
+2. Hambatan gerakan sendi
+3. Kaku pagi
+4. Krepitasi
+5. Pembesaran sendi
+6. Perubahan gaya berjalan
+Faktor Risiko
+1. Usia > 60 tahun
+2. Wanita, usia >50 tahun atau menopouse
+
+253
+
+3. Kegemukan/ obesitas
+4. Pekerja berat dengen penggunaan satu sendi terus menerus
+Hasil Pemeriksaan Fisik dan penunjang sederhana (Objective)
+Pemeriksaan Fisik
+Tanda Patognomonis
+1. Hambatan gerak
+2. Krepitasi
+3. Pembengkakan sendi yang seringkali asimetris
+4. Tanda-tanda peradangan sendi
+5. Deformitas sendi yang permanen
+6. Perubahan gaya berjalan
+Pemeriksaan Penunjang
+Radiografi
+Penegakan Diagnosis (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan gambaran klinis dan radiografi.
+Diagnosis Banding
+Artritis Gout, Rhematoid Artritis
+Komplikasi
+Deformitas permanen
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Pengelolaan OA berdasarkan atas distribusinya (sendi mana yang
+terkena) dan berat ringannya sendi yang terkena.
+2. Pengobatan bertujuan untuk mencegah progresifitas dan meringankan
+gejala yang dikeluhkan.
+3. Modifikasi gaya hidup, dengan cara:
+a. Menurunkan berat badan
+b. Melatih pasien untuk tetap menggunakan sendinya dan melindungi
+sendi yang sakit
+4. Pengobatan Non Medikamentosa : Rehabilitasi Medik /Fisioterapi
+5. Pengobatan Medikamentosa
+a. Analgesik topikal
+b. NSAID (oral):
+ non selective: COX1 (Diklofenak, Ibuprofen, Piroksikam,
+Mefenamat, Metampiron)
+ selective: COX2 (Meloksikam)
+Kriteria Rujukan
+1. Bila ada komplikasi, termasuk komplikasi terapi COX 1
+2. Bila ada komorbiditas
+
+254
+
+3. Bila nyeri tidak dapat diatasi dengan obat-obatan
+4. Bila curiga terdapat efusi sendi
+Peralatan
+Tidak terdapat peralatan khusus yang digunakan mendiagnosis penyakit
+arthritis
+Prognosis
+Prognosis umumnya tidak mengancam jiwa, namun fungsi sering terganggu
+dan sering mengalami kekambuhan.
+Referensi
+Braunwald. Fauci. Hauser. Eds. Harrison’s Principals of Internal Medicine.
+th
+17 Ed. USA: McGraw-Hill. 2008.
+
+6.
+
+Vulnus
+
+No. ICPC-2
+
+: S.16 Bruise / Contusion
+S.17 Abration / Scratch / Blister
+S.18 Laceration / Cut
+No. ICD-10
+: T14.1 Open wound of unspecified body region
+Tingkat Kemampuan:
+a. Vulnus laceratum, punctum
+: 4A
+b. Vulnus perforatum, penetratum
+: 3B
+Masalah Kesehatan
+Kulit merupakan bagian tubuh yang paling luar yang berguna melindungi diri
+dari trauma luar serta masuknya benda asing. Apabila kulit terkena trauma,
+maka dapat menyebabkan luka/vulnus. Luka tersebut dapat merusak jaringan,
+sehingga terganggunya fungsi tubuh serta dapat mengganggu aktifitas seharihari.
+Keadaan terjadinya diskontinuitas jaringan, dapat ditimbulkan oleh berbagai
+macam akibat yaitu trauma, meliputi luka robek (laserasi), luka akibat gesekan
+(abrasi), luka akibat tarikan (avulsi), luka tembus (penetrasi), gigitan, luka
+bakar, dan pembedahan.
+Etiologi
+Berdasarkan mekanisme trauma, terdiri dari :
+Trauma tajam yang menimbulkan luka terbuka, misalnya :
+1. Vulnus Punctum (Luka Tusuk)
+Penyebab adalah benda runcing tajam atau sesuatu yang masuk ke dalam
+kulit, merupakan luka terbuka dari luar tampak kecil tapi didalam mungkin
+rusak berat, jika yang mengenai abdomen/thorax disebut vulnus
+penetrosum (luka tembus).
+
+255
+
+2. Vulnus Scissum/Insivum (Luka Sayat)
+Penyebab dari luka jenis ini adalah sayatan benda tajam atau jarum
+merupakan luka terbuka akibat dari terapi untuk dilakukan tindakan invasif,
+tepi luka tajam dan licin.
+3. Vulnus Schlopetorum (Luka Tembak)
+Penyebabnya adalah tembakan, granat. Pada pinggiran luka tampak
+kehitam-hitaman, bisa tidak teratur kadang ditemukan corpus alienum.
+4. Vulnus Morsum (Luka Gigitan)
+Penyebab adalah gigitan binatang atau manusia, kemungkinan infeksi
+besar bentuk luka tergantung dari bentuk gigi
+5. Vulnus Perforatum (Luka Tembus)
+Luka jenis ini merupakan luka tembus atau luka jebol. Penyebab oleh
+karena panah, tombak atau proses infeksi yang meluas hingga melewati
+selaput serosa/epithel organ jaringan.
+6. Vulnus Amputatum (Luka Terpotong)
+Luka potong, pancung dengan penyebab benda tajam ukuran besar/berat,
+gergaji. Luka membentuk lingkaran sesuai dengan organ yang
+dipotong.Perdarahan hebat, resiko infeksi tinggi, terdapat gejala pathom
+limb.
+Trauma tumpul yang menyebabkan luka tertutup (vulnus occlusum), atau luka
+terbuka (vulnus apertum), misalnya :
+1. Vulnus Laceratum (Laserasi/Robek)
+Jenis luka ini disebabkan oleh karena benturan dengan benda tumpul,
+dengan ciri luka tepi luka tidak rata dan perdarahan sedikit luka dan
+meningkatkan resiko infeksi.
+2. Vulnus Excoriasi (Luka Lecet)
+Penyebab luka karena kecelakaan atau jatuh yang menyebabkan lecet
+pada permukaan kulit merupakan luka terbuka tetapi yang terkena hanya
+daerah kulit.
+3. Vulnus Contussum (Luka Kontusio)
+Penyebab: benturan benda yang keras. Luka ini merupakan luka tertutup,
+akibat dari kerusakan pada soft tissue dan ruptur pada pembuluh darah
+menyebabkan nyeri dan berdarah (hematoma) bila kecil maka akan
+diserap oleh jaringan di sekitarnya jika organ dalam terbentur dapat
+menyebabkan akibat yang serius.
+Trauma termal, (Vulnus Combustion-Luka Bakar), yaitu kerusakan kulit karena
+suhu yang ekstrim, misalnya air panas, api, sengatan listrik, bahan kimia,
+radiasi atau suhu yang sangat dingin (frostbite).
+Jaringan kulit rusak dengan berbagai derajat mulai dari lepuh (bula), sampai
+karbonisasi (hangus).Terdapat sensasi nyeri dan atau anesthesia.
+Patofisiologi
+Vulnus terjadi apabila ada suatu trauma yang mengenai tubuh yang bisa
+disebabkan oleh trauma mekanis dan perubahan suhu (luka bakar).Vulnus
+yang terjadi dapat menimbulkan beberapa tanda dan gejala seperti bengkak,
+krepitasi, shock, nyeri, dan deformitas atau bisa juga menimbulkan kondisi
+
+256
+
+yang lebih serius.Tanda dan gejala yang timbul tergantung pada penyebab
+dan tipe vulnus.
+Macam-macam Luka
+Menurut tipenya luka dibedakan menjadi 4 tipe luka yaitu :
+1. Luka bersih (Clean wound)
+Luka bersih adalah luka karena tindakan operasi dengan tehnik steril,
+misalnya pada daerah dinding perut, dan jaringan lain yang letaknya lebih
+dalam (non contaminated deep tissue), misalnya tiroid, kelenjar, pembuluh
+darah, otak, tulang.
+2. Luka bersih-kontaminasi (Clean contaminated wound)
+Merupakan luka yang terjadi karena benda tajam, bersih dan rapi,
+lingkungan tidak steril atau operasi yang mengenai daerah usus halus dan
+bronchial.
+3. Luka kontaminasi (Contaminated wound)
+Luka ini tidak rapi, terkontaminasi oleh lingkungan kotor, operasi pada
+saluran terinfeksi (usus besar, rektum, infeksi bronkhial,saluran kemih)
+4. Luka infeksi (Infected wound)
+Jenis luka ini diikuti oleh adanya infeksi, kerusakan jaringan, serta
+kurangnya vaskularisasi pada jaringan luka.
+Hasil Anamnesis (Subjective)
+Terjadi trauma, ada jejas, memar, bengkak, nyeri, rasa panas di daerah
+trauma.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Inspeksi: adanya kerusakan jaringan didaerah trauma, ada perdarahan, edema
+sekitar area trauma, melepuh, kulit warna kemerahan sampai kehitaman.
+Palpasi: nyeri tekan, atau anestesi.
+Pemeriksaan Penunjang : Penegakan Diagnostik (Assessment)
+1. Gejala Lokal
+a. Nyeri terjadi karena kerusakan ujung-ujung saraf sensoris. Intensitas
+atau derajat rasa nyeri berbeda-beda tergantung pada berat/luas
+kerusakan ujung-ujung saraf , etiologi dan lokasi luka.
+b. Perdarahan, hebatnya perdarahan tergantung pada lokasi luka, jenis
+pembuluh darah yang rusak.
+c. Diastase yaitu luka yang menganga atau tepinya saling melebar
+d. Gangguan fungsi, fungsi anggota badan akan terganggu baik oleh
+karena rasa nyeri atau kerusakan tendon.
+2. Gejala umum
+Gejala/tanda umum pada perlukaan dapat terjadi akibat penyulit/
+komplikasi yang terjadi seperti syok akibat nyeri dan atau perdarahan yang
+hebat.
+
+257
+
+Pada kasus vulnus diagnosis pertama dilakukan secara teliti untuk memastikan
+apakah ada pendarahan yang harus dihentikan. Kemudian ditentukan jenis
+trauma apakah trauma tajam atau trauma tumpul, banyaknya kematian
+jaringan, besarnya kontaminasi dan berat jaringan luka.
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan
+pemeriksaan penunjang bila diperlukan.
+Penatalaksanaan Komprehensif (Plan)
+1. Pertama dilakukan anestesi setempat atau umum, tergantung berat dan
+letak luka, serta keadaan penderita, luka dan sekitar luka dibersihkan
+dengan antiseptik. Bahan yang dapat dipakai adalah larutan yodium
+povidon 1% dan larutan klorheksidin ½%, larutan yodium 3% atau alkohol
+70% hanya digunakan untuk membersih kulit disekitar luka.
+2. Kemudian daerah disekitar lapangan kerja ditutup dengan kain steril dan
+secara steril dilakukan kembali pembersihan luka dari kontaminasi secara
+mekanis, misalnya pembuangan jaringan mati dengan gunting atau pisau
+dan dibersihkan dengan bilasan, atau guyuran NaCl.
+3. Akhirnya dilakukan penjahitan bila memungkinkan, dan luka ditutup
+dengan bahan yang dapat mencegah lengketnya kasa, misalnya kasa
+yang mengandung vaselin ditambah dengan kasa penyerap dan dibalut
+dengan pembalut elastis.
+Komplikasi Luka
+1. Penyulit dini seperti : hematoma, seroma, infeksi
+2. Penyulit lanjut seperti : keloid dan parut hipertrofik dan kontraktur
+Peralatan
+Alat Bedah Minor : gunting jaringan, pinset anatomis, pinset sirurgis, gunting
+benang, needle holder, klem arteri, scalpel blade & handle.
+Prognosis
+Tergantung dari luas, kedalaman dan penyebab dari trauma.
+
+258
+
+7.
+
+Lipoma
+
+No. ICPC-2
+No.ICD-10
+Tingkat Kemampuan
+
+: S78 Lipoma
+: D17.9 Benign lipomatous neoplasm
+: 4A
+
+Masalah Kesehatan
+Lipoma adalah suatu tumor (benjolan) jinak yang berada di bawah kulit yang
+terdiri dari lemak. Biasanya lipoma dijumpai pada usia lanjut (40-60 tahun),
+namun juga dapat dijumpai pada anak-anak. Lipoma kebanyakan berukuran
+kecil, namun dapat tumbuh hingga mencapai lebih dari diameter 6 cm.
+Hasil Anamnesis
+Keluhan
+Benjolan di kulit tanpa disertai nyeri.
+Biasanya tanpa gejala apa-apa (asimptomatik). Hanya dikeluhkan timbulnya
+benjolan yang membesar perlahan dalam waktu yang lama. Bisa menimbulkan
+gejala nyeri jika tumbuh dengan menekan saraf. Untuk tempat predileksi
+seperti di leher bisa menimbulkan keluhan menelan dan sesak.
+Faktor Risiko
+1. Adiposisdolorosis
+2. Riwayat keluarga dengan lipoma
+3. Sindrom Gardner
+4. Usia menengah dan usia lanjut
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik Patologis
+Keadaan Umum : tampak sehat bisa sakit ringan - sedang
+Kulit : ditemukan benjolan, teraba empuk, bergerak jika ditekan.
+Pemeriksaan Penunjang
+Dapat dilakukan tusukan jarum halus untuk mengetahui isi massa.
+Penegakan Diagnostik
+Diagnosis Klinis
+Massa bergerak di bawah kulit, bulat, yang memiliki karakteristik lembut,
+terlihat pucat. Ukuran diameter kurang dari 6 cm, pertumbuhan sangat lama.
+Diagnosis Banding
+Epidermoid kista, Abses, Liposarkoma, Limfadenitis tuberkulosis
+Pemeriksaan Penunjang
+Pemeriksaan penunjang lain merupakan pemeriksaan rujukan, seperti biopsi
+jarum halus.
+
+259
+
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Biasanya Lipoma tidak perlu dilakukan tindakan apapun.
+1. Pembedahan
+Dengan indikasi : kosmetika tanpa keluhan lain.
+Cara eksisi Lipoma dengan melakukan sayatan di atas benjolan, lalu
+mengeluarkan jaringan lipoma
+2. Terapi pasca eksisi: antibiotik, anti nyeri
+Simptomatik: obat anti nyeri
+Kriteria rujukan:
+1. Ukuran massa > 6 cm dengan pertumbuhan yang cepat.
+2. Ada gejala nyeri spontan maupun tekan.
+3. Predileksi di lokasi yang berisiko bersentuhan dengan pembuluh darah
+atau saraf.
+Prognosis
+Prognosis umumnya adalah bonam, namun ini tergantung dari letak dan
+ukuran lipoma, serta ada/tidaknya komplikasi.
+Referensi
+1. Syamsuhidayat, R. Wim De Jong. Neoplasma in: Buku Ajar Ilmu Bedah.
+Edisi 2. Jakarta: EGC. 2005.
+2. Scoot, L. Hansen. Stephen, J. Mathes.Eds. Soft Tissue Tumor in: Manual
+th
+of Surgery. 8 Ed. New York:McGraw-Hill Company. 2006.
+3. Gerard, M. Lipoma In: Current Essentials of Surgery. New York: Lange
+Medical Book. 2005.
+
+260
+
+H. Neurologi

@@ -1,0 +1,3145 @@
+N. Kesehatan Wanita
+
+1.
+
+Kehamilan Normal
+
+No. ICPC-2
+No.ICD-10
+Tingkat Kemampuan
+
+: W90 Uncomplicated labour/delivery livebirth
+: O80.9 Single spontaneous delivery, unspecified
+: 4A
+
+Masalah Kesehatan
+Masa kehamilan dimulai dari konsepsi sampai lahir. Lama kehamilan normal 40
+minggu dihitung dari hari pertama haid terahir (HPHT). Untuk menghindari terjadinya
+komplikasi pada kehamilan dan persalinan, maka setiap ibu hamil dianjurkan untuk
+melakukan pemeriksaan secara rutin minimal 4 kali kunjungan selama masa
+kehamilan.
+Hasil Anamnesis (Subjective)
+1.
+2.
+3.
+4.
+5.
+6.
+
+Haid yang terhenti
+Mual dan muntah pada pagi hari
+Ngidam
+Sering buang air kecil
+Pengerasan dan pembesaran payudara
+Puting susu lebih hitam
+
+Faktor Risiko
+Pada kehamilan perlu diwaspadai hal-hal di bawah ini:
+1. Bila pada kehamilan sebelumnya terdapat riwayat obstetrik sebagai berikut:
+a. Lahir mati atau bayi mati umur < 28 hari
+b. > 3 abortus spontan
+c. Berat badan bayi < 2500 gram
+d. Berat badan bayi > 4500 gram
+e. Dirawat di rumah sakit karena hipertensi, preeklampsia atau eklampsia
+f. Operasi pada saluran reproduksi khususnya operasi seksiosesaria
+2. Bila pada kehamilan saat ini:
+a. Usia ibu di bawah 16 tahun atau di atas 35 tahun
+b. Ibu memiliki rhesus (-)
+c. Ada keluhanperdarahan vagina
+3. Bila ibu memiliki salah satu masalah kesehatan di bawah ini:
+a. Diabetes Mellitus/ kencing manis
+b. Penyakit jantung
+c. Penyakit ginjal
+d. Penyalahgunaan obat
+e. Konsumsi rokok, alkohol dan bahan adiktif lainnya
+f. Penyakit menular TB, malaria, HIV/AIDS dan penyakit menular seksual,
+
+568
+
+g. Penyakit kanker
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Periksa tanda vital ibu (tekanan darah, nadi, suhu, frekuensi nafas), ukur berat
+badan, tinggi badan, serta lingkar lengan atas (LLA) pada setiap kedatangan.
+Pada trimester 1
+1. LLA> 33 cm, maka diduga obesitas, memiliki risiko preeklampsia dan diabetes
+maternal, memiliki risiko melahirkan bayi dengan berat badan lebih
+2. LLA< 23 cm, maka diduga undernutrisi atau memiliki penyakit kronis, biasanya
+memiliki bayi yang lebih kecil dari ukuran normal
+3. Keadaan muka diperhatikan adanya edema palpebra atau pucat, mata dan
+konjungtiva dapat pucat,kebersihan mulut dan gigi dapat terjadi karies dan
+periksa kemungkinan pembesaran kelenjar tiroid.
+4. Pemeriksaan payudara: puting susu dan areola menjadi lebih menghitam.
+5. Pemeriksaan dada:perhatikan suara paru dan bunyi jantung ibu
+6. Pemeriksaan ekstremitas: perhatikan edema dan varises
+Pemeriksaan obstetrik :
+1. Abdomen:
+a. Observasi adanya bekas operasi.
+b. Mengukur tinggi fundus uteri.
+c. Melakukan palpasi dengan manuever Leopold I-IV.
+d. Mendengarkan bunyi jantung janin (120-160x/menit).
+2. Vulva/vagina
+a. Observasi varises,kondilomata, edema, haemorhoid atau abnormalitas
+lainnya.
+b. Pemeriksaan vaginal toucher: memperhatikan tanda-tanda tumor.
+c. Pemeriksaan inspekulo untuk memeriksa serviks,tanda-tanda infeksi,
+ada/tidaknya cairan keluar dari osteum uteri.
+
+569
+
+Tabel 14.1 Tinggi fundus sesuai usia kehamilan
+Usia gestasi
+12 minggu
+16 minggu
+20 minggu
+
+Tinggi fundus uteri
+Dengan palpasi
+
+Dengan cm
+
+Teraba di atas simfisis pubis
+Diantara simfisis pubis dan
+umbilikus
+Setinggi umbilikus
+
+-
+
+22-27 minggu
+28 minggu
+
+Antara umbilikus dan
+processus xiphoideus
+
+29-35 minggu
+36 minggu
+
+Pada processus xiphoideus
+
+(20 ± 2) cm
+(minggu
+gestasi ± 2)
+cm
+(28 ± 2) cm
+(minggu
+gestasi ± 2)
+cm
+(36 ± 2) cm
+
+Pemeriksaan Penunjang
+1. Tes kehamilan menunjukkan HCG (+)
+2. Pemeriksaan darah: Golongan darah ABO dan Rhesus pada trimester 1, Hb
+dilakukan pada trimester 1 dan 3, kecuali bila tampak adanya tanda-tanda
+anemia berat.
+3. Pemeriksaan lain: kadar glukosa darah dan protein urin sesuai indikasi.
+4. Pada ibu hamil dengan faktor risiko, dianjurkan untuk dilakukan pemeriksaan:
+BTA, TORCH (toxoplasma, rubella, cytomegalo virus, herpes and others), sifilis,
+malaria danHIV dilakukan pada trimester 1 terutama untuk daerah endemik
+untuk skrining faktor risiko.
+5. USG sesuai indikasi.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosisi ditegakkan dengan anamnesis, pemeriksaan fisik/obstetrik, dan
+pemeriksaan penunjang.
+Tanda tak pasti kehamilan: Tes kehamilan menunjukkan HCG (+)
+Tanda pasti kehamilan:
+1. Bunyi jantung janin/BJJ (bila umur kehamilan/UK> 8 minggu) dengan BJJ
+normal 120-160 kali per menit,
+2. Gerakan janin (bila UK> 12 minggu)
+3. Bila ditemukan adanya janin pada pemeriksaan Ultrasonografi (USG) dan
+pemeriksaan obstetrik.
+
+570
+
+Kehamilan normal apabila memenuhi kriteria dibawah ini:
+1. Keadaan umum baik
+2. Tekanan darah<140/90 mmHg
+3. Pertambahan berat badan sesuai minimal 8 kg selama kehamilan (1 kg
+perbulan) atau sesuai Indeks Masa Tubuh (IMT) ibu
+4. Edema hanya pada ekstremitas
+5. BJJ =120-160 x/menit
+6. Gerakan janin dapat dirasakan setelah usia 18 -20 minggu hingga melahirkan
+7. Ukuran uterus sesuai umur kehamilan
+8. Pemeriksaan fisik dan laboratorium dalam batas normal
+9. Tidak ada riwayat kelainan obstetrik.
+Diagnosis Banding
+1. Kehamilan palsu
+2. Tumor kandungan
+3. Kista ovarium
+4. Hematometra
+5. Kandung kemih yang penuh
+Tabel 14.2 Tatalaksana Pemeriksaan dan tindakan pada kehamilan pertrimester
+Pemeriksaan dan Tindakan
+I
+II
+III
+Anamnesis
+Riwayat medis lengkap
+Catatan pada kunjungan
+sebelumnya
+Keluhan yang mungkin dialami
+selama hamil
+Pemeriksaan fisik umum
+Pemeriksaan fisik umum lengkap
+Keadaan umum
+Tekanan darah
+Suhu tubuh
+Tingga badan
+Berat badan
+
+√
+√
+
+√
+
+√
+
+√
+
+√
+√
+√
+
+√
+√
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+√
+
+√
+√
+
+√
+√
+
+√
+
+√
+
+√
+√
+√
+√
+√
+√
+√
+
+LILA
+Gejala anemia (pucat, nadi
+cepat)
+Edema
+Tanda bahaya lainnya (sesak,
+perdarahan, dll)
+Pemeriksaan terkait masalah
+yang ditemukan pada kunjungan
+sebelumnya
+
+571
+
+Pemeriksaan fisik obstretik
+Vulva/perineum
+Pemeriksaan inspekulo
+Tinggi fundus
+Pemeriksaan obstetri dengan
+manuver Leopold
+Denyut jantung janin
+
+√
+√
+√
+√
+
+√
+√
+
+√
+
+√
+
+*
+*
+*
+*
+*
+*
+*
+*
+
+*
+√
+*
+*
+*
+*
+*
+*
+
+Imunisasi, Suplementasi, dan KIE
+Skrining status TT dan vaksinasi √
+sesuai status
+Zat besi dan asam folat
+√
+
+√
+
+√
+
+Aspirin
+Kalsium
+KIE (sesuai materi)
+
+*
+*
+√
+
+*
+*
+√
+
+Pemeriksaan penunjang
+Golongan darah ABO dan
+rhesus
+Kadar glukosa darah
+Kadar Hb
+Kadar protein urin
+Tes BTA
+Tes HIV
+Tes malaria
+Tes sifilis
+USG
+
+√
+*
+√
+*
+*
+√*
+√*
+*
+*
+
+*
+*
+√
+
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Non Medikamentosa
+1. Memberikan jadwal pemeriksaan berkala kepada calon ibu selama masa
+kehamilan
+Tabel 14.3 Kunjungan pada pemeriksaan antenatal
+Trimester
+
+I
+II
+III
+
+Jumlah
+kunjungan
+minimal
+1x
+
+Waktu kunjungan yang dianjurkan
+
+1x
+
+Antara minggu ke 24 – 28
+
+2x
+
+Antara minggu ke 30 -32
+Antara minggu ke 36 – 38
+
+Sebelum minggu ke 16
+
+572
+
+2. Memberikan nasihat dan petunjuk yang berkaitan dengan kehamilan, persalinan,
+kala nifas dan laktasi.
+3. Tanda-tanda bahaya yang perlu diwaspadai: sakit kepala lebih dari biasa,
+perdarahan per vaginam, gangguan penglihatan, pembengkakan pada
+wajah/tangan, nyeri abdomen (epigastrium), mual dan muntah berlebihan,
+demam, janin tidak bergerak sebanyak biasanya.
+4. Pemberian makanan bayi, air susu ibu (ASI) eksklusif, dan inisiasi menyusu dini
+(IMD).
+5. Penyakit yang dapat mempengaruhi kesehatan ibu dan janin misalnya hipertensi,
+TBC, HIV, serta infeksi menular seksual lainnya.
+6. Perlunya menghentikan kebiasaan yang beresiko bagi kesehatan, seperti
+merokok dan minum alkohol.
+7. Program KB terutama penggunaan kontrasepsi pascasalin.
+8. Minum cukup cairan.
+9. Peningkatan konsumsi makanan hingga 300 kalori/hari dari menu seimbang.
+Contoh: nasi tim dari 4 sendok makan beras, ½ pasang hati ayam, 1 potong
+tahu, wortel parut, bayam, 1 sendok teh minyak goreng, dan 400 ml air.
+10. Latihan fisik normal tidak berlebihan, istirahat jika lelah.
+11. Ajarkan metoda mudah untuk menghitung gerakan janin dalam 12 jam, misalnya
+dengan menggunakan karet gelang 10 buah pada pagi hari pukul 08.00 yang
+dilepaskan satu per satu saat ada gerakan janin. Bila pada pukul 20.00, karet
+gelang habis, maka gerakan janin baik.
+Medikamentosa
+1. Memberikan zat besi dan asam folat (besi 60 mg/hari dan folat 250 mikogram 1-2
+kali/hari), bila Hb<7,0 gr/dl dosis ditingkatkan menjadi dua kali. Apabila dalam
+follow up selama 1 bulan tidak ada perbaikan, dapatdipikirkan kemungkinan
+penyakit lain (talasemia, infeksi cacing tambang, penyakit kronis TBC)
+2. Memberikanimunisasi TT(Tetanus Toxoid) apabila pasien memiliki risiko
+terjadinya tetanus pada proses melahirkan dan buku catatan kehamilan.
+Pada Ibu yang riwayat imunisasi tidak diketahui, pemberian sesuai dengan tabel
+di berikut ini.
+Tabel 14.4 Pemberian TT untuk ibu yang belum pernah imunisasi
+atau tidak mengetahui status imunisasinya
+Pemberian
+TT1
+TT2
+
+selang waktu minimal
+Sedini mungkin saat kunjungan pertama
+4 minggu setelah TT1 (pada kehamilan)
+
+TT3
+
+6 Bulan setelah TT2 (pada kehamilan, jika selang minimal
+terpenuhi)
+
+TT4
+TT5
+
+1 tahun setelah TT3
+1 Tahun setelah TT4
+
+573
+
+Dosis booster dapat diberikan pada ibu yang sudah pernah diimunisasi. Pemberian
+dosis booster 0,5ml IM dan disesuaikan degan jumlah vaksinani yang telah diterima
+sebelumnya. Sesuai dengan tabel di berikut ini.
+Tabel 14.5 Pemberian TT untuk ibu yang sudah pernah imunisasi
+Pernah
+Pemberian dan selang waktu minimal
+1 kali
+
+TT2, 4 minggu seteleah TT1 (pada kehamilan)
+
+2 kali
+
+TT3, 6 bulan setelah TT2 (pada kehamilan, jika selang waktu
+minimal terpenuhi)
+
+3 kali
+
+TT4, 1 tahun setelah TT3
+
+4 kali
+
+TT5, 1 tahun setelah TT4
+
+5 kali
+
+Tidak Perlu lagi
+
+Konseling dan Edukasi
+1. Persiapan persalinan, meliputi: siapa yang akan menolong persalinan, dimana
+akan melahirkan, siapa yang akan membantu dan menemani dalam persalinan,
+kemungkinan kesiapan donor darah bila timbul permasalahan, metode
+transportasi bila diperlukan rujukan, dukungan biaya.
+2. Pentingnya peran suami dan keluarga selama kehamilan dan persalinan.
+3. Jika ibu merasakan tanda – tanda bahaya kehamilan, harus di waspadai dan
+segera mengunjungi pelayanan kesehatan terdekat. Tanda bahaya yang wajib
+diwaspadai :
+a. Sakit kepala yang tidak biasanya
+b. Keluarnya darah dari jalan lahir
+c. Terjadi gangguan penglihatan
+d. Pembengkakan pada wajah / tangan
+e. Mual dan muntah yang berlebihan
+f. Demam
+g. Gerakan janin yang tidak biasanya atau cenderung tidak bergerak
+4. Keluarga diajak untuk mendukung ibu hamil secara psikologis maupun finansial,
+bila memungkinkan siapkan suami siaga
+5. Dukung intake nutrisi yang seimbang bagi ibu hamil.
+6. Dukung ibu hamil untuk menghentikan pemberian ASI bila masih menyusui.
+7. Dukung memberikan ASI eksklusif untuk bayi yang nanti dilahirkan.
+8. Siapkan keluarga untuk dapat menentukan kemana ibu hamil harus dibawa bila
+adaperdarahan, perut dan/atau kepala terasa sangat nyeri, dan tanda-tanda
+bahaya lainnya, tulis dalam buku pemeriksaan alamat rujukan yang dapat dituju
+bila diperlukan.
+
+574
+
+9. Dengan pasangan ibu hamil didiskusikan mengenai aktifitas seksual selama
+kehamilan. Aktifitas seksual biasa dapat dilakukan selama kehamilan, posisi
+dapat bervariasi sesuai pertumbuhan janin dan pembesaran perut. Kalau ibu
+hamil merasa tidak nyaman ketika melakukan aktifitas seksual, sebaiknya
+dihentikan.Aktifitas seksual tidak dianjurkan pada keadaan:
+a. riwayat melahirkan prematur
+b. riwayat abortus
+c. perdarahan vagina atau keluar duhtubuh
+d. plasenta previa atau plasenta letak rendah
+e. serviks inkompeten
+Peralatan
+1.
+2.
+3.
+4.
+5.
+
+Alat ukur tinggi badan dan berat badan
+Meteran
+Laenec atau Doppler
+Tempat tidur periksa
+Laboratorium sederhana untuk pemeriksaan tes kehamilan, darah rutin, urinalisa
+dan golongan darah
+6. Buku catatan pemeriksaan
+7. Buku pegangan ibu hamil
+Kriteria Rujukan
+Konsultasikan dan rujuk pada kunjungan trimester 1 atau 2 bila ditemukan keadaan
+di bawah ini:
+Tabel 14.6 Kriteria rujukan ibu hamil
+Kondisi
+
+Tindakan
+
+Diabetes melitus
+
+Rujuk untuk memperoleh pelayanan sekunder
+
+Penyakit jantung
+
+Konsultasikan dan rawat atas pengawasan dokter
+ahli di tingkat sekunder
+
+Penyakit ginjal
+
+Konsultasikan dan rawat atas pengawasan dokter
+ahli di tingkat sekunder
+
+Epilepsi
+
+Nasehati untuk meneruskan pengobatan
+
+Pengguna narkoba, obat terlarang
+dan bahan adiksi lainnya
+
+Rujuk untuk perawatan khusus
+
+Tanda anemia berat dan Hb <70
+g/l
+
+Naikkan dosis besi dan rujuk bila ibu hamil sesak
+nafas
+
+Primigravida
+
+Nasehati untuk melahirkan di tempat pelayanan
+kesehatan
+
+Riwayat still birth/lahir mati
+
+Konsultasikan dan rawat atas pengawasan dokter
+ahli di tingkat sekunder
+
+575
+
+Kondisi
+
+Tindakan
+
+Riwayat (validated IUGR= intra
+uterin growth retardation)
+
+Konsultasikan dan rawat atas pengawasan dokter
+ahli di tingkat sekunder
+
+Riwayat dirawat untuk eklampsia
+atau preeklampsia
+
+Konsultasikan dan rawat atas pengawasan dokter
+ahli di tingkat sekunder
+
+Riwayat seksio sesaria
+
+Tekankan untuk melahirkan di rumah sakit
+
+Tekanan darah tinggi (>140/90
+mm Hg)
+
+Rujuk untuk di evaluasi
+
+MUAC (lingkar
+tengah)
+
+Rujuk untuk evaluasi(pertimbangkan standar ukuran
+yang sesuai untuk kondisi setempat)
+
+perut
+
+bagian
+
+Konsultasikan dan rujuk pada kunjungan trimester 1 bila ditemukan keadaan di
+bawah ini:
+1. hiperemesis
+2. perdarahan per vaginam atau spotting
+3. trauma
+Konsultasikan dan rujuk pada kunjungan trimester 2 bila ditemukan keadaan di
+bawah ini:
+1. Gejala yang tidak diharapkan
+2. Perdarahan pervaginam atau spotting
+3. Hb selalu berada di bawah 7 gr/dl
+4. Gejala preeklampsia, hipertensi, proteinuria
+5. Diduga adanya fetal growth retardation (gangguan pertumbuhan janin)
+6. Ibu tidak merasakan gerakan bayi
+Konsultasikan dan rujuk pada kunjungan trimester 3 bila ditemukan keadaan di
+bawah ini:
+1. Sama dengan keadaan tanda bahaya pada semester 2 ditambah
+2. Tekanan darah di atas 130 mmHg
+3. Diduga kembar atau lebih
+Prognosis
+1.
+2.
+3.
+
+Ad vitam
+Ad functionam
+Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Referensi
+1. Kementerian Kesehatan RI dan WHO.Buku Saku Pelayanan Kesehatan Ibu di
+Fasilitas Kesehatan Dasar dan Rujukan.Jakarta : Kementerian Kesehatan RI.
+2013(Kementerian Kesehatan Republik Indonesia, 2013)
+
+576
+
+2. Prawirohardjo, S. Saifuddin, A.B. Rachimhadhi, T. Wiknjosastro Gulardi H. Ilmu
+Kebidanan Sarwono Prawirohardjo. Edisi keempat cetakan ketiga. Jakarta: PT
+Bina Pustaka Sarwono Prawirohardjo.. 2010(Prawirohardjo, et al., 2010)
+
+2.
+
+Hiperemesis Gravidarum (Mual dan Muntah Pada Kehamilan)
+
+No. ICPC-2
+No ICD-10
+Tingkat Kemampuan
+
+: W05Pregnancy vomiting/nausea
+: O21.0 Mild hyperemis gravidarum
+: 3B
+
+Masalah Kesehatan
+Mual dan muntah yang terjadi pada awal kehamilan sampai umur kehamilan 16
+minggu. Mual dan muntah yang berlebihan, dapat mengakibatkan dehidrasi,
+gangguan asam-basa dan elektrolit dan ketosis keadaan ini disebut sebagai keadaan
+hiperemesis. Mual biasanya terjadi pada pagi hari, tapi dapat pula timbul setiap saat
+dan malam hari. Mual dan muntah ini terjadi pada 60-80% primigravida dan 40-60%
+multigravida. Mual dan muntah mempengaruhi hingga > 50% kehamilan. Keluhan
+muntah kadang-kadang begitu hebat dimana segala apa yang dimakan dan diminum
+dimuntahkan sehingga dapat mempengaruhi keadaan umum dan mengganggu
+pekerjaan sehari-hari, berat badan menurun, dehidrasi dan terdapat aseton dalam
+urin bahkan seperti gejala penyakit appendisitis, pielitis, dan sebagainya.
+Hasil Anamnesis(Subjective)
+Keluhan
+1. Mual dan muntah hebat
+2. Ibu terlihat pucat
+3. Kekurangan cairan
+Gejala klinis
+1. Muntah yang hebat
+2. Mual dan sakit kepala terutama pada pagi hari (morning sickness)
+3. Nafsu makan turun
+4. Beratbadan turun
+5. Nyeri epigastrium
+6. Lemas
+7. Rasa haus yang hebat
+8. Gangguan kesadaran
+Faktor Risiko
+Belum diketahui secara pasti namun diperkirakan erat kaitannya dengan faktorfaktor :
+1. Peningkatan hormon – hormon kehamilan.
+2. Adanya riwayat hiperemesis pada kehamilan sebelumnya.
+
+577
+
+3. Status nutrisi: pada wanita obesitas lebih jarang di rawat inap karena
+hiperemesis.
+4. Psikologis: adanya stress dan emosi.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan fisik
+1. Pemeriksaan tanda vital: nadi meningkat 100x/mnt, tekanan darah menurun
+(pada keadaan berat), subfebris, dan gangguan kesadaran (keadaan berat).
+2. Pemeriksaan tanda-tanda dehidrasi: mata cekung, bibir kering, turgor berkurang.
+3. Pemeriksaan generalis: kulit pucat, sianosis, berat badan turun> 5% dari berat
+badan sebelum hamil, uterus besar sesuai usia kehamilan, pada pemeriksaan
+inspekulo tampak serviks yang berwarna biru.
+Pemeriksaan Penunjang
+Pemeriksaan laboratorium
+1. Darah
+: kenaikan relatif hemoglobin dan hematokrit.
+2. Urinalisa
+: warna pekat, berat jenis meningkat, pemeriksaan ketonuria, dan
+proteinuria.
+Penegakan Diagnostik(Assessment)
+Diagnosis klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan pemeriksaan
+penunjang.
+Hiperemesis gravidarum apabila terjadi:
+1. Mual muntah berat
+2. Berat badan turun > 5% dari berat sebelum hamil
+3. Ketonuria
+4. Dehidrasi dan Ketidakseimbangan elektrolit
+Klasifikasi hiperemesis gravidarum secara klinis dibagi menjadi 3 tingkatan, antara
+lain:
+1. Tingkat 1
+Muntah yang terus menerus, timbul intoleransi terhadap makanan dan minuman,
+berat badan menurun, nyeri epigastrium, muntah pertama keluar makanan, lendir
+dan sedikit cairan empedu, dan yang terakhir keluar darah. Nadi meningkat
+sampai 100 x/mnt, dan tekanan darah sistolik menurun. Mata cekung dan lidah
+kering, turgor kulit berkurang, dan urin sedikit tetapi masih normal.
+2. Tingkat 2
+Gejala lebih berat, segala yang dimakan dan diminum dimuntahkan, haus hebat,
+subfebris, nadi cepat lebih dari 100-140 x/mnt, tekanan darah sistolik menurun,
+apatis, kulit pucat, lidah kotor, kadang ikterus, aseton, bilirubin dalam urin, dan
+berat badan cepat menurun.
+3. Tingkat 3
+Walaupun kondisi tingkat 3 sangat jarang, yang mulai terjadi adalah gangguan
+kesadaran (delirium-koma), muntah berkurang atau berhenti, tetapi dapat terjadi
+
+578
+
+ikterus, sianosis, nistagmus, gangguan jantung, bilirubin, dan proteinuria dalam
+urin.
+Diagnosis Banding
+Ulkus peptikum, Inflammatory bowel syndrome, Acute Fatty Liver, Diare akut
+Komplikasi
+Komplikasi neurologis, Stress related mucosal injury, stress ulcer pada gaster,
+Jaundice, Disfungsi pencernaan, Hipoglikemia, Malnutrisi, Defisiensi vitamin
+terutama thiamin, komplikasi potensial dari janin, kerusakan ginjal yang
+menyebabkan hipovolemia, Intrauterine growth restriction (IUGR)
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Non Medikamentosa
+a. Mengusahakan kecukupan nutrisi ibu, termasuk suplemantasi vitamin dan
+asam folat di awal kehamilan.
+b. Makan porsi kecil, tetapi lebih sering.
+c. Menghindari makanan yang berminyak dan berbau lemak.
+d. Istirahat cukup dan hindari kelelahan.
+e. Efekasi yang teratur.
+2. Medikamentosa
+Tatalaksana Umum
+a. Bila perlu, berikan 10 mg Doksilamin dikombinasikan dengan 10 mg vitamin
+B6 hingga 4 tablet/hari (misalnya 2 tablet saat akan tidur, 1 tablet saat pagi,
+dan 1 tablet saat siang).
+b. Bila masih belum teratasi, tambahkan Dimenhidrinat 50-100 mg per oral atau
+supositoria, 4-6 kali sehari (maksimal 200 mg/hari bila meminum 4 tablet
+Doksilamin/Piridoksin), ATAU Prometazin 5-10 mg 3-4 kali sehari per oral
+atau supositoria.
+c. Bila masih belum teratasi, tapi tidak terjadi dehidrasi, berikan salah satu
+obat di bawah ini:
+ Klorpromazin 10-25 mg per oral atau 50-100 mg IM tiap 4-6 jam
+ Proklorperazin 5-10 mg per oral atau IM atau supositoria tiap 6-8 jam
+ Prometazin 12,5-25 mg per oral atau IM tiap 4-6 jam
+ Metoklopramid 5-10 mg per oral atau IM tiap 8 jam
+ Ondansetron 8 mg per oral tiap 12 jam
+d. Bila masih belum teratasi dan terjadi dehidrasi, pasang kanula intravena dan
+berikan cairan sesuai dengan derajat hidrasi ibu dan kebutuhan cairannya,
+lalu:
+ Berikan suplemen multi vitamin IV
+ Berikan dimenhidrinat 50 mg dalam 50 ml NaCl 0,9% IV selama 20
+menit, setiap 4-6 jam sekali
+ Bila perlu, tambahkan salah satu obat berikut ini:
+- Klorpromazin 25-50 mg IV tiap 4-6 jam
+
+579
+
+
+
+- Proklorperazin 5-10 mg IV tiap 6-8 jam
+- Prometazin 12,5-25 mg IV tiap 4-6 jam
+- Metoklopramid 5-10 mg tiap 8 jam per oral
+Bila perlu, tambahkan Metilprednisolon 15-20 mg IV tiap 8 jam ATAU
+ondansetron 8 mg selama 15 menit IV tiap 12 jam atau 1 mg/ jam terusmenerus selama 24 jam.
+
+Konseling dan Edukasi
+1. Memberikan informasi kepada pasien, suami, dan keluarga mengenai kehamilan
+dan persalinansuatu proses fisiologik.
+2. Memberikan keyakinan bahwa mual dan kadang-kadang muntah merupakan
+gejala fisiologik pada kehamilan muda dan akan hilang setelah usia kehamilan 4
+bulan.
+3. Hindari kelelahan pada ibu dengan aktivitas berlebihan.
+4. Memperhatikan kecukupan nutrisi ibu, dan sedapat mungkin mendapatkan
+suplemen asam folat di awal kehamilan.
+Kriteria Rujukan
+1. Ditemukan gejala klinis dan ada gangguan kesadaran (tingkat 2 dan 3).
+2. Adanya komplikasi gastroesopagheal reflux disease (GERD), ruptur esofagus,
+perdarahan saluran cerna atas dan kemungkinan defisiensi vitamin terutama
+thiamine.
+3. Pasien telah mendapatkan tindakan awal kegawatdaruratan sebelum proses
+rujukan.
+Peralatan
+1. Laboratorium sederhana untuk pemeriksaan darah rutin
+2. Laboratorium urinalisa
+Prognosis
+Prognosis umumnya bonam dan sangat memuaskan jika dilakukan penanganan
+dengan baik. Namun jika tidak dilakukan penanganan yang baik pada tingkat yang
+berat, kondisi ini dapat mengancam nyawa ibu dan janin.
+Ad vitam: Bonam; Ad functionam: Bonam; Ad sanationam: Bonam
+Referensi
+1. Kementerian Kesehatan RI dan WHO. Buku Saku Pelayanan Kesehatan Ibu di
+Fasilitas Kesehatan Dasar dan Rujukan. Jakarta: Kementerian Kesehatan RI.
+2013(Kementerian Kesehatan Republik Indonesia, 2013)
+2. World Health Organization, KementerianKesehatan, PerhimpunanObstetri Dan
+Ginekologi,
+IkatanBidan
+Indonesia.
+PelayananKesehatanIbu
+Di
+FasilitasKesehatanDasar Dan Rujukan. Edisi I. Jakarta 2013. Hal 823(Kementerian Kesehatan Republik Indonesia, 2013)
+
+580
+
+3. Prawirohardjo, S. Saifuddin, A.B. Raschimhadhi, T. Wiknjosastro, G.H, 2010.
+Ilmu Kebidanan. Ed 4. Cetakan ketiga. Jakarta: PT Bina Pustaka Sarwono
+Prawirohardjo. 2010; Hal 814-818.(Prawirohardjo, et al., 2010)
+4. Wiknjosastro,H.Hiperemesis Gravidarum dalamIlmu Kebidanan. Jakarta: Balai
+Penerbit FKUI. 2005: Hal 275-280.(Prawirohardjo, et al., 2010)
+5. Ronardy, D.H. Ed. Obstetri Williams. Ed 18. Jakarta: Penerbit Buku Kedokteran
+EGC. 2006:9, 996.(Ronardy, 2006)
+
+3.
+
+Anemia Defisiensi Besi pada Kehamilan
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: B80 Irondeficiency anaemia
+: D50 Iron deficiency anaemia
+: 4A
+
+Masalah Kesehatan
+Anemia dalam kehamilan adalah kelainan pada ibu hamil dengan kadar hemoglobin
+< 11g/dl pada trimester I dan III atau <10,5 g/dl pada trimester II. Penyebab tersering
+anemia pada kehamilan adalah defisiensi besi, perdarahan akut, dan defisiensi asam
+folat.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Badan lemah, lesu
+2. Mudah lelah
+3. Mata berkunang-kunang
+4. Tampak pucat
+5. Telinga mendenging
+6. Pica: keinginan untuk memakan bahan-bahan yang tidak lazim
+Faktor Risiko : Faktor Predisposisi
+1. Perdarahan kronis
+2. Riwayat keluarga
+3. Kecacingan
+4. Gangguan intake (diet rendah zat besi,)
+5. Gangguan absorbsi besi
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective )
+Pemeriksaan Fisik Patognomonis
+1. Konjungtiva anemis
+2. Atrofi papil lidah
+3. Stomatitis angularis (cheilosis)
+
+581
+
+4. Koilonichia: kuku sendok (spoon nail),
+Pemeriksaan Penunjang
+1. Kadar hemoglobin
+2. Apusan darah tepi
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Kadar Hb < 11 g/dl (pada trimester I dan III) atau < 10,5 g/dl (pada trimester II).
+Apabila diagnosis anemia telah ditegakkan, lakukan pemeriksaan apusan darah tepi
+untuk melihat morfologi sel darah merah.
+Diagnosis Banding
+Anemia akibat penyakit kronik, Trait Thalassemia, Anemia sideroblastik
+Komplikasi : Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Lakukan penilaian pertumbuhan dan kesejahteraan janin dengan memantau
+pertambahan ukuran janin
+2. Bila pemeriksaan apusan darah tepi tidak tersedia, berikan tablet tambah darah
+yang berisi 60 mg besi elemental dan 250 μg asam folat.Pada ibu hamil dengan
+anemia, tablet besi diberikan 3 kali sehari.
+3. Bila tersedia fasilitas pemeriksaan penunjang, tentukan penyebab anemia
+berdasarkan hasil pemeriksaan darah perifer lengkap dan apus darah tepi.
+Bila tidak tersedia, pasien bisa di rujuk ke pelayanan sekunder untuk penentuan
+jenis anemia dan pengobatan awal.
+Tabel 14.7 Sediaan suplemen besi yang beredar
+Jenis Sediaan
+Dosis Sediaan
+Sulfas ferosus
+Fero fumarat
+Fero glukonat
+Besi polisakarida
+
+325
+325
+325
+150
+
+Kandungan Besi
+Elemental
+65
+107
+39
+150
+
+4. Anemia mikrositik hipokrom dapat ditemukan pada keadaan:
+a. Defisiensi besi: lakukan pemeriksaan ferritin. Apabila ditemukan kadar ferritin
+< 15 ng/ml, berikan terapi besi dengan dosis setara 180 mg besi elemental
+per hari. Apabila kadar ferritin normal, lakukan pemeriksaan SI dan TIBC.
+b. Thalassemia: Pasien dengan kecurigaan thalassemia perlu dilakukan
+tatalaksana bersama dokter spesialis penyakit dalam untuk perawatan yang
+lebih spesifik
+c. Anemia normositik normokrom dapat ditemukan pada keadaan:
+
+582
+
+Perdarahan: tanyakan riwayat dan cari tanda dan gejala aborsi, mola,
+kehamilan ektopik, atau perdarahan pasca persalinan infeksi kronik
+d. Anemia makrositik hiperkrom dapat ditemukan pada keadaan:
+Defisiensi asam folat dan vitamin B12: berikan asam folat 1 x 2 mg dan
+vitamin B12 1 x 250 – 1000 μg
+Konseling dan Edukasi
+1. Prinsip konseling pada anemia defisiensi besi adalah memberikan pengertian
+kepada pasien dan keluarganya tentang perjalanan penyakit dan tata
+laksananya, sehingga meningkatkan kesadaran dan kepatuhan dalam berobat
+serta meningkatkan kualitas hidup pasien untuk mencegah terjadinya anemia
+defisiensi besi.
+2. Diet bergizi tinggi protein terutama yang berasal dari protein hewani
+(daging,ikan,susu, telur,sayuran hijau)
+3. Pemakaian alas kaki untuk mencegah infeksi cacing tambang
+Kriteria Rujukan
+1. Pemeriksaan penunjang menentukan jenis anemia yang ibu derita
+2. Anemia yang tidak membaik dengan pemberian suplementasi besi selama 3
+bulan
+3. Anemia yang disertasi perdarahan kronis, agar dicari sumber perdarahan dan
+ditangani.
+Peralatan
+Laboratorium untuk pemeriksaan darah rutin
+Prognosis
+Prognosis umumnya adalah bonam, sembuh tanpa komplikasi
+Referensi
+KementerianKesehatan RI dan WHO. Buku Saku Pelayanan Kesehatan Ibu di
+Fasilitas Kesehatan Dasar dan Rujukan. Jakarta :KementerianKesehatan RI. 2013
+(Kementerian Kesehatan Republik Indonesia, 2013)
+
+583
+
+4.
+
+Pre-Eklampsia
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: W81 Toxaemia of pregnancy
+: O14.9 Pre-eclampsia, unspecified
+: 3B
+
+Masalah Kesehatan
+Pre-eklampsia merupakan kondisi spesifik pada kehamilan di atas 20 minggu yang
+ditandai dengan adanya disfungsi plasenta dan respon maternal terhadap adanya
+inflamasi spesifik dengan aktivasi endotel dan koagulasi.
+Tanda utama penyakit ini adanya hipertensi dan proteinuria. Pre-eklampsia
+merupakan masalah kedokteran yang serius dan memiliki tingkat komplesitas yang
+tinggi. Besarnya masalah ini bukan hanya karena pre-eklampsia berdampak pada
+ibu saat hamil dan melahirkan, namun juga menimbulkan masalah pasca-persalinan.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Pusing dan nyeri kepala
+2. Nyeri ulu hati
+3. Pandangan kurang jelas
+4. Mual hingga muntah
+Faktor Risiko
+1. Kondisi-kondisi yang berpotensi menyebabkan penyakit mikrovaskular
+(antaralain : diabetes melitus, hipertensi kronik, gangguan pembuluh darah)
+2. Sindrom antibody antiphospholipid (APS)
+3. Nefropati
+4. Faktor risiko lainnya dihubungkan dengan kehamilan itu sendiri, dan faktor
+spesifik dari ibu atau janin.
+a. Umur > 40 tahun
+b. Nullipara dan Kehamilan multipel
+5. Obesitas sebelum hamil
+6. Riwayat keluarga pre-eklampsia dan eklampsia
+7. Riwayat pre-eklampsia pada kehamilan sebelumnya
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Pada pre-eklampsia ringan:
+a. Tekanan darah ≥ 140/90 mmHg pada usia kehamilan > 20 minggu
+b. Tes celup urin menunjukkan proteinuria +1 atau pemeriksaan protein
+kuantitatif menunjukkan hasil > 300 mg/24 jam
+2. Pada pre-eklampsia berat:
+a. Tekanan darah > 160/110 mmHg pada usia kehamilan > 20 minggu
+
+584
+
+b. Tes celup urin menunjukkan proteinuria +2 atau pemeriksaan protein
+kuantitatif menunjukkan hasil > 5g/24 jam
+c. Atau disertai keterlibatan organ lain:
+ Trombositopenia (<100.000 sel/uL), hemolisis mikroangiopati
+ Peningkatan SGOT/SGPT, nyeri abdomen kuadran kanan atas
+ Sakit kepala, skotoma penglihatan
+ Pertumbuhan janin terhambat, oligohidroamnion
+ Edema paru atau gagal jantung kongestif
+ Oligouria (<500cc/24 jam), kreatinin > 1.2 mg/dl
+Penegakan Diagnostik (Assessment)
+Diagnosis klinis
+Diagnosis ditegakkan berdasar anamnesis, gejala klinis, pemeriksaan fisik dan
+pemeriksaan penunjang yang telah dilakukan.
+Diagnosis Banding
+Hipertensi gestasional, Hipertensi Kronik, Hipertensi Kronik dengan superimposed
+preeklampsia
+Komplikasi
+Sindrome HELLP, pertumbuhan janin intra uterin yang terhambat, edema paru,
+kematian janin, koma, kematian ibu
+Penatalaksanaan Komprehensif (Plan)
+Non Medikamentosa
+1. Pre-eklampsia ringan
+a. Dapat di rawat jalan dengan pengawasan dan kunjungan antenatal yang
+lebih sering.
+b. Dianjurkan untuk banyak istirhat dengan baring atau tidur miring. Namun
+tidak mutlak selalu tirah baring
+c. Diet dengan cukup protein dengan rendah karbohidar, lemak dan garam
+secukupnya.
+d. Pemantuan fungsi ginjal, fungsi hati, dan protenuria berkala
+2. Pre-eklampsia berat
+Segera melakukan perencanaan untuk rujukan segera ke Rumah Sakit dan
+menghindari terjadi kejang dengan pemberian MgSO4.
+Medikamentosa
+1. Pantau keadaan klinis ibu tiap kunjungan antenatal: tekanan darah, berat badan,
+tinggi badan, indeks masa tubuh, ukuran uterus dan gerakan janin.
+
+585
+
+Tabel 14.8 Obat Antihipertensi untuk ibu hamil
+Nama Obat
+Nifedipine
+
+Dosis
+4 x 10-30 mg peroral
+(short acting)
+
+Nikardipin
+
+5 mg/jam, dapat dinitarsi
+2,5 mg/jam tiap 5 menit
+hingga maksimun 10
+mg/jam
+2 x 250 – 500 mg peroral
+(dosis maksimal 2000
+mg/hari)
+
+Metildopa
+
+Keterangan
+Dapat meyebabkan
+hipotensi pada ibu
+dan janin, bila
+diperlukan diberikan
+sublingual
+
+Anti Hipertensi golongan ACE Inhibitor (misalnya kaptopril) , ARB, (misalnya
+Valsartan) dan klorotiazid dikontraindikasikan pada ibu hamil.
+
+● Berikan dosis awal 4 g
+MgSO4 sesuai
+prosedur untuk
+mencegah kejang atau
+kejang berulang
+●Sambil menunggu
+rujukan, mulai dosis rumatan 6 g
+MgSO4 dalam 6 jam sesuai prosedur
+
+Syarat pemberian MgSO4
+● Tersedia Ca Glukonas 10%
+● Ada reflex patella
+● Jumlah urin minimal 0,5 ml/Kg
+BB/jam
+
+CARA PEMBERIAN DOSIS AWAL
+● Ambil 4 g larutan MgSO4 (10 ml larutan MgSO4
+40%) dan larutkan dengan 10 ml akuades
+● Berikan larutan tersebut secra perlahan IV
+selama 20 menit
+● Jika akses intravena sulit, berikan masing-masing
+5 gr MgSO4 (12,5 ml larutan MgSO4 dalam 40%)
+IM di bokong kiri dan kanan
+CARA PEMBERIAN DOSIS RUMATAN
+● Ambil 6 gr MgSO4 (15 ml larutan MgSO4) dan larutkan dalam 500 ml
+larutan Ringer Laktat/Ringer Asetat, lalu berikan secra IV dengan
+kecepatan 28 tetes / meit selama 6 jam, dan diulang hingga 24 jam
+setelah persalinan atau kejang terakhir (bila eklampsia)
+Gambar 14. 1 Penatalaksaan Pemberian dosis awal dan rumatan MgSO 4 pada
+pasien pre-eklampsia
+
+586
+
+2. Rawat jalan (ambulatoir)
+a. Ibu hamil banyak istirahat (berbaring/tidur miring)
+b. Konsumsi susu dan air buah
+c. Antihipertensi
+ Ibu dengan hipertensi berat selama kehailan perlu
+mendapatkan terapi antihipertensi.
+ Pilihan antihipertensi didasarkan terutama pada pengalaman dokter dan
+ketersediaan obat.
+Pertimbangan persalinan/terminasi kehamilan
+1. Pada ibu dengan preeklampsi berat dengan janin sudah viable namun usia
+kehamilan belum mencapai 34 minggu, manajemen ekspektan dianjurkan,
+asalkan tidak terdapat kontraindikasi.
+2. Pada ibu dengan preeklampsi berat, dimana usia kehamilan 34-37 minggu,
+manajemen ekspektan boleh dianjurkan, asalkan tidak terdapat hipertensi yang
+tidak terkontrol, disfungsi organ ibu, dan gawat janin.
+3. Pada ibu dengan preeklampsi berat yang kehamilannya sudah aterm, persalinan
+dini dianjurkan.
+4. Pada ibu dengan preeklampsia ringan atau hipertensi gestasional ringan yang
+sudah aterm, induksi persalinan dianjurkan.
+Konseling dan Edukasi
+1. Memberikan informasi mengenai keadaan kesehatan ibu hamil dengan tekanan
+darah yang tinggi.
+2. Melakukan edukasi terhadapa pasien, suami dan keluarga jika menemukan
+gejala atau keluhan dari ibu hamil segera memberitahu petugas kesehatan atau
+langsung ke pelayanan kesehatan
+3. Sebelum pemberian MgSO4, pasien terlebih dulu diberitahu akan mengalami
+rasa panas dengan pemberian obat tersebut.
+4. Suami dan keluarga pasien tetap diberi motivasi untuk melakukan
+pendampingan terhadap ibu hamil selama proses rujukan
+Kriteria Rujukan
+1. Rujuk bila ada satu atau lebih gejala dan tanda-tanda preeklampsia berat ke
+fasilitas pelayanan kesehatan sekunder.
+2. Penanganan kegawatdaruratan harus di lakukan menjadi utama sebelum dan
+selama proses rujukan hingga ke Pelayanan Kesehatan sekunder.
+Peralatan
+1.
+2.
+3.
+4.
+5.
+6.
+
+Doppler atau Laenec
+Palu Patella
+Obat-obat Antihipertensi
+Laboratorium sederhana untuk pemeriksaan darah rutin dan urinalisa.
+Larutan MgSO4 40%
+Larutan Ca Glukonas
+
+587
+
+Prognosis
+Prognosis pada umumnya dubia ad bonam baik bagi ibu maupun janin.
+Referensi
+1. Kementerian Kesehatan RI dan WHO.Buku Saku Pelayanan Kesehatan Ibu di
+Fasilitas Kesehatan Dasar dan Rujukan.Jakarta : KementerianKesehatan RI.
+2013(Kementerian Kesehatan Republik Indonesia, 2013)
+2. Report on the national high blood pressure education program working group on
+high blood pressure in pregnancy. AJOG.2000: Vol.183. (National High Blood
+Pressure Education Program Working Group on High Blood Pressure in
+Pregnancy, 2000)
+3. Lana, K. Wagner, M.D. Diagnosis and management of pre-eklampsia. The
+American Academy of Family Physicians. 2004 Dec 15; 70 (12): 23172324).(Lana & Wagner, 2004)
+4. Cunningham, F.G. et.al. Hypertensive Disorder in Pregnancy. Williams
+st
+Obstetrics. 21 Ed. Prentice Hall International Inc. Connecticut: Appleton and
+Lange. 2001; p. 653 - 694.(Cunningham, et al., 2001)
+5. Prawirohardjo, S. Saifuddin, A.B. Rachimhadhi, T. Wiknjosastro Gulardi H. Ilmu
+Kebidanan Sarwono Prawirohardjo. Edisi keempat cetakan ketiga. Jakarta :PT
+Bina Pustaka Sarwono Prawirohardjo.. 2010: Hal 550-554.(Prawirohardjo, et al.,
+2010)
+6. KementerianKesehatan RI. PedomanNasionalPelayananKedokteran : Diagnosis
+dan Tata Laksana Pre-eklampsia. Jakarta: KementerianKesehatan RI.
+2013.(Kementerian Kesehatan Republik Indonesia, 2013)
+
+5.
+
+Eklampsi
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: W81 Toxaemia of pregnancy
+: O15.9 Eclampsia, unspecified as to time period
+: 3B
+
+Masalah Kesehatan
+Eklampsia merupakan kasus akut pada penderita pre-eklampsia, yang disertai
+dengan kejang menyeluruh dan atau koma. Sama halnya dengan pre-eklampsia,
+eklampsia dapat timbul pada ante, intra, dan post partum. Eklampsia post partum
+umumnya hanya terjadi dalam waktu 24 jam pertama setelah persalinan. 50-60%
+kejadian eklampsia terjadi dalam keadaan hamil. 30-35% kejadian eklampsia terjadi
+pada saat inpartu, dan sekitar 10% terjadi setelah persalinan.
+Pada negara berkembang kejadian ini berkisar 0,3-0,7%. Di Indonesia Pre eklampsia
+dan eklampsia penyebab kematian ibu berkisar 15-25%, sedangkan 45-50% menjadi
+penyebab kematian bayi.
+
+588
+
+Hasil Anamnesis (Subjective)
+Keluhan
+Kejang yang diawali dengan gejala-gejala prodromal eklampsia, antara lain:
+1. Nyeri kepala hebat
+2. Gangguan penglihatan
+3. Muntah-muntah
+4. Nyeri ulu hati atau abdomen bagian atas
+5. Kenaikan progresif tekanan darah
+Faktor Risiko
+1. Kondisi-kondisi yang berpotensi menyebabkan penyakit mikrovaskular (antara
+lain: diabetes melitus, hipertensi kronik, gangguan pembuluh darah dan jaringan
+ikat)
+2. Sindrom antibody antiphospholipid, dan nefropati. Faktor risiko lainya
+dihubungkan dengan kehamilan itu sendiri, dan faktor spesifik dari ibu atau ayah
+janin.
+3. Riwayat preeklampsia ringan dan berat dalam kehamilan sebelumnya.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Pemeriksaan keadaan umum: sadar atau penurunan kesadaran Glasgow Coma
+Scale dan Glasgow-Pittsburg Coma Scoring System.
+2. Pada tingkat awal atau aura yang berlangsung 30 sampai 35 detik, tangan dan
+kelopak mata bergetar, mata terbuka dengan pandangan kosong.
+3. Tahap selanjutnya timbul kejang
+4. Pemeriksaan tanda vital
+Adanya peningkatan tekanan darah diastol >110 mmHg
+5. Sianosis
+6. Skotoma penglihatan
+7. Dapat ditemukan adanya tanda-tanda edema paru dan atau gagal jantung
+Pemeriksaan Penunjang
+Dari pemeriksaan urinalisa didapatkan proteinuria ≥ 2+
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasar anamnesis, pemeriksaan fisik, dan pemeriksaan
+penunjang.
+Diagnosis Banding
+Kejang pada eklampsia harus dipikirkan kemungkinan kejang akibat penyakit lain,
+oleh karena itu sebagai diagnosis banding eklampsia antara lain: Hipertensi,
+perdarahan otak, lesi di otak, Meningitis, Epilepsi , Kelainan metabolik
+1. Komplikasi pada ibu: sianosis, aspirasi , pendarahan otak dan kegagalan
+jantung, mendadak, lidah tergigit, jatuh dari tempat tidur yang menyebabkan
+
+589
+
+fraktur dan luka, gangguan fungsi ginjal, perdarahan atau ablasio retina,
+gangguan fungsi hati dan ikterus
+2. Komplikasi pada janin: Asfiksia mendadak disebabkan spasme pembuluh darah,
+Solusio plasenta, persalinan prematuritas
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Perawatan dasar eklampsia yang utama adalah terapi supportif untuk stabilisasi
+fungsi vital, dengan pemantauan terhadap Airway, Breathing, Circulation (ABC).
+Non Medikamentosa
+Pengelolaan Kejang
+1. Pemberian obat anti kejang.
+2. Masukan sudap lidah ke dalam mulut penderita.
+3. Baringkan pasien pada sisi kiri, posisi trendelenburg untuk mengurangi risiko
+aspirasi.
+4. Katerisasi urine untuk pengukuran cairan dan pemeriksaan proteinuria.
+5. Beberapa keluarga pasien membantu untuk menjaga pasien tidak terjatuh dari
+tempat tidur saat kejang timbul
+6. Beri O2 4 - 6 liter permenit.
+Medikamentosa
+1. MgSO4 diberikan intravena dengan dosis awal 4 g (10 ml MgSO4 40%, larutkan
+dalam 10 ml akuades) secara perlahan selama 20 menit, jika pemberian secara
+intravena sulit, dapat diberikan secara IM dengan dosis 5 mg masing bokong
+kanan dan kiri.
+Adapun syarat pemberian MgSO4
+a. tersedianya CaGlukonas10%
+b. ada refleks patella,
+c. jumlah urin minimal 0,5 ml/kgBB/jam
+d. frekuensi napas 12-16x/menit.
+2. Sambil menunggu rujukan, mulai dosis rumatan 6 g MgSO4 (15ml MgSO4 40%,
+larutkan dalam 500 ml larutan Ringer Laktat/ Ringer asetat) 28 tetes/ menit
+selama 6 jam dan diulang hingga 24 jam setelah persalinan atau kejang
+berakhir.
+3. Pada kondisi di mana MgSO4 tidak dapat diberikan seluruhnya, berikan dosis
+awal (loading dose) lalu rujuk ibu segera ke fasilitas kesehatan sekunder .
+4. Diazepam juga dapat dijadikan alternatif pilihan dengan dosis 10 mg IV selama 2
+menit (perlahan), namun mengingat dosis yang dibutuhkan sangat tinggi dan
+memberi dampak pada janin, maka pemberian diazepam hanya dilakukan
+apabila tidak tersedia MgSO4.
+5. Stabilisasi selama proses perjalanan rujukan
+a. Lakukan pemeriksaan fisik tiap jam, meliputi tekanan darah, frekuensi nadi,
+frekuensi pernapasan, refleks patella.
+
+590
+
+b. Bila frekuensi pernapasan < 16 x/menit, dan/atau tidak didapatkan refleks
+tendon patella, danatau terdapat oliguria (produksi urin <0,5 ml/kg BB/jam),
+segera hentikan pemberian MgSO4.
+6. Jika terjadi depresi napas, berikan Ca glukonas 1 g IV (10 ml larutan 10%) bolus
+dalam 10 menit.
+Kriteria Rujukan
+Eklampsia merupakan indikasi rujukan yang wajib di lakukan.
+Peralatan
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Oropharyngeal airway / Guedel
+Kateter urin
+Laboratorium sederhana untuk pemeriksaan urin (menilai kadar proteinuria).
+Larutan MgSO4 40%
+Ca Glukonas
+Diazepam injeksi
+Palu
+
+Prognosis
+Prognosis umumnya dubia ad malam baik untuk ibu maupun janin.
+Referensi
+1. Prawirohardjo, S. Saifuddin, A.B. Rachimhadhi, T. Wiknjosastro Gulardi H. Ilmu
+Kebidanan Sarwono Prawirohardjo. Edisi keempat cetakan ketiga. Jakarta: PT
+Bina Pustaka Sarwono Prawirohardjo. 2010: Hal 550-554.(Prawirohardjo, et al.,
+2010)
+2. Kementerian Kesehatan RI dan WHO. Buku Saku Pelayanan Kesehatan Ibu di
+Fasilitas Kesehatan Dasar dan Rujukan.Jakarta: KementerianKesehatan RI.
+2013.(Kementerian Kesehatan Republik Indonesia, 2013)
+
+6.
+
+Abortus
+
+No. ICPC-2
+No. ICD-10
+No. ICPC-2
+No. ICD-10
+
+Tingkat Kemampuan
+Abortus komplit
+Abortus inkomplit
+Abortus insipiens
+
+: W82 Abortion spontaneous
+: O03.9 Unspecified abortion, complete, without
+complication
+: W82 Abortion spontaneous
+: O06.4 Unspecified abortion, incomplete,without
+complication
+
+: 4A
+: 3B
+: 3B
+
+591
+
+Masalah Kesehatan
+Abortus ialah ancaman atau pengeluaran hasil konsepsi sebelum janin dapat hidup diluar
+kandungan,dan sebagai batasan digunakan kehamilan kurang dari 20 minggu atau berat
+anak kurang dari 500 gram.
+Jenis dan derajat abortus :
+1. Abortus imminens adalah abortus tingkat permulaan, dimana terjadi perdarahan
+pervaginam ostium uteri masih tertutup dan hasil konsepsi masih baik dalam
+kandungan.
+2. Abortus insipiens adalah abortus yang sedang mengancam dimana serviks telah
+mendatar dan ostium uteri telah membuka, akan tetapi hasil konsepsi masih dalam
+kavum uteri.
+3. Abortus inkomplit adalah sebagian hasil konsepsi telah keluar dari kavum uteri masih
+ada yang tertinggal.
+4. Abortus komplit adalah seluruh hasil konsepsi telah keluar dari kavum uteri pada
+kehamilan kurang dari 20 minggu.
+Hasil Anamnesis (Subjective)
+Keluhan yang terdapat pada pasien abortus antara lain:
+1. Abortus imminens
+a. Riwayat terlambat haid dengan hasil B HCG (+) dengan usia kehamilan dibawah
+20 minggu
+b. Perdarahan pervaginam yang tidak terlalu banyak, berwarna kecoklatan dan
+bercampur lendir
+c. Tidak disertai nyeri atau kram
+2. Abortus insipiens
+a. Perdarahan bertambah banyak, berwarna merah segar disertai terbukanya
+serviks
+b. Perut nyeri ringan atau spasme (seperti kontraksi saat persalinan)
+3. Abortus inkomplit
+a. Perdarahan aktif
+b. Nyeri perut hebat seperti kontraksi saat persalinan
+c. Pengeluaran sebagian hasil konsepsi
+d. Mulut rahim terbuka dengan sebagian sisa konsepsi tertinggal
+e. Terkadang pasien datang dalam keadaan syok akibat perdarahan
+4. Abortus komplit
+a. Perdarahan sedikit
+b. Nyeri perut atau kram ringan
+c. Mulut rahim sudah tertutup
+d. Pengeluaran seluruh hasil konsepsi
+Faktor Risiko
+1. Faktor Maternal
+a. Penyakit infeksi
+
+592
+
+b. Kelainan hormonal, seperti hipotiroidisme
+c. Gangguan nutrisi yang berat
+d. Penyakit menahun dan kronis
+e. Alkohol, merokok dan penggunaan obat-obatan
+f. Anomali uterus dan serviks
+g. Gangguan imunologis
+h. Trauma fisik dan psikologis
+2. Faktor Janin
+Adanya kelainan genetik pada janin
+3. Faktor ayah
+Terjadinya kelainan sperma
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Penilaian tanda vital (tekanan darah, nadi, respirasi, suhu)
+2. Penilaian tanda-tanda syok
+3. Periksa konjungtiva untuktanda anemia
+4. Mencari ada tidaknya massa abdomen
+5. Tanda-tanda akut abdomen dan defans musculer
+6. Pemeriksaanginekologi, ditemukan:
+a. Abortus iminens
+ Osteum uteri masih menutup
+ Perdarahan berwarna kecoklatan disertai lendir
+ Ukuran uterus sesuai dengan usia kehamilan
+ Detak jantung janin masih ditemukan
+b. Abortus insipiens
+
+Osteum uteri terbuka, dengan terdapat penonjolan kantong dan didalamnya
+berisi cairan ketuban
+
+Perdarahan berwarna merah segar
+
+Ukuran uterus sesuai dengan usia kehamilan
+
+Detak jantung janin masih ditemukan
+c. Abortus inkomplit
+
+Osteum uteri terbuka, dengan terdapat sebagian sisa konsepsi
+
+Perdarahan aktif
+
+Ukuran uterus sesuai usia kehamilan
+d. Abortus komplit
+
+Osteum uteri tertutup
+
+Perdarahan sedikit
+
+Ukuran uterus lebih kecil usia kehamilan
+Pemeriksaan Penunjang
+1. Pemeriksaan USG.
+2. Pemeriksaan tes kehamilan (BHCG): biasanya masih positif sampai 7-10 hari
+setelah abortus.
+
+593
+
+3. Pemeriksaan darah perifer lengkap
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasar anamnesis, pemeriksaan fisik, dan pemeriksaam
+penunjang.
+Diagnosis Banding
+Kehamilan ektopik, Mola hidatidosa, Missed abortion
+Komplikasi
+Komplikasi yang dapat terjadi pada abortus ialah perdarahan, infeksi, perforasi, syok
+Tabel 14.9 Macam – macam Abortus
+Nyeri
+Diagnosis
+Perdarahan
+Perut
+Abortus
+Sedikit
+Sedang
+iminens
+
+Uterus
+
+Serviks
+
+Gejala Khas
+
+Sesuai
+usia
+gestasi
+
+Tertutup
+
+Tidak ada
+epulsi
+jaringan
+konsepsi
+Tidak ada
+epulsi
+jaringan
+konsepsi
+
+Abortus
+insipiens
+
+Sedangbanyak
+
+Sedanghebat
+
+Sesuai
+usia
+kehamilan
+
+Terbuka
+
+Abortus
+inkomplit
+
+Sedangbanyak
+
+Sedanghebat
+
+Sesuai
+dengan
+usia
+kehamilan
+
+Terbuka
+
+Epulsi
+sebagian
+jaringan
+konsepsi
+
+Abosrtus
+komplit
+
+Sedikit
+
+Tanpa/
+sedikit
+
+Lebih kecil
+dari usia
+gestasi
+
+Terbuka
+/ tertutup
+
+Epulsi
+seluruh
+jaringan
+konsepsi
+
+Missed
+abortion
+
+Tidak ada
+
+Tidak
+ada
+
+lebih kecil
+dari usia
+kehamilan
+
+Tertutup
+
+Janin telah
+mati tapi
+tidak ada
+epulsi
+jaringan
+konsepsi
+
+594
+
+Gambar 14.2 Jenis abortus
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan Umum
+Pada keadaan abortus kondisi ibu bisa memburuk dan menyebabkan komplikasi. Hal
+pertama yang harus dilakukan adalah penilaian cepat terhadap tanda vital (nada,
+tekanan darah, pernasapan dan suhu).
+Pada kondisi di jumpai tanda sepsis atau dugaan abortus dengan komplikasi, berikan
+antibiotika dengan kombinasi:
+1. Ampicilin 2 gr IV /IM kemudian 1 gr setiap 6 jam
+2. Gentamicin 5 mg/KgBB setiap 24 jam
+3. Metronidazole 500 mg IV setiap 8 jam
+4. Segera melakukan rujukan ke pelayanan kesehatan Sekunder / RS
+Penatalaksaan Khusus sesuai dengan Jenis Abortus
+1. Abortus imminens:
+a. Pertahankan kehamilan
+b. Tidak perlu pengobatan khusus
+c. Jangan melakukan aktivitas fisik berlebihan atau hubungan seksual
+d. Jika perdarahan berhenti, pantau kondisi ibu selanjutnya pada pemeriksaan
+antenatal termasuk pemantauan kadar Hb dan USG panggul serial setiap 4
+minggu. Lakukan penilaian ulang bila perdarahan terjadi lagi
+e. Jika perdarahan tidak berhenti, nilai kondisi janin dengan USG, nilai
+kemungkinan adanya penyebab lain.
+f. Tablet penambah darah
+g. Vitamin ibu hamil diteruskan
+2. Abortus insipiens
+a. Lakukan konseling untuk menjelaskan kemungkinan risiko dan rasa tidak
+nyaman selama tindakan evakuasi, serta memberikan informasi mengenai
+kontrasepsi paska keguguran.
+b. Jika usia kehamilan < 16 minggu : lakukan evakuasi isi uterus;
+
+595
+
+Jika evakuasi tidak dapat dilakuka segera: berikan ergometrin 0.2 mg IM
+(dapat diulang 15 menit kemudian bila perlu)
+c. Jika usia kehamilan > 16 minggu:
+Tunggu pengeluaran hasil konsepsi secara spontan dan evakuasi hasil
+konsepsi dari dalam uterus. Bila perlu berikan infus oksitosin 40 IU dalam 1 L
+NaCl 0,9% atau RL dengan kecepatan 40 tetes per menit
+d. Lakukan pemantauan paska tindakan setiap 30 menit selama 2 jam, Bila
+kondisi baik dapat dipindahkan ke ruang rawat.
+e. Lakukan pemeriksaan jaringan secara makroskopik dan kirimkan untuk
+pemeriksaan patologi ke laboratorium
+f. Lakukan evaluasi tanda vital, perdarahan pervaginam, tanda akut abdomen,
+dan produksi urin tiap 6 jam selama 24 jam. Periksa kadar Hb setelah 24
+jam. Bila kadar Hb > 8gr/dl dan keadaan umum baik, ibu diperbolehkan
+pulang
+3. Abortus inkomplit
+a. Lakukan konseling
+b. Observasi tanda vital (tensi, nadi, suhu, respirasi)
+c. Evaluasi tanda-tanda syok, bila terjadi syok karena perdarahan, pasang IV
+line (bila perlu 2 jalur) segera berikan infus cairan NaCl fisiologis atau cairan
+ringer laktat disusul dengan darah.
+d. Jika perdarahan ringan atau sedang dan kehamilan <16 minggu, gunakan
+jari atau forcep cincin untuk mengeluarkan hasil konsepsi yang mencuat dari
+serviks
+Jika perdarahan berat dan usia kehamilan < 16 minggu, lakukan evakuasi isi
+uterus. Aspirasi vakum manual (AVM) merupakan metode yang dianjurkan.
+Kuret tajam sebaiknya hanya dilakukan apabila AVM tidak tersedia. Jika
+evakuasi tidak dapat dilakuka segera: berikan ergometrin 0.2 mg IM (dapat
+diulang 15 menit kemudian bila perlu)
+e. Jika usia kehamilan > 16 minggu berikan infus oksitosin 40 IU dalam 1 L
+NaCl 0,9% atau RL dengan kecepatan 40 tetes per menit
+f. Lakukan pemantauan paska tindakan setiap 30 menit selama 2 jam, Bila
+kondisi baik dapat dipindahkan ke ruang rawat.
+g. Lakukan pemeriksaan jaringan secara makroskopik dan kirimkan untuk
+pemeriksaan patologi ke laboratorium
+h. Lakukan evaluasi tanda vital, perdarahan pervaginam, tanda akut abdomen,
+dan produksi urin tiap 6 jam selama 24 jam. Periksa kadar Hb setelah 24
+jam. Bila kadar Hb > 8gr/dl dan keadaan umum baik, ibu diperbolehkan
+pulang
+4. Abortus komplit
+Tidak memerlukan pengobatan khusus, hanya apabila menderita anemia perlu
+diberikan sulfas ferosus dan dianjurkan supaya makanannya mengandung
+banyak protein, vitamin dan mineral.
+
+596
+
+Pencegahan
+1. Pemeriksaan rutin antenatal
+2. Makan makanan yang bergizi (sayuran, susu,ikan, daging,telur).
+3. Menjaga kebersihan diri, terutama daerah kewanitaan dengan tujuan mencegah
+infeksi yang bisa mengganggu proses implantasi janin.
+4. Hindari rokok, karena nikotin mempunyai efek vasoaktif sehingga menghambat
+sirkulasi uteroplasenta.
+5. Apabila terdapat anemia sedang berikan tablet Sulfas Ferosus 600 mg/hari
+selama 2 minggu,bila anemia berat maka berikan transfusi darah.
+Rencana Tindak Lanjut
+1. Melakukan konseling untuk memberikan dukungan emosional
+2. Menganjurkan penggunaan kontrasepsi pasca keguguran karena kesuburan
+dapat kembali kira-kira 14 hari setelah keguguran. Untuk mencegah kehamilan,
+Alat Kontrasepsi Dalam Rahim (AKDR) umumnya dapat dipasang secara aman
+setelah aborsi spontan atau diinduksi. Kontraindikasi pemasangan AKDR pasca
+keguguran antara lain adalah infeksi pelvik, abortus septik, atau komplikasi
+serius lain dari abortus.
+3. Follow up dilakukan setelah 2 minggu.
+Kriteria Rujukan
+Abortus Insipiens, Abortus Inkomplit, perdarahan yang banyak, nyeri perut, ada
+pembukaan serviks, demam, darah cairan berbau dan kotor
+Peralatan
+1.
+2.
+3.
+4.
+
+Inspekulo
+Laboratorium sederhana untuk pemeriksan tes kehamilan .
+Laboratorium sederhana untuk pemeriksaan darah rutin.
+USG
+
+Prognosis
+Prognosis umumnya bonam.
+Referensi
+1. Saifuddin, A.B. Ilmu Kebidanan. Perdarahan pada kehamilan muda. Ed 4.
+Jakarta: Yayasan Bina Pustaka Sarwono Prawihardjo.2009: p. 460474.(Prawirohardjo, et al., 2010)
+2. KementerianKesehatan RI dan WHO. Buku Saku Pelayanan Kesehatan Ibu di
+Fasilitas Kesehatan Dasar dan Rujukan. Jakarta: KementerianKesehatan RI.
+2013(Kementerian Kesehatan Republik Indonesia, 2013)
+3. Saifuddin, A.B. Buku Acuan Pelayanan Kesehatan Maternal dan Neonatal.
+Jakarta: Yayasan Bina Pustaka Sarwono Prawirohardjo. 2001; 146147.(Saifuddin, 2011)
+
+597
+
+7.
+
+Ketuban Pecah Dini (KPD)
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: W92 Complicated labour/delivery livebirth
+: 042.9 Premature rupture of membrane, unspecified
+: 3A
+
+Masalah Kesehatan
+Ketuban pecah dini adalah keadaan pecahnya selaput ketuban sebelum persalinan
+atau dimulainya tanda inpartu. Bila ketuban pecah dini terjadi sebelum usia
+kehamilan 37 minggu disebut ketuban pecah dini pada kehamilan prematur.
+Dalam keadaan normal 8-10% perempuan hamil aterm akan mengalami ketuban
+pecah dini. Ketuban pecah dini prematur terjadi pada 1% kehamilan.
+Ketuban pecah dini pada kehamilan prematur disebabkan oleh adanya faktor-faktor
+eksternal, misalnya infeksi yang menjalar dari vagina. Ketuban pecah dini prematur
+sering terjadi pada polihidramnion, inkompeten serviks, dan solusio plasenta.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Terasa keluar air dari jalan lahir
+2. Biasanya tanpa disertai dengan kontraksi atau tanda inpartu
+Adanya riwayat keluarnya air ketuban berupa cairan jernih keluar dari vagina yang
+kadang-kadang disertai tanda-tanda lain dari persalinan.
+Pada anamnesis, hal-hal yang perlu digali adalah menentukan usia kehamilan,
+adanya cairan yang keluar dari vagina, warna cairan yang keluar dari vagina, dan
+adanya demam.
+Faktor Risiko :
+Multiparitas, Hidramnion, Kelainan letak ; sungsang atau melintang, Kehamilan
+ganda , Cephalo Pelvic Disproportion, Infeksi, Perdarahan antepartum
+Hasil Pemeriksaan Fisis dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Tercium bau khas ketuban
+2. Apakah memang air ketuban keluar dari kanalis servikalis pada bagian yang sudah
+pecah, lihat dan perhatikan atau terdapat cairan ketuban pada forniks posterior.
+3. Menentukan pecahnya selaput ketuban dengan adanya cairan ketuban di
+vagina. Pastikan bahwa cairan tersebut adalah cairan amnion dengan
+memperhatikan bau cairan ketuban yang khas.
+4. Jika tidak ada cairan amnion, dapat dicoba dengan menggerakkan sedikit bagian
+terbawah janin atau meminta pasien batuk atau mengejan
+5. Tidak ada tanda inpartu
+6. Pemeriksaan fisik dilakukan untuk menilai adanya tanda-tanda infeksi pada ibu
+0
+dengan mengukur suhu tubuh (suhu ≥ 38 C).
+
+598
+
+Pemeriksaan Penunjang
+1. Pemeriksaan pH vagina (cairan ketuban) dengan kertas lakmus (Nitrazin test)
+dari merah menjadi biru , sesuai dengan sifat air ketuban yang alkalis
+2. Pemeriksaan mikroskopis tampak gambaran pakis yang mengering pada sekret
+serviko vaginal.
+3. Dilakukan dengan meneteskan air ketuban pada gelas objek dan dibiarkan mengering.
+Pemeriksaan mikroskopik menunjukkan gambaran daun pakis.
+3
+4. Pemeriksaan darah rutin, leukosit> 15.000/mm .
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasar anamnesis, pemeriksaan fisik, dan penunjang.
+Diagnosis Banding : Komplikasi yang timbul bergantung pada usia kehamilan
+1. Infeksi maternal korioamnionitis dan neonatal
+2. Persalinan prematur
+3. Hipoksia karena kompresi tali pusat
+4. Deformitas janin
+5. Meningkatnya insiden seksio sesarea, atau gagal persalinan normal.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Pembatasan aktivitas pasien.
+2. Apabila belum inpartu berikan Eritromisin 4x250 mg selama 10 hari.
+3. Segera rujuk pasien ke fasilitas pelayanan sekunder
+4. Di RS rujukan :
+a. ≥ 34 minggu : lakukan induksi persalinan dengan oksitosin bila tidak ada
+kontraindikasi
+b. 24-33 minggu:
+ Bila terdapat amnionitis, abruptio plasenta, dan kematian janin, lakukan
+persalinan segera.
+ Berikan Deksametason 6 mg IM tiap 12 jam selama 48 jam atau
+betametason 12 mg IM tiap 24 jam selama 48 jam.
+ Lakukan pemeriksaan serial untuk menilai kondisi ibu dan janin.
+ Bayi dilahirkan di usia 34 minggu, bila dapat dilakukan pemeriksaan
+kematangan paru dan hasil menunjukan bahwa paru sudah matang.
+c. < 24 minggu:
+ Pertimbangan dilakukan dengan melihat risiko ibu dan janin.
+ Lakukan konseling pada pasien. Terminasi kehamilan mungkin menjadi
+pilihan.
+ Jika terjadi infeksi (koroiamnionitis), lakukan tatalaksana koriamnionitis.
+
+599
+
+Konseling dan Edukasi
+1. Memberikan informasi kepada ibu, adanya air ketuban yang keluar sebelum
+tanda inpartu
+2. Menenangkan ibu dan memberitahu kepada suami dan keluarga agar ibu dapat
+diberi kesempatan untuk tirah baring.
+3. Memberi penjelasan mengenai persalinan yang lebih cepat dan rujukan yang
+akan dilakukan ke pusat pelayanan sekunder.
+Kriteria rujukan
+Ibu hamil dengan keadaan ketuban pecah dini merupakan kriteria rujukan ke
+pelayanan kesehatan sekunder.
+Peralatan
+1. Inspekulo
+2. Kertas lakmus (Nitrazin test)
+3. Laboratorium sederhana untuk pemeriksaan darah rutin
+Prognosis
+Prognosis Ibu
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+Prognosis Janin
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+: Dubia ad bonam
+: Dubia ad bonam
+: Dubia ad Bonam
+
+Referensi
+1. Prawirohardjo, S. Saifuddin, A.B. Rachimhadhi, T. Wiknjosastro Gulardi H. Ilmu
+Kebidanan Sarwono Prawirohardjo.Edisi keempat cetakan ketiga. Jakarta: PT
+Bina Pustaka Sarwono Prawirohardjo. 2010: Hal 677-680.(Prawirohardjo, et al.,
+2010)
+2. KementerianKesehatan RI dan WHO. Buku Saku Pelayanan Kesehatan Ibu di
+Fasilitas Kesehatan Dasar dan Rujukan. Jakarta: KementerianKesehatan RI.
+2013(Kementerian Kesehatan Republik Indonesia, 2013)
+
+600
+
+8.
+
+Persalinan Lama
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: W92 Life birth
+W93 still birth
+: O63.9 Long labour
+: 3B
+
+Masalah Kesehatan
+Persalinan lama adalah persalinan yang berlangsung lebih dari 18-24 jam sejak
+dimulai dari tanda-tanda persalinan.
+Etiologi:
+1. Kepala janin yang besar / hidrosefalus
+2. Kembar terkunci
+3. Kembar siam
+4. Disporsi fetopelvik
+5. Malpresentasi dan malposisi
+6. Deformitas panggul karena trauma atau polio
+7. Tumor daerah panggul
+8. Infeksi virus di perut atau uterus
+9. Jaringan arut (dari sirkumsisi wanita)
+Hasil Anamnesis (Subjective)
+Pasien datang dalam kondisi fase persalinan Kala 1 atau Kala 2 dengan status:
+kelainan pembukaan serviks atau partus macet.
+Faktor Risiko:
+(“Po, Pa, Pa”atau gabungan 3 P )
+1. Power
+: His tidak adekuat (his dengan frekuensi <3x/10 menit dan
+Durasi setiap kontraksinya <40 detik)
+2. Passenger : malpresentasi, malposisi, janin besar
+3. Passage : panggul sempit, kelainan serviks atau vagina, tumor jalan lahir
+4. Gabungan : dari faktor-faktor di atas
+Hasil pemeriksaan fisik dan penunjang sederhana (Objective)
+Pemeriksaan Fisik Patognomonis
+1. Pada ibu:
+a. Gelisah
+b. Letih
+c. Suhu badan meningkat
+d. Berkeringat
+e. Nadi cepat
+f. Pernafasan cepat
+g. Meteorismus
+
+601
+
+h. Bandle ring, edema vulva, oedema serviks, cairan ketuban berbau terdapat
+mekoneum
+2. Pada janin:
+a. Denyut jantung janin cepat, hebat, tidak teratur, bahkan negatif
+b. Air ketuban terdapat mekoneum kental kehijau-hijauan, cairan berbau
+c. Caput succedenium yang besar
+d. Moulage kepala yang hebat
+e. Kematian janin dalam kandungan
+f. Kematian janin intrapartal
+Kelainan Pembukaan Serviks
+1. Persalinan Lama
+a. Nulipara:
+ Kemajuan pembukaan (dilatasi) serviks pada
+fase aktif< 1,2 cm/jam
+ Kemajuan turunnya bagian terendah < 1 cm/jam
+b. Multipara:
+ Kemajuan pembukaan (dilatasi) serviks pada
+fase aktif<1,5 cm/jam
+ Kemajuan turunnya bagian terendah <2 cm/jam
+2. Persalinan Macet
+a. Nulipara :
+ Fase deselerasi memanjang ( > 3 jam )
+ Tidak ada pembukaan (dilatasi) > 2 jam
+ Tidak ada penurunan bagian terendah > 1 jam
+ Kegagalan penurunan bagian terendah (Tidak ada penurunan pada fase
+deselerasi atau kala 2)
+b. Multipara:
+ Fase deselerasi memanjang > 1 jam
+ Tidak ada pembukaan (dilatasi) > 2 jam
+ Tidak ada penurunan bagian terendah > 1 jam
+ Kegagalan penurunan bagian terendah (Tidak ada penurunan pada fase
+deselerasi atau kala 2)
+Faktor Penyebab
+1. His tidak efisien (in adekuat)
+2. Faktor janin (malpresentasi, malposisi, janin besar)
+3. Faktor jalan lahir (panggul sempit, kelainan serviks, vagina, tumor)
+Faktor Predisposisi
+1. Paritas dan interval kelahiran
+2. Ketuban pecah dini
+Pemeriksaan penunjang :
+1. Partograf
+2. Doppler
+
+602
+
+3. Urin
+4. Darah tepi lengkap
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Distosia pada kala I fase aktif:
+Grafik pembukaan serviks pada partograf berada di antara garis waspada dan garis
+bertindak, atau sudah memotong garis bertindak,
+atau
+Fase ekspulsi (kala II) memanjang:
+Tidak ada kemajuan penurunan bagian terendah janin pada persalinan kala II.
+Dengan batasan waktu:
+1. Maksimal 2 jam untuk nullipara dan 1 jam untuk multipara, ATAU
+2. Maksimal 3 jam untuk nulipara dan 2 jam untuk multipara bila pasien
+menggunakan analgesia epidural
+Diagnosis Banding : Penatalaksanaan komprehensif (Plan)
+Penatalaksanaan
+Motivasi pasien dalam proses persalinan dan informasikan rencana persalinan
+sesuai dengan perkembangan pasien.
+Penatalaksanaa umum
+Segera rujuk ibu ke rumah sakit yang memiliki pelayanan seksio sesarea
+Penatalaksanaan khusus
+1. Tentukan sebab terjadinya persalinan lama
+a. Power: his tidak adekuat (his dengan frekuensi <3x/10 menit dan
+durasi tiap kontraksinya < 40 detik).
+b. Passenger: malpresentasi, malposisi, janin besar
+c. Passage : panggul sempit, kelainan serviks atau vagina, tumor jalan lahir
+2. Sesuaikan tatalaksana dengan penyebab dan situasi. Prinsip umum:
+a. Lakukan augmentasi persalinan denga oksitosin dan atau amniotomi bila
+terdapat gangguan power. Pastikan tidak ada gangguan passenger atau
+passage.
+b. Lakukan tindakan operatif (forsep, vakum, atau seksio sesarea) untuk
+gangguan passenger dan atau passage, serta untuk gangguan power yang
+tidak dapat diatasi dengan augmentasi persalinan.
+c. Jika ditemukan obstruksi atau CPD, tatalaksana adalah seksio cesarea.
+3. Berikan antibiotik (kombinasi ampicilin 2 g IV tiap 6 jam dan gentamisin
+5mg/kgBB tiap 24 jam) jika ditemukan:
+a. Tanda-tanda infeksi (demam, cairan pervaginam berbau)
+b. Atau ketuban pecah lebih dari 18 jam
+c. Usia kehamilan 37 minggu
+
+603
+
+4. Pantau tanda gawat janin
+5. Catat hasil analisis dan seluruh tindakan dalam rekam medis lalu jelaskan pada
+ibu dan keluarga hasil analisis serta rencana tindakan.
+Pemeriksaan Penunjang Lanjutan : Komplikasi:
+Infeksi intrapartum, Ruptura uteri, Pembentukan fistula, Cedera otot-otot dasar
+panggul, Kaput suksedaneum, Molase kepala janin, Kematian ibu dan anak.
+Konseling dan Edukasi
+Dibutuhkan dukungan dari suami pasien. Pendekatan yang dilakukan kepada
+keluarga sehubungan dengan proses penyembuhan penyakit pasien maupun
+pencegahan penularan atau relaps penyakit ini.
+Tabel 14.10 Kriteria diagnostik penatalaksanaan distosia
+Pola persalinan
+Nulipara
+Multipara
+Tindakan
+
+Kelainan
+pembukaan
+serviks
+- Kemajuan
+pembukaan
+(dilatasi) serviks
+pada fase aktif
+- Kemajuan
+turunnya bagian
+terendah
+Partus macet
+- Fase deselerasi
+memanjang
+- Terhentinya
+pembukaan
+(dilatasi)
+- Terhentinya
+penurunan
+bagian terendah
+- Kegagalan
+penurunan
+bagian terendah
+
+< 1,2
+cm/jam
+< 1 cm/jam
+
+< 1,5 cm/jam
+< 2 cm/jam
+
+R
+
+Terapi
+di
+Rumah Sakit
+- Dukungan
+dan terapi
+ekspektatif
+- Seksio
+sesarea
+bila CPD
+atau
+obstruksi
+
+U
+> 3 jam
+> 2 jam
+> 1 jam
+Tidak ada
+penurunan
+pada fase
+deselerasi
+atau kala 2
+
+> 1 jam
+> 2 jam
+> 1 jam
+Tidak ada
+penurunan
+pada fase
+deselerasi
+atau kala 2
+
+J
+U
+K
+
+- Infus
+oksitosin,
+bila tak
+ada
+kemajuan,
+lakukan
+seksio
+sesarea
+- Seksio
+sesarea
+bila CPD
+atau
+obstruksi
+
+Kriteria rujukan
+Apabila tidak dapat ditangani di pelayanan primer atau apabila level kompetensi
+SKDI dengan kriteria merujuk (<3B)
+
+604
+
+Prognosis
+Prognosis untuk ad vitam adalah dubia ad bonam, namun ad fungsionam dan
+sanationam adalah dubia ad malam.
+Peralatan
+2
+1. Ruang berukuran minimal 15m
+2. Tempat tidur bersalin
+3. Tiang infus
+4. Lampu sorot dan lampu darurat
+5. Oksigen dan maskernya
+6. Perlengkapan persalinan
+7. Alat resusitasi
+8. Lemari dan troli darurat
+9. Partograf
+10. Dopler
+11. Ambulans
+Referensi
+1. KementerianKesehatan RI dan WHO. Buku Saku Pelayanan Kesehatan Ibu di
+Fasilitas Kesehatan Dasar dan Rujukan. Jakarta: KementerianKesehatan RI.
+2013(Kementerian Kesehatan Republik Indonesia, 2013)
+2. WHO. Managing prolonged and obstructed labour. Education for safe
+nd
+motherhood. 2 Ed.Department of making pregnancysafer. Geneva: WHO.
+2006.(World Health Organization, 2006)
+3. Pedoman
+penyelenggaraan
+pelayanan
+obstetri
+neonatal
+emergensi
+komprehensif (PONEK). 2008.(Kementerian Kesehatan Republik Indonesia,
+2008)
+
+9.
+
+Perdarahan Post Partum / Pendarahan Pascasalin
+
+ICPC
+ICD-10
+Tingkat Kemampuan
+
+: W17 Post partum bleeding
+: 072.1 Other Immediate Postpartum haemorrhage
+: 3B
+
+Masalah Kesehatan
+Perdarahan post partum (PPP) adalah perdarahan yang masif yang berasal dari
+tempat implantasi plasenta, robekan pada jalan lahir, dan jaringan sekitarnya dan
+merupakan salah satu penyebab kematian ibu disamping perdarahan karena hamil
+ektopik dan abortus. Definisi perdarahan post partum adalah perdarahan pasca
+persalinan yang melebihi 500 ml setelah bayi lahir atau yang berpotensi
+mengganggu hemodinamik ibu. Berdasarkan saat terjadinya, PPP dapat dibagi
+menjadi PPP primer dan PPP sekunder. PPP primer adalah perdarahan post partum
+yang terjadi dalam 24 jam pertama setelah persalinan dan biasanya disebabkan oleh
+
+605
+
+atonia uteri, robekan jalan lahir, dan sisa sebagian plasenta. Sementara PPP
+sekunder adalah perdarahan pervaginam yang lebih banyak dari normal antara 24
+jam hingga 12 minggu setelah persalinan, biasanya disebabkan oleh sisa plasenta.
+Kematian ibu 45% terjadi pada 24 jam pertama setelah bayi lahir, 68-73% dalam satu
+minggu setelah bayi lahir, dan 82-88% dalam dua minggu setelah bayi lahir.
+Hasil Anamnesis (Subjective)
+Keluhan dan gejala utama
+1. Perdarahan setelah melahirkan
+2. Lemah
+3. Limbung
+4. Berkeringat dingin
+5. Menggigil
+6. Pucat
+Faktor Risiko
+Perdarahan post partum merupakan komplikasi dari 5-8% kasus persalinan
+pervaginam dan 6% dari kasus SC.
+1. Faktor risiko prenatal:
+a. Perdarahan sebelum persalinan
+b. Solusio plasenta
+c. Plasenta previa
+d. Kehamilan ganda
+e. Preeklampsia
+f. Khorioamnionitis
+g. Hidramnion
+h. IUFD
+i. Anemia (Hb< 5,8)
+j. Multiparitas
+k. Mioma dalam kehamilan
+l. Gangguan faktor pembekuan dan
+m. Riwayat perdarahan sebelumnya serta obesitas
+2. Faktor risiko saat persalinan pervaginam:
+a. Kala tiga yang memanjang
+b. Episiotomi
+c. Distosia
+d. Laserasi jaringan lunak
+e. Induksi atau augmentasi persalinan dengan oksitosin
+f. Persalinan dengan bantuan alat (forseps atau vakum)
+g. Sisa plasenta, dan bayi besar (>4000 gram)
+3. Faktor risiko perdarahan setelah SC :
+a. Insisi uterus klasik
+b. Amnionitis
+c. Preeklampsia
+d. Persalinan abnormal
+
+606
+
+e. Anestesia umum
+f. Partus preterm dan postterm
+Penyebab dibedakan atas:
+1. Perdarahan dari tempat implantasi plasenta
+a. Hipotoni sampai atonia uteri
+ Akibat anestesi
+ Distensi berlebihan (gemeli,anak besar,hidramnion)
+ Partus lama,partus kasep
+ Partus presipitatus/partus terlalu cepat
+ Persalinan karena induksi oksitosin
+ Multiparitas
+ Riwayat atonia sebelumnya
+b. Sisa plasenta
+ Kotiledon atau selaput ketuban tersisa
+ Plasenta susenturiata
+ Plasenta akreata, inkreata, perkreata.
+2. Perdarahan karena robekan
+a. Episiotomi yang melebar
+b. Robekan pada perinium, vagina dan serviks
+c. Ruptura uteri
+3. Gangguan koagulasi
+a. Trombofilia
+b. Sindrom HELLP
+c. Pre-eklampsi
+d. Solutio plasenta
+e. Kematian janin dalam kandungan
+f. Emboli air ketuban
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Nilai tanda-tanda syok: pucat, akral dingin, nadi cepat, tekanan darah rendah.
+2. Nilai tanda-tanda vital: nadi> 100x/menit, pernafasan hiperpnea, tekanan darah
+sistolik <90 mmHg, suhu.
+Pemeriksaan obstetrik:
+1. Perhatikan kontraksi, letak, dan konsistensi uterus
+2. Lakukan pemeriksaan dalam untuk menilai adanya: perdarahan, keutuhan
+plasenta, tali pusat, dan robekan di daerah vagina.
+Pemeriksaan Penunjang
+1. Pemeriksaan darah rutin: terutama untuk menilai kadar Hb < 8 gr%.
+2. Pemeriksaan golongan darah.
+3. Pemeriksaan waktu perdarahan dan waktu pembekuan darah
+menyingkirkan penyebab gangguan pembekuan darah).
+
+607
+
+(untuk
+
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Perdarahan post partum bukanlah suatu diagnosis akan tetapi suatu kejadian yang
+harus dicari penyebabnya:
+1. PPP karena atonia uteri
+2. PPP karena robekan jalan lahir
+3. PPP karena sisa plasenta
+4. PPP akibat retensio plasenta
+5. PPP akibat ruptura uteri
+6. PPP akibat inversio uteri
+7. Gangguan pembekuan darah
+Komplikasi
+1. Syok
+2. Kematian
+Tabel 14.11 Penyebab perdarahan pada post partum
+No
+
+Gejala dan tanda
+
+1.
+
+
+
+
+
+
+2.
+
+3
+
+
+
+4.
+
+
+
+
+5.
+
+
+
+6.
+
+
+
+
+
+
+
+7.
+
+
+
+
+
+Perdarahan segera setelah anak lahir
+Uterus tidak berkontraksi dan lembek
+Perdarahan segera
+Darah segar yang mengalir segera setelah bayi
+lahir
+Plasenta belum dilahirkan dalam 30 menit setelah
+kelahiran bayi
+Plasenta atau sebagian selaput (mengandung
+pembuluh darah) tidak lengkap
+Perdarahan dapat muncul 6-10 hari post partum
+disertai subinvolusi uterus
+Perdarahan segera (Perdarahan intra abdominal
+dan dari atau pervaginam)
+Nyeri perut yang hebat
+Kontraksi yang hilang
+Fundus Uteri tidak teraba pada palpasi abdomen
+Lumen vagina terisi massa
+Nyeri ringan atau berat
+Perdarahan tidak berhenti, encer, tidak terlihat
+gumpalan sederhana
+Kegagalan terbentuknya gumpalan pada uji
+pembentukan darah sederhana
+Terdapat faktor predisposisi : solusio placenta,
+kematian janin dalam uterus, eklampsia, emboli air
+ketuban
+
+608
+
+Penyebab yang
+harus dipikirkan
+Atonia Uteri
+Robekan Jalan
+Lahir
+Retensio Plasenta
+Sisa Plasenta
+
+Ruptura Uteri
+
+Inversio uteri
+
+Gangguan
+pembekuan darah
+
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Penatalaksanaan Awal
+ Segera memanggil bantuan tim
+ Nilai sirkulasi, jalan napas, dan pernapasan pasien.
+ Bila menemukan tanda-tanda syok, lakukan penatalaksanaan syok.
+
+Gambar 14. 3 Tatalaksana awal perdarahan pascasalin dengan
+Pendekatan Tim
+1. Berikan oksigen.
+2. Pasang infus intravena dengan kanul berukuran besar (16 atau 18) dan mulai
+pemberian cairan kristaloid (NaCl 0,9% atau Ringer Laktat atau Ringer Asetat)
+sesuai dengan kondisi ibu.
+
+609
+
+Tabel 14.12 Jumlah cairan infus pengganti berdasarkan perkiraan volume
+kehilangan darah
+Tekanan
+Darah
+Sistolik
+(mmHg)
+
+Penilaian Klinis
+Frekuensi Nadi
+
+Perfusi
+Akral
+
+120
+
+80x/mnt
+
+Hangat
+
+Volume
+Perdarah
+an (%
+dari
+volume
+total
+darah)
+<10%
+
+100
+
+100x/mnt
+>120x/mnt
+
+Pucat
+Dingin
+
+>140x/mnt hingga
+tak teraba
+
+Basah
+
+<90
+<60-70
+
+Perkiraan
+Kehilangan
+Darah (ml)
+(volume darah
+maternal
+100ml/kgBB)
+
+Jumlah Cairan
+Infus Kristaloid
+Pengganti (2-3
+x Jumlah
+Kehilangan
+Darah)
+
+±15%
+±30%
+
+<600 ml
+(asumsi berat
+badan 60 kg)
+900 ml
+1800 ml
+
+-
+
+2000-3000 ml
+3500-5500 ml
+
+±50%
+
+3000 ml
+
+6000-9000 ml
+
+3. Lakukan pengawasan tekanan darah, nadi, dan pernapasan ibu.
+4. Periksa kondisi abdomen: kontraksi uterus, nyeri tekan, parut luka, dan tinggi
+fundus uteri.
+5. Periksa jalan lahir dan area perineum untuk melihat perdarahan dan laserasi (jika
+ada, misal: robekan serviks atau robekan vagina).
+6. Periksa kelengkapan plasenta dan selaput ketuban.
+7. Pasang kateter Folley untuk memantau volume urin dibandingkan dengan jumlah
+cairan yang masuk.
+Catatan: produksi urin normal 0.5-1 ml/kgBB/jam atau sekitar 30 ml/jam)
+8. Jika kadar Hb< 8 g/dl rujuk ke layanan sekunder (dokter spesialis obgyn)
+9. Jika fasilitas tersedia, ambil sampel darah dan lakukan pemeriksaan: kadar
+hemoglobin (pemeriksaan hematologi rutin) dan penggolongan ABO.
+10. Tentukan penyebab dari perdarahannya (lihat tabel 14.11) dan lakukan
+tatalaksana spesifik sesuai penyebab
+Penatalaksanaan Lanjutan :
+1. Atonia uteri
+a. Lakukan pemijatan uterus.
+b. Pastikan plasenta lahir lengkap.
+c. Berikan 20-40 unit Oksitosin dalam 1000 ml larutan NaCl 0,9%/ Ringer Laktat
+dengan kecepatan 60 tetes/menit dan 10 unit IM.
+d. Lanjutkan infus oksitosin 20 unit dalam 1000 ml larutanNaCl 0,9%/Ringer
+Laktat dengan kecepatan 40 tetes/menit hingga perdarahan berhenti.
+e. Bila tidak tersedia Oksitosin atau bila perdarahan tidak berhenti, berikan
+Ergometrin 0,2 mg IM atau IV (lambat), dapat diikuti pemberian 0,2 mg IM
+setelah 15 menit, dan pemberian 0,2 mg IM/IV (lambat) setiap 4 jam bila
+diperlukan. Jangan berikan lebih dari 5 dosis (1 mg).
+f. Jika perdarahan berlanjut, berikan 1 g asam traneksamat IV (bolus selama 1
+menit, dapat diulang setelah 30 menit).
+
+610
+
+g. Lakukan pasang kondom kateter atau kompresi bimanual internal selama 5
+menit.
+h. Siapkan rujukan ke fasilitas pelayanan kesehatan sekunder sebagai
+antisipasi bila perdarahan tidak berhenti.
+Perlu Diingat :
+Jangan berikan lebih dari 3 liter larutan intravena yang mengandung oksitosin.
+Jangan berikan ergometrin kepada ibu dengan hipertensi berat/tidak terkontrol,
+penderita sakit jantung dan penyakit pembuluh darah tepi.
+
+Gambar14.4 Kompresi Bimanual Internal dan Kompresi Bimanual Eksternal
+pada atonia uteri
+2. Robekan Jalan Lahir
+Ruptura Perineum dan Robekan Dinding Vagina
+1. Lakukan eksplorasi untuk mengidentifikasi sumber perdarahan.
+2. Lakukan irigasi pada tempat luka dan bersihkan dengan antiseptik.
+3. Hentikan sumber perdarahan dengan klem kemudian ikat dengan benang
+yang dapat diserap.
+4. Lakukan penjahitan (lihat Materi Luka Perineum Tingkat 1 dan 2)
+5. Bila perdarahan masih berlanjut, berikan 1 g asam traneksamat IV (bolus
+selama 1 menit, dapat diulang setelah 30 menit).
+3. Robekan Serviks
+a. Paling sering terjadi pada bagian lateral bawah kiri dan kanan dari porsio
+b. Siapkan rujukan ke fasilitas pelayanan kesehatan sekunder
+4. Retensio Plasenta
+a. Berikan 20-40 unit oksitosin dalam 1000 ml larutanNaCl 0,9% atau Ringer
+Laktat dengan kecepatan 60 tetes/menit dan 10 unit IM. Lanjutkan infus
+
+611
+
+oksitosin 20 unit dalam 1000 ml larutanNaCl 0,9% atau Ringer Laktat dengan
+kecepatan 40 tetes/menit hingga perdarahan berhenti.
+b. Lakukan tarikan tali pusat terkendali.
+c. Bila tarikan tali pusat terkendali tidak berhasil, lakukan plasenta manual
+secara hati-hati.
+d. Berikan antibiotika profilaksis dosis tunggal (Ampisilin 2 g IV DAN
+Metronidazol 500 mg IV).
+e. Segera atasi atau rujuk ke fasilitas yang lebih lengkap bila terjadi komplikasi
+perdarahan hebat atau infeksi
+5. Sisa Plasenta
+a. Berikan 20-40 unit oksitosin dalam 1000 ml larutan NaCl 0,9% atau Ringer
+Laktat dengan kecepatan 60 tetes/menit dan 10 unit IM. Lanjutkan infus
+Oksitosin 20 unit dalam 1000 ml larutan NaCl 0,9% atau Ringer Laktat
+dengan kecepatan 40m tetes/ menit hingga pendarahan berhenti.
+b. Lakukan eksplorasi digital (bila serviks terbuka) dan keluarkan bekuan darah
+dan jaringan. Bila serviks hanya dapat dilalui oleh instrumen, lakukan
+evakuasi sisa plasenta dengan aspirasi vakum manual atau dilatasi dan
+kuretase.
+c. Berikan antibiotika profilaksis dosis tunggal (ampisillin 2 g IV dan
+Metronidazol 500 mg).
+d. Jika perdarahan berlanjut, tata laksana seperti kasus atonia uteri.
+Inversio Uteri
+Siapkan rujukan ke fasilitas pelayanan kesehatan sekunder
+Gangguan Pembekuan Darah
+1. Pada banyak kasus kehilangan darah yang akut, koagulopati dapat dicegah jika
+volume darah dipulihkan segera.
+2. Tangani kemungkinan penyebab (solusio plasenta, eklampsia).
+3. Siapkan rujukan ke fasilitas pelayanan kesehatan sekunder
+Konseling dan Edukasi
+1. Memberikan informasi akan keadaan ibu yang mengalami perdarahan
+pascasalin.
+2. Memberikan informasi yang tepat kepada suami dan keluarga ibu terhadap
+tindakan yang akan di lakukan dalam menangani perdarahan pascasalin.
+3. Memastikan dan membantu keluarga jika rujukan akan dilakukan.
+Kriteria Rujukan
+1. Pada kasus perdarahan pervaginam > 500 ml setelah persalinan berpotensi
+mengakibatkan syok dan merupakan indikasi rujukan.
+2. Penanganan kegawatdaruratan sebelum merujuk dan mempertahankan ibu
+dalam keadaan stabil selama proses rujukan merupakan hal penting
+diperhatikan.
+
+612
+
+Peralatan
+1. Laboratorium sederhana untuk pemeriksaan darah rutindan golongan darah.
+2. Inspekulo
+3. USG
+4. Sarung tangan steril
+5. Hecting set
+6. Benang catgut
+Prognosis
+Prognosis umumnya dubia ad bonam, tergantung dari jumlah perdarahan dan
+kecepatan penatalaksanaan yang di lakukan.
+Referensi
+1. Prawirohardjo, S. Saifuddin, A.B. Rachimhadhi, T. Wiknjosastro Gulardi H. Ilmu
+Kebidanan Sarwono Prawirohardjo.Edisi keempat cetakan ketiga. Jakarta: PT
+Bina Pustaka Sarwono Prawirohardjo. 2010: Hal 522-529.(Prawirohardjo, et al.,
+2010)
+2. KementerianKesehatan RI dan WHO. Buku Saku Pelayanan Kesehatan Ibu di
+Fasilitas Kesehatan Dasar dan Rujukan. Jakarta: KementerianKesehatan RI.
+2013(Kementerian Kesehatan Republik Indonesia, 2013)
+
+10. Ruptur Perineum Tingkat 1-2
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: W92 Complicated labour/delivery livebirth
+: O70.0 First degree perineal laceration during delivery
+: 4A
+
+Masalah Kesehatan
+Ruptur perineum adalah suatu kondisi robeknya perineum yang terjadi pada
+persalinan pervaginam. Diperkirakan lebih dari 85% wanita yang melahirkan
+pervaginam mengalami ruptur perineum spontan, yang 60% - 70% di antaranya
+membutuhkan penjahitan (Sleep dkk, 1984; McCandlish dkk,1998). Angka morbiditas
+meningkat seiring dengan peningkatan derajat ruptur.
+Hasil Anamnesis (Subjective)
+Gejala Klinis
+Perdarahan pervaginam
+Etiologi dan Faktor Risiko
+Ruptur perineum umumnya terjadi pada persalinan, dimana:
+1. Kepala janin terlalu cepat lahir
+2. Persalinan tidak dipimpin sebagaimana mestinya
+
+613
+
+3. Sebelumnya pada perineum terdapat banyak jaringan parut
+4. Pada persalinan dengan distosia bahu
+5. Partus pervaginam dengan tindakan
+Pada literatur lain dikatakan faktor risiko ruptur perineum.
+Tabel 14.13: Faktor resiko rupture perineum
+Faktor risiko ruptur perineum
+Known risk factors
+Nulipara
+Makrosomia
+Persalinan dengan instrumen terutama
+forsep
+Malpresentasi
+Malposisi seperti oksiput posterior
+Distosia bahu
+Riptur perineum sebelumnya
+Lingkar kepala yang lebih besar
+
+Suggested risk factors
+Peningkatan usia
+Etnis
+Status nutrisi
+Analgesia epidural
+
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan fisik
+Pada pemeriksaan fisik dapat ditemukan adanya:
+1. Robekan pada perineum,
+2. Perdarahan yang bersifat arterial atau yang bersifat merembes,
+3. Pemeriksaan colok dubur, untuk menilai derajat robekan perineum
+Pemeriksaan Penunjang: Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis dapat ditegakkan berdasar anamnesis dan pemeriksaan fisik yang dapat
+dilakukan.
+Klasifikasi ruptur perineum dibagi menjadi 4 derajat:
+1. Derajat I
+Robekan terjadi hanya pada selaput lendir vagina dengan atau tanpa mengenai
+kulit perineum. Biasa tidak perlu dilakukan penjahitan.
+2. Derajat II
+Robekan mengenai selaput lender vagina dan otot perinea transversalis, tetapi
+tidak melibatkan kerusakan otot sfingter ani.
+3. Derajat III
+Robekan mengenai perineum sampai dengan otot sfingter ani dengan
+pembagian sebagai berikut:
+IIIa. Robekan < 50% sfingter ani eksterna
+IIIb. Robekan > 50% sfingter ani ekterna
+IIIc. Robekan juga meliputi sfingter ani interna
+
+614
+
+A
+
+C
+
+B
+D
+Gambar 14. 5 Ruptur Perineum dan Sfingter Ani
+Sfingter ani yang intak (ditunjuk oleh tanda panah A) terlihat lebih jelas pada
+pemeriksaan rectal touche (B); Robekan parsial sepanjang sfingter ani eksterna (C);
+Robekan perineum derajat 3b dengan sfingter ani yang intak (Internal anal
+sphincter/IAS). Sfingter ani eksterna (External anal sphincter/EAS) dijepit oleh
+forseps Allis. Perhatikan perbedaan warna IAS yang lebih pucat dibandingkan EAS
+(D).
+4. Derajat IV
+Robekan mengenai perineum sampai dengan otot sfingter ani dan mukosa
+rektum
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Non Medikantosa
+1. Menghindari atau mengurangi dengan menjaga jangan sampai dasar panggul
+didahului oleh kepala janin dengan cepat.
+2. Kepala janin yang akan lahir jangan ditahan terlampau kuat dan lama, karena
+akan menyebabkan asfiksia dan perdarahan dalam tengkorak janin, dan
+melemahkan otot-otot dan fasia pada dasar panggul karena diregangkan terlalu
+lama.
+
+615
+
+Medikamentosa
+1. Penatalaksanaan farmakologis
+Dosis tunggal sefalosporin golongan II atau III dapat diberikan intravena sebelum
+perbaikan dilakukan (untuk ruptur perineum yang berat).
+2. Manajemen Ruptur Perineum:
+a. Alat-alat yang dibutuhkan untuk melakukan perbaikan jalan lahir
+ Retractor Weislander’s
+ Forceps gigi (fine & strong)
+ Needle holder (small and large)
+ Forceps Allis (4)
+ Forceps arteri (6)
+ Gunting Mitzembaum
+ Gunting pemotong jahitan
+ Spekulum Sims
+ Retraktor dinding samping dalam vagina
+ Forceps pemegang kasa
+b. bahan-bahan yang diperlukan untuk perbaikan jalan lahir.
+
+Tampon
+
+Kapas besar
+
+Povidon Iodine
+
+Lidocain 1% (untuk ruptur perineumderajat I-II)
+
+Benang catgut / Asam poliglikolik (Dexon, David&Geck Ltd, UK) /
+Poliglaktin 910 (Vicryl, Ethicon Ltd, Edinburgh, UK)
+Ruptur perineum harus segera diperbaiki untuk meminimalisir risiko perdarahan,
+edema, dan infeksi. Manajemen ruptur perineum untuk masing-masing derajatnya,
+antara lain sebagai berikut :
+Robekan perineum derajat 1
+Robekan tingkat I mengenai mukosa vagina dan jaringan ikat, tidak perlu dilakukan
+penjahitan.
+Penjahitan robekan perineum derajat 2
+1. Siapkan alat dan bahan.
+2. Pastikan pasien tidak memiliki alergi terhadap Lignokain atau obat-obatan
+sejenis
+3. Suntikan 10 ml Lignokain 0.5% di bawah mukosa vagina, di bawah kulit
+perineum dan pada otot-otot perineum. Masukan jarum pads ujung laserasi
+dorong masuk sepanjang luka mengikuti garis tempat jarum jahitnya akan masuk
+atau keluar.
+4. Tunggu 2 menit. Kemudian area dengan forsep hingga pasien tidak merasakan
+nyeri.
+5. Jahit mukosa vagina secara jelujur dengan benang 2-0, lihat ke dalam luka untuk
+mengetahui letak ototnya (penting untuk menjahit otot ke otot agar tidak ada
+rongga di dalamnya).
+
+616
+
+6. Carilah lapisan subkutis persis dibawah lapisan kulit, lanjutkan dengan jahitan
+subkutikuler kembali keatas vagina, akhiri dengan simpul mati pada bagian
+dalam vagina.
+7. Potong kedua ujung benang dan hanya sisakan masing-masing 1 cm.
+8. Jika robekan cukup luas dan dalam, lakukan colok dubur dan pastikan tidak ada
+bagian rektum terjahit.
+CATATAN: Aspirasi penting untuk meyakinkan suntikan lignokain tidak masuk dalam
+pembuluh darah. Jika ada darah pada aspirasi, pindahkan jarum ke tempat lain.
+Aspirasi kembali. Kejang dan kematian dapat terjadi jika lignokain diberikan lewat
+pembuluh darah (intravena)
+
+Gambar A Penjahitan Mukosa
+
+Gambar B Penjahitan Otot
+
+Gambar C Penjahitan Kulit
+Gambar 14.6 Penjahitan Luka Perineum Tingkat 2
+Penjahitan robekan perineum derajat 3
+1. Perbaikan robekan harus dilakukan hanya oleh dokter yang sudah dilatih secara
+formal (atau dalam supervisi) mengenai perbaikan sfingter ani primer.
+Perbaikan harus dilakukan di kamar operasi dengan pencahayaan yang baik,
+peralatan yang memadai, dan kondisi aseptik.
+a. Anestesi umum atau regional (spinal, epidural, kaudal) menjadi analgesik
+dan pelemas otot yang bermanfaat dalam evaluasi luasnya robekan.
+ Luasnya robekan harus dievaluasi melalui pemeriksaan vagina dan
+rektal yang berhati-hati.
+ Jika terdapat kebingungan dalam menentukan derajat trauma maka
+derajat yang lebih tinggi yang harus dipilih.
+
+617
+
+Pada kasus yang jarang ditemui, tipe robekan "buttonhole" terisolasi dapat terjadi
+di rektum tanpa menyebabkan kerusakan sfingter ani.
+2. Diperbaiki secara transvaginal menggunakan jahitan interrupted dengan benang
+Vicryl.
+3. Untuk mengurangi risiko fistula rektovaginal persisten, selapis jaringan perlu
+disisipkan diantara rektum dan vagina. (Dengan aproksimasi fasia rektovaginal).
+4. Kolostomi diindikasikan hanya jika terdapat robekan besar yang mencapai dasar
+pelvis atau terdapat kontaminasi feses pada luka.
+Penjahitan robekan perineum derajat 4
+1. Epitel ani yang mengalami robekan diperbaiki dengan jahitan interrupted
+menggunakan benang Vicryl 3/0 dan disimpul di dalam lumen ani.
+Perbaikan epitel ani secara subkutikular melalui pendekatan transvaginal juga
+diketahui memiliki keefektifan yang sama jika simpul terminalnya terikat dengan
+baik.
+2. Otot sfingter diperbaiki dengan 3/0 PDS dyed sutures.
+a. Benang monofilamen dipercaya dapat mengurangi risiko infeksi
+dibandingkan dengan benang braided.
+b. Benang monofilamen non-absorbable seperti nilon atau Prolene
+(polypropylene) dipilih oleh beberapa dokter bedah kolorektal dalam
+perbaikan sekunder robekan sfingter.
+c. Benang non-absorbable dapat menyebabkan abses pada jahitan (terutama
+pada simpul) dan ujung tajam jahitan dapat menyebabkan ketidaknyamanan.
+d. Absorpsi sempurna PDS lebih lama dari Vicryl dan kekuatan tensilnya
+bertahan lebih lama dari Vicryl.
+e. Untuk mengurangi perpindahan jahitan, ujung jahitan harus dipotong pendek
+dan tertupi oleh muskulus perinei superfisialis.
+f. Sebuah RCT menunjukkan tidak ada perbedaan morbiditas terkait jahitan
+menggunakan benang Vicryl dan PDS pada 6 minggu post partum.
+3. Sfingter ani interna harus diidentifikasi dan jika mengalami robekan harus
+diperbaiki secara terpisah dari sfingter ani eksterna.
+a. Sfingter ani interna tampak pucat seperti daging ikan mentah sedangkan
+sfingter ani eksterna berwarna lebih terang, seperti daging merah.
+b. Ujung-ujung otot yang robek dijepit dengan forsep Allis dan perbaikan endto-end dilakukan dengan jahitan interrupted atau matras menggunakan PDS
+3/0.
+4. Sfingter ani eksterna harus diidentifikasi dan dijepit dengan forsep Allis karena
+sfingter ini cenderung mengkerut ketika robek.
+a. Setelah itu, otot dipisahkan dari lemak iskhioanal menggunakan gunting
+Mitzembaum.
+b. Ujung-ujung robekan sfingter ani eksterna kemudian dijahit menggunakan
+teknik overlap dengan benang PDS 3/0.
+c. Teknik overlap akan menyebabkan area kontak otot menjadi lebih luas
+dibandingkan dengan teknik end-to end.
+
+618
+
+d. Wanita dengan perbaikan sfingter ani eksterna secara end-to-end diketahui
+dapat tetap kontinen tetapi memiliki risiko yang lebih tinggi untuk mengalami
+inkontinensia pada usia yang lebih lanjut.
+e. Jika operator tidak familiar dengan teknik overlap atau sfingter ani eksterna
+hanya robek sebagian (derajat 3a/3b) maka perbaikan end-to-end harus
+dilakukan menggunakan 2-3 jahitan matras, seperti pada perbaikan sfingter
+ani interna.
+5. Setelah perbaikan sfingter, perineal body perlu direkonstruksi agar dapat
+mempertahankan sfingter ani yang telah diperbaiki.
+a. Perineum yang pendek dapat menyebabkan sfingter ani menjadi lebih rentan
+terhadap trauma dalam kelahiran per vaginam berikutnya.
+b. Kulit vagina harus dijahit dan kulit perineum diaproksimasi dengan jahitan
+subkutikular menggunakan benang Vicryl 3/0.
+6. Pemeriksaan rektovaginal harus dilakukan untuk memastikan perbaikan telah
+sempurna dan memastikan bahwa seluruh tampon atau kapas telah dikeluarkan.
+7. Catatan yang lengkap mengenai temuan dan perbaikan harus dibuat.
+Jika tidak terdapat tenaga yang kompeten pasien dirujuk ke fasilitas pelayanan
+kesehatan sekunder yang memiliki dokter spesialis obstetrik dan ginekologi.
+Konseling dan Edukasi
+Memberikan informasi kepada pasien dan suami, mengenai, cara menjaga
+kebersihan daerah vagina dan sekitarnya setelah dilakukannya penjahitan di daerah
+perineum, yaitu antara lain:
+1. Menjaga perineum selalu bersih dan kering.
+2. Hindari penggunaan obat-obatan tradisional pada perineum.
+3. Cuci perineumnya dengan sabun dan air bersih yang mengalir 3 sampai 4 kali
+per hari.
+4. Kembali dalam seminggu untuk memeriksa penyembuhan lukanya. Ibu harus
+kembali lebih awal jika ia mengalami demam atau mengeluarkan cairan yang
+berbau busuk dari daerah lukanya atau jika daerah tersebut menjadi lebih nyeri.
+Kriteria Rujukan
+Kriteria tindakan pada Fasilitas Pelayanan Primer hanya untuk Luka Perineum
+Tingkat 1 dan 2. Untuk luka perineum tingkat 3 dan 4 dirujuk ke fasilitas pelayanan
+kesehatan sekunder.
+Peralatan
+1.
+2.
+3.
+4.
+5.
+6.
+
+Lampu
+Kassa steril
+Sarung tangan steril
+Hecting set
+Benang jahit catgut
+Laboratorium sederhana pemeriksaan darah rutin dan golongan darah.
+
+619
+
+Prognosis
+Prognosis umumnya bonam.
+Referensi
+1. Kementerian Kesehatan RI dan WHO. Buku Saku Pelayanan Kesehatan Ibu di
+Fasilitas Kesehatan Dasar dan Rujukan.Jakarta: KementerianKesehatan RI.
+2013.(Kementerian Kesehatan Republik Indonesia, 2013)
+2. PriyatiniT,Ocviyanti D, Kemal A. IlmuBedahDasarObstetridanGinekologi. Bina
+Pustaka.2014 (Priyatini, et al., 2014)
+3. Cunningham, F.G. Leveno, K.J. Bloom, S.L. Hauth, J.C. Rouse, D.J. Spong,
+rd
+C.Y.Williams Obstectrics. 23 Ed. McGraw-Hill. 2009.(Cunningham, et al., 2009)
+4. Wiknjosastro, H. Ilmu Bedah Kebidanan. Ed 1 Jakarta:Yayasan Bina Sarwono
+Prawirohardjo. 2007: Hal 170-6(Prawirohardjo, et al., 2010).
+
+11. Mastitis
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: X21 Breast symptom/complaint female other
+: N61Inflammatory disorders of breast
+: 4A
+
+Masalah Kesehatan
+Mastitis adalah peradangan payudara yang terjadi biasanya pada masa nifas atau
+sampai 3 minggu setelah persalinan.
+Kejadian mastitis berkisar 2-33% dari ibu menyusui dan lebih kurang 10% kasus
+mastitis akan berkembang menjadi abses (nanah), dengan gejala yang makin berat.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Nyeri dan bengkak pada daerah payudara, biasa pada salah satu payudara
+0
+2. Adanya demam > 38 C
+3. Paling sering terjadi di minggu ke 3 - 4 postpartum
+Gejala klinis
+1. Demam disertai menggigil
+0
+2. Dapat disertai demam > 38 C
+3. Mialgia
+4. Nyeri di daerah payudara
+5. Sering terjadi di minggu ke–3 dan ke–4 postpartum, namun dapat terjadi kapan
+saja selama menyusui
+Faktor Risiko
+1. Primipara
+2. Stress
+
+620
+
+3. Tehnik menyusui yang tidak benar, sehingga proses pengosongan payudara
+tidak terjadi dengan baik. (menyusui hanya pada satu posisi)
+4. Penghisapan bayi yang kurang kuat, dapat menyebabkan statis dan obstruksi
+kelenjar payudara.
+5. Pemakaian bra yang terlalu ketat
+6. Bentuk mulut bayi yang abnormal (ex: cleft lip or palate), dapat menimbulkan
+trauma pada puting susu.
+7. Terdapat luka pada payudara.
+8. Riwayat mastitis sebelumnya saat menyusui.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan fisik
+1. Pemeriksaan tanda vital : nadi meningkat (takikardi).
+2. Pemeriksaan payudara
+a. payudara membengkak
+b. lebih teraba hangat
+c. kemerahan dengan batas tegas
+d. adanya rasa nyeri
+e. unilateral
+f. dapat pula ditemukan luka pada payudara
+Pemeriksaan penunjang : Penegakan Diagnostik (Assessment)
+Diagnosis klinis
+Diagnosis klinis dapat di tegakkan dengan anamnesa dan pemeriksaan fisis.
+Berdasarkan tempatnya, mastitis dapat dibedakan menjadi 3 macam, antara lain :
+1. Mastitis yang menyebabkan abses dibawah areola mammae.
+2. Mastitis ditengah payudara yang menyebabkan abses ditempat itu.
+3. Mastitis pada jaringan dibawah dorsal kelenjar-kelenjar yang menyebabkan
+abses antara payudara dan otot-otot dibawahnya.
+Diagnosis Banding:Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Non Medikamentosa
+1. Ibu sebaiknya tirah baring dan mendapat asupan cairan yang lebih banyak.
+2. Sampel ASI sebaiknya dikultur dan diuji sensitivitas.
+3. Sangga payudara ibu dengan bebat atau bra yang pas
+Medikamentosa
+1. Berikan antibiotika
+a. Kloksasilin 500 mg per oral per 6 jam selama 10-14 hari
+b. ATAU Eritromisin 250 mg per oral 3 x 1 sehari selama 10 hingga 14 hari
+
+621
+
+2. Analgetik parasetamol 3x500 mg per oral
+3. Lakukan evaluasi setelah 3 hari.
+Komplikasi:
+1. Abses mammae
+2. Sepsis
+Konseling dan Edukasi
+1. Memberikan pengetahuan akan pentingnya ASI dan mendorong ibu untuk tetap
+menyusui,
+2. Menyusui dapat dimulai dengan payudara yang tidak sakit.
+3. Pompa payudara dapat di lakukan pada payudara yang sakit jika belum kosong
+setelah bayi menyusui.
+4. Ibu dapat melakukan kompres dingin untuk mengurangi bengkak dan nyeri.
+5. Ibu harus menjaga kebersihan diri dan lingkungan untuk menghindari infeksi
+yang tidak diinginkan.
+Peralatan
+1.
+2.
+3.
+4.
+
+Lampu
+Kasa steril
+Sarung tangan steril
+Bisturi
+
+Kriteria Rujukan
+Jika terjadi komplikasi abses mammae dan sepsis.
+Prognosis
+Prognosis pada umumnya bonam.
+Referensi
+1. Prawirohardjo, S. Saifuddin, A.B. Rachimhadhi, T. Wiknjosastro Gulardi H. Ilmu
+Kebidanan Sarwono Prawirohardjo.Edisi keempat cetakan ketiga. Jakarta : PT
+Bina Pustaka Sarwono Prawirohardjo. 2010: Hal 380, 652-653(Prawirohardjo, et
+al., 2010)
+2. Kementerian Kesehatan RI dan WHO. Buku Saku Pelayanan Kesehatan Ibu di
+Fasilitas Kesehatan Dasar dan Rujukan.Jakarta: KementerianKesehatan RI.
+2013.
+
+622
+
+12. Inverted Nipple
+No. ICPC-2
+No. ICD-10
+
+Tingkat kemampuan
+
+: W.95 Breast disorder in pregnancy other
+X.20 Nipple symptom/complaint female
+: O92.02 Retracted nipple associated with the
+puerperium
+O92.03 Retracted nipple associated with lactation
+: 4A
+
+Masalah Kesehatan
+Terdapat beberapa bentuk puting susu. Pada beberapa kasus seorang ibu merasa
+putingnya datar atau terlalu pendek akan menemui kesulitan dalam menyusui bayi.
+Hal ini bisa berdampak bayi tidak bisa menerima ASI dengan baik dan cukup.
+Pada beberapa kasus, putting dapat muncul kembali bila di stimulasi, namun pada
+kasus-kasus lainnya, retraksi ini menetap.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Kesulitan ibu untuk menyusui bayi
+2. Puting susu tertarik
+3. Bayi sulit untuk menyusui
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Adanya puting susu yang datar atau tenggelam dan bayi sulit menyusui pada ibu.
+Pemeriksaan Penunjang
+Tidak diperlukan pemeriksaan penunjang dalam penegakan diagnosis
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik dan tidak
+memerlukan pemeriksaan penunjang.
+Diagnosis klinis ini terbagi dalam :
+1. Grade 1
+a. Puting tampak datar atau masuk ke dalam
+b. Puting dapat dikeluarkan dengan mudah dengan tekanan jari pada atau
+sekitar areola.
+c. Terkadang dapat keluar sendiri tanpa manipulasi
+d. Saluran ASI tidak bermasalah, dan dapat menyusui dengan biasa.
+2. Grade 2
+a. Dapat dikeluarkan dengan menekan areola, namun kembali masuk saat
+tekanan dilepas
+
+623
+
+b.
+c.
+d.
+e.
+
+Terdapat kesulitan menyusui.
+Terdapat fibrosis derajat sedang.
+Saluran ASI dapat mengalami retraksi namun pembedahan tidak diperlukan.
+Pada pemeriksaan histologi ditemukan stromata yang kaya kolagen dan otot
+polos.
+3. Grade 3
+a. Puting sulit untuk dikeluarkan pada pemeriksaan fisik dan membutuhkan
+pembedahan untuk dikeluarkan.
+b. Saluran ASI terkonstriksi dan tidak memungkinkan untuk menyusui
+c. Dapat terjadi infeksi, ruam, atau masalah kebersihan
+d. Secara histologis ditemukan atrofi unit lobuler duktus terminal dan fibrosis
+yang parah
+Komplikasi
+Risiko yang sering muncul adalah ibu menjadi demam dan pembengkakan pada
+payudara.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan Non-Medikamentosa
+Untuk puting datar/tenggelam (inverted nipple) dapat diatasi setelah bayi lahir, yaitu
+dengan proses Inisiasi Menyusu Dini (IMD) sebagai langkah awal dan harus terus
+menyusui agar puting selalu tertarik. Ada dua cara yang dapat digunakan untuk
+mengatasi puting datar/terbenam, yaitu:
+1. Penarikan puting secara manual/dengan tangan. Puting ditarik-tarik dengan
+lembut beberapa kali hingga menonjol.
+2. Menggunakan spuit ukuran 10-20 ml, bergantung pada besar puting. Ujung spuit
+yang terdapat jarum dipotong dan penarik spuit (spuit puller) dipindahkan ke sisi
+bekas potongan. Ujung yang tumpul di letakkan di atas puting, kemudian lakukan
+penarikan beberapa kali hingga puting keluar. Lakukan sehari tiga kali; pagi,
+siang, dan malam masing-masing 10 kali
+3. Jika kedua upaya di atas tidak memberikan hasil, ibu dapat memberikan air
+susunya dengan cara memerah atau menggunakan pompa payudara.
+4. Jika putting masuk sangat dalam, suatu usaha harus dilakukan untuk
+mengeluarkan putting dengan jari pada beberapa bulan sebelum melahirkan.
+Konseling dan Edukasi
+1. Menarik-narik puting sejak hamil (nipple conditioning exercises) ataupun
+penggunaan breast shield dan breast shell. Tehnik ini akan membantu ibu saat
+masa telah memasuki masa menyusui.
+2. Membangkitkan rasa percaya diri ibu dan membantu ibu melanjutkan untuk
+menyusui bayi. Posisikan bayi agar mulutnya melekat dengan baik sehingga
+rasa nyeri akan segera berkurang. Tidak perlu mengistirahatkan payudara, tetapi
+tetaplah menyusu on demand
+Kriteria Rujukan: -
+
+624
+
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Referensi
+1. Prawirohardjo, S. Saifuddin, A.B. Rachimhadhi, T. Wiknjosastro Gulardi H. Ilmu
+Kebidanan Sarwono Prawirohardjo.Edisi keempat cetakan ketiga. Jakarta : PT
+Bina Pustaka Sarwono Prawirohardjo. 2010. 379
+2. Kementerian Kesehatan RI dan WHO. Buku Saku Pelayanan Kesehatan Ibu di
+Fasilitas Kesehatan Dasar dan Rujukan.Jakarta: Kementerian Kesehatan RI.
+2013.
+3. Program Manajemen Laktasi, 2004. Buku Bacaan Manajemen Laktasi. Jakarta.
+4. http://idai.or.id/public-articles/klinik/asi/manajemen-laktasi.html. 2014
+
+13. Cracked Nipple
+No. ICPC-2
+No. ICD-10
+Tingkat kemampuan
+
+: W.95 Breast disorder in pregnancy other
+X.20 Nipple symptom/complaint female
+: O9212 Cracked nipple associated with the puerperium
+O9213 Cracked nipple associated with lactation
+:4A
+
+Masalah Kesehatan
+Nyeri pada puting merupakan masalah yang sering ditemukan pada ibu menyusui
+dan menjadi salah satu penyebab ibu memilih untuk berhenti menyusui bayinya.
+Diperkirakan sekitar 80-90% ibu menyusui mengalami nipple pain dan 26% di
+antaranya mengalami lecet pada puting yang biasa disebut dengan nipple crack.
+Kerusakan pada puting mungkin terjadi karena trauma pada puting akibat cara
+menyusui yang salah.
+Hasil Anamnesis (Subjective)
+Keluhan
+Adanya nyeri pada puting susu dan nyeri bertambah jika menyusui bayi.
+Penyebab
+Dapat disebabkan oleh teknik menyusui yang salah atau perawatan yang tidak benar
+pada payudara. Infeksi monilia dapat mengakibatkan lecet.
+
+625
+
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Pemeriksaan Fisik didapatkan :
+1. Nyeri pada daerah putting susu
+2. Lecet pada daerah putting susu
+
+Gambar 14.7 Crackecd Nipple
+Pemeriksaan Penunjang
+Tidak diperlukan pemeriksaan penunjang dalam penegakan diagnosis.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis bisa ditegakkan berdasarkan anamnesis, pemeriksaan fisik.
+Komplikasi
+Risiko yang sering muncul adalah ibu menjadi demam dan pembengkakan pada
+payudara.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Non-Medikamentosa
+1. Teknik menyusui yang benar
+2. Puting harus kering
+3. Mengoleskan colostrum atau ASI yang keluar di sekitar puting susu dan
+membiarkan kering.
+4. Mengistiraharkan payudara apabila lecet sangat berat selama 24 jam
+5. Lakukan pengompresan dengan kain basah dan hangat selama 5 menit jika
+terjadi bendungan payudara
+Medikamentosa
+1. Memberikan tablet Parasetamol tiap 4 – 6 jam untuk menghilangkan nyeri.
+2. Pemberian Lanolin dan vitamin E
+3. Pengobatan terhadap monilia
+
+626
+
+Konseling dan Edukasi
+1. Tetap memberikan semangat pada ibu untuk tetap menyusui jika nyeri
+berkurang.
+2. Jika masih tetap nyeri, sebagian ASI sebaiknya diperah.
+3. Tidak melakukan pembersihan puting susu dengan sabun atau zat iritatif lainnya.
+4. Menggunakan bra dengan penyangga yang baik.
+5. Posisi menyusui harus benar, bayi menyusui sampai ke kalang payudara dan
+susukan secara bergantian di antara kedua payudara.
+Tabel 14.14 Posisi menyusui yang baik
+Posisi tubuh yang baik
+
+Posisi menyusui
+yang tidak benar
+
+1. Posisi muka bayi menghadap ke
+payudara (Chin to Breast)
+2. Perut atau dada bayi menempel pada
+pertu /dada ibu (Chest to Chest)
+3. Seluruh badan Bai menghadap ke badan
+ibu hungga telinga bayi membentuk garis
+lurus dengan lengan bayi dan leher bayi
+4. Seluruh punggung bayi tersanggah
+dengan bayi
+5. Ada kontak mata antara ibu dengan bayi
+6. Pegang belakang bahu, jangan kepala
+bayi
+7. Kepala terletak di lengan bukan di daerah
+siku
+
+1. Leher bayi terputar dan
+cenderung ke depan
+2. Badan bayi menjauh dari
+ibu
+3. Badan bayi tidak
+menghadap ke badan ibu
+4. Hanya leher dan kepala
+tersanggah
+5. Tidak ada kontak mata
+anatara ibu dan bayi
+6. C – Hold tetap
+dipertahankan
+
+Kriteria Rujukan
+Rujukan diberikan jika terjadi kondisi yang mengakibatkan abses payudara
+Prognosis
+Ad vitam: Bonam ; Ad functionam: Bonam; Ad sanationam: Bonam
+Referensi
+1. Prawirohardjo, S. Saifuddin, A.B. Rachimhadhi, T. Wiknjosastro Gulardi H. Ilmu
+Kebidanan Sarwono Prawirohardjo.Edisi keempat cetakan ketiga. Jakarta : PT
+Bina Pustaka Sarwono Prawirohardjo. 2010: Hal 379.
+2. Utami, R. Yohmi, E. Buku Bedah ASI IDAI
+
+627
+
+O. PENYAKIT KELAMIN

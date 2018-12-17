@@ -1,0 +1,139 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+Leptospirosis
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: A78 Infection disease other/ NOS
+: A27.9 Leptospirosis, unspecified
+: 4A
+
+Masalah Kesehatan
+Leptospirosis adalah penyakit infeksi yang menyerang manusia disebabkan
+oleh mikroorganisme Leptospira interogans dan memiliki manifestasi klinis
+yang luas. Spektrum klinis mulai dari infeksi yang tidak jelas sampai fulminan
+dan fatal. Pada jenis yang ringan, leptospirosis dapat muncul seperti influenza
+
+31
+
+dengan sakit kepala dan myalgia. Tikus adalah reservoir yang utama dan
+kejadian leptospirosis lebih banyak ditemukan pada musim hujan.
+Hasil Anamnesis (Subjective)
+Keluhan:
+Demam disertai menggigil, sakit kepala, anoreksia, mialgia yang hebat pada
+betis, paha dan pinggang disertai nyeri tekan. Mual, muntah, diare dan nyeri
+abdomen, fotofobia, penurunan kesadaran
+Hasil pemeriksaan fisik dan penunjang sederhana (Objective)
+Pemeriksaan Fisik
+1. Febris
+2. Ikterus
+3. Nyeri tekan pada otot
+4. Ruam kulit
+5. Limfadenopati
+6. Hepatomegali dan splenomegali
+7. Edema
+8. Bradikardi relatif
+9. Konjungtiva suffusion
+10. Gangguan perdarahan berupa petekie,
+perdarahan gusi
+11. Kaku kuduk sebagai tanda meningitis
+
+purpura,
+
+epistaksis
+
+dan
+
+Pemeriksaan Penunjang
+Pemeriksaan Laboratorium
+1. Darah rutin: jumlah leukosit antara 3000-26000/μL, dengan pergeseran ke
+kiri, trombositopenia yang ringan terjadi pada 50% pasien dan
+dihubungkan dengan gagal ginjal.
+2. Urin rutin: sedimen urin (leukosit, eritrosit, dan hyalin atau granular) dan
+proteinuria ringan, jumlah sedimen eritrosit biasanya meningkat.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis dapat ditegakkan pada pasien dengan demam tiba-tiba, menggigil
+terdapat tanda konjungtiva suffusion, sakit kepala, mialgia, ikterus dan nyeri
+tekan pada otot. Kemungkinan tersebut meningkat jika ada riwayat bekerja
+atau terpapar dengan lingkungan yang terkontaminasi dengan kencing tikus.
+Diagnosis Banding
+1. Demam dengue,
+2. Malaria,
+3. Hepatitis virus,
+4. Penyakit rickettsia.
+
+32
+
+Penatalaksanaan komprehensif (Plan)
+Penatalaksanaan
+1. Pengobatan suportif dengan observasi ketat untuk mendeteksi dan
+mengatasi keadaan dehidrasi, hipotensi, perdarahan dan gagal ginjal
+sangat penting pada leptospirosis.
+2. Pemberian antibiotik harus dimulai secepat mungkin. Pada kasus-kasus
+ringan dapat diberikan antibiotik oral seperti doksisiklin, ampisilin,
+amoksisilin atau eritromisin. Pada kasus leptospirosis berat diberikan
+dosis tinggi penisilin injeksi.
+Komplikasi
+1. Meningitis
+2. Distress respirasi
+3. Gagal ginjal karena renal interstitial tubular necrosis
+4. Gagal hati
+5. Gagal jantung
+Konseling dan Edukasi
+1. Pencegahan leptospirosis khususnya didaerah tropis sangat sulit, karena
+banyaknya hospes perantara dan jenis serotipe. Bagi mereka yang
+mempunyai risiko tinggi untuk tertular leptospirosis harus diberikan
+perlindungan berupa pakaian khusus yang dapat melindunginya dari
+kontak dengan bahan-bahan yang telah terkontaminasi dengan kemih
+binatang reservoir.
+2. Keluarga harus melakukan pencegahan leptospirosis dengan menyimpan
+makanan dan minuman dengan baik agar terhindar dari tikus, mencuci
+tangan dengan sabun sebelum makan, mencuci tangan, kaki serta bagian
+tubuh lainnya dengan sabun setelah bekerja di sawah/ kebun/ sampah/
+tanah/ selokan dan tempat tempat yang tercemar lainnya.
+Rencana Tindak Lanjut
+Kasus harus dilaporkan ke dinas kesehatan setempat.
+Kriteria Rujukan
+Pasien segera dirujuk ke pelayanan sekunder (spesialis penyakit dalam) yang
+memiliki fasilitas hemodialisa setelah penegakan diagnosis dan terapi awal.
+Peralatan
+Pemeriksaan darah dan urin rutin
+Prognosis
+Prognosis jika pasien tidak mengalami komplikasi umumnya adalah dubia ad
+bonam.
+
+33
+
+Referensi
+1. Zein, Umar. Leptospirosis. Buku ajar Ilmu Penyakit Dalam. Jilid III edisi IV.
+Jakarta: Pusat Penerbitan Departemen Ilmu Penyakit dalam FKUI. 2006.
+Hal 1823-5. (Sudoyo, et al., 2006)
+2. Cunha, John P. Leptospirosis. 2007. Available at: (Cunha, 2007)
+3. Dugdale, David C. Leptospirosis. 2004.Available at:
+http://www.nlm.nih.gov/medlineplus/ency/article/001376.htm. Accessed
+December 2009. (Dugdale, 2004)
+

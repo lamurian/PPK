@@ -1,0 +1,104 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+12. Alergi Makanan
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: A92 Allergy/ allergic reaction NOS
+: L27.2 Dermatitis due to ingested food
+: 4A
+
+Masalah Kesehatan
+Makanan dapat menimbulkan beraneka ragam gejala yang ditimbulkan reaksi
+imun terhadap alergen asal makanan. Reaksi tersebut dapat disebabkan oleh
+reaksi alergi atau non alergi. Reaksi alergi makanan terjadi bila alergen
+makanan menembus sawar gastro intestinal yang memacu reaksi IgE. Gejala
+dapat timbul dalam beberapa menit sampai beberapa jam, dapat terbatas pada
+satu atau beberapa organ, kulit, saluran napas dan cerna, lokal dan sistemik.
+Alergen makanan yang sering menimbulkan alergi pada anak adalah susu,
+telur, kacang tanah, soya, terigu, dan ikan laut. Sedangkan yang sering
+menimbulkan alergi pada orang dewasa adalah kacang tanah, ikan laut,
+udang, kepiting, kerang, dan telur.
+Alergi makanan tidak berlangsung seumur hidup terutama pada anak. Gejala
+dapat hilang, namun dapat kambuh pada keadaan tertentu seperti infeksi virus,
+nutrisi yang tidak seimbang atau cedera muskulus gastrointestinal.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Pada kulit: eksim dan urtikaria.
+2. Pada saluran pernapasan : rinitis dan asma.
+3. Keluhan pada saluran pencernaan: gejala gastrointestinal non spesifik dan
+berkisar dari edema, pruritus bibir, mukosa pipi, mukosa faring, muntah,
+kram, distensi,dan diare.
+4. Diare kronis dan malabsorbsi terjadi akibat reaksi hipersensitivitas lambat
+non Ig-E-mediated seperti pada enteropati protein makanan dan penyakit
+seliak
+
+54
+
+5. Hipersensitivitas susu sapi pada bayi menyebabkan occult bleeding atau
+frank colitis.
+Faktor Risiko
+Terdapat riwayat alergi di keluarga
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective )
+Pemeriksaan Fisik
+Pemeriksaan fisik pada kulit dan mukosa serta paru.
+Pemeriksaan Penunjang:Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasar anamnesis dan pemeriksaan fisik
+Diagnosis Banding
+Intoksikasi makanan
+Komplikasi
+Reaksi alergi berat
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Medika mentosa
+Riwayat reaksi alergi berat atau anafilaksis:
+1. Hindari makanan penyebab
+2. Jangan lakukan uji kulit atau uji provokasi makanan
+Rencana Tindak Lanjut
+1. Edukasi pasien untuk kepatuhan diet pasien
+2. Menghindari makanan yang bersifat alergen secara sengaja mapun tidak
+sengaja (perlu konsultasi dengan ahli gizi)
+3. Perhatikan label makanan
+4. Menyusui bayi sampai usia 6 bulan menimbulkan efek protektif terhadap
+alergi makanan
+Kriteria Rujukan
+Pasien dirujuk apabila pemeriksaan uji kulit, uji provokasi dan eliminasi
+makanan terjadi reaksi anafilaksis.
+Peralatan : Prognosis
+Umumnya prognosis adalah dubia ad bonam bila medikamentosa disertai
+dengan perubahan gaya hidup.
+
+55
+
+Referensi
+
+1. Sichere, S.H. Sampson, H.A. Food Allergy. J Allergy Clin Immunol. 2010;
+125: 116-25. (Sichere & Sampson, 2010)
+2. Prawirohartono, E.P. Makanan Sebagai Penyebab Alergi dalam Alergi
+Makanan.Ed. Djuffrie. Yogyakarta: Gajah Mada Universitas Press. 2001.
+(Prawirohartono, 2001)
+3. Davies, R.J. Seri Kesehatan Bimbingan Dokter pada Alergi. Jakarta: Dian
+Rakyat. 2003. (Davies, 2003)

@@ -1,0 +1,253 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+13. Syok
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: K99 Cardiovascular disease other
+: R57.9 Shock, unspecified
+: 3B
+
+Masalah Kesehatan
+Syok merupakan salah satu sindroma kegawatan yang memerlukan
+penanganan intensif dan agresif. Syok adalah suatu sindroma multifaktorial
+yang menuju hipoperfusi jaringan lokal atau sistemis dan mengakibatkan
+hipoksia sel dan disfungsi multipel organ. Kegagalan perfusi jaringan dan
+hantaran nutrisi dan oksigen sistemik yang tidak adekuat tak mampu
+memenuhi kebutuhan metabolisme sel. Karakteristik kondisi ini, yaitu: 1)
+ketergantungan suplai oksigen, 2) kekurangan oksigen, 3) Asidosis jaringan
+sehingga terjadi metabolisme anaerob dan berakhir dengan kegagalan fungsi
+organ vital dan kematian.
+Syok diklasifikasikan berdasarkan etiologi, penyebab dan karakteristik pola
+hemodinamik yang ditimbulkan, yaitu:
+1. Syok Hipovolemik yaitu kegagalan perfusi dan suplai oksigen disebabkan
+oleh hilangnya sirkulasi volume intravaskuler sebesar >20-25% sebagai
+akibat dari perdarahan akut, dehidrasi, kehilangan cairan pada ruang
+ketiga atau akibat sekunder dilatasi arteri dan vena.
+2. Syok Kardiogenik yaitu kegagalan perfusi dan suplai oksigen disebabkan
+oleh adanya kerusakan primer fungsi atau kapasitas pompa jantung untuk
+mencukupi volume jantung semenit, berkaitan dengan terganggunya
+preload, afterload, kontraktilitas, frekuensi ataupun ritme jantung.
+Penyebab terbanyak adalah infark miokard akut, keracunan obat,
+infeksi/inflamasi, gangguan mekanik.
+3. Syok Distributif yaitu kegagalan perfusi dan suplai oksigen disebabkan
+oleh menurunnya tonus vaskuler mengakibatkan vasodilatasi arterial,
+penumpukan vena dan redistribusi aliran darah. Penyebab dari kondisi
+tersebut terutama komponen vasoaktif pada syok anafilaksis; bakteria dan
+toksinnya pada septik syok sebagai mediator dari SIRS; hilangnya tonus
+vaskuler pada syok neurogenik.
+
+56
+
+4. Syok Obstruktif yaitu kegagalan perfusi dan suplai oksigen berkaitan
+dengan terganggunya mekanisme aliran balik darah oleh karena
+meningkatnya tekanan intratorakal atau terganggunya aliran keluar arterial
+jantung (emboli pulmoner, emboli udara, diseksi aorta, hipertensi
+pulmoner, tamponade perikardial, perikarditis konstriktif) ataupun
+keduanya oleh karena obstruksi mekanis.
+5. Syok Endokrin, disebabkan oleh hipotiroidisme, hipertiroidisme dengan
+kolaps kardiak dan insufisiensi adrenal. Pengobatannya dengan tunjangan
+kardiovaskular sambil mengobati penyebabnya. Insufisiensi adrenal
+mungkin kontributor terjadinya syok pada pasien sakit gawat. Pasien yang
+tidak respon pada pengobatan harus tes untuk insufisiensi adrenal.
+Hasil Anamnesis (Subjective)
+Keluhan
+Pasien datang dengan lemas atau dapat tidak sadarkan diri.
+Gejala klinis juga tergantung etiologi penyebabnya, yang sering terjadi adalah
+tromboemboli paru, tamponade jantung, obstruksi arterioventrikuler, tension
+pneumotoraks.
+Untuk identifikasi penyebab, perlu ditanyakan faktor predisposisi seperti
+karena infark miokard antara lain: umur, diabetes melitus, riwayat angina,
+gagal jantung kongestif, infark anterior. Tanda awal iskemi jantung akut yaitu
+nyeri dada, sesak nafas, diaforesis, gelisah dan ketakutan, nausea dan
+vomiting dan gangguan sirkulasi lanjut menimbulkan berbagai disfungsi end
+organ. Riwayat trauma untuk syok karena perdarahan atau syok neurogenik
+pada trauma servikal atau high thoracic spinal cord injury. Demam dan riwayat
+infeksi untuk syok septik. Gejala klinis yang timbul setelah kontak dengan
+antigen pada syok anafilaktik.
+Syok obstruktif, tampak hampir sama dengan syok kardiogenik dan
+hipovolemik.
+Faktor Risiko: Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Keadaan umum:
+1. Hipotensi dan penyempitan tekanan denyutan (adalah tanda hilangnya
+cairan yang berat dan syok).
+2. Hipertermi, normotermi, atau hipotermi dapat terjadi pada syok. Hipotermia
+adalah tanda dari hipovolemia berat dan syok septik.
+3. Detak jantung naik, frekuensi nafas naik, kesadaran turun.
+4. Produksi urin turun. Produksi urin merupakan penunjuk awal hipovolemia
+dan respon ginjal terhadap syok.
+5. Gambaran klinis syok kardiogenik tampak sama dengan gejala klinis syok
+hipovolemik, ditambah dengan adanya disritmia, bising jantung, gallop.
+
+57
+
+6. Gejala klinis syok septik tak dapat dilepaskan dari keadaan sepsis sendiri
+berupa sindroma reaksi inflamasi sistemik (SIRS) dimana terdapat dua
+gejala atau lebih:
+0
+0
+a. Temperatur >38 C atau <36 C.
+b. Heart rate >90x/mnt.
+c. Frekuensi nafas >20x/mn atau PaCO2< 4,3 kPa.
+d. Leukosit >12.000 sel/mm atau <4000sel/mm atau >10% bentuk imatur.
+7. Efek klinis syok anafilaktik mengenai sistem pernafasan dan sistem
+sirkulasi, yaitu:
+Terjadi edema hipofaring dan laring, konstriksi bronkus dan bronkiolus,
+disertai hipersekresi mukus, dimana semua keadaan ini menyebabkan
+spasme dan obstruksi jalan nafas akut.
+8. Syok neurogenik ditandai dengan hipotensi disertai bradikardi. Gangguan
+neurologis: paralisis flasid, refleks ekstremitas hilang dan priapismus.
+9. Syok obstruktif, tampak hampir sama dengan syok kardiogenik dan
+hipovolemik. Gejala klinis juga tergantung etiologi penyebabnya, yang
+sering terjadi adalah tromboemboli paru, tamponade jantung, obstruksi
+arterioventrikuler, tension pneumothorax. Gejala ini akan berlanjut sebagai
+tanda-tanda akut kor pulmonal dan payah jantung kanan: pulsasi vena
+jugularis, gallop, bising pulmonal, aritmia. Karakteristik manifestasi klinis
+tamponade jantung: suara jantung menjauh, pulsus altemans, JVP selama
+inspirasi. Sedangkan emboli pulmonal: disritmia jantung, gagal jantung
+kongesti.
+Pemeriksaan Penunjang
+1. Pulse oxymetri
+2. EKG
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan
+penunjang.
+Diagnosis Banding: Komplikasi
+Kerusakan otak, koma, kematian.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Pengenalan dan restorasi yang cepat dari perfusi adalah kunci
+pencegahan disfungsi organ multipel dan kematian.
+2. Pada semua bentuk syok, manajemen jalan nafas dan pernafasan untuk
+memastikan oksigenasi pasien baik, kemudian restorasi cepat dengan
+infus cairan.
+
+58
+
+3. Pilihan pertama adalah kristaloid (Ringer laktat/Ringer asetat) disusul
+darah pada syok perdarahan. Keadaan hipovolemi diatasi dengan cairan
+koloid atau kristaloid sekaligus memperbaiki keadaan asidosis.
+4. Pengobatan syok sebelumnya didahului dengan penegakan diagnosis
+etiologi. Diagnosis awal etiologi syok adalah esensial, kemudian terapi
+selanjutnya tergantung etiologinya.
+5. Tindakan invasif seperti intubasi endotrakeal dan cricothyroidotomy atau
+tracheostomy dapat dilakukan hanya untuk life saving oleh dokter yang
+kompeten.
+Syok Hipovolemik:
+1. Infus cepat kristaloid untuk ekspansi volume intravaskuler melalui kanula
+vena besar (dapat lebih satu tempat) atau melalui vena sentral.
+2. Pada perdarahan maka dapat diberikan 3-4 kali dari jumlah perdarahan.
+Setelah pemberian 3 liter disusul dengan transfusi darah. Secara
+bersamaan sumber perdarahan harus dikontrol.
+3. Resusitasi tidak komplit sampai serum laktat kembali normal. Pasien syok
+hipovolemik berat dengan resusitasi cairan akan terjadi penumpukan
+cairan di rongga ketiga.
+4. Vasokonstriksi jarang diperlukan pada syok hipovolemik murni.
+Syok Obstruktif:
+1. Penyebab syok obstruktif harus diidentifikasi dan segera dihilangkan.
+2. Pericardiocentesis atau pericardiotomi untuk tamponade jantung.
+3. Dekompressi jarum atau pipa thoracostomy atau keduanya pada tension
+pneumothorax.
+4. Dukungan ventilasi dan jantung, mungkin trombolisis, dan mungkin
+prosedur radiologi intervensional untuk emboli paru.
+5. Abdominal compartment syndrome diatasi dengan laparotomi
+dekompresif.
+Syok Kardiogenik:
+1. Optimalkan pra-beban dengan infus cairan.
+2. Optimalkan kontraktilitas jantung dengan inotropik sesuai keperluan,
+seimbangkan kebutuhan oksigen jantung. Selain itu, dapat dipakai
+dobutamin atau obat vasoaktif lain.
+3. Sesuaikan pasca-beban untuk memaksimalkan CO. Dapat dipakai
+vasokonstriktor bila pasien hipotensi dengan SVR rendah. Pasien syok
+kardiogenik mungkin membutuhkan vasodilatasi untuk menurunkan SVR,
+tahanan pada aliran darah dari jantung yang lemah. Obat yang dapat
+dipakai adalah nitroprusside dan nitroglycerin.
+4. Diberikan diuretik bila jantung dekompensasi.
+5. PAC dianjurkan dipasang untuk penunjuk terapi.
+6. Penyakit jantung yang mendasari harus diidentifikasi dan diobati.
+Syok Distributif:
+1. Pada SIRS dan sepsis, bila terjadi syok ini karena toksin atau mediator
+penyebab vasodilatasi. Pengobatan berupa resusitasi cairan segera dan
+
+59
+
+2.
+3.
+4.
+
+setelah kondisi cairan terkoreksi, dapat diberikan vasopresor untuk
+mencapai MAP optimal. Sering terjadi vasopresor dimulai sebelum prabeban adekuat tercapai. Perfusi jaringan dan oksigenasi sel tidak akan
+optimal kecuali bila ada perbaikan pra-beban.
+Obat yang dapat dipakai adalah dopamin, norepinefrin dan vasopresin.
+Dianjurkan pemasangan PAC.
+Pengobatan kausal dari sepsis.
+
+Syok Neurogenik:
+1. Setelah mengamankan jalan nafas dan resusitasi cairan, guna
+meningkatkan tonus vaskuler dan mencegah bradikardi diberikan
+epinefrin.
+2. Epinefrin berguna meningkatkan tonus vaskuler tetapi akan memperberat
+bradikardi, sehingga dapat ditambahkan dopamin dan efedrin. Agen
+antimuskarinik atropin dan glikopirolat juga dapat untuk mengatasi
+bradikardi.
+3. Terapi definitif adalah stabilisasi Medulla spinalis yang terkena.
+Rencana Tindak Lanjut
+Mencari penyebab syok dan mencatatnya di rekam medis serta
+memberitahukan kepada pasien dan keluarga untuk tindakan lebih lanjut yang
+diperlukan.
+Konseling dan Edukasi
+Keluarga perlu diberitahukan mengenai kemungkinan terburuk yang dapat
+terjadi pada pasien dan pencegahan terjadinya kondisi serupa.
+Kriteria Rujukan
+Setelah kegawatan pasien ditangani, pasien dirujuk ke pelayanan kesehatan
+sekunder.
+Peralatan
+1.
+2.
+3.
+4.
+5.
+
+Infus set
+Oksigen
+NaCl 0,9%
+Senter
+EKG
+
+Prognosis
+Prognosis suatu syok amat tergantung dari kecepatan diagnosa dan
+pengelolaannya sehingga pada umumnya adalah dubia ad bonam.
+Referensi
+1. Karyadi, W. Update on Shock. Pertemuan Ilmiah Terpadu-1. Surabaya: FK
+Universitas Airlangga. 6-7 Mei 2000. (Karyadi, et al., 2000)
+2. Rahardjo, E. Update on Shock. Pertemuan Ilmiah Terpadu-1.Surabaya: FK
+Universitas Airlangga. 6-7 Mei 2000.
+
+60
+
+3. Suryohudoyo, P. Update on Shock, Pertemuan Ilmiah Terpadu-1.
+Surabaya: FK Universitas Airlangga. 6-7 Mei 2000.
