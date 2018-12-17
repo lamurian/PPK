@@ -1,0 +1,204 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+5. Malaria
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: A73 Malaria
+: B54 Unspecified malaria
+: 4A
+
+Masalah Kesehatan
+Merupakan suatu penyakit infeksi akut maupun kronik yang disebabkan oleh
+parasit Plasmodium yang menyerang eritrosit dan ditandai dengan
+
+27
+
+ditemukannya bentuk aseksual dalam darah, dengan gejala demam,
+menggigil, anemia, dan pembesaran limpa.
+Hasil Anamnesis (Subjective)
+Keluhan
+Demam hilang timbul, pada saat demam hilang disertai dengan menggigil,
+berkeringat, dapat disertai dengan sakit kepala, nyeri otot dan persendian,
+nafsu makan menurun, sakit perut, mual muntah, dan diare.
+Faktor Risiko
+1. Riwayat menderita malaria sebelumnya.
+2. Tinggal di daerah yang endemis malaria.
+3. Pernah berkunjung 1-4 minggu di daerah endemik malaria.
+4. Riwayat mendapat transfusi darah.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Tanda Patognomonis
+a. Pada periode demam:
+ Kulit terlihat memerah, teraba panas, suhu tubuh meningkat dapat
+0
+sampai di atas 40 C dan kulit kering.
+ Pasien dapat juga terlihat pucat.
+ Nadi teraba cepat
+ Pernapasan cepat (takipneu)
+b. Pada periode dingin dan berkeringat:
+ Kulit teraba dingin dan berkeringat.
+ Nadi teraba cepat dan lemah.
+ Pada kondisi tertentu bisa ditemukan penurunan kesadaran.
+2. Kepala: Konjungtiva anemis, sklera ikterik, bibir sianosis, dan pada malaria
+serebral dapat ditemukan kaku kuduk.
+3. Toraks: Terlihat pernapasan cepat.
+4. Abdomen: Teraba pembesaran hepar dan limpa, dapat juga ditemukan
+asites.
+5. Ginjal: bisa ditemukan urin berwarna coklat kehitaman, oligouri atau anuria.
+6. Ekstermitas: akral teraba dingin merupakan tanda-tanda menuju syok.
+Pemeriksaan Penunjang
+1. Pemeriksaan hapusan darah tebal dan
+Plasmodium.
+2. Rapid Diagnostic Test untuk malaria (RDT).
+
+28
+
+tipis
+
+ditemukan
+
+parasit
+
+Penegakan Diagnosis (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis (Trias Malaria: panas –
+menggigil – berkeringat), pemeriksaan fisik, dan ditemukannya parasit
+plasmodium pada pemeriksaan mikroskopis hapusan darah tebal/tipis.
+Klasifikasi
+1. Malaria falsiparum, ditemukan Plasmodium falsiparum.
+2. Malaria vivaks ditemukan Plasmodium vivax.
+3. Malaria ovale, ditemukan Plasmodium ovale.
+4. Malaria malariae, ditemukan Plasmodium malariae.
+5. Malaria knowlesi, ditemukan Plasmodium knowlesi.
+Diagnosis Banding
+1. Demam Dengue
+2. Demam Tifoid
+3. Leptospirosis
+4. Infeksi virus akut lainnya
+Penatalaksanaan komprehensif (Plan)
+Penatalaksanaan
+Pengobatan Malaria falsiparum
+1. Lini pertama: dengan Fixed Dose Combination (FDC) yang terdiri dari
+Dihydroartemisinin (DHA) + Piperakuin (DHP) tiap tablet mengandung 40
+mg Dihydroartemisinin dan 320 mg Piperakuin. Untuk dewasa dengan
+Berat Badan (BB) sampai dengan 59 kg diberikan DHP per oral 3 tablet
+satu kali per hari selama 3 hari dan Primakuin 2 tablet sekali sehari satu
+kali pemberian, sedangkan untuk BB >.60 kg diberikan 4 tablet DHP satu
+kali sehari selama 3 hari dan Primaquin 3 tablet sekali sehari satu kali
+pemberian. Dosis DHA = 2-4 mg/kgBB (dosis tunggal),
+Piperakuin = 16-32 mg/kgBB (dosis tunggal), Primakuin = 0,75
+mg/kgBB (dosis tunggal).
+2. Lini kedua (pengobatan malaria falsiparum yang tidak respon terhadap
+pengobatan DHP): Kina + Doksisiklin/ Tetrasiklin + Primakuin. Dosis kina
+= 10 mg/kgBB/kali (3x/hari selama 7 hari), Doksisiklin = 3,5 mg/kgBB per
+hari ( dewasa, 2x/hari selama7 hari) , 2,2 mg/kgBB/hari ( 8-14 tahun,
+2x/hari selama 7 hari) , T etrasiklin = 4-5 mg/kgBB/kali (4x/hari selama 7
+hari).
+Pengobatan Malaria vivax dan Malaria ovale
+1. Lini pertama: Dihydroartemisinin (DHA) + Piperakuin (DHP), diberikan
+peroral satu kali per hari selama 3 hari,
+primakuin=
+0 , 2 5 mg/kgBB/hari (selama 14 hari).
+
+29
+
+2.
+
+3.
+
+Lini kedua (pengobatan malaria vivax yang tidak respon terhadap
+pengobatan DHP): Kina + Primakuin. Dosis kina = 10 mg/kgBB/kali
+(3x/hari selama 7 hari), Primakuin = 0,25 mg/kgBB (selama 14
+hari).
+Pengobatan malaria vivax yang relaps (kambuh):
+a. Diberikan lagi regimen DHP yang sama tetapi dosis primakuin
+ditingkatkan menjadi 0,5 mg/kgBB/hari.
+b. Dugaan relaps pada malaria vivax adalah apabila pemberian
+Primakiun dosis 0,25 mg/kgBB/hari sudah diminum selama 14 hari dan
+penderita sakit kembali dengan parasit positif dalam kurun waktu 3
+minggu sampai 3 bulan setelah pengobatan.
+
+Pengobatan Malaria malariae
+Cukup diberikan DHP 1 kali perhari selama 3 hari dengan dosis sama dengan
+pengobatan malaria lainnya dan dengan dosis sama dengan pengobatan
+malaria lainnya dan tidak diberikan Primakuin.
+Pengobatan infeksi campuran antara Malaria falsiparum dengan Malaria vivax/
+Malaria ovale dengan DHP
+Pada penderita dengan infeksi campuran diberikan DHP 1 kali per hari selama
+3 hari, serta DHP 1 kali per hari selama 3 hari serta Primakuin dosis 0,25
+mg/kgBB selama 14 hari.
+Pengobatan malaria pada ibu hamil
+1. Trimester pertama: Kina tablet 3x 10mg/ kg BB + Klindamycin 10mg/kgBB
+selama 7 hari.
+2. Trimester kedua dan ketiga diberikan DHP tablet selama 3 hari.
+3. Pencegahan/profilaksis digunakan Doksisiklin 1 kapsul 100 mg/hari
+diminum 2 hari sebelum pergi hingga 4 minggu setelah keluar/pulang dari
+daerah endemis.
+Pengobatan di atas diberikan berdasarkan berat badan penderita.
+Komplikasi
+1. Malaria serebral.
+2. Anemia berat.
+3. Gagal ginjal akut.
+4. Edema paru atau ARDS (Acute Respiratory Distress Syndrome).
+5. Hipoglikemia.
+6. Gagal sirkulasi atau syok.
+7. Perdarahan spontan dari hidung, gusi, alat pencernaan dan atau disertai
+kelainan laboratorik adanya gangguan koagulasi intravaskular.
+8. Kejang berulang > 2 kali per 24 jam pendidngan pada hipertermia.
+9. Asidemia (pH darah <7.25) atau asidosis (biknat plasma < 15 mmol/L).
+10. Makroskopik hemoglobinuria karena infeksi malaria akut.
+
+30
+
+Konseling dan Edukasi
+1. Pada kasus malaria berat disampaikan kepada keluarga mengenai
+prognosis penyakitnya.
+2. Pencegahan malaria dapat dilakukan dengan :
+a. Menghindari gigitan nyamuk dengan kelambu atau repellen
+b. Menghindari aktivitas di luar rumah pada malam hari
+c. Mengobati pasien hingga sembuh misalnya dengan pengawasan
+minum obat
+Kriteria Rujukan
+1. Malaria dengan komplikasi
+2. Malaria berat, namun pasien harus terlebih dahulu diberi dosis awal
+Artemisinin atau Artesunat per Intra Muskular atau Intra Vena dengan
+dosis awal 3,2mg /kg BB.
+Peralatan
+Laboratorium sederhana untuk pembuatan apusan darah, pemeriksaan darah
+rutin dan pemeriksaan mikroskopis.
+Prognosis
+Prognosis bergantung pada derajat beratnya malaria. Secara umum,
+prognosisinya adalah dubia ad bonam. Penyakit ini dapat terjadi kembali
+apabila daya tahan tubuh menurun.
+Referensi
+1. Braunwald, E. Fauci, A.S. Kasper, D.L. Hauser, S.L. et al.Harrisson’s:
+th
+Principle of Internal Medicine. 17 Ed. New York: McGraw-Hill Companies.
+2009.
+2. Dirjen Pengendalian Penyakit dan Penyehatan Lingkungan. Pedoman
+Penatalaksanaan Kasus Malaria di Indonesia. Depkes RI. Jakarta. 2008.
+(Kementerian Kesehatan Republik Indonesia, 2008)
+

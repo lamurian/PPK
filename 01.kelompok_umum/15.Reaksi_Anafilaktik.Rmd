@@ -1,0 +1,242 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+14. Reaksi Anafilaktik
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: A92 Allergy/allergic reaction NOS
+: T78.2 Anaphylactic shock, unspecified
+: 4A
+
+Masalah Kesehatan
+Anafilaktik adalah reaksi hipersensitifitas generalisata atau sistemik yang
+beronset cepat, serius, dan mengancam. Jika reaksi tersebut cukup hebat
+dapat menimbulkan syok yang disebut sebagai syok anafilaktik. Syok
+anafilaktik membutuhkan pertolongan cepat dan tepat. Untuk itu diperlukan
+pengetahuan serta keterampilan dalam pengelolaan syok anafilaktik.
+Insidens syok anafilaktik 40–60% adalah akibat gigitan serangga, 20–40%
+akibat zat kontras radiografi, dan 10–20% akibat pemberian obat penisilin.
+Data yang akurat dalam insiden dan prevalensi terjadinya syok anafilaktik
+masih sangat kurang. Anafilaksis yang fatal hanya kira-kira 4 kasus kematian
+dari 10 juta masyarakat per tahun. Sebagian besar kasus yang serius
+anafilaktik adalah akibat pemberian antibiotik seperti penisilin dan bahan zat
+radiologis. Penisilin merupakan penyebab kematian 100 dari 500 kematian
+akibat reaksi anafilaksis.
+Hasil Anamnesis (Subjective)
+Keluhan
+Gambaran atau gejala klinik suatu reaksi anafilakis berbeda-beda gradasinya
+sesuai berat ringannya reaksi antigen-antibodi atau tingkat sensitivitas
+seseorang, namun pada tingkat yang berat barupa syok anafilaktik gejala yang
+menonjol adalah gangguan sirkulasi dan gangguan respirasi. Kedua gangguan
+tersebut dapat timbul bersamaan atau berurutan yang kronologisnya sangat
+bervariasi dari beberapa detik sampai beberapa jam. Pada dasarnya makin
+cepat reaksi timbul makin berat keadaan penderita.
+Gejala respirasi dapat dimulai berupa bersin, hidung tersumbat atau batuk saja
+yang kemudian segera diikuti dengan sesak napas.
+Gejala pada kulit merupakan gejala klinik yang paling sering ditemukan pada
+reaksi anafilaktik. Walaupun gejala ini tidak mematikan namun gejala ini amat
+penting untuk diperhatikan sebab ini mungkin merupakan gejala prodromal
+untuk timbulnya gejala yang lebih berat berupa gangguan nafas dan gangguan
+sirkulasi. Oleh karena itu setiap gejala kulit berupa gatal, kulit kemerahan
+harus diwaspadai untuk kemungkinan timbulnya gejala yang lebih berat.
+Manifestasi dari gangguan gastrointestinal berupa perut kram, mual, muntah
+
+61
+
+sampai diare yang juga dapat merupakan gejala prodromal untuk timbulnya
+gejala gangguan nafas dan sirkulasi.
+Faktor Risiko:
+Riwayat Alergi
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Pasien tampak sesak, frekuensi napas meningkat, sianosis karena edema
+laring dan bronkospasme. Hipotensi merupakan gejala yang menonjol pada
+syok anafilaktik. Adanya takikardia, edema periorbital, mata berair, hiperemi
+konjungtiva. Tanda prodromal pada kulit berupa urtikaria dan eritema.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Untuk membantu menegakkan diagnosis maka World Allergy Organization
+telah membuat beberapa kriteria di mana reaksi anafilaktik dinyatakan sangat
+mungkin bila :
+1. Onset gejala akut (beberapa menit hingga beberapa jam) yang melibatkan
+kulit, jaringan mukosa, atau keduanya (misal: urtikaria generalisata,
+pruritus dengan kemerahan, pembengkakan bibir/lidah/uvula) dan
+sedikitnya salah satu dari tanda berikut ini:
+a. Gangguan respirasi (misal: sesak nafas, wheezing akibat
+bronkospasme, stridor, penurunan arus puncak ekspirasi/APE,
+hipoksemia).
+b. Penurunan tekanan darah atau gejala yang berkaitan dengan
+kegagalan organ target (misal: hipotonia, kolaps vaskular, sinkop,
+inkontinensia).
+2. Atau, dua atau lebih tanda berikut yang muncul segera (beberapa menit
+hingga beberapa jam) setelah terpapar alergen yang mungkin (likely
+allergen), yaitu:
+a. Keterlibatan jaringan mukosa dan kulit
+b. Gangguan respirasi
+c. Penurunan tekanan darah atau gejala yang berkaitan dengan
+kegagalan organ target
+d. Gejala gastrointestinal yang persisten (misal: nyeri kram abdomen,
+muntah)
+3. Atau, penurunan tekanan darah segera (beberapa menit atau jam) setelah
+terpapar alergen yang telah diketahui (known allergen), sesuai kriteria
+berikut:
+a. Bayi dan anak: Tekanan darah sistolik rendah (menurut umur) atau
+terjadi penurunan > 30% dari tekanan darah sistolik semula.
+b. Dewasa: Tekanan darah sistolik <90 mmHg atau terjadi penurunan
+>30% dari tekanan darah sistolik semula.
+
+62
+
+Diagnosis Banding
+1. Beberapa kelainan menyerupai anafilaksis
+a. Serangan asma akut
+b. Sinkop
+c. Gangguan cemas / serangan panik
+d. Urtikaria akut generalisata
+e. Aspirasi benda asing
+f. Kelainan kardiovaskuler akut (infark miokard, emboli paru)
+g. Kelainan neurologis akut (kejang, stroke)
+2. Sindrom flush
+a. Perimenopause
+b. Sindrom karsinoid
+c. Epilepsi otonomik
+d. Karsinoma tiroid meduler
+3. Sindrom pasca-prandial
+a. Scombroidosis, yaitu keracunan histamin dari ikan, misalnya tuna,
+yang disimpan pada suhu tinggi.
+b. Sindrom alergi makanan berpolen, umumnya buah atau sayur yang
+mengandung protein tanaman yang telah bereaksi silang dengan
+alergen di udara
+c. Monosodium glutamat atau Chinese restaurant syndrome
+d. Sulfit
+e. Keracunan makanan
+4. Syok jenis lain
+a. Hipovolemik
+b. Kardiogenik
+c. Distributif
+d. Septik
+5. Kelainan non-organik
+a. Disfungsi pita suara
+b. hiperventilasi
+c. Episode psikosomatis
+6. Peningkatan histamin endogen
+a. Mastositosis / kelainan klonal sel mast
+b. Leukemia basofilik
+7. Lainnya
+a. Angioedema non-alergik, misal: angioedema herediter tipe I, II, atau III,
+angioedema terkait ACE-inhibitor)
+b. Systemic capillary leak syndrome
+c. Red man syndrome akibat vancomycin
+d. Respon paradoksikal pada feokromositoma
+
+63
+
+Komplikasi
+1. Koma
+2. Kematian
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Posisi trendelenburg atau berbaring dengan kedua tungkai diangkat
+(diganjal dengan kursi) akan membantu menaikkan venous return
+sehingga tekanan darah ikut meningkat.
+2. Pemberian Oksigen 3–5 liter/menit harus dilakukan, pada keadaan yang
+sangat ekstrim tindakan trakeostomi atau krikotiroidektomi perlu
+dipertimbangkan.
+3. Pemasangan infus, cairan plasma expander (Dextran) merupakan pilihan
+utama guna dapat mengisi volume intravaskuler secepatnya. Jika cairan
+tersebut tak tersedia, Ringer Laktat atau NaCl fisiologis dapat dipakai
+sebagai cairan pengganti. Pemberian cairan infus sebaiknya
+dipertahankan sampai tekanan darah kembali optimal dan stabil.
+4. Adrenalin 0,3 – 0,5 ml dari larutan 1 : 1000 diberikan secara intramuskuler
+yang dapat diulangi 5–10 menit. Dosis ulangan umumnya diperlukan,
+mengingat lama kerja adrenalin cukup singkat. Jika respon pemberian
+secara intramuskuler kurang efektif, dapat diberi secara intravenous
+setelah 0,1 – 0,2 ml adrenalin dilarutkan dalam spuit 10 ml dengan NaCl
+fisiologis, diberikan perlahan-lahan. Pemberian subkutan, sebaiknya
+dihindari pada syok anafilaktik karena efeknya lambat bahkan mungkin
+tidak ada akibat vasokonstriksi pada kulit, sehingga absorbsi obat tidak
+terjadi.
+5. Aminofilin, dapat diberikan dengan sangat hati-hati apabila bronkospasme
+belum hilang dengan pemberian adrenalin. 250 mg aminofilin diberikan
+perlahan-lahan selama 10 menit intravena. Dapat dilanjutkan 250 mg lagi
+melalui drips infus bila dianggap perlu.
+6. Antihistamin dan kortikosteroid merupakan pilihan kedua setelah adrenalin.
+Kedua obat tersebut kurang manfaatnya pada tingkat syok anafilaktik,
+dapat diberikan setelah gejala klinik mulai membaik guna mencegah
+komplikasi selanjutnya berupa serum sickness atau prolonged effect.
+Antihistamin yang biasa digunakan adalah difenhidramin HCl 5–20 mg IV
+dan untuk golongan kortikosteroid dapat digunakan deksametason 5–10
+mg IV atau hidrokortison 100–250 mg IV.
+7. Resusitasi Kardio Pulmoner (RKP), seandainya terjadi henti jantung
+(cardiac arrest) maka prosedur resusitasi kardiopulmoner segera harus
+dilakukan sesuai dengan falsafah ABC dan seterusnya. Mengingat
+kemungkinan terjadinya henti jantung pada suatu syok anafilaktik selalu
+ada, maka sewajarnya di setiap ruang praktek seorang dokter tersedia
+selain obat-obat emergency, perangkat infus dan cairannya juga perangkat
+resusitasi (Resuscitation kit) untuk memudahkan tindakan secepatnya.
+8. Algoritma Penatalaksanaan Reaksi Anafilaksis (Lihat Lampiran 1)
+
+64
+
+Rencana Tindak Lanjut
+Mencari penyebab reaksi anafilaktik dan mencatatnya di rekam medis serta
+memberitahukan kepada pasien dan keluarga.
+Konseling dan Edukasi
+Keluarga perlu diberitahukan mengenai penyuntikan apapun bentuknya
+terutama obat-obat yang telah dilaporkan bersifat antigen (serum, penisillin,
+anestesi lokal, dll) harus selalu waspada untuk timbulnya reaksi anafilaktik.
+Penderita yang tergolong risiko tinggi (ada riwayat asma, rinitis, eksim, atau
+penyakit-penyakit alergi lainnya) harus lebih diwaspadai lagi. Jangan mencoba
+menyuntikkan obat yang sama bila sebelumnya pernah ada riwayat alergi
+betapapun kecilnya. Sebaiknya mengganti dengan preparat lain yang lebih
+aman.
+Kriteria Rujukan
+Kegawatan pasien ditangani, apabila dengan penanganan yang dilakukan
+tidak terdapat perbaikan, pasien dirujuk ke layanan sekunder.
+Peralatan
+1. Infus set
+2. Oksigen
+3. Adrenalin ampul, aminofilin ampul, difenhidramin vial, deksametason
+ampul
+4. NaCl 0,9%
+Prognosis
+Prognosis suatu syok anafilaktik amat tergantung dari kecepatan diagnosa dan
+pengelolaannya karena itu umumnya adalah dubia ad bonam.
+Referensi
+1. Haupt,M.T. Fujii, T.K. et al. Anaphylactic Reactions. In:Text Book of Critical
+care. Eds: Ake Grenvvik.Stephen, M.Ayres.Peter, R.William, C.
+th
+Shoemaker. 4 Ed.Philadelpia: WB Saunders Company. 2000: p. 246-56.
+2. Koury, S.I. Herfel, L.U. Anaphylaxis and acute allergic reactions. In:
+International
+edition
+Emergency
+Medicine.Eds:Tintinalli.
+Kellen.
+th
+Stapczynski. 5 Ed. New York: McGrraw-Hill. 2000: p. 242-6.
+3. Rehatta, M.N.Syok anafilaktik patofisiologi dan penanganan dalam Update
+on Shock.Pertemuan Ilmiah Terpadu.Fakultas Kedoketran Universitas
+Airlangga Surabaya. 2000.

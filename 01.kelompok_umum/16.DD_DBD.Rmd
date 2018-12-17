@@ -1,0 +1,405 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+15. Demam Dengue dan Demam Berdarah Dengue
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: A77 Viral disease other/NOS
+: A90 Dengue fever
+A91 Dengue haemorrhagic fever
+: 4A
+
+Masalah Kesehatan
+Penyakit demam berdarah dengue (DBD) masih menjadi salah satu masalah
+kesehatan masyarakat di Indonesia. Tingkat insiden penyakit DBD Indonesia
+merupakan yang tertinggi diantara negara-negara Asia Tenggara. Sepanjang
+tahun 2013, Kementerian Kesehatan mencatat terdapat 103.649 penderita
+dengan angka kematian mencapai 754 orang. Keterlibatan dokter di pelayanan
+kesehatan primer sangat dibutuhkan untuk menekan tingkat kejadian maupun
+mortalitas DBD.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Demam tinggi, mendadak, terus menerus selama 2 – 7 hari.
+2. Manifestasi perdarahan, seperti: bintik-bintik merah di kulit, mimisan, gusi
+berdarah, muntah berdarah, atau buang air besar berdarah.
+3. Gejala nyeri kepala, mialgia, artralgia, nyeri retroorbital.
+4. Gejala gastrointestinal, seperti: mual, muntah, nyeri perut (biasanya di ulu
+hati atau di bawah tulang iga)
+5. Kadang disertai juga dengan gejala lokal, seperti: nyeri menelan, batuk,
+pilek.
+6. Pada kondisi syok, anak merasa lemah, gelisah, atau mengalami
+penurunan kesadaran.
+7. Pada bayi, demam yang tinggi dapat menimbulkan kejang.
+Faktor Risiko
+1. Sanitasi lingkungan yang kurang baik, misalnya: timbunan sampah,
+timbunan barang bekas, genangan air yang seringkali disertai di tempat
+tinggal pasien sehari-hari.
+2. Adanya jentik nyamuk Aedes aegypti pada genangan air di tempat tinggal
+pasien sehari-hari.
+3. Adanya penderita demam berdarah dengue (DBD) di sekitar pasien.
+Hasil Pemeriksaan Fisik dan penunjang sederhana (Objective)
+Pemeriksaan Fisik
+Tanda patognomonik untuk demam dengue
+1. Suhu > 37,5 derajat celcius
+2. Ptekie, ekimosis, purpura
+3. Perdarahan mukosa
+4. Rumple Leed (+)
+
+66
+
+Tanda Patognomonis untuk demam berdarah dengue
+1. Suhu > 37,5 derajat celcius
+2. Ptekie, ekimosis, purpura
+3. Perdarahan mukosa
+4. Rumple Leed (+)
+5. Hepatomegali
+6. Splenomegali
+7. Untuk mengetahui terjadi kebocoran plasma, diperiksa tanda-tanda efusi
+pleura dan asites.
+8. Hematemesis atau melena
+Pemeriksaan Penunjang :
+1. Darah perifer lengkap, yang menunjukkan:
+a. Trombositopenia (≤ 100.000/µL).
+b. Kebocoran plasma yang ditandai dengan:
+ peningkatan hematokrit (Ht) ≥ 20% dari nilai standar data populasi
+menurut umur
+ Ditemukan adanya efusi pleura, asites
+ Hipoalbuminemia, hipoproteinemia
+c. Leukopenia < 4000/µL.
+2. Serologi Dengue, yaitu IgM dan IgG anti-Dengue, yang titernya dapat
+terdeteksi setelah hari ke-5 demam.
+Penegakan Diagnosis (Assessment)
+Diagnosis Klinis
+Diagnosis Klinis Demam Dengue
+1. Demam 2–7 hari yang timbul mendadak, tinggi, terus-menerus, bifasik.
+2. Adanya manifestasi perdarahan baik yang spontan seperti petekie,
+purpura, ekimosis, epistaksis, perdarahan gusi, hematemesis dan atau
+melena; maupun berupa uji tourniquet positif.
+3. Nyeri kepala, mialgia, artralgia, nyeri retroorbital.
+4. Adanya kasus DBD baik di lingkungan sekolah, rumah atau di sekitar
+rumah.
+3
+5. Leukopenia <4.000/mm
+3
+6. Trombositopenia <100.000/mm
+Apabila ditemukan gejala demam ditambah dengan adanya dua atau lebih
+tanda dan gejala lain, diagnosis klinis demam dengue dapat ditegakkan.
+Diagnosis Klinis Demam Berdarah Dengue
+1. Demam 2–7 hari yang timbul mendadak, tinggi, terus-menerus (kontinua)
+2. Adanya manifestasi perdarahan baik yang spontan seperti petekie,
+purpura, ekimosis, epistaksis, perdarahan gusi, hematemesis dan atau
+melena; maupun berupa uji Tourniquette yang positif
+3. Sakit kepala, mialgia, artralgia, nyeri retroorbital
+
+67
+
+4. Adanya kasus demam berdarah dengue baik di lingkungan sekolah, rumah
+atau di sekitar rumah
+a. Hepatomegali
+b. Adanya kebocoran plasma yang ditandai dengan salah satu:
+ Peningkatan nilai hematokrit, >20% dari pemeriksaan awal atau
+dari data populasi menurut umur
+ Ditemukan adanya efusi pleura, asites
+ Hipoalbuminemia, hipoproteinemia
+3
+c. Trombositopenia <100.000/mm
+Adanya demam seperti di atas disertai dengan 2 atau lebih manifestasi klinis,
+ditambah bukti perembesan plasma dan trombositopenia cukup untuk
+menegakkan diagnosis Demam Berdarah Dengue.
+Tanda bahaya (warning signs) untuk mengantisipasi kemungkinan terjadinya
+syok pada penderita Demam Berdarah Dengue.
+Klinis
+
+Demam turun tetapi keadaan anak memburuk
+Nyeri perut dan nyeri tekan abdomen
+Muntah persisten
+Letargi, gelisah
+Perdarahaan mukosa
+Pembesaran hati
+Akumulasi cairan
+Oliguria
+
+Laboratorium
+
+Peningkatan kadar hematokrit bersamaan dengan
+penurunan cepat jumlah trombosit
+Hematokrit awal tinggi
+
+Kriteria Diagnosis Laboratoris
+Kriteria Diagnosis Laboratoris diperlukan untuk survailans epidemiologi, terdiri
+atas:
+Probable Dengue, apabila diagnosis klinis diperkuat oleh hasil pemeriksaan
+serologi antidengue.
+Confirmed Dengue, apabila diagnosis klinis diperkuat dengan deteksi genome
+virus Dengue dengan pemeriksaan RT-PCR, antigen dengue pada
+pemeriksaan NS1, atau apabila didapatkan serokonversi pemeriksaan IgG dan
+IgM (dari negatif menjadi positif) pada pemeriksaan serologi berpasangan.
+Isolasi virus Dengue memberi nilai yang sangat kuat dalam konfirmasi
+diagnosis klinis, namun karena memerlukan teknologi yang canggih dan
+prosedur yang rumit pemeriksaan ini bukan merupakan pemeriksaan yang
+rutin dilakukan.
+
+68
+
+Diagnosis Banding
+1. Demam karena infeksi virus ( influenza , chikungunya, dan lain-lain)
+2. Idiopathic thrombocytopenic purpura
+3. Demam tifoid
+Komplikasi
+Dengue Shock Syndrome (DSS), ensefalopati, gagal ginjal, gagal hati
+Penatalaksanaan komprehensif (Plan)
+Penatalaksanaan pada Pasien Dewasa
+1.
+
+Terapi simptomatik dengan analgetik antipiretik (Parasetamol 3 x 5001000 mg).
+2. Pemeliharaan volume cairan sirkulasi
+Alur penanganan pasien dengan demam dengue/demam berdarah
+dengue, yaitu: pemeriksaan penunjang Lanjutan
+- Pemeriksaan Kadar Trombosit dan Hematokrit secara serial
+5% defisit cairan
+
+Terapi awal cairan intravena kristaloid 6 – 7 ml/kgBB/jam
+Evaluasi
+3 – 4 jam
+PERBAIKAN
+Ht dan frekuensi nadi turun,tekanan
+darah membaik,produksi urin meningkat
+
+Kurangi infus kristaloid
+5 ml/kgBB/jam
+
+PERBAIKAN
+
+TIDAK MEMBAIK
+Ht dan frekuensi nadi meningkat, tekanan
+darah menurun < 20 mmHg, produksi urin
+menurun
+
+TANDA VITAL &
+HEMATOKRIT MEMBURUK
+PERBAIKAN
+
+Kurangi infus kristaloid
+3 ml/kgBB/jam
+
+Infus kristaloid
+10 ml/kgBB/jam
+
+TIDAK MEMBAIK
+
+Infus kristaloid
+15 ml/kgBB/jam
+
+PERBAIKAN
+
+KONDISI MEMBURUK
+Tanda syok
+
+Terapi cairan dihentikan
+24 – 48 jam
+
+Tatalaksana sesuai protokol
+syok dan perdarahan
+PERBAIKAN
+
+Gambar 1.7 Alur penanganan pasien dengan demam dengue/demam
+berdarah
+
+69
+
+Konseling dan Edukasi
+1. Pinsip konseling pada demam berdarah dengue adalah memberikan
+pengertian kepada pasien dan keluarganya tentang perjalanan penyakit
+dan tata laksananya, sehingga pasien dapat mengerti bahwa tidak ada
+obat/medikamentosa untuk penanganan DBD, terapi hanya bersifat
+suportif dan mencegah perburukan penyakit. Penyakit akan sembuh
+sesuai dengan perjalanan alamiah penyakit.
+2. Modifikasi gaya hidup
+a. Melakukan kegiatan 3M: menguras, mengubur, menutup.
+b. Meningkatkan daya tahan tubuh dengan mengkonsumsi makanan
+bergizi dan melakukan olahraga secara rutin.
+Kriteria Rujukan
+1. Terjadi perdarahan masif (hematemesis, melena).
+2. Dengan pemberian cairan kristaloid sampai dosis 15 ml/kg/jam kondisi
+belum membaik.
+3. Terjadi komplikasi atau keadaan klinis yang tidak lazim, seperti kejang,
+penurunan kesadaran, dan lainnya.
+Penatalaksanaan pada Pasien Anak
+Demam berdarah dengue (DBD) tanpa syok
+1. Bila anak dapat minum
+a. Berikan anak banyak minum
+ Dosis larutan per oral: 1 – 2 liter/hari atau 1 sendok makan tiap 5
+menit.
+ Jenis larutan per oral: air putih, teh manis, oralit, jus buah, air
+sirup, atau susu.
+b. Berikan cairan intravena (infus) sesuai dengan kebutuhan untuk
+dehidrasi sedang. Berikan hanya larutan kristaloid isotonik, seperti
+Ringer Laktat (RL) atau Ringer Asetat (RA), dengan dosis sesuai berat
+badan sebagai berikut:
+ Berat badan < 15 kg
+: 7 ml/kgBB/jam
+ Berat badan 15 – 40 kg
+: 5 ml/kgBB/jam
+ Berat badan > 40 kg
+: 3 ml/kgBB/jam
+2. Bila anak tidak dapat minum, berikan cairan infus kristaloid isotonik sesuai
+kebutuhan untuk dehidrasi sedang sesuai dengan dosis yang telah
+dijelaskan di atas.
+3. Lakukan pemantauan: tanda vital dan diuresis setiap jam, laboratorium
+(DPL) per 4-6 jam.
+a. Bila terjadi penurunan hematokrit dan perbaikan klinis, turunkan jumlah
+cairan secara bertahap sampai keadaan klinis stabil.
+b. Bila terjadi perburukan klinis, lakukan penatalaksanaan DBD dengan
+syok.
+4. Bila anak demam, berikan antipiretik (Parasetamol 10 – 15 mg/kgBB/kali)
+per oral. Hindari Ibuprofen dan Asetosal.
+5. Pengobatan suportif lain sesuai indikasi.
+
+70
+
+Demam berdarah dengue (DBD) dengan syok
+1. Kondisi ini merupakan gawat darurat dan mengharuskan rujukan segera
+ke RS.
+2. Penatalaksanaan awal:
+a. Berikan oksigen 2 – 4 liter/menit melalui kanul hidung atau sungkup
+muka.
+b. Pasang akses intravena sambil melakukan pungsi vena untuk
+pemeriksaan DPL.
+c. Berikan infus larutan kristaloid (RL atau RA) 20 ml/kg secepatnya.
+d. Lakukan pemantauan klinis (tanda vital, perfusi perifer, dan diuresis)
+setiap 30 menit.
+e. Jika setelah pemberian cairan inisial tidak terjadi perbaikan klinis,
+ulangi pemberian infus larutan kristaloid 20 ml/kgBB secepatnya
+(maksimal 30 menit) atau pertimbangkan pemberian larutan koloid 10
+– 20 ml/kgBB/jam (maksimal 30 ml/kgBB/24 jam).
+f. Jika nilai Ht dan Hb menurun namun tidak terjadi perbaikan klinis,
+pertimbangkan terjadinya perdarahan tersembunyi. Berikan transfusi
+darah bila fasilitas tersedia dan larutan koloid. Segera rujuk.
+g. Jika terdapat perbaikan klinis, kurangi jumlah cairan hingga 10
+ml/kgBB/jam dalam 2 – 4 jam. Secara bertahap diturunkan tiap 4 – 6
+jam sesuai kondisi klinis dan laboratorium.
+h. Dalam banyak kasus, cairan intravena dapat dihentikan setelah 36 –
+48 jam. Hindari pemberian cairan secara berlebihan.
+3. Pengobatan suportif lain sesuai indikasi.
+Rencana Tindak Lanjut
+Demam berdarah dengue (DBD) tanpa syok
+1. Pemantauan klinis (tanda vital, perfusi perifer, diuresis) dilakukan setiap
+satu jam.
+2. Pemantauan laboratorium (Ht, Hb, trombosit) dilakukan setiap 4-6 jam,
+minimal 1 kali setiap hari.
+3. Pemantauan cairan yang masuk dan keluar.
+Demam berdarah dengue (DBD) dengan syok
+Dokter di pelayanan kesehatan primer merujuk pasien ke RS jika kondisi
+pasien stabil.
+Persyaratan perawatan di rumah
+1. Persyaratan untuk pasien dan keluarga
+a. DBD non-syok(tanpa kegagalan sirkulasi).
+b. Bila anak dapat minum dengan adekuat.
+c. Bila keluarga mampu melakukan perawatan di rumah dengan adekuat.
+2. Persyaratan untuk tenaga kesehatan
+a. Adanya 1 dokter dan perawat tetap yang bertanggung jawab penuh
+terhadap tatalaksana pasien.
+b. Semua kegiatan tatalaksana dapat dilaksanakan dengan baik di rumah.
+
+71
+
+Dokter dan/atau perawat mem-follow up pasien setiap 6 – 8 jam dan
+setiap hari, sesuai kondisi klinis.
+d. Dokter dan/atau perawat dapat berkomunikasi seara lancar dengan
+keluarga pasien sepanjang masa tatalaksana.
+c.
+
+Kriteria Rujukan
+1. DBD dengan syok (terdapat kegagalan sirkulasi).
+2. Bila anak tidak dapat minum dengan adekuat, asupan sulit, walaupun tidak
+ada kegagalan sirkulasi.
+3. Bila keluarga tidak mampu melakukan perawatan di rumah dengan
+adekuat, walaupun DBD tanpa syok..
+Konseling dan Edukasi
+a. Penjelasan mengenai diagnosis, komplikasi, prognosis, dan rencana
+tatalaksana.
+b. Penjelasan mengenai tanda-tanda bahaya (warning signs) yang perlu
+diwaspadai dan kapan harus segera ke layanan kesehatan.
+c. Penjelasan mengenai jumlah cairan yang dibutuhkan oleh anak.
+d. Penjelasan mengenai diet nutrisi yang perlu diberikan.
+e. Penjelasan mengenai cara minum obat.
+f. Penjelasan mengenai faktor risiko dan cara-cara pencegahan yang
+berkaitan dengan perbaikan higiene personal, perbaikan sanitasi
+lingkungan, terutama metode 4M plus seminggu sekali, yang terdiri atas:
+a. Menguras wadah air, seperti bak mandi, tempayan, ember, vas bunga,
+tempat minum burung, dan penampung air kulkas agar telur dan jentik
+Aedes aegypti mati.
+b. Menutup rapat semua wadah air agar nyamuk Aedes aegypti tidak
+dapat masuk dan bertelur.
+c. Mengubur atau memusnahkan semua barang bekas yang dapat
+menampung air hujan agar tidak menjadi sarang dan tempat bertelur
+nyamuk Aedes aegypti.
+d. Memantau semua wadah air yang dapat menjadi tempat nyamuk
+Aedes aegypti berkembang biak.
+e. Tidak menggantung baju, menghindari gigitan nyamuk, membubuhkan
+bubuk abate, dan memelihara ikan.
+Peralatan
+1.
+2.
+3.
+4.
+5.
+
+Poliklinik set (termometer, tensimeter, senter)
+Infus set
+Cairan kristaloid (RL/RA) dan koloid
+Lembar observasi / follow up
+Laboratorium untuk pemeriksaan darah rutin
+
+Prognosis
+Prognosis jika tanpa komplikasi umumnya dubia ad bonam, karena hal ini
+tergantung dari derajat beratnya penyakit.
+
+72
+
+Referensi
+1.
+
+2.
+3.
+4.
+
+5.
+
+Kementerian Kesehatan Republik Indonesia, 2006. Pedoman Tatalaksana
+Demam Berdarah Dengue. Jakarta: Kementerian Kesehatan Republik
+Indonesia.
+Chen, K. Pohan, H.T, Sinto, R. Diagnosis dan Terapi Cairan pada Demam
+Berdarah Dengue. Medicinus. Jakarta. 2009: Vol 22; p.3-7.
+WHO. Dengue Haemorrhagic Fever: diagnosis, treatment, prevention and
+nd
+control. 2 Edition. Geneva. 1997
+Tim Adaptasi Indonesia, 2009. Pelayanan Kesehatan Anak di Rumah
+Sakit: Pedoman bagi Rumah Sakit Rujukan Tingkat Pertama di Kabupaten
+/ Kota. 1 ed. Jakarta: World Health Organization Country Office for
+Indonesia.
+UKK Infeksi dan Penyakit Tropis Ikatan Dokter Anak Indonesia. Pedoman
+Diagnosis dan tata laksana infeksi virus dengue pada anak, Edisi
+pertama. Jakarta: Badan Penerbit IDAI, 2014.

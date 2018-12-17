@@ -1,0 +1,3281 @@
+A. Kelompok Umum
+1.
+
+Tuberkulosis (TB) Paru
+
+No ICPC-2
+No ICD-10
+
+: A70 Tuberkulosis
+: A15 Respiratory tuberkulosis, bacteriologically and
+histologically confirmed
+Tingkat Kemampuan : 4A
+
+a. Tuberkulosis (TB) Paru pada Dewasa
+Masalah Kesehatan
+Tuberkulosis (TB) adalah penyakit menular langsung yang disebabkan oleh
+kuman TB yaitu Mycobacterium tuberkulosis. Sebagian besar kuman TB
+menyerang paru, namun dapat juga mengenai organ tubuh lainnya. Indonesia
+merupakan negara yang termasuk sebagai 5 besar dari 22 negara di dunia
+dengan beban TB. Kontribusi TB di Indonesia sebesar 5,8%. Saat ini timbul
+kedaruratan baru dalam penanggulangan TB, yaitu TB Resisten Obat (Multi
+Drug Resistance/ MDR).
+Hasil Anamnesis (Subjective)
+Suspek TB adalah seseorang dengan gejala atau tanda TB.
+Gejala umum TB Paru adalah batuk produktif lebih dari 2 minggu, yang
+disertai:
+1. Gejala pernapasan (nyeri dada, sesak napas, hemoptisis) dan/atau
+2. Gejala sistemik (demam, tidak nafsu makan, penurunan berat badan,
+keringat malam dan mudah lelah).
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Kelainan pada TB Paru tergantung luas kelainan struktur paru. Pada awal
+permulaan perkembangan penyakit umumnya sulit sekali menemukan
+kelainan. Pada auskultasi terdengar suara napas bronkhial/amforik/ronkhi
+basah/suara napas melemah di apex paru, tanda-tanda penarikan paru,
+diafragma dan mediastinum.
+
+9
+
+Pemeriksaan Penunjang
+1. Darah: limfositosis/ monositosis, LED meningkat, Hb turun.
+2. Pemeriksaan mikroskopis kuman TB (Bakteri Tahan Asam/BTA) atau
+kultur kuman dari spesimen sputum/dahak sewaktu-pagi-sewaktu.
+3. Untuk TB non paru, spesimen dapat diambil dari bilas lambung, cairan
+serebrospinal, cairan pleura ataupun biopsi jaringan.
+4. Radiologi dengan foto toraks PA-Lateral/ top lordotik.
+Pada TB, umumnya di apeks paru terdapat gambaran bercak-bercak awan
+dengan batas yang tidak jelas atau bila dengan batas jelas membentuk
+tuberkuloma. Gambaran lain yang dapat menyertai yaitu, kavitas
+(bayangan berupa cincin berdinding tipis), pleuritis (penebalan pleura),
+efusi pleura (sudut kostrofrenikus tumpul).
+Penegakan Diagnosis (Assessment)
+Diagnosis Pasti TB
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisis dan
+pemeriksaan penunjang (sputum untuk dewasa, tes tuberkulin pada anak).
+Kriteria Diagnosis
+Berdasarkan International Standards for Tuberkulosis Care (ISTC 2014)
+Standar Diagnosis
+1. Untuk memastikan diagnosis lebih awal, petugas kesehatan harus waspada
+terhadap individu dan grup dengan faktor risiko TB dengan melakukan
+evaluasi klinis dan pemeriksaaan diagnostik yang tepat pada mereka
+dengan gejala TB.
+2. Semua pasien dengan batuk produktif yang berlangsung selama ≥ 2
+minggu yang tidak jelas penyebabnya, harus dievaluasi untuk TB.
+3. Semua pasien yang diduga menderita TB dan mampu mengeluarkan
+dahak, harus diperiksa mikroskopis spesimen apusan sputum/dahak
+minimal 2 kali atau 1 spesimen sputum untuk pemeriksaan Xpert MTB/RIF*,
+yang diperiksa di laboratorium yang kualitasnya terjamin, salah satu
+diantaranya adalah spesimen pagi. Pasien dengan risiko resistensi obat,
+risiko HIV atau sakit parah sebaiknya melakukan pemeriksan Xpert
+MTB/RIF* sebagai uji diagnostik awal. Uji serologi darah dan interferongamma release assay sebaiknya tidak digunakan untuk mendiagnosis TB
+aktif.
+4. Semua pasien yang diduga tuberkulosis ekstra paru, spesimen dari organ
+yang terlibat harus diperiksa secara mikrobiologis dan histologis. Uji Xpert
+MTB/RIF direkomendasikan sebagai pilihan uji mikrobiologis untuk pasien
+terduga meningitis karena membutuhkan penegakan diagnosis yang cepat.
+5. Pasien terduga TB dengan apusan dahak negatif, sebaiknya dilakukan
+pemeriksaan Xpert MTB/RIF dan/atau kultur dahak. Jika apusan dan uji
+Xpert MTB/RIF* negatif pada pasien denga gejala klinis yang mendukung
+TB, sebaiknya segera diberikan pengobatan anti tuberkulosis setelah
+pemeriksaan kultur.
+
+10
+
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Tujuan pengobatan:
+1. Menyembuhkan, mengembalikan kualitas hidup dan produktivitas pasien.
+2. Mencegah kematian akibat TB aktif atau efek lanjutan.
+3. Mencegah kekambuhan TB.
+4. Mengurangi penularan TB kepada orang lain.
+5. Mencegah terjadinya resistensi obat dan penularannya
+Prinsip-prinsip terapi:
+1. Obat Anti Tuberkulosis (OAT) harus diberikan dalam bentuk kombinasi dari
+beberapa jenis obat, dalam jumlah cukup dan dosis tepat sesuai dengan
+kategori pengobatan. Hindari penggunaan monoterapi.
+2. Pemakaian OAT-Kombinasi Dosis Tepat (KDT) / Fixed Dose Combination
+(FDC) akan lebih menguntungkan dan dianjurkan.
+3. Obat ditelan sekaligus (single dose) dalam keadaan perut kosong.
+4. Setiap praktisi yang mengobati pasien tuberkulosis mengemban tanggung
+jawab kesehatan masyarakat.
+5. Semua pasien (termasuk mereka yang terinfeksi HIV) yang belum pernah
+diobati harus diberi paduan obat lini pertama.
+6. Untuk menjamin kepatuhan pasien berobat hingga selesai, diperlukan suatu
+pendekatan yang berpihak kepada pasien (patient centered approach) dan
+dilakukan dengan pengawasan langsung (DOT= directly observed
+treatment) oleh seorang pengawas menelan obat.
+7. Semua pasien harus dimonitor respons pengobatannya. Indikator penilaian
+terbaik adalah pemeriksaan dahak berkala yaitu pada akhir tahap awal,
+bulan ke-5 dan akhir pengobatan.
+8. Rekaman tertulis tentang pengobatan, respons bakteriologis dan efek
+samping harus tercatat dan tersimpan.
+
+Tabel 1.1 Dosis obat antituberkulosis KDT/FDC
+Berat
+Badan
+
+Fase Intensif
+
+Fase Lanjutan
+
+Harian
+
+Harian
+
+3x/minggu
+
+Harian
+
+3x/minggu
+
+(R/H/Z/E)
+
+(R/H/Z)
+
+(R/H/Z)
+
+(R/H)
+
+(R/H)
+
+150/75/400/275
+
+150/75/40
+
+150/150/500
+
+150/75
+
+150/150
+
+30-37
+
+2
+
+2
+
+2
+
+2
+
+2
+
+38-54
+
+3
+
+3
+
+3
+
+3
+
+3
+
+55-70
+
+4
+
+4
+
+4
+
+4
+
+4
+
+>71
+
+5
+
+5
+
+5
+
+5
+
+5
+
+11
+
+Tabel 1.2 Dosis obat TB berdasarkan berat badan (BB)
+Rekomendasi dosis dalam mg/kgBB
+Obat
+
+Harian
+
+3x seminggu
+
+INH
+
+5(4-6) max 300mg/hr
+
+10(8-12) max 900 mg/dosis
+
+RIF
+
+10 (8-12) max 600 mg/hr
+
+10 (8-12) max 600 mg/dosis
+
+PZA
+
+25 (20-30) max 1600 mg/hr
+
+35 (30-40) max 2400 mg/dosis
+
+EMB
+
+15 (15-20) max 1600 mg/hr
+
+30 (25-35) max 2400 mg/dosis
+
+Pengobatan TB diberikan dalam 2 tahap, yaitu tahap awal dan lanjutan
+1. Tahap awal menggunakan paduan obat rifampisin, isoniazid, pirazinamid
+dan etambutol.
+a. Pada tahap awal pasien mendapat pasien yang terdiri dari 4 jenis obat
+(rifampisin, isoniazid, pirazinamid dan etambutol), diminum setiap hari
+dan diawasi secara langsung untuk menjamin kepatuhan minum obat
+dan mencegah terjadinya kekebalan obat.
+b. Bila pengobatan tahap awal diberikan secara adekuat, daya penularan
+menurun dalam kurun waktu 2 minggu.
+c. Pasien TB paru BTA positif sebagian besar menjadi BTA negatif
+(konversi) setelah menyelesaikan pengobatan tahap awal. Setelah
+terjadi konversi pengobatan dilanujtkan dengan tahap lanjut.
+2. Tahap lanjutan menggunakan paduan obat rifampisin dan isoniazid
+a. Pada tahap lanjutan pasien mendapat 2 jenis obat (rifampisin dan
+isoniazid), namun dalam jangka waktu yg lebih lama (minimal 4 bulan).
+b. Obat dapat diminum secara intermitten yaitu 3x/minggu (obat program)
+atau tiap hari (obat non program).
+c. Tahap lanjutan penting untuk membunuh kuman persisten sehingga
+mencegah terjadinya kekambuhan.
+Panduan OAT lini pertama yang digunakan oleh Program Nasional
+Pengendalian Tuberkulosis di Indonesia adalah sebagai berikut :
+1. Kategori 1 : 2HRZE/4H3R3
+Artinya pengobatan tahap awal selama 2 bulan diberikan tiap hari dan
+tahap lanjutan selama 4 bulan diberikan 3 kali dalam seminggu. Jadi lama
+pengobatan seluruhnya 6 bulan.
+2. Kategori 2 : 2HRZES/HRZE/5H3R3E3
+Diberikan pada TB paru pengobatan ulang (TB kambuh, gagal
+pengobatan, putus berobat/default). Pada kategori 2, tahap awal
+pengobatan selama 3 bulan terdiri dari 2 bulan RHZE ditambah suntikan
+streptomisin, dan 1 bulan HRZE. Pengobatan tahap awal diberikan setiap
+hari. Tahap lanjutan diberikan HRE selama 5 bulan, 3 kali seminggu. Jadi
+lama pengobatan 8 bulan.
+
+12
+
+3.
+
+OAT sisipan : HRZE
+Apabila pemeriksaan dahak masih positif (belum konversi) pada akhir
+pengobatan tahap awal kategori 1 maupun kategori 2, maka diberikan
+pengobatan sisipan selama 1 bulan dengan HRZE.
+
+Konseling dan Edukasi
+1. Memberikan informasi kepada pasien dan keluarga tentang penyakit
+tuberkulosis
+2. Pengawasan ketaatan minum obat dan kontrol secara teratur.
+3. Pola hidup sehat dan sanitasi lingkungan
+Kriteria Rujukan
+1. Pasien dengan sputum BTA (-), klinis (+) tapi tidak menunjukkan perbaikan
+setelah pengobatan dalam jangka waktu tertentu
+2. Pasien dengan sputum BTA (-), klinis (-/ meragukan)
+3. Pasien dengan sputum BTA tetap (+) setelah jangka waktu tertentu
+4. TB dengan komplikasi/keadaan khusus (TB dengan komorbid)
+5. Suspek TB – MDR harus dirujuk ke pusat rujukan TB-MDR.
+Peralatan
+1. Laboratorium untuk pemeriksaan sputum, darah rutin.
+2. Radiologi
+3. Uji Gen Xpert-Rif Mtb jika fasilitas tersedia
+Prognosis
+Prognosis pada umumnya baik apabila pasien melakukan terapi sesuai
+dengan ketentuan pengobatan. Untuk TB dengan komorbid, prognosis menjadi
+kurang baik.
+Kriteria hasil pengobatan:
+1. Sembuh: pasien telah menyelesaikan pengobatannya secara lengkap dan
+pemeriksaan apusan dahak ulang (follow up), hasilnya negatif pada foto
+toraks AP dan pada satu pemeriksaan sebelumnya.
+2. Pengobatan lengkap: pasien yang telah menyelesaikan pengobatannya
+secara lengkap tetapi tidak ada hasil pemeriksaan apusan dahak ulang
+pada foto toraks AP dan pada satu pemeriksaan sebelumnya.
+3. Meninggal: pasien yang meninggal dalam masa pengobatan karena sebab
+apapun.
+4. Putus berobat (default): pasien yang tidak berobat 2 bulan berturut-turut
+atau lebih sebelum masa pengobatannya selesai.
+5. Gagal: Pasien yang hasil pemeriksaan dahaknya tetap positif atau kembali
+menjadi positif pada bulan ke lima atau selama pengobatan.
+6. Pindah (transfer out): pasien yang dipindah ke unit pencatatan dan
+pelaporan (register) lain dan hasil pengobatannya tidak diketahui.
+
+13
+
+Referensi
+1. Perhimpunan Dokter Paru Indonesia. Tuberkulosis. PDPI. Jakarta. 2011.
+(Perhimpunan Dokter Paru Indonesia, 2011)
+2. Direktorat Jenderal Pengendalian Penyakit dan Penyehatan Lingkungan.
+Pedoman nasional pengendalian tuberkulosis. Jakarta: Kementerian
+Kesehatan RI. 2011. (Direktorat Jenderal Pengendalian Penyakit dan
+Penyehatan Lingkungan, 2011)
+3. Panduan tata laksana tuberkulosis sesuai ISTC dengan strategi DOTS
+untuk praktik dokter swasta (DPS). Kementerian Kesehatan Republik
+Indonesia dan Ikatan DOkter Indonesia. Jakarta. 2012. (Kementerian
+Kesehatan Republik Indonesia, 2012)
+4. Tuberkulosis Coalition for Technical Assistance. International standards for
+nd
+tuberkulosis tare (ISTC). 3 Ed. Tuberkulosis Coalition for Technical
+Assistance. The Hague. 2014. (Tuberculosis Coalition for Technical
+Assistance , 2014)
+5. Braunwald, E. Fauci, A.S. Kasper, D.L. Hauser, S.L. et al. Mycobacterial
+th
+disease: Tuberkulosis. Harrisson’s: principle of internal medicine. 17 Ed.
+New York: McGraw-Hill Companies. 2009: hal. 1006 - 1020. (Braunwald,
+et al., 2009)
+
+b. Tuberkulosis (TB) Paru pada Anak
+Masalah Kesehatan
+Menurut perkiraan WHO pada tahun 1999, jumlah kasus TB baru di Indonesia
+adalah 583.000 orang per tahun dan menyebabkan kematian sekitar 140.000
+orang per tahun. World Health Organization memperkirakan bahwa TB
+merupakan penyakit infeksi yang paling banyak menyebabkan kematian pada
+anak dan orang dewasa. Kematian akibat TB lebih banyak daripada kematian
+akibat malaria dan AIDS. Pada wanita, kematian akibat TB lebih banyak
+daripada kematian karena kehamilan, persalinan, dan nifas. Jumlah seluruh
+kasus TB anak dari tujuh Rumah Sakit Pusat Pendidikan di Indonesia selama
+5 tahun (1998−2002) adalah 1086 penyandang TB dengan angka kematian
+yang bervariasi dari 0% hingga 14,1%. Kelompok usia terbanyak adalah 12−60
+bulan (42,9%), sedangkan untuk bayi <12 bulan didapatkan 16,5%.
+Hasil Anamnesis (Subjective)
+Anak kecil seringkali tidak menunjukkan gejala walaupun sudah tampak
+pembesaran kelenjar hilus pada foto toraks. Gejala sistemik/umum TB pada
+anak:
+1. Nafsu makan tidak ada (anoreksia) atau berkurang, disertai gagal tumbuh
+(failure to thrive).
+2. Masalah Berat Badan (BB):
+a. BB turun selama 2-3 bulan berturut-turut tanpa sebab yang jelas,
+ATAU
+
+14
+
+3.
+
+4.
+5.
+
+6.
+
+b. BB tidak naik dalam 1 bulan setelah diberikan upaya perbaikan gizi
+yang baik ATAU
+c. BB tidak naik dengan adekuat.
+Demam lama (≥2 minggu) dan atau berulang tanpa sebab yang jelas
+(bukan demam tifoid, infeksi saluran kemih, malaria, dan lain lain). Demam
+umumnya tidak tinggi (subfebris) dan dapat disertai keringat malam.
+Lesu atau malaise, anak kurang aktif bermain.
+Batuk lama atau persisten ≥3 minggu, batuk bersifat non-remitting (tidak
+pernah reda atau intensitas semakin lama semakin parah) dan penyebab
+batuk lain telah disingkirkan
+Keringat malam dapat terjadi, namun keringat malam saja apabila tidak
+disertai dengan gejala-gejala sistemik/umum lain bukan merupakan gejala
+spesifik TB pada anak
+
+Hasil Pemeriksaan Fisis dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Pemeriksaan fisik pada anak tidak spesifik tergantung seberapa berat
+manifestasi respirasi dan sistemiknya.
+Pemeriksaan Penunjang
+1. Uji Tuberkulin
+Uji tuberkulin cara Mantoux dilakukan dengan menyuntikkan 0,1 ml PPD
+RT-23 2TU atau PPD S 5TU, secara intrakutan di bagian volar lengan
+bawah. Pembacaan dilakukan 48−72 jam setelah penyuntikan. Pengukuran
+dilakukan terhadap indurasi yang timbul, bukan hiperemi/eritemanya.
+Indurasi diperiksa dengan cara palpasi untuk menentukan tepi indurasi,
+ditandai dengan pulpen, kemudian diameter transversal indurasi diukur
+dengan alat pengukur transparan, dan hasilnya dinyatakan dalam milimeter.
+Jika tidak timbul indurasi sama sekali, hasilnya dilaporkan sebagai 0 mm,
+jangan hanya dilaporkan sebagai negatif. Selain ukuran indurasi, perlu
+dinilai tebal tipisnya indurasi dan perlu dicatat jika ditemukan vesikel hingga
+bula. Secara umum, hasil uji tuberkulin dengan diameter indurasi ≥10 mm
+dinyatakan positif tanpa menghiraukan penyebabnya.
+2. Foto toraks
+Gambaran foto toraks pada TB tidak khas; kelainan-kelainan radiologis
+pada TB dapat juga dijumpai pada penyakit lain. Foto toraks tidak cukup
+hanya dibuat secara antero-posterior (AP), tetapi harus disertai dengan foto
+lateral, mengingat bahwa pembesaran KGB di daerah hilus biasanya lebih
+jelas. Secara umum, gambaran radiologis yang sugestif TB adalah sebagai
+berikut:
+a. Pembesaran kelenjar hilus atau paratrakeal dengan/tanpa infiltrat
+b. Konsolidasi segmental/lobar
+c. Milier
+d. Kalsifikasi dengan infiltrat
+e. Atelektasis
+
+15
+
+f. Kavitas
+g. Efusi pleura
+h. Tuberkuloma
+3. Mikrobiologis
+Pemeriksaan di atas sulit dilakukan pada anak karena sulitnya
+mendapatkan spesimen berupa sputum. Sebagai gantinya, dilakukan
+pemeriksaan bilas lambung (gastric lavage) 3 hari berturut-turut, minimal 2
+hari. Hasil pemeriksaan mikroskopik langsung pada anak sebagian besar
+negatif, sedangkan hasil biakan M. tuberculosis memerlukan waktu yang
+lama yaitu sekitar 6−8 minggu. Saat ini ada pemeriksaan biakan yang
+hasilnya diperoleh lebih cepat (1−3 minggu), yaitu pemeriksaan Bactec,
+tetapi biayanya mahal dan secara teknologi lebih rumit.
+Penegakan Diagnosis (Assessment)
+Pasien TB anak dapat ditemukan melalui dua pendekatan utama, yaitu :
+1. Investigasi terhadap anak yang kontak erat dengan pasien TB dewasa aktif
+dan menular
+2. Anak yang datang ke pelayanan kesehatan dengan gejala dan tanda klinis
+yang mengarah ke TB. (Gejala klinis TB pada anak tidak khas).
+Sistem skoring (scoring system) diagnosis TB membantu tenaga kesehatan
+agar tidak terlewat dalam mengumpulkan data klinis maupun pemeriksaan
+penunjang sederhana sehingga diharapkan dapat mengurangi terjadinya
+underdiagnosis maupun overdiagnosis.
+Anak dinyatakan probable TB jika skoring mencapai nilai 6 atau lebih. Namun
+demikian, jika anak yang kontak dengan pasien BTA positif dan uji
+tuberkulinnya positif namun tidak didapatkan gejala, maka anak cukup
+diberikan profilaksis INH terutama anak balita
+Catatan:
+1. Bila BB kurang, diberikan upaya perbaikan gizi dan dievaluasi selama 1
+bulan.
+2. Demam (> 2 minggu) dan batuk (> 3 minggu) yang tidak membaik setelah
+diberikan pengobatan sesuai baku terapi di puskesmas
+3. Gambaran foto toraks mengarah ke TB berupa: pembesaran kelenjar hilus
+atau paratrakeal dengan/tanpa
+infiltrat, atelektasis, konsolidasi
+segmental/lobar, milier, kalsifikasi dengan infiltrat, tuberkuloma.
+4. Semua bayi dengan reaksi cepat (< 2 minggu) saat imunisasi BCG harus
+dievaluasi dengan sistem skoring TB anak.
+Pasien usia balita yang mendapat skor 5, dengan gejala klinis yang
+meragukan, maka pasien tersebut dirujuk ke rumah sakit untuk evaluasi lebih
+lanjut.
+
+16
+
+Tabel 1.3 Sistem Skoring TB Anak
+Parameter
+Kontak TB
+
+0
+Tidak jelas
+
+Uji Tuberkulin
+(Mantoux)
+
+(-)
+
+1
+
+2
+Laporan
+keluarga, BTA
+(-) atau BTA
+tidak jelas/
+tidak tahu
+
+3
+BTA (+)
+
+Skor
+
+(+) (≥10mm,
+atau ≥5mm
+pd keadaan
+immunocom
+promised
+
+Berat badan/
+keadaan gizi
+
+BB/TB <
+90% atau
+BB/U <
+80%
+
+Klinis gizi
+buruk atau
+BB/TB <70%
+atau BB/U <
+60%
+
+Demam yang
+tidak diketahui
+penyebabnya
+Batuk kronik
+Pembesaran
+kelenjar limfe
+kolli, aksila,
+inguinal
+Pembengkakan tulang/
+sendi panggul
+lutut, falang
+Foto toraks
+
+> 2 minggu
+≥3 minggu
+>1 cm,
+Lebih dari
+1 KGB,
+tidak nyeri
+Ada
+pembengkakan
+Normal,
+kelainan
+tidak jelas
+
+Gambaran
+sugestif TB
+Skor Total
+
+Penatalaksanaan Komprehensif (Plan)
+
+Diagnosis TB dengan pemeriksaan selengkap mungkin
+(Skor ≥ 6 sebagai entry point)
+
+Beri OAT
+2 bulan terapi
+
+Tidak ada perbaikan klinis
+
+Ada perbaikan klinis
+
+Terapi TB
+diteruskan
+
+Terapi TB diteruskan
+sambil mencari
+
+Untuk RS fasilitas terbatas,
+rujuk ke RS dgn fasilitas lebih
+
+penyebabnya
+
+lengkap
+
+17
+
+Tabel 1.4 OAT Kombinasi Dosis Tepat (KDT) pada anak (sesuai
+rekomendasi IDAI)
+Berat badan
+(kg)
+5-9
+10-14
+15-19
+20-32
+
+2 bulan tiap hari 3KDT
+Anak
+RHZ (75/50/150)
+1 tablet
+2 tablet
+3 tablet
+4 tablet
+
+4 bulan tiap hari 2KDT
+Anak
+RH (75/50)
+1 tablet
+2 tablet
+3 tablet
+4 tablet
+
+Keterangan:
+1. Bayi dengan berat badan kurang dari 5 kg harus dirujuk ke rumah sakit
+2. Anak dengan BB > 33 kg, harus dirujuk ke rumah sakit.
+3. Obat harus diberikan secara utuh, tidak boleh dibelah.
+4. OAT KDT dapat diberikan dengan cara: ditelan secara utuh atau digerus
+sesaat sebelum diminum.
+Sumber Penularan Dan Case Finding TB Anak
+Apabila kita menemukan seorang anak dengan TB, maka harus dicari sumber
+penularan yang menyebabkan anak tersebut tertular TB. Sumber penularan
+adalah orang dewasa yang menderita TB aktif dan kontak erat dengan anak
+tersebut. Pelacakan sumber infeksi dilakukan dengan cara pemeriksaan
+radiologis dan BTA sputum (pelacakan sentripetal).
+Evaluasi Hasil Pengobatan
+Sebaiknya pasien kontrol setiap bulan. Evaluasi hasil pengobatan dilakukan
+setelah 2 bulan terapi. Evaluasi pengobatan dilakukan dengan beberapa cara,
+yaitu evaluasi klinis, evaluasi radiologis, dan pemeriksaan LED. Evaluasi yang
+terpenting adalah evaluasi klinis, yaitu menghilang atau membaiknya kelainan
+klinis yang sebelumnya ada pada awal pengobatan, misalnya penambahan BB
+yang bermakna, hilangnya demam, hilangnya batuk, perbaikan nafsu makan,
+dan lain-lain. Apabila respons pengobatan baik, maka pengobatan dilanjutkan.
+Seperti yang telah diuraikan sebelumnya, OAT dapat menimbulkan berbagai
+efek samping. Efek samping yang cukup sering terjadi pada pemberian
+isoniazid dan rifampisin adalah gangguan gastrointestinal, hepatotoksisitas,
+ruam dan gatal, serta demam.
+Kriteria Rujukan
+1. Tidak ada perbaikan klinis dalam 2 bulan pengobatan.
+2. Terjadi efek samping obat yang berat.
+3. Putus obat yaitu bila berhenti menjalani pengobatan selama >2 minggu.
+Peralatan
+1. Laboratorium untuk pemeriksaan sputum, darah rutin.
+2. Mantoux test (uji tuberkulin).
+
+18
+
+3. Radiologi.
+Referensi
+Rahajoe NN, Setyanto DB. Diganosis tuberculosis pada anak. Rahajoe NN,
+Supriyatno B, Setyanto DB, editor. Buku ajar respirologi anak. Edisi I. Jakarta:
+IDAI;2011.p. 170-87.
+
+2.
+
+TB dengan HIV
+
+TB:
+No ICPC-2
+No ICD-10
+
+: A70 Tuberkulosis
+: A15 Respiratory tuberkulosis, bacteriologiccaly and
+histologically confirmed
+
+HIV:
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: B90 HIV-infection/AIDS
+: Z21 Asymptomatic human immunodeficiency virus
+(HIV) infection status
+: 3A
+
+Masalah Kesehatan
+TB meningkatkan progresivitas HIV karena penderita TB dan HIV sering
+mempunyai kadar jumlah virus HIV yang tinggi. Pada keadaan koinfeksi terjadi
+penurunan imunitas lebih cepat dan pertahanan hidup lebih singkat walaupun
+pengobatan TB berhasil. Penderita TB/HIV mempunyai kemungkinan hidup
+lebih singkat dibandingkan penderita HIV yang tidak pernah kena TB. Obat
+antivirus HIV (ART) menurunkan tingkat kematian pada pasien TB/HIV.
+Hasil Anamnesis (Subjective)
+Batuk tidak merupakan gejala utama pada pasien TB dengan HIV. Pasien
+diindikasikan untuk pemeriksaan HIV jika :
+1. Berat badan turun drastis
+2. Sariawan/Stomatitis berulang
+3. Sarkoma Kaposi
+4. Riwayat perilaku risiko tinggi seperti
+a. Pengguna NAPZA suntikan
+b. Homoseksual
+c. Waria
+d. Pekerja seks
+e. Pramuria panti pijat
+
+19
+
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Kelainan pada TB Paru tergantung luas kelainan struktur paru. Pada awal
+permulaan perkembangan penyakit umumnya sulit sekali menemukan
+kelainan.
+Pemeriksaan Penunjang
+1. Pemeriksaan darah lengkap dapat dijumpai limfositosis/ monositosis, LED
+meningkat, Hb turun.
+2. Pemeriksaan mikroskopis kuman TB (Bakteri Tahan Asam/ BTA) atau
+kultur kuman dari spesimen sputum/ dahak sewaktu-pagi-sewaktu.
+3. Untuk TB non paru, spesimen dapat diambil dari bilas lambung, cairan
+serebrospinal, cairan pleura ataupun biopsi jaringan.
+4. Radiologi dengan foto toraks PA-Lateral/ top lordotik.
+5. Pemeriksaan kadar CD4.
+6. Uji anti-HIV
+Penegakan Diagnostik (Assessment)
+Pada daerah dengan angka prevalensi HIV yang tinggi pada populasi dengan
+kemungkinan koinfeksi TB-HIV maka konseling dan pemeriksaan HIV
+diindikasikan untuk seluruh pasien TB sebagai bagian dari penatalaksanaan
+rutin. Pada daerah dengan prevalensi HIV yang rendah, konseling dan
+pemeriksaan HIV diindikasi pada pasien TB dengan keluhan dan tanda-tanda
+yang diduga berhubungan dengan HIV dan pada pasien TB dengan riwayat
+risiko terpajan HIV.
+Tabel 1.5 Gambaran TB-HIV
+Infeksi dini
+
+Infeksi lanjut
+3
+
+Dahak mikroskopis
+TB ekstraparu
+Mikobakterimia
+Tuberkulin
+Foto toraks
+Adenopati
+hilus/mediastinum
+Efusi pleura
+
+3
+
+(CD4 > 200/mm )
+
+(CD4 < 200/mm )
+
+Sering positif
+Jarang
+Tidak ada
+Positif
+Reaktivasi TB, kavitas
+di puncak
+Tidak ada
+
+Sering negatif
+Umum/banyak
+Ada
+Negatif
+Tipikal primer TB milier/
+interstisial
+Ada
+
+Tidak ada
+
+Ada
+
+Diagnosis Banding
+1. Kriptokokokis
+2. Pneumocystic carinii pneumonia (PCP)
+3. Aspergillosis
+
+20
+
+Komplikasi
+1. Limfadenopati
+2. Efusi pleura
+3. Penyakit perikardial
+4. TB Milier
+5. Meningitis TB
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Pada dasarnya pengobatannya sama dengan pengobatan TB tanpa
+HIV/AIDS
+2. Prinsip pengobatan adalah menggunakan kombinasi beberapa jenis obat
+dalam jumlah cukup dan dosis serta jangka waktu yang tepat.
+3. Pasien dengan koinfeksi TB-HIV, segera diberikan OAT dan pemberian
+ARV dalam 8 minggu pemberian OAT tanpa mempertimbangkan kadar
+CD4.
+4. Perlu diperhatikan, pemberian secara bersamaan membuat pasien
+menelan obat dalam jumlah yang banyak sehingga dapat terjadi
+ketidakpatuhan, komplikasi, efek samping, interaksi obat dan Immune
+Reconstitution Inflammatory Syndrome.
+5. Setiap penderita TB-HIV harus diberikan profilaksis kotrimoksasol dengan
+dosis 960 mg/hari (dosis tunggal) selama pemberian OAT.
+6. Pemberian tiasetazon pada pasien HIV/AIDS sangat berbahaya karena
+akan menyebabkan efek toksik berat pada kulit.
+7. Injeksi streptomisin hanya boleh diberikan jika tersedia alat suntik sekali
+pakai yang steril.
+8. Desensitisasi obat (INH/Rifampisin) tidak boleh dilakukan karena
+mengakibatkan efek toksik yang serius pada hati.
+9. Pada pasien TB dengan HIV/AIDS yang tidak memberi respons terhadap
+pengobatan, selain dipikirkan terdapatnya malabsorbsi obat. Pada pasien
+HIV/AIDS terdapat korelasi antara imunosupresi yang berat dengan derajat
+penyerapan, karenanya dosis standar yang diterima suboptimal sehingga
+konsentrasi obat rendah dalam serum.
+Konseling dan Edukasi
+Konseling dilakukan pada pasien yang dicurigai HIV dengan merujuk pasien ke
+pelayanan VCT (Voluntary Counceling and Testing).
+Kriteria Rujukan
+1. Pasien dengan sputum BTA (-), klinis (+) tapi tidak menunjukkan perbaikan
+setelah pengobatan dalam jangka waktu tertentu
+2. Pasien dengan sputum BTA (-), klinis (-/ meragukan)
+3. Pasien dengan sputum BTA tetap (+) setelah jangka waktu tertentu
+4. TB dengan komplikasi/keadaan khusus (TB dengan komorbid)
+
+21
+
+5. Suspek TB–MDR harus dirujuk ke pusat rujukan TB–MDR .
+Peralatan
+1.
+2.
+3.
+
+Laboratorium untuk pemeriksaan sputum, darah rutin
+Mantoux test
+Radiologi
+
+Prognosis
+Prognosis pada umumnya baik apabila pasien melakukan terapi sesuai
+dengan ketentuan pengobatan. Untuk TB dengan komorbid, prognosis menjadi
+kurang baik.
+Referensi
+1. Perhimpunan Dokter Paru Indonesia. Tuberkulosis. PDPI. Jakarta. 2011.
+2. Panduan Tata laksana Tuberkuloasis ISTC dengan strategi DOTS unutk
+Praktek Dokter Swasta (DPS), oleh Kementerian Kesehatan Republik
+Indonesia dan Ikatan Dokter Indonesia Jakarta 2012.
+
+3. Morbili
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: A71 Measles.
+: B05.9 Measles without complication (Measles NOS).
+: 4A
+
+Masalah Kesehatan
+Morbili adalah suatu penyakit yang disebabkan oleh virus Measles. Nama lain
+dari penyakit ini adalah rubeola atau campak. Morbili merupakan penyakit
+yang sangat infeksius dan menular lewat udara melalui aktivitas bernafas,
+batuk, atau bersin. Pada bayi dan balita, morbili dapat menimbulkan komplikasi
+yang fatal, seperti pneumonia dan ensefalitis.
+Salah satu strategi menekan mortalitas dan morbiditas penyakit morbili adalah
+dengan vaksinasi. Namun, berdasarkan data Survei Demografi dan Kesehatan
+Indonesia tahun 2007, ternyata cakupan imunisasi campak pada anak-anak
+usia di bawah 6 tahun di Indonesia masih relatif lebih rendah (72,8%)
+dibandingkan negara-negara lain di Asia Tenggara yang sudah mencapai
+84%. Pada tahun 2010, Indonesia merupakan negara dengan tingkat insiden
+tertinggi ketiga di Asia Tenggara. World Health Organization melaporkan
+sebanyak 6300 kasus terkonfirmasi Morbili di Indonesia sepanjang tahun 2013.
+Dengan demikian, hingga kini, morbili masih menjadi masalah kesehatan yang
+krusial di Indonesia. Peran dokter di pelayanan kesehatan primer sangat
+penting dalam mencegah, mendiagnosis, menatalaksana, dan menekan
+mortalitas morbili.
+
+22
+
+Hasil Anamnesis (Subjective)
+1. Gejala prodromal berupa demam, malaise, gejala respirasi atas (pilek,
+batuk), dan konjungtivitis.
+2. Pada demam hari keempat, biasanya muncul lesi makula dan papula
+eritem, yang dimulai pada kepala daerah perbatasan dahi rambut, di
+belakang telinga, dan menyebar secara sentrifugal ke bawah hingga muka,
+badan, ekstremitas, dan mencapai kaki pada hari ketiga.
+3. Masa inkubasi 10-15 hari.
+4. Belum mendapat imunisasi campak
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+1. Demam, konjungtivitis, limfadenopati general.
+2. Pada orofaring ditemukan koplik spot sebelum munculnya eksantem.
+3. Gejala eksantem berupa lesi makula dan papula eritem, dimulai pada
+kepala pada daerah perbatasan dahi rambut, di belakang telinga, dan
+menyebar secara sentrifugal dan ke bawah hingga muka, badan,
+ekstremitas, dan mencapai kaki
+4. Pada hari ketiga, lesi ini perlahan-lahan menghilang dengan urutan sesuai
+urutan muncul, dengan warna sisa coklat kekuningan atau deskuamasi
+ringan. Eksantem hilang dalam 4-6 hari.
+
+Gambar 1.1 Morbili
+Pemeriksaan Penunjang
+Pada umumnya tidak diperlukan. Pada pemeriksaan sitologi dapat ditemukan
+sel datia berinti banyak pada sekret. Pada kasus tertentu, mungkin diperlukan
+pemeriksaan serologi IgM anti-Rubella untuk mengkonfirmasi diagnosis.
+Penegakan Diagnosis (Assessment)
+1. Diagnosis umumnya
+pemeriksaan fisik.
+2. Diagnosis banding:
+a. Erupsi obat
+
+dapat
+
+ditegakkan
+
+23
+
+dengan
+
+anamnesis
+
+dan
+
+b.
+c.
+d.
+e.
+
+Eksantem virus yang lain (rubella, eksantem subitum),
+Scarlet fever
+Mononukleosis infeksiosa
+Infeksi Mycoplasma pneumoniae
+
+Komplikasi
+Komplikasi lebih umum terjadi pada anak dengan gizi buruk, anak yang belum
+mendapat imunisasi, dan anak dengan imunodefisiensi dan leukemia.
+Komplikasi berupa otitis media, pneumonia, ensefalitis, trombositopenia. Pada
+anak HIV yang tidak diimunisasi, pneumonia yang fatal dapat terjadi tanpa
+munculnya lesi kulit.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Terapi suportif diberikan dengan menjaga cairan tubuh dan mengganti
+cairan yang hilang dari diare dan emesis.
+2. Obat diberikan untuk gejala simptomatis, demam dengan antipiretik. Jika
+terjadi infeksi bakteri sekunder, diberikan antibiotik.
+3. Suplementasi vitamin A diberikan pada:
+a. Bayi usia kurang dari 6 bulan 50.000 IU/hari PO diberi 2 dosis.
+b. Usia 6-11 bulan 100.000 IU/hari PO 2 dosis.
+c. Usia di atas 1 tahun 200.000 IU/hari PO 2 dosis.
+d. Anak dengan tanda defisiensi vitamin A, 2 dosis pertama sesuai usia,
+dilanjutkan dosis ketiga sesuai usia yang diberikan 2-4 minggu
+kemudian.
+Konseling dan Edukasi
+Edukasi keluarga dan pasien bahwa morbili merupakan penyakit yang
+menular. Namun demikian, pada sebagian besar pasien infeksi dapat sembuh
+sendiri, sehingga pengobatan bersifat suportif. Edukasi pentingnya
+memperhatikan cairan yang hilang dari diare/emesis.
+Untuk anggota keluarga/kontak yang rentan, dapat diberikan vaksin campak
+atau human immunoglobulin untuk pencegahan. Vaksin efektif bila diberikan
+dalam 3 hari terpapar dengan penderita. Imunoglobulin dapat diberikan pada
+individu dengan gangguan imun, bayi usia 6 bulan - 1 tahun, bayi usia kurang
+dari 6 bulan yang lahir dari ibu tanpa imunitas campak, dan wanita hamil.
+Kriteria Rujukan
+Perawatan di rumah sakit untuk campak dengan komplikasi (superinfeksi
+bakteri, pneumonia, dehidrasi, croup, ensefalitis)
+Peralatan
+Tidak diperlukan peralatan khusus untuk menegakkan diagnosis morbili.
+
+24
+
+Prognosis
+Prognosis pada umumnya baik karena penyakit ini merupakan penyakit selflimiting disease.
+Referensi
+1. Djuanda, A. Hamzah, M. Aisah, S. Buku Ajar Ilmu Penyakit Kulit dan
+th
+Kelamin, 5 Ed. Balai Penerbit FKUI. Jakarta. 2007. (Djuanda, et al.,
+2007)
+2. James, W.D. Berger, T.G. Elston, D.M. Andrew’s Diseases of the Skin:
+th
+Clinical Dermatology. 10 Ed. Saunders Elsevier. Canada. 2000. (James,
+et al., 2000)
+3. Perhimpunan Dokter Spesialis Kulit dan Kelamin. Pedoman Pelayanan
+Medik. 2011. (Perhimpunan Dokter Spesialis Kulit dan Kelamin, 2011)
+
+4. Varisela
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: A72 Chickenpox
+: B01.9 Varicella without complication (Varicella NOS)
+: 4A
+
+Masalah Kesehatan
+Infeksi akut primer oleh virus Varicella zoster yang menyerang kulit dan
+mukosa, klinis terdapat gejala konstitusi, kelainan kulit polimorf, terutama
+berlokasi di bagian sentral tubuh. Masa inkubasi 14-21 hari. Penularan melalui
+udara (air-borne) dan kontak langsung.
+Hasil Anamnesis (Subjective)
+Keluhan
+Demam, malaise, dan nyeri kepala. Kemudian disusul timbulnya lesi kulit
+berupa papul eritem yang dalam waktu beberapa jam berubah menjadi vesikel.
+Biasanya disertai rasa gatal.
+Faktor Risiko
+1. Anak-anak.
+2. Riwayat kontak dengan penderita varisela.
+3. Keadaan imunodefisiensi.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Tanda Patognomonis
+Erupsi kulit berupa papul eritematosa yang dalam waktu beberapa jam
+berubah menjadi vesikel. Bentuk vesikel ini khas berupa tetesan embun (tear
+
+25
+
+drops). Vesikel akan menjadi keruh dan kemudian menjadi krusta. Sementara
+proses ini berlangsung, timbul lagi vesikel-vesikel baru yang menimbulkan
+gambaran polimorfik khas untuk varisela. Penyebaran terjadi secara
+sentrifugal, serta dapat menyerang selaput lendir mata, mulut, dan saluran
+napas atas.
+
+Gambar 1.2 Varisela
+Pemeriksaan Penunjang
+Bila diperlukan, pemeriksaan mikroskopis dengan menemukan sel Tzanck
+yaitu sel datia berinti banyak.
+Penegakan Diagnosis (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik.
+Diagnosis Banding
+1. Variola
+2. Herpes simpleks disseminata
+3. Coxsackievirus
+4. Rickettsialpox
+Komplikasi
+Pneumonia, ensefalitis, hepatitis, terutama terjadi pada pasien dengan
+gangguan imun. Varisela pada kehamilan berisiko untuk menyebabkan infeksi
+intrauterin pada janin, menyebabkan sindrom varisela kongenital.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Gesekan kulit perlu dihindari agar tidak mengakibatkan pecahnya vesikel.
+Selain itu, dilakukan pemberian nutrisi TKTP, istirahat dan mencegah
+kontak dengan orang lain.
+2. Gejala prodromal diatasi sesuai dengan indikasi. Aspirin dihindari karena
+dapat menyebabkan Reye’s syndrome.
+3. Losio kalamin dapat diberikan untuk mengurangi gatal.
+4. Pengobatan antivirus oral, antara lain:
+
+26
+
+a. Asiklovir: dewasa 5 x 800 mg/hari, anak-anak 4 x 20 mg/kgBB (dosis
+maksimal 800 mg), atau
+b. Valasiklovir: dewasa 3 x 1000 mg/hari.
+Pemberian obat tersebut selama 7-10 hari dan efektif diberikan pada 24 jam
+pertama setelah timbul lesi.
+Konseling dan Edukasi
+Edukasi bahwa varisella merupakan penyakit yang self-limiting pada anak
+yang imunokompeten. Komplikasi yang ringan dapat berupa infeksi bakteri
+sekunder. Oleh karena itu, pasien sebaiknya menjaga kebersihan tubuh.
+Penderita sebaiknya dikarantina untuk mencegah penularan.
+Kriteria Rujukan
+1. Terdapat gangguan imunitas
+2. Mengalami komplikasi yang berat seperti pneumonia, ensefalitis, dan
+hepatitis.
+Peralatan
+Lup
+Prognosis
+Prognosis pada pasien dengan imunokompeten adalah bonam, sedangkan
+pada pasien dengan imunokompromais, prognosis menjadi dubia ad bonam.
+Referensi
+1. Djuanda, A., Hamzah, M., Aisah, S. 2007. Ilmu Penyakit Kulit dan Kelamin.
+Edisi kelima. Jakarta. Balai Penerbit Fakultas Kedokteran Universitas
+Indonesia.
+2. James, W.D., Berger, T.G., Elston, D.M. 2000. Andrew’s Diseases of the
+th
+Skin: Clinical Dermatology. 10 Ed. Canada. Saunders Elsevier.
+3. Perhimpunan Dokter Spesialis Kulit dan Kelamin. 2011. Pedoman
+Pelayanan Medik. Jakarta.
+
+5. Malaria
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: A73 Malaria
+: B54 Unspecified malaria
+: 4A
+
+Masalah Kesehatan
+Merupakan suatu penyakit infeksi akut maupun kronik yang disebabkan oleh
+parasit Plasmodium yang menyerang eritrosit dan ditandai dengan
+
+27
+
+ditemukannya bentuk aseksual dalam darah, dengan gejala demam,
+menggigil, anemia, dan pembesaran limpa.
+Hasil Anamnesis (Subjective)
+Keluhan
+Demam hilang timbul, pada saat demam hilang disertai dengan menggigil,
+berkeringat, dapat disertai dengan sakit kepala, nyeri otot dan persendian,
+nafsu makan menurun, sakit perut, mual muntah, dan diare.
+Faktor Risiko
+1. Riwayat menderita malaria sebelumnya.
+2. Tinggal di daerah yang endemis malaria.
+3. Pernah berkunjung 1-4 minggu di daerah endemik malaria.
+4. Riwayat mendapat transfusi darah.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Tanda Patognomonis
+a. Pada periode demam:
+ Kulit terlihat memerah, teraba panas, suhu tubuh meningkat dapat
+0
+sampai di atas 40 C dan kulit kering.
+ Pasien dapat juga terlihat pucat.
+ Nadi teraba cepat
+ Pernapasan cepat (takipneu)
+b. Pada periode dingin dan berkeringat:
+ Kulit teraba dingin dan berkeringat.
+ Nadi teraba cepat dan lemah.
+ Pada kondisi tertentu bisa ditemukan penurunan kesadaran.
+2. Kepala: Konjungtiva anemis, sklera ikterik, bibir sianosis, dan pada malaria
+serebral dapat ditemukan kaku kuduk.
+3. Toraks: Terlihat pernapasan cepat.
+4. Abdomen: Teraba pembesaran hepar dan limpa, dapat juga ditemukan
+asites.
+5. Ginjal: bisa ditemukan urin berwarna coklat kehitaman, oligouri atau anuria.
+6. Ekstermitas: akral teraba dingin merupakan tanda-tanda menuju syok.
+Pemeriksaan Penunjang
+1. Pemeriksaan hapusan darah tebal dan
+Plasmodium.
+2. Rapid Diagnostic Test untuk malaria (RDT).
+
+28
+
+tipis
+
+ditemukan
+
+parasit
+
+Penegakan Diagnosis (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis (Trias Malaria: panas –
+menggigil – berkeringat), pemeriksaan fisik, dan ditemukannya parasit
+plasmodium pada pemeriksaan mikroskopis hapusan darah tebal/tipis.
+Klasifikasi
+1. Malaria falsiparum, ditemukan Plasmodium falsiparum.
+2. Malaria vivaks ditemukan Plasmodium vivax.
+3. Malaria ovale, ditemukan Plasmodium ovale.
+4. Malaria malariae, ditemukan Plasmodium malariae.
+5. Malaria knowlesi, ditemukan Plasmodium knowlesi.
+Diagnosis Banding
+1. Demam Dengue
+2. Demam Tifoid
+3. Leptospirosis
+4. Infeksi virus akut lainnya
+Penatalaksanaan komprehensif (Plan)
+Penatalaksanaan
+Pengobatan Malaria falsiparum
+1. Lini pertama: dengan Fixed Dose Combination (FDC) yang terdiri dari
+Dihydroartemisinin (DHA) + Piperakuin (DHP) tiap tablet mengandung 40
+mg Dihydroartemisinin dan 320 mg Piperakuin. Untuk dewasa dengan
+Berat Badan (BB) sampai dengan 59 kg diberikan DHP per oral 3 tablet
+satu kali per hari selama 3 hari dan Primakuin 2 tablet sekali sehari satu
+kali pemberian, sedangkan untuk BB >.60 kg diberikan 4 tablet DHP satu
+kali sehari selama 3 hari dan Primaquin 3 tablet sekali sehari satu kali
+pemberian. Dosis DHA = 2-4 mg/kgBB (dosis tunggal),
+Piperakuin = 16-32 mg/kgBB (dosis tunggal), Primakuin = 0,75
+mg/kgBB (dosis tunggal).
+2. Lini kedua (pengobatan malaria falsiparum yang tidak respon terhadap
+pengobatan DHP): Kina + Doksisiklin/ Tetrasiklin + Primakuin. Dosis kina
+= 10 mg/kgBB/kali (3x/hari selama 7 hari), Doksisiklin = 3,5 mg/kgBB per
+hari ( dewasa, 2x/hari selama7 hari) , 2,2 mg/kgBB/hari ( 8-14 tahun,
+2x/hari selama 7 hari) , T etrasiklin = 4-5 mg/kgBB/kali (4x/hari selama 7
+hari).
+Pengobatan Malaria vivax dan Malaria ovale
+1. Lini pertama: Dihydroartemisinin (DHA) + Piperakuin (DHP), diberikan
+peroral satu kali per hari selama 3 hari,
+primakuin=
+0 , 2 5 mg/kgBB/hari (selama 14 hari).
+
+29
+
+2.
+
+3.
+
+Lini kedua (pengobatan malaria vivax yang tidak respon terhadap
+pengobatan DHP): Kina + Primakuin. Dosis kina = 10 mg/kgBB/kali
+(3x/hari selama 7 hari), Primakuin = 0,25 mg/kgBB (selama 14
+hari).
+Pengobatan malaria vivax yang relaps (kambuh):
+a. Diberikan lagi regimen DHP yang sama tetapi dosis primakuin
+ditingkatkan menjadi 0,5 mg/kgBB/hari.
+b. Dugaan relaps pada malaria vivax adalah apabila pemberian
+Primakiun dosis 0,25 mg/kgBB/hari sudah diminum selama 14 hari dan
+penderita sakit kembali dengan parasit positif dalam kurun waktu 3
+minggu sampai 3 bulan setelah pengobatan.
+
+Pengobatan Malaria malariae
+Cukup diberikan DHP 1 kali perhari selama 3 hari dengan dosis sama dengan
+pengobatan malaria lainnya dan dengan dosis sama dengan pengobatan
+malaria lainnya dan tidak diberikan Primakuin.
+Pengobatan infeksi campuran antara Malaria falsiparum dengan Malaria vivax/
+Malaria ovale dengan DHP
+Pada penderita dengan infeksi campuran diberikan DHP 1 kali per hari selama
+3 hari, serta DHP 1 kali per hari selama 3 hari serta Primakuin dosis 0,25
+mg/kgBB selama 14 hari.
+Pengobatan malaria pada ibu hamil
+1. Trimester pertama: Kina tablet 3x 10mg/ kg BB + Klindamycin 10mg/kgBB
+selama 7 hari.
+2. Trimester kedua dan ketiga diberikan DHP tablet selama 3 hari.
+3. Pencegahan/profilaksis digunakan Doksisiklin 1 kapsul 100 mg/hari
+diminum 2 hari sebelum pergi hingga 4 minggu setelah keluar/pulang dari
+daerah endemis.
+Pengobatan di atas diberikan berdasarkan berat badan penderita.
+Komplikasi
+1. Malaria serebral.
+2. Anemia berat.
+3. Gagal ginjal akut.
+4. Edema paru atau ARDS (Acute Respiratory Distress Syndrome).
+5. Hipoglikemia.
+6. Gagal sirkulasi atau syok.
+7. Perdarahan spontan dari hidung, gusi, alat pencernaan dan atau disertai
+kelainan laboratorik adanya gangguan koagulasi intravaskular.
+8. Kejang berulang > 2 kali per 24 jam pendidngan pada hipertermia.
+9. Asidemia (pH darah <7.25) atau asidosis (biknat plasma < 15 mmol/L).
+10. Makroskopik hemoglobinuria karena infeksi malaria akut.
+
+30
+
+Konseling dan Edukasi
+1. Pada kasus malaria berat disampaikan kepada keluarga mengenai
+prognosis penyakitnya.
+2. Pencegahan malaria dapat dilakukan dengan :
+a. Menghindari gigitan nyamuk dengan kelambu atau repellen
+b. Menghindari aktivitas di luar rumah pada malam hari
+c. Mengobati pasien hingga sembuh misalnya dengan pengawasan
+minum obat
+Kriteria Rujukan
+1. Malaria dengan komplikasi
+2. Malaria berat, namun pasien harus terlebih dahulu diberi dosis awal
+Artemisinin atau Artesunat per Intra Muskular atau Intra Vena dengan
+dosis awal 3,2mg /kg BB.
+Peralatan
+Laboratorium sederhana untuk pembuatan apusan darah, pemeriksaan darah
+rutin dan pemeriksaan mikroskopis.
+Prognosis
+Prognosis bergantung pada derajat beratnya malaria. Secara umum,
+prognosisinya adalah dubia ad bonam. Penyakit ini dapat terjadi kembali
+apabila daya tahan tubuh menurun.
+Referensi
+1. Braunwald, E. Fauci, A.S. Kasper, D.L. Hauser, S.L. et al.Harrisson’s:
+th
+Principle of Internal Medicine. 17 Ed. New York: McGraw-Hill Companies.
+2009.
+2. Dirjen Pengendalian Penyakit dan Penyehatan Lingkungan. Pedoman
+Penatalaksanaan Kasus Malaria di Indonesia. Depkes RI. Jakarta. 2008.
+(Kementerian Kesehatan Republik Indonesia, 2008)
+
+6.
+
+Leptospirosis
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: A78 Infection disease other/ NOS
+: A27.9 Leptospirosis, unspecified
+: 4A
+
+Masalah Kesehatan
+Leptospirosis adalah penyakit infeksi yang menyerang manusia disebabkan
+oleh mikroorganisme Leptospira interogans dan memiliki manifestasi klinis
+yang luas. Spektrum klinis mulai dari infeksi yang tidak jelas sampai fulminan
+dan fatal. Pada jenis yang ringan, leptospirosis dapat muncul seperti influenza
+
+31
+
+dengan sakit kepala dan myalgia. Tikus adalah reservoir yang utama dan
+kejadian leptospirosis lebih banyak ditemukan pada musim hujan.
+Hasil Anamnesis (Subjective)
+Keluhan:
+Demam disertai menggigil, sakit kepala, anoreksia, mialgia yang hebat pada
+betis, paha dan pinggang disertai nyeri tekan. Mual, muntah, diare dan nyeri
+abdomen, fotofobia, penurunan kesadaran
+Hasil pemeriksaan fisik dan penunjang sederhana (Objective)
+Pemeriksaan Fisik
+1. Febris
+2. Ikterus
+3. Nyeri tekan pada otot
+4. Ruam kulit
+5. Limfadenopati
+6. Hepatomegali dan splenomegali
+7. Edema
+8. Bradikardi relatif
+9. Konjungtiva suffusion
+10. Gangguan perdarahan berupa petekie,
+perdarahan gusi
+11. Kaku kuduk sebagai tanda meningitis
+
+purpura,
+
+epistaksis
+
+dan
+
+Pemeriksaan Penunjang
+Pemeriksaan Laboratorium
+1. Darah rutin: jumlah leukosit antara 3000-26000/μL, dengan pergeseran ke
+kiri, trombositopenia yang ringan terjadi pada 50% pasien dan
+dihubungkan dengan gagal ginjal.
+2. Urin rutin: sedimen urin (leukosit, eritrosit, dan hyalin atau granular) dan
+proteinuria ringan, jumlah sedimen eritrosit biasanya meningkat.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis dapat ditegakkan pada pasien dengan demam tiba-tiba, menggigil
+terdapat tanda konjungtiva suffusion, sakit kepala, mialgia, ikterus dan nyeri
+tekan pada otot. Kemungkinan tersebut meningkat jika ada riwayat bekerja
+atau terpapar dengan lingkungan yang terkontaminasi dengan kencing tikus.
+Diagnosis Banding
+1. Demam dengue,
+2. Malaria,
+3. Hepatitis virus,
+4. Penyakit rickettsia.
+
+32
+
+Penatalaksanaan komprehensif (Plan)
+Penatalaksanaan
+1. Pengobatan suportif dengan observasi ketat untuk mendeteksi dan
+mengatasi keadaan dehidrasi, hipotensi, perdarahan dan gagal ginjal
+sangat penting pada leptospirosis.
+2. Pemberian antibiotik harus dimulai secepat mungkin. Pada kasus-kasus
+ringan dapat diberikan antibiotik oral seperti doksisiklin, ampisilin,
+amoksisilin atau eritromisin. Pada kasus leptospirosis berat diberikan
+dosis tinggi penisilin injeksi.
+Komplikasi
+1. Meningitis
+2. Distress respirasi
+3. Gagal ginjal karena renal interstitial tubular necrosis
+4. Gagal hati
+5. Gagal jantung
+Konseling dan Edukasi
+1. Pencegahan leptospirosis khususnya didaerah tropis sangat sulit, karena
+banyaknya hospes perantara dan jenis serotipe. Bagi mereka yang
+mempunyai risiko tinggi untuk tertular leptospirosis harus diberikan
+perlindungan berupa pakaian khusus yang dapat melindunginya dari
+kontak dengan bahan-bahan yang telah terkontaminasi dengan kemih
+binatang reservoir.
+2. Keluarga harus melakukan pencegahan leptospirosis dengan menyimpan
+makanan dan minuman dengan baik agar terhindar dari tikus, mencuci
+tangan dengan sabun sebelum makan, mencuci tangan, kaki serta bagian
+tubuh lainnya dengan sabun setelah bekerja di sawah/ kebun/ sampah/
+tanah/ selokan dan tempat tempat yang tercemar lainnya.
+Rencana Tindak Lanjut
+Kasus harus dilaporkan ke dinas kesehatan setempat.
+Kriteria Rujukan
+Pasien segera dirujuk ke pelayanan sekunder (spesialis penyakit dalam) yang
+memiliki fasilitas hemodialisa setelah penegakan diagnosis dan terapi awal.
+Peralatan
+Pemeriksaan darah dan urin rutin
+Prognosis
+Prognosis jika pasien tidak mengalami komplikasi umumnya adalah dubia ad
+bonam.
+
+33
+
+Referensi
+1. Zein, Umar. Leptospirosis. Buku ajar Ilmu Penyakit Dalam. Jilid III edisi IV.
+Jakarta: Pusat Penerbitan Departemen Ilmu Penyakit dalam FKUI. 2006.
+Hal 1823-5. (Sudoyo, et al., 2006)
+2. Cunha, John P. Leptospirosis. 2007. Available at: (Cunha, 2007)
+3. Dugdale, David C. Leptospirosis. 2004.Available at:
+http://www.nlm.nih.gov/medlineplus/ency/article/001376.htm. Accessed
+December 2009. (Dugdale, 2004)
+
+7.
+
+Filariasis
+
+No. ICPC-2
+No. ICD-10
+
+: D96 Woms/other parasites
+: B74 Filariasis
+B74.0 Filariasis due to Wuchereria bancrofti
+B74.1 Filariasis due to Brugia malayi
+B74.2 Filariasis due to Brugia timori
+
+Tingkat Kemampuan
+
+: 4A
+
+Masalah Kesehatan
+Filariasis (Penyakit Kaki Gajah) adalah penyakit menular yang disebabkan
+oleh cacing Filaria yang ditularkan oleh berbagai jenis nyamuk. Penyakit ini
+bersifat menahun (kronis) dan bila tidak mendapatkan pengobatan dapat
+menimbulkan cacat menetap berupa pembesaran kaki, lengan dan alat
+kelamin baik perempuan maupun laki-laki.
+WHO sudah menetapkan Kesepakatan Global untuk mengeliminasi filariasis
+pada tahun 2020 (The Global Goal of Elimination of Lymphatic Filariasis as a
+Public Health problem by The Year 2020). Program eliminasi dilaksanakan
+melalui pengobatan massal dengan DEC dan Albendazol setahun sekali
+selama 5 tahun di lokasi yang endemis serta perawatan kasus klinis baik yang
+akut maupun kronis untuk mencegah kecacatan dan mengurangi
+penderitaannya.
+Indonesia melaksanakan eliminasi penyakit kaki gajah secara bertahap yang
+telah dimulai sejak tahun 2002 di 5 kabupaten. Perluasan wilayah akan
+dilaksanakan setiap tahun.
+Penyakit kaki gajah disebabkan oleh tiga spesies cacing filaria, yaitu: Wucheria
+bancrofti, Brugia malayi dan Brugia timori. Vektor penular di Indonesia hingga
+saat ini telah diketahui ada 23 spesies nyamuk dari genus Anopheles, Culex,
+Mansonia, Aedes, dan Armigeres yang dapat berperan sebagai vektor penular
+penyakit kaki gajah.
+
+34
+
+Hasil Anamnesis (Subjective)
+Keluhan
+Gejala filariasis bancrofti sangat berbeda dari satu daerah endemik dengan
+daerah endemik lainnya. Hal ini mungkin disebabkan oleh perbedaan
+intensitas paparan terhadap vektor infektif di daerah endemik tersebut.
+Manifestasi akut, berupa:
+1. Demam berulang ulang selama 3-5 hari. Demam dapat hilang bila istirahat
+dan timbul lagi setelah bekerja berat.
+2. Pembengkakan kelenjar getah bening (tanpa ada luka) di daerah lipatan
+paha, ketiak (lymphadentitis) yang tampak kemerahan, panas, dan sakit.
+3. Radang saluran kelenjar getah bening yang terasa panas dan sakit
+menjalar dari pangkal kaki atau pangkal lengan ke arah ujung (retrograde
+lymphangitis).
+4. Filarial abses akibat seringnya menderita pembengkakan kelenjar getah
+bening, dapat pecah dan mengeluarkan nanah serta darah.
+5. Pembesaran tungkai, lengan, buah dada, kantong zakar yang terlihat agak
+kemerahan dan terasa panas (Early Imphodema).
+Manifestasi kronik, disebabkan oleh berkurangnya fungsi saluran limfe terjadi
+beberapa bulan sampai bertahun-tahun dari episode akut. Gejala kronis
+filariasis berupa: pembesaran yang menetap (elephantiasis) pada tungkai,
+lengan, buah dada, buah zakar (elephantiasis skroti) yang disebabkan oleh
+adanya cacing dewasa pada sistem limfatik dan oleh reaksi hiperresponsif
+berupa occult filariasis.
+Perjalanan penyakit tidak jelas dari satu stadium ke stadium berikutnya tetapi
+bila diurut dari masa inkubasi maka dapat dibagi menjadi:
+1. Masa prepaten, yaitu masa antara masuknya larva infektif hingga
+terjadinya mikrofilaremia berkisar antara 37 bulan. Hanya sebagian saja
+dari penduduk di daerah endemik yang menjadi mikrofilaremik, dan dari
+kelompok mikrofilaremik ini pun tidak semua kemudian menunjukkan
+gejala klinis. Terlihat bahwa kelompok ini termasuk kelompok yang
+asimptomatik amikrofilaremik dan asimptomatik mikrofilaremik.
+2. Masa inkubasi, masa antara masuknya larva infektif sampai terjadinya
+gejala klinis berkisar antara 8 – 16 bulan.
+3. Gejala klinik akut merupakan limfadenitis dan limfangitis disertai panas dan
+malaise. Kelenjar yang terkena biasanya unilateral. Penderita dengan
+gejala klinis akut dapat amikrofilaremik maupun mikrofilaremik.
+4. Gejala menahun, terjadi 10 – 15 tahun setelah serangan akut pertama.
+Mikrofilaria
+jarang
+ditemukan
+pada
+stadium
+ini,
+sedangkan
+adenolimfangitis masih dapat terjadi. Gejala menahun ini menyebabkan
+terjadinya cacat yang mengganggu aktivitas penderita serta membebani
+keluarganya.
+
+35
+
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Pada manifestasi akut dapat ditemukan adanya limfangitis dan limfadenitis
+yang berlangsung 3 – 15 hari, dan dapat terjadi beberapa kali dalam setahun.
+Limfangitis akan meluas kedaerah distal dari kelenjar yang terkena tempat
+cacing ini tinggal. Limfangitis dan limfadenitis berkembang lebih sering di
+ekstremitas bawah daripada atas. Selain pada tungkai, dapat mengenai alat
+kelamin, (tanda khas infeksi W.bancrofti) dan payudara.
+Manifestasi kronik, disebabkan oleh berkurangnya fungsi saluran limfe. Bentuk
+manifestasi ini dapat terjadi dalam beberapa bulan sampai bertahun-tahun dari
+episode akut. Tanda klinis utama yaitu hidrokel, limfedema, elefantiasis dan
+chyluria yang meningkat sesuai bertambahnya usia.
+Manifestasi genital di banyak daerah endemis, gambaran kronis yang terjadi
+adalah hidrokel. Selain itu dapat dijumpai epedidimitis kronis, funikulitis, edema
+karena penebalan kulit skrotum, sedangkan pada perempuan bisa dijumpai
+limfedema vulva. Limfedema dan elefantiasis ekstremitas, episode limfedema
+pada ekstremitas akan menyebabkan elefantiasis di daerah saluran limfe yang
+terkena dalam waktu bertahun-tahun. Lebih sering terkena ekstremitas bawah.
+Pada W.bancrofti, infeksi di daerah paha dan ekstremitas bawah sama
+seringnya, sedangkan B.malayi hanya mengenai ekstremitas bawah saja.
+Pada keadaan akut infeksi filariasis bancrofti, pembuluh limfe alat kelamin lakilaki sering terkena, disusul funikulitis, epididimitis, dan orkitis. Adenolimfangitis
+inguinal atau aksila, sering bersama dengan limfangitis retrograd yang
+umumnya sembuh sendiri dalam 3 –15 hari dan serangan terjadi beberapa kali
+dalam setahun. Pada filariasis brugia, limfadenitis paling sering mengenai
+kelenjar inguinal, sering terjadi setelah bekerja keras. Kadang-kadang disertai
+limfangitis retrograd. Pembuluh limfe menjadi keras dan nyeri dan sering terjadi
+limfedema pada pergelangan kaki dan kaki. Penderita tidak mampu bekerja
+selama beberapa hari. Serangan dapat terjadi 12 x/tahun sampai beberapa
+kali per bulan. Kelenjar limfe yang terkena dapat menjadi abses, memecah,
+membentuk ulkus dan meninggalkan parut yang khas, setelah 3 minggu
+sampai 3 bulan.
+Pada kasus menahun filariasis bancrofti, hidrokel paling banyak ditemukan.
+Limfedema dan elefantiasis terjadi di seluruh tungkai atas, tungkai bawah,
+skrotum, vulva atau buah dada, dan ukuran pembesaran di tungkai dapat 3 kali
+dari ukuran asalnya. Chyluria terjadi tanpa keluhan, tetapi pada beberapa
+penderita menyebabkan penurunan berat badan dan kelelahan. Filariasis
+brugia, elefantiasis terjadi di tungkai bawah di bawah lutut dan lengan bawah,
+dan ukuran pembesaran ektremitas tidak lebih dari 2 kali ukuran asalnya.
+Pemeriksaan Penunjang
+1. Identifikasi mikrofilaria dari sediaan darah. Cacing filaria dapat ditemukan
+dengan pengambilan darah tebal atau tipis pada waktu malam hari antara
+jam 10 malam sampai jam 2 pagi yang dipulas dengan pewarnaan Giemsa
+
+36
+
+atau Wright. Mikrofilaria juga dapat ditemukan pada cairan hidrokel atau
+cairan tubuh lain (sangat jarang).
+2. Pemeriksaan darah tepi terdapat leukositosis dengan eosinofilia sampai
+10-30% dengan pemeriksaan sediaan darah jari yang diambil mulai pukul
+20.00 waktu setempat.
+3. Bila sangat diperlukan dapat dilakukan Diethylcarbamazine provocative
+test.
+
+Gambar 1.3 Filariasis
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik dan
+pemeriksaan penunjang identifikasi mikrofilaria.
+Di daerah endemis, bila ditemukan adanya limfedema di daerah ekstremitas
+disertai dengan kelainan genital laki-laki pada penderita dengan usia lebih dari
+15 tahun, bila tidak ada sebab lain seperti trauma atau gagal jantung kongestif
+kemungkinan filariasis sangat tinggi.
+Diagnosis Banding
+1. Infeksi bakteri, tromboflebitis atau trauma dapat mengacaukan
+adenolimfadenitis filariasis akut
+2. Tuberkulosis, lepra, sarkoidosis dan penyakit sistemik granulomatous
+lainnya.
+Komplikasi
+Pembesaran organ (kaki, tangan, skrotum atau bagian tubuh lainnya) akibat
+obstruksi saluran limfe.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Terapi filariasis bertujuan untuk mencegah atau memperbaiki perjalanan
+penyakit, antara lain dengan:
+1. Memelihara kebersihan kulit.
+2. Fisioterapi kadang diperlukan pada penderita limfedema kronis.
+
+37
+
+3. Obat antifilaria adalah Diethyl carbamazine citrate (DEC) dan Ivermektin
+(obat ini bermanfaat apabila diberikan pada fase akut yaitu ketika pasien
+mengalami limfangitis).
+4. DEC dapat membunuh mikrofilaria dan cacing dewasa. Ivermektin
+merupakan antimikrofilaria yang kuat, tetapi tidak memiliki efek
+makrofilarisida.
+5. Dosis DEC 6 mg/kgBB, 3 dosis/hari setelah makan, selama 12 hari, pada
+Tropical Pulmonary Eosinophylia (TPE) pengobatan diberikan selama tiga
+minggu.
+6. Efek samping bisa terjadi sebagai reaksi terhadap DEC atau reaksi
+terhadap cacing dewasa yang mati. Reaksi tubuh terhadap protein yang
+dilepaskan pada saat cacing dewasa mati dapat terjadi beberapa jam
+setelah pengobatan, didapat 2 bentuk yang mungkin terjadi yaitu reaksi
+sistemik dan reaksi lokal:
+a. Reaksi sistemik berupa demam, sakit kepala, nyeri badan, pusing,
+anoreksia, malaise, dan muntah-muntah. Reaksi sistemik cenderung
+berhubungan dengan intensitas infeksi.
+b. Reaksi lokal berbentuk limfadenitis, abses, dan transien limfedema.
+Reaksi lokal terjadi lebih lambat namun berlangsung lebih lama dari
+reaksi sistemik.
+c. Efek samping DEC lebih berat pada penderita onchorcerciasis,
+sehingga obat tersebut tidak diberikan dalam program pengobatan
+masal di daerah endemis filariasis dengan ko-endemis Onchorcercia
+valvulus.
+7. Ivermektin diberikan dosis tunggal 150 ug/kgBB efektif terhadap
+penurunan derajat mikrofilaria W.bancrofti, namun pada filariasis oleh
+Brugia spp. penurunan tersebut bersifat gradual. Efek samping ivermektin
+sama dengan DEC, kontraindikasi ivermektin yaitu wanita hamil dan anak
+kurang dari 5 tahun. Karena tidak memiliki efek terhadap cacing dewasa,
+ivermektin harus diberikan setiap 6 bulan atau 12 bulan untuk menjaga
+agar derajat mikrofilaremia tetap rendah.
+8. Pemberian antibiotik dan/atau antijamur akan mengurangi serangan
+berulang, sehingga mencegah terjadinya limfedema kronis.
+9. Antihistamin dan kortikosteroid diperlukan untuk mengatasi efek samping
+pengobatan. Analgetik dapat diberikan bila diperlukan.
+10. Pengobatan operatif, kadang-kadang hidrokel kronik memerlukan tindakan
+operatif, demikian pula pada chyluria yang tidak membaik dengan terapi
+konservatif.
+Konseling dan Edukasi
+Memberikan informasi kepada pasien dan keluarganya mengenai penyakit
+filariasis terutama dampak akibat penyakit dan cara penularannya. Pasien dan
+keluarga juga harus memahami pencegahan dan pengendalian penyakit
+menular ini melalui:
+1. Pemberantasan nyamuk dewasa
+2. Pemberantasan jentik nyamuk
+
+38
+
+3. Mencegah gigitan nyamuk
+Rencana Tindak Lanjut
+Setelah pengobatan, dilakukan kontrol ulang terhadap gejala dan mikrofilaria,
+bila masih terdapat gejala dan mikrofilaria pada pemeriksaan darahnya,
+pengobatan dapat diulang 6 bulan kemudian.
+Kriteria rujukan
+Pasien dirujuk bila dibutuhkan pengobatan operatif atau bila gejala tidak
+membaik dengan pengobatan konservatif.
+Peralatan
+Peralatan laboratorium untuk pemeriksaan mikrofilaria.
+Prognosis
+Prognosis pada umumnya tidak mengancam jiwa. Quo ad fungsionam adalah
+dubia ad bonam, sedangkan quo ad sanationam adalah malam.
+Prognosis penyakit ini tergantung dari:
+1. Jumlah cacing dewasa dan mikrofilaria dalam tubuh pasien.
+2. Potensi cacing untuk berkembang biak.
+3. Kesempatan untuk infeksi ulang.
+4. Aktivitas RES.
+Pada kasus-kasus dini dan sedang, prognosis baik terutama bila pasien
+pindah dari daerah endemik. Pengawasan daerah endemik tersebut dapat
+dilakukan dengan pemberian obat serta pemberantasan vektornya. Pada
+kasus-kasus lanjut terutama dengan edema pada tungkai, prognosis lebih
+buruk.
+Referensi
+1. Behrman, R.E. Jenson, H.B. Kliegman, R.M. Lymphatic Filariasis (Brugria
+Malayi, Brugria timori, Wuchereria Bancrofti) in Nelson Textbook of
+th
+Pediatric.18 Ed.2007: 1502-1503. (Behrman, et al., 2007)
+2. Rudolph Colin, D. Rudolph, A.M. Parasitic Disease in Rudolphs Pediatrics
+st
+Textbook of Pediatric. 21 Ed. 2007: 1106-1108. (Rudolph, et al., 2007)
+3. Soedarmo Sumarmo S.P.Garna, H. Sri Rezeki, S.H.Hindra Irawan S.
+FilariasisdalamBuku Ajar Infeksi & Pediatri Tropis. Ed-. Ikatan Dokter Anak
+Indonesia. Jakarta, 2010: 400-407. (Sumarmo, et al., 2010)
+
+39
+
+8.
+
+Infeksi Pada Umbilikus
+
+No. ICPC-2
+No. ICD-10
+
+: A94 Perinatal morbidity other
+: P38 Omphalitis of newborn with or without mild
+haemorrhage
+Tingkat Kemampuan : 4A
+Masalah Kesehatan
+Tali pusat biasanya lepas pada hari ke-7 setelah lahir dan luka baru sembuh
+pada hari ke-15. Infeksi pada tali pusat atau jaringan kulit di sekitar perlu
+dikenali secara dini dalam rangka mencegah sepsis.
+Hasil Anamnesis(Subjective)
+Keluhan
+Panas, rewel, tidak mau menyusu.
+Faktor Risiko
+1. Imunitas seluler dan humoral belum sempurna
+2. Luka umbilikus
+3. Kulit tipis sehingga mudah lecet
+Faktor Predisposisi
+Pemotongan dan perawatan tali pusat yang tidak steril
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana(Objective)
+Pemeriksaan Fisik
+1. Ada tanda tanda infeksi di sekitar tali pusat seperti kemerahan, panas,
+bengkak, nyeri, dan mengeluarkan pus yang berbau busuk.
+2. Infeksi tali pusat lokal atau terbatas: bila kemerahan dan bengkak terbatas
+pada daerah kurang dari 1cm di sekitar pangkal tali pusat.
+3. Infeksi tali pusat berat atau meluas: bila kemerahan atau bengkak pada tali
+pusat meluas melebihi area 1 cm atau kulit di sekitar tali pusat bayi
+mengeras dan memerah serta bayi mengalami pembengkakan perut.
+4. Tanda sistemik: demam, takikardia, hipotensi, letargi, somnolen, ikterus
+Pemeriksaan Penunjang: Penegakan Diagnostik(Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik. Adanya
+tanda-tanda infeksi di sekitar umblikus seperti bengkak, kemerahan dan
+kekakuan. Pada keadaan tertentu ada lesi berbentuk impetigo bullosa.
+Diagnosis Banding
+1. Tali pusat normal dengan akumulasi cairan berbau busuk, tidak ada tanda
+tanda infeksi (pengobatan cukup dibersihkan dengan alkohol)
+
+40
+
+2. Granuloma-delayed epithelialization / Granuloma keterlambatan proses
+epitelisasi karena kauterisasi
+Komplikasi
+1. Necrotizing fasciitis dengan tanda-tanda: edema, kulit tampak seperti jeruk
+(peau d’orange appearance) di sekitar tempat infeksi, progresivitas cepat
+dan dapat menyebabkan kematian maka kemungkinan menderita
+2. Peritonitis
+3. Trombosis vena porta
+4. Abses
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Perawatan lokal
+a. Pembersihan tali pusat dengan menggunakan larutan antiseptik
+(Klorheksidin atau iodium povidon 2,5%) dengan kain kasa yang bersih
+delapan kali sehari sampai tidak ada nanah lagi pada tali pusat.
+b. Setelah dibersihkan, tali pusat dioleskan dengan salep antibiotik 3-4
+kali sehari.
+2. Perawatan sistemik
+Bila tanpa gejala sistemik, pasien diberikan antibiotik seperti kloksasilin
+oral selama lima hari. Bila anak tampak sakit, harus dicek dahulu ada
+tidaknya tanda-tanda sepsis. Anak dapat diberikan antibiotik kombinasi
+dengan aminoglikosida. Bila tidak ada perbaikan, pertimbangkan
+kemungkinan Meticillin Resistance Staphylococcus aureus (MRSA).
+Kontrol kembali bila tidak ada perbaikan atau ada perluasan tanda-tanda
+infeksi dan komplikasi seperti bayi panas, rewel dan mulai tak mau makan.
+Rencana tindak lanjut: Kriteria Rujukan
+1. Bila intake tidak mencukupi dan anak mulai tampak tanda dehidrasi
+2. Terdapat tanda komplikasi sepsis
+Peralatan
+Tidak diperlukan peralatan khusus untuk mendiagnosis penyakit infeksi pada
+umbilikus.
+Prognosis
+Prognosis jika pasien tidak mengalami komplikasi umumnya dubia ad bonam.
+
+41
+
+Referensi
+1. Ikatan Dokter Anak Indonesia. 2003. Infeksi Tali Pusat dalam Panduan
+Manajemen Masalah Bayi Baru Lahir. Jakarta. Departemen Kesehatan RI.
+(Ikatan Dokter Anak Indonesia, 2003)
+2. Peadiatrics Clerkship University. The University of Chicago.
+
+9.
+
+Kandidiasis Mulut
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: A78 Infectious desease other
+: B37.9 Candidiasis unspecified
+: 4A
+
+Masalah Kesehatan
+Infeksi Candida albicans ini menyerang kulit, mukosa maupun organ dalam,
+sedangkan pada bayi dapat terinfeksi melalui vagina saat dilahirkan, atau
+karena dot yang tidak steril
+Hasil Anamnesis (Subjective)
+Keluhan:
+Rasa gatal dan perih di mukosa mulut, rasa metal, dan daya kecap penderita
+yang berkurang
+Faktor Risiko: imunodefisiensi
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Bercak merah, dengan maserasi di daerah sekitar mulut, di lipatan
+(intertriginosa) disertai bercak merah yang terpisah di sekitarnya (satelit).
+2. Guam atau oral thrush yang diselaputi pseudomembran pada mukosa
+mulut.
+Pemeriksaan Penunjang
+Sel ragi dapat dilihat di bawah mikroskop dalam pelarut KOH 10% atau
+pewarnaan Gram.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan
+penunjang.
+Diagnosis Banding
+Peradangan mukosa mulut yang disebabkan oleh bakteri atau virus.
+
+42
+
+Komplikasi
+Diare karena kandidiasis saluran cerna.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Memperbaiki status gizi dan menjaga kebersihan oral
+2. Kontrol penyakit predisposisinya
+3. Gentian violet 1% (dibuat segar/baru) atau larutan nistatin 100.000 –
+200.000 IU/ml yang dioleskan 2 – 3 kali sehari selama 3 hari
+Rencana Tindak Lanjut
+1. Dilakukan skrining pada keluarga dan perbaikan lingkungan keluarga
+untuk menjaga tetap bersih dan kering.
+2. Pasien kontrol kembali apabila dalam 3 hari tidak ada perbaikan dengan
+obat anti jamur.
+Kriteria Rujukan
+Bila kandidiasis merupakan akibat dari penyakit lainnya, seperti HIV.
+Peralatan
+Peralatan laboratorium untuk pemeriksaan KOH
+Prognosis
+Prognosis pada pasien dengan imunokompeten umumnya bonam.
+Referensi
+1. Pengobatan dasar di Puskesmas. 2007. Jakarta. Kementerian Kesehatan
+RI. (Kementerian Kesehatan Republik Indonesia, 2007)
+
+10. Lepra
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: A78 Infectious disease other/NOS
+: A30 Leprosy [Hansen disease]
+: 4A
+
+Masalah Kesehatan
+Lepra adalah penyakit menular, menahun dan disebabkan oleh Mycobacterium
+leprae yang bersifat intraselular obligat. Penularan kemungkinan terjadi melalui
+saluran pernapasan atas dan kontak kulit pasien lebih dari 1 bulan terus
+menerus. Masa inkubasi rata-rata 2,5 tahun, namun dapat juga bertahuntahun.
+
+43
+
+Hasil Anamnesis (Subjective)
+Keluhan
+Bercak kulit berwarna merah atau putih berbentuk plakat, terutama di wajah
+dan telinga. Bercak kurang/mati rasa, tidak gatal. Lepuh pada kulit tidak
+dirasakan nyeri. Kelainan kulit tidak sembuh dengan pengobatan rutin,
+terutama bila terdapat keterlibatan saraf tepi.
+Faktor Risiko
+1. Sosial ekonomi rendah
+2. Kontak lama dengan pasien, seperti anggota keluarga yang didiagnosis
+dengan lepra
+3. Imunokompromais
+4. Tinggal di daerah endemik lepra
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Tanda Patognomonis
+1. Tanda-tanda pada kulit
+Perhatikan setiap bercak, bintil (nodul), bercak berbentuk plakat dengan
+kulit mengkilat atau kering bersisik. Kulit tidak berkeringat dan berambut.
+Terdapat baal pada lesi kulit, hilang sensasi nyeri dan suhu, vitiligo. Pada
+kulit dapat pula ditemukan nodul.
+2. Tanda-tanda pada saraf
+Penebalan nervus perifer, nyeri tekan dan atau spontan pada saraf,
+kesemutan, tertusuk-tusuk dan nyeri pada anggota gerak, kelemahan
+anggota gerak dan atau wajah, adanya deformitas, ulkus yang sulit
+sembuh.
+Kerusakan saraf tepi biasanya terjadi pada saraf yang ditunjukkan pada
+gambar 1.4.
+3. Ekstremitas dapat terjadi mutilasi
+Untuk kelainan yang ditemukan pada pemeriksaan fisik, simbol-simbol
+pada gambar 1.5 digunakan dalam penulisan di rekam medik.
+Pemeriksaan Penunjang
+Pemeriksaan mikroskopis kuman BTA pada sediaan kerokan jaringan kulit.
+
+Gambar 1.4 Saraf tepi yang perlu diperiksa pada lepra/kusta
+
+44
+
+Gambar 1.5 Penulisan kelainan pemeriksaan fisik pada rekam medik
+Penegakan Diagnosis (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan apabila terdapat satu dari tanda-tanda utama atau
+kardinal (cardinal signs), yaitu:
+1. Kelainan (lesi) kulit yang mati rasa
+2. Penebalan saraf tepi yang disertai gangguan fungsi saraf
+3. Adanya basil tahan asam (BTA) dalam kerokan jaringan kulit (slit skin
+smear)
+Sebagian besar pasien lepra didiagnosis berdasarkan pemeriksaan klinis.
+Klasifikasi Lepra terdiri dari 2 tipe, yaitu Pausibasilar (PB) dan Multibasilar
+(MB)
+Tabel 1.6 Tanda utama lepra tipe PB dan MB
+Tanda Utama
+
+PB
+
+MB
+
+Bercak Kusta
+
+Jumlah 1-5
+
+Jumlah >5
+
+Penebalan saraf tepi disertai
+gangguan fungsi (mati rasa
+dan/ atau kelemahan otot, di
+daerah yang dipersarafi
+saraf yang bersangkutan)
+
+Hanya 1 saraf
+
+Lebih dari 1 saraf
+
+Kerokan jaringan kulit
+
+BTA negatif
+
+BTA positif
+
+45
+
+Tabel 1.7 Tanda lain klasifikasi lepra
+PB
+
+MB
+
+Distribusi
+
+Unilateral atau bilateral
+asimetris
+
+Bilateral simetris
+
+Permukaan bercak
+
+Kering, kasar
+
+Halus, mengkilap
+
+Batas bercak
+
+Tegas
+
+Kurang tegas
+
+Mati rasa pada bercak
+
+Jelas
+
+Biasanya kurang jelas
+
+Deformitas
+
+Proses terjadi lebih cepat
+
+Terjadi pada tahap lanjut
+
+Ciri-ciri khas
+
+-
+
+Mandarosis, hidung pelana,
+wajah singa (facies leonina),
+ginekomastia pada pria
+
+Tanda utama
+
+Ada
+
+Ragu
+
+Tidak ada
+
+Kusta
+
+Tersangka
+
+Bukan Kusta
+
+ Jumlah bercak
+ Penebalan saraf &
+gangguan fungsi
+ BTA
+
+BTA
+
+Atau
+
+Observasi
+3 – 6 bulan
+
+Tanda
+utama
+Bercak 1 – 5
+Saraf 1
+BTA (-)
+
+Bercak >
+5
+Saraf > 1
+BTA (+)
+
+Ada
+
+Tidak
+ada
+
+Ragu
+
+MB
+
+PB
+
+Gambar 1.6 : Alur diagnosis dan klasifikasi kusta
+Diagnosis Banding
+Bercak eritema
+1. Psoriasis
+
+46
+
+Rujuk
+
+2. Tinea circinata
+3. Dermatitis seboroik
+Bercak putih
+1. Vitiligo
+2. Pitiriasis versikolor
+3. Pitiriasis alba
+Nodul
+1. Neurofibromatosis
+2. Sarkoma Kaposi
+3. Veruka vulgaris
+Komplikasi
+1. Arthritis.
+2. Sepsis.
+3. Amiloid sekunder.
+4. Reaksi kusta adalah interupsi dengan episode akut pada perjalanan yang
+sangat kronis. Reaksi ini merupakan reaksi hipersensitivitas seluler (tipe
+1/reversal) atau hipersentitivitas humoral (tipe 2/eritema nodosum
+leprosum/ENL).
+Tabel 1.8 Faktor pencetus reaksi tipe 1 dan tipe 2
+Reaksi Tipe 1
+
+Reaksi Tipe 2
+Obat MDT, kecuali Lampren
+
+Pasien dengan bercak multipel dan
+diseminata, mengenai area tubuh
+yang luas serta keterlibatan saraf
+multiple
+Bercak luas pada wajah dan lesi
+dekat mata, berisiko terjadinya
+lagoftalmos karena reaksi
+Saat
+puerpurium
+(karena
+peningkatan CMI). Paling tinggi 6
+bulan pertama setelah melahirkan/
+masa menyusui
+
+BI >4+
+
+Kehamilan awal (karena stress
+mental), trisemester ke-3, dan
+puerpurium (karena stress fisik),
+setiap masa kehamilan (karena
+infeksi penyerta
+
+Infeksi penyerta: Hepatitis B dan C
+
+Infeksi penyerta: streptokokus,
+virus, cacing, filarial, malaria
+
+Neuritis atau riwayat nyeri saraf
+
+Stres fisik dan mental
+Lain-lain seperti trauma, operasi,
+imunisasi protektif, tes Mantoux positif
+kuat, minum kalium hidroksida
+
+47
+
+Tabel 1. 9 Perbedaan reaksi tipe 1 dan 2 kusta
+No
+1.
+
+Gejala Tanda
+
+Reaksi tipe 1
+
+Reaksi tipe 2
+
+Tipe kusta
+
+Dapat terjadi pada
+kusta tipe PB maupun
+MB
+Biasanya segera
+setelah pengobatan
+
+Hanya pada kusta tipe MB
+
+Umumnya baik,
+demam ringan (subfebris) atau tanpa
+demam
+Bercak kulit lama
+menjadi lebih
+meradang (merah),
+bengkak, berkilat,
+hangat. Kadangkadang hanya pada
+sebagian lesi. Dapat
+timbul bercak baru
+Sering terjadi,
+umumnya berupa
+nyeri saraf dan atau
+gangguan fungsi
+saraf. Silent neuritis
+(+)
+(+)
+
+Ringan sampai berat disertai
+kelemahan umum dan
+demam tinggi
+
+Anastesi kornea dan
+lagoftalmos karena
+keterlibatan N. V dan
+N. VII
+Hampir tidak ada
+
+Iritis, iridosiklitis, galucoma,
+katarak, dll
+
+2.
+
+Waktu timbulnya
+
+3.
+
+Keadaan umum
+
+4.
+
+Peradangan di
+kulit
+
+5.
+
+Saraf
+
+6.
+
+Udem pada
+ekstrimitas
+Peradangan
+pada mata
+
+7.
+
+8.
+
+Peradangan
+pada organ lain
+
+Biasanya setelah mendapat
+pengobatan yang lama,
+umumnya lebih dari 6 bulan
+
+Timbul nodus kemerahan,
+lunak dan nyeri tekan.
+Biasanya pada lengan dan
+tungkai. Nodus dapat pecah.
+
+Dapat terjadi
+
+(-)
+
+Terjadi pada testis, sendi,
+ginjal, kelenjar getah bening,
+dll
+
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Pasien diberikan informasi mengenai kondisi pasien saat ini, serta
+mengenai pengobatan dan pentingnya kepatuhan untuk eliminasi penyakit.
+2. Kebersihan diri dan pola makan yang baik perlu dilakukan.
+
+48
+
+3. Pasien dimotivasi untuk memulai terapi hingga selesai terapi dilaksanakan.
+4. Terapi menggunakan Multi Drug Therapy (MDT) pada:
+a. Pasien yang baru didiagnosis kusta dan belum pernah mendapat
+MDT.
+b. Pasien ulangan, yaitu pasien yang mengalami hal-hal di bawah ini:
+ Relaps
+ Masuk kembali setelah default (dapat PB maupun MB)
+ Pindahan (pindah masuk)
+ Ganti klasifikasi/tipe
+5. Terapi pada pasien PB:
+a. Pengobatan bulanan: hari pertama setiap bulannya (obat diminum di
+depan petugas) terdiri dari: 2 kapsul Rifampisin @ 300mg (600mg)
+dan 1 tablet Dapson/DDS 100 mg.
+b. Pengobatan harian: hari ke 2-28 setiap bulannya: 1 tablet Dapson/
+DDS 100 mg. 1 blister obat untuk 1 bulan.
+c. Pasien minum obat selama 6-9 bulan (± 6 blister).
+d. Pada anak 10-15 tahun, dosis Rifampisin 450 mg, dan DDS 50 mg.
+6. Terapi pada Pasien MB:
+a. Pengobatan bulanan: hari pertama setiap bulannya (obat diminum di
+depan petugas) terdiri dari: 2 kapsul Rifampisin @ 300mg (600mg), 3
+tablet Lampren (klofazimin) @ 100mg (300mg) dan 1 tablet
+dapson/DDS 100 mg.
+b. Pengobatan harian: hari ke 2-28 setiap bulannya: 1 tablet lampren 50
+mg dan 1 tablet dapson/DDS 100 mg. 1 blister obat untuk 1 bulan.
+c. Pasien minum obat selama 12-18 bulan (± 12 blister).
+d. Pada anak 10-15 tahun, dosis Rifampisin 450 mg, Lampren 150 mg
+dan DDS 50 mg untuk dosis bulanannya, sedangkan dosis harian
+untuk Lampren 50 mg diselang 1 hari.
+7. Dosis MDT pada anak <10 tahun dapat disesuaikan dengan berat badan:
+a. Rifampisin: 10-15 mg/kgBB
+b. Dapson: 1-2 mg/kgBB
+c. Lampren: 1 mg/kgBB
+8. Obat penunjang (vitamin/roboransia) dapat diberikan vitamin B1, B6, dan
+B12.
+9. Tablet MDT dapat diberikan pada pasien hamil dan menyusui. Bila pasien
+juga mengalami tuberkulosis, terapi rifampisin disesuaikan dengan
+tuberkulosis.
+10. Untuk pasien yang alergi dapson, dapat diganti dengan lampren, untuk
+MB dengan alergi, terapinya hanya 2 macam obat (dikurangi DDS).
+
+49
+
+Tabel 1.10 Efek samping obat dan penanganannya
+Masalah
+
+Nama Obat
+
+Penanganan
+
+Air seni berwarna
+
+Rifampisin
+
+Perubahan warna kulit
+menjadi coklat
+Masalah gastrointestinal
+
+Clofazimin
+
+Reassurance
+(Menenangkan penderita
+dengan penjelasan yang
+benar) Konseling
+Konseling
+
+Anemia
+
+Dapson
+
+Ringan
+
+Serius
+Ruam kulit yang gatal
+Alergi urtikaria
+Ikterus (kuning)
+Syok, purpura, gagal
+ginjal
+
+Semua obat (3 obat
+dalam MDT)
+
+Dapson
+Dapson atau
+Rifampisin
+Rifampisin
+Rifampisin
+
+Obat diminum
+bersamaan dengan
+makanan (atau setelah
+makan)
+Berikan tablet Fe dan
+Asam folat
+Hentikan Dapson, Rujuk
+Hentikan keduanya,
+Rujuk
+Hentikan Rifampisin,
+Rujuk
+Hentikan Rifampisin,
+Rujuk
+
+Terapi untuk reaksi kusta ringan, dilakukan dengan pemberian prednison
+dengan cara pemberian:
+1. 2 Minggu pertama 40 mg/hari (1x8 tab) pagi hari sesudah makan
+2. 2 Minggu kedua 30 mg/hari (1x6 tab) pagi hari sesudah makan
+3. 2 Minggu ketiga 20 mg/hari (1x4 tab) pagi hari sesudah makan
+4. 2 Minggu keempat 15 mg/hari (1x3 tab) pagi hari sesudah makan
+5. 2 Minggu kelima 10 mg/hari (1x2 tab) pagi hari sesudah makan
+6. 2 Minggu keenam 5 mg/hari (1x1 tab) pagi hari sesudah makan
+7. Bila terdapat ketergantungan terhadap Prednison, dapat diberikan
+Lampren lepas
+Konseling dan Edukasi
+1. Individu dan keluarga diberikan penjelasan tentang lepra, terutama cara
+penularan dan pengobatannya.
+2. Dari keluarga diminta untuk membantu memonitor pengobatan pasien
+sehingga dapat tuntas sesuai waktu pengobatan.
+3. Apabila terdapat tanda dan gejala serupa pada anggota keluarga lainnya,
+perlu dibawa dan diperiksakan ke pelayanan kesehatan.
+
+50
+
+Rencana tindak lanjut:
+1. Setiap petugas harus memonitor tanggal pengambilan obat.
+2. Bila terlambat, paling lama dalam 1 bulan harus dilakukan pelacakan.
+3. Release From Treatment (RFT) dapat dinyatakan setelah dosis dipenuhi
+tanpa diperlukan pemeriksaan laboratorium.
+4. Pasien yang sudah RFT namun memiliki faktor risiko: cacat tingkat 1 atau
+2, pernah mengalami reaksi, BTA pada awal pengobatan >3 (ada nodul
+atau infiltrat), maka perlu dilakukan pengamatan semiaktif.
+5. Pasien PB yang telah mendapat pengobatan 6 dosis (blister) dalam waktu
+6-9 bulan dinyatakan RFT, tanpa harus pemeriksaan laboratorium.
+6. Pasien MB yang telah mendapat pengobatan MDT 12 dosis (blister) dalam
+waktu 12-18 bulan dinyatakan RFT, tanpa harus pemeriksaan
+laboratorium.
+7. Default
+Jika pasien PB tidak mengambil/minum obatnya lebih dari 3 bulan dan
+pasien MB lebih dari 6 bulan secara kumulatif (tidak mungkin baginya
+untuk menyelesaikan pengobatan sesuai waktu yang ditetapkan), maka
+yang bersangkutan dinyatakan default. Pasien defaulter tidak diobati
+kembali bila tidak terdapat tanda-tanda klinis aktif. Namun jika memiliki
+tanda-tanda klinis aktif (eritema dari lesi lama di kulit/ ada lesi baru/ ada
+pembesaran saraf yang baru).
+Bila setelah terapi kembali pada defaulter ternyata berhenti setelah lebih
+dari 3 bulan, maka dinyatakan default kedua. Bila default lebih dari 2 kali,
+perlu dilakukan tindakan dan penanganan khusus.
+Kriteria Rujukan
+1. Terdapat efek samping obat yang serius.
+2. Reaksi kusta dengan kondisi:
+a. ENL melepuh, pecah (ulserasi), suhu tubuh tinggi, neuritis.
+b. Reaksi tipe 1 disertai dengan bercak ulserasi atau neuritis.
+c. Reaksi yang disertai komplikasi penyakit lain yang berat, misalnya
+hepatitis, DM, hipertensi, dan tukak lambung berat.
+Peralatan
+Laboratorium sederhana untuk pemeriksaan BTA
+Prognosis
+Prognosis untuk vitam umumnya bonam, namun dubia ad malam pada fungsi
+ekstremitas, karena dapat terjadi mutilasi, demikian pula untuk kejadian
+berulangnya.
+Referensi
+1. Direktorat Jenderal Pengendalian Penyakit dan Penyehatan Lingkungan.
+2012. Pedoman Nasional Pengendalian Penyakit Kusta. Jakarta.
+
+51
+
+Kementerian Kesehatan RI. (Direktorat Jenderal Pengendalian Penyakit
+dan Penyehatan Lingkungan , 2012)
+2. Djuanda, A., Hamzah, M., Aisah, S. 2007. Buku Ajar Ilmu Penyakit Kulit
+dan Kelamin. Edisi kelima. Jakarta. Balai Penerbit Fakultas Kedokteran
+Universitas Indonesia. (Djuanda, et al., 2007)
+
+11. Keracunan Makanan
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: A86Toxic Effect Non Medical Substance
+: T.62.2 Other Ingested (parts of plant(s))
+: 4A
+
+Masalah Kesehatan
+Keracunan makanan merupakan suatu kondisi gangguan pencernaan yang
+disebabkan oleh konsumsi makanan atau air yang terkontaminasi dengan zat
+patogen dan atau bahan kimia, misalnya Norovirus, Salmonella, Clostridium
+perfringens, Campylobacter, dan Staphylococcus aureus.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Diare akut.
+Pada keracunan makanan biasanya berlangsung kurang dari 2 minggu.
+Darah atau lendir pada tinja; menunjukkan invasi mukosa usus atau kolon.
+2. Nyeri perut.
+3. Nyeri kram otot perut; menunjukkan hilangnya elektrolit yang mendasari,
+seperti pada kolera yang berat.
+4. Kembung.
+Faktor Risiko
+1. Riwayat makan/minum di tempat yang tidak higienis
+2. Konsumsi daging/unggas yang kurang matang dapat dicurigai untuk
+Salmonella spp, Campylobacter spp, toksin Shiga E coli, dan Clostridium
+perfringens.
+3. Konsumsi makanan laut mentah dapat dicurigai untuk Norwalk-like virus,
+Vibrio spp, atau hepatitis A.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective )
+Pemeriksaan Fisik Patognomonis
+Pemeriksaan fisik harus difokuskan untuk menilai keparahan dehidrasi.
+1. Diare, dehidrasi, dengan tanda–tanda tekanan darah turun, nadi cepat,
+mulut kering, penurunan keringat, dan penurunan output urin.
+2. Nyeri tekan perut, bising usus meningkat atau melemah.
+
+52
+
+Pemeriksaan Penunjang
+1. Lakukan pemeriksaan mikroskopis dari feses untuk telur cacing dan
+parasit.
+2. Pewarnaan Gram, Koch dan metilen biru Loeffler untuk membantu
+membedakan penyakit invasif dari penyakit non-invasif.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasar anamnesis, pemeriksaan fisik dan penunjang.
+Diagnosis Banding
+1. Intoleransi
+2. Diare spesifik seperti disentri, kolera dan lain-lain.
+Komplikasi
+Dehidrasi berat
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Karena sebagian besar kasus gastroenteritis akut adalah self-limiting,
+pengobatan khusus tidak diperlukan. Dari beberapa studi didapatkan
+bahwa hanya 10% kasus membutuhkan terapi antibiotik. Tujuan utamanya
+adalah rehidrasi yang cukup dan suplemen elektrolit. Hal ini dapat dicapai
+dengan pemberian cairan rehidrasi oral (oralit) atau larutan intravena
+(misalnya, larutan natrium klorida isotonik, larutan Ringer Laktat). Rehidrasi
+oral dicapai dengan pemberian cairan yang mengandung natrium dan
+glukosa. Obat absorben (misalnya, kaopectate, aluminium hidroksida)
+membantu memadatkan feses diberikan bila diare tidak segera berhenti.
+Diphenoxylate dengan atropin (Lomotil) tersedia dalam tablet (2,5 mg
+diphenoxylate) dan cair (2,5 mg diphenoxylate / 5 mL). Dosis awal untuk
+orang dewasa adalah 2 tablet 4 kali sehari (20 mg / d), digunakan hanya
+bila diare masif.
+2. Jika gejalanya menetap setelah 3-4 hari, etiologi spesifik harus ditentukan
+dengan melakukan kultur tinja. Untuk itu harus segera dirujuk.
+3. Modifikasi gaya hidup dan edukasi untuk menjaga kebersihan diri.
+Konseling dan Edukasi
+Edukasi kepada keluarga untuk turut menjaga higiene keluarga dan pasien.
+Kriteria Rujukan
+1. Gejala keracunan tidak berhenti setelah 3 hari ditangani dengan adekuat.
+2. Pasien mengalami perburukan.
+Dirujuk ke pelayanan kesehatan sekunder dengan spesialis penyakit dalam
+atau spesialis anak.
+Peralatan
+1. Cairan rehidrasi (NaCl 0,9%, RL, oralit )
+
+53
+
+2. Infus set
+3. Antibiotik bila diperlukan
+Prognosis
+Prognosis umumnya bila pasien tidak mengalami komplikasi adalah bonam.
+Referensi
+1. Panduan Pelayanan Medik. PAPDI.
+2. Panduan Puskesmas untuk keracunan makanan. Depkes: Jakarta. 2007.
+(Kementerian Kesehatan Republik Indonesia, 2007)
+
+12. Alergi Makanan
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: A92 Allergy/ allergic reaction NOS
+: L27.2 Dermatitis due to ingested food
+: 4A
+
+Masalah Kesehatan
+Makanan dapat menimbulkan beraneka ragam gejala yang ditimbulkan reaksi
+imun terhadap alergen asal makanan. Reaksi tersebut dapat disebabkan oleh
+reaksi alergi atau non alergi. Reaksi alergi makanan terjadi bila alergen
+makanan menembus sawar gastro intestinal yang memacu reaksi IgE. Gejala
+dapat timbul dalam beberapa menit sampai beberapa jam, dapat terbatas pada
+satu atau beberapa organ, kulit, saluran napas dan cerna, lokal dan sistemik.
+Alergen makanan yang sering menimbulkan alergi pada anak adalah susu,
+telur, kacang tanah, soya, terigu, dan ikan laut. Sedangkan yang sering
+menimbulkan alergi pada orang dewasa adalah kacang tanah, ikan laut,
+udang, kepiting, kerang, dan telur.
+Alergi makanan tidak berlangsung seumur hidup terutama pada anak. Gejala
+dapat hilang, namun dapat kambuh pada keadaan tertentu seperti infeksi virus,
+nutrisi yang tidak seimbang atau cedera muskulus gastrointestinal.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Pada kulit: eksim dan urtikaria.
+2. Pada saluran pernapasan : rinitis dan asma.
+3. Keluhan pada saluran pencernaan: gejala gastrointestinal non spesifik dan
+berkisar dari edema, pruritus bibir, mukosa pipi, mukosa faring, muntah,
+kram, distensi,dan diare.
+4. Diare kronis dan malabsorbsi terjadi akibat reaksi hipersensitivitas lambat
+non Ig-E-mediated seperti pada enteropati protein makanan dan penyakit
+seliak
+
+54
+
+5. Hipersensitivitas susu sapi pada bayi menyebabkan occult bleeding atau
+frank colitis.
+Faktor Risiko
+Terdapat riwayat alergi di keluarga
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective )
+Pemeriksaan Fisik
+Pemeriksaan fisik pada kulit dan mukosa serta paru.
+Pemeriksaan Penunjang:Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasar anamnesis dan pemeriksaan fisik
+Diagnosis Banding
+Intoksikasi makanan
+Komplikasi
+Reaksi alergi berat
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Medika mentosa
+Riwayat reaksi alergi berat atau anafilaksis:
+1. Hindari makanan penyebab
+2. Jangan lakukan uji kulit atau uji provokasi makanan
+Rencana Tindak Lanjut
+1. Edukasi pasien untuk kepatuhan diet pasien
+2. Menghindari makanan yang bersifat alergen secara sengaja mapun tidak
+sengaja (perlu konsultasi dengan ahli gizi)
+3. Perhatikan label makanan
+4. Menyusui bayi sampai usia 6 bulan menimbulkan efek protektif terhadap
+alergi makanan
+Kriteria Rujukan
+Pasien dirujuk apabila pemeriksaan uji kulit, uji provokasi dan eliminasi
+makanan terjadi reaksi anafilaksis.
+Peralatan : Prognosis
+Umumnya prognosis adalah dubia ad bonam bila medikamentosa disertai
+dengan perubahan gaya hidup.
+
+55
+
+Referensi
+
+1. Sichere, S.H. Sampson, H.A. Food Allergy. J Allergy Clin Immunol. 2010;
+125: 116-25. (Sichere & Sampson, 2010)
+2. Prawirohartono, E.P. Makanan Sebagai Penyebab Alergi dalam Alergi
+Makanan.Ed. Djuffrie. Yogyakarta: Gajah Mada Universitas Press. 2001.
+(Prawirohartono, 2001)
+3. Davies, R.J. Seri Kesehatan Bimbingan Dokter pada Alergi. Jakarta: Dian
+Rakyat. 2003. (Davies, 2003)
+
+13. Syok
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: K99 Cardiovascular disease other
+: R57.9 Shock, unspecified
+: 3B
+
+Masalah Kesehatan
+Syok merupakan salah satu sindroma kegawatan yang memerlukan
+penanganan intensif dan agresif. Syok adalah suatu sindroma multifaktorial
+yang menuju hipoperfusi jaringan lokal atau sistemis dan mengakibatkan
+hipoksia sel dan disfungsi multipel organ. Kegagalan perfusi jaringan dan
+hantaran nutrisi dan oksigen sistemik yang tidak adekuat tak mampu
+memenuhi kebutuhan metabolisme sel. Karakteristik kondisi ini, yaitu: 1)
+ketergantungan suplai oksigen, 2) kekurangan oksigen, 3) Asidosis jaringan
+sehingga terjadi metabolisme anaerob dan berakhir dengan kegagalan fungsi
+organ vital dan kematian.
+Syok diklasifikasikan berdasarkan etiologi, penyebab dan karakteristik pola
+hemodinamik yang ditimbulkan, yaitu:
+1. Syok Hipovolemik yaitu kegagalan perfusi dan suplai oksigen disebabkan
+oleh hilangnya sirkulasi volume intravaskuler sebesar >20-25% sebagai
+akibat dari perdarahan akut, dehidrasi, kehilangan cairan pada ruang
+ketiga atau akibat sekunder dilatasi arteri dan vena.
+2. Syok Kardiogenik yaitu kegagalan perfusi dan suplai oksigen disebabkan
+oleh adanya kerusakan primer fungsi atau kapasitas pompa jantung untuk
+mencukupi volume jantung semenit, berkaitan dengan terganggunya
+preload, afterload, kontraktilitas, frekuensi ataupun ritme jantung.
+Penyebab terbanyak adalah infark miokard akut, keracunan obat,
+infeksi/inflamasi, gangguan mekanik.
+3. Syok Distributif yaitu kegagalan perfusi dan suplai oksigen disebabkan
+oleh menurunnya tonus vaskuler mengakibatkan vasodilatasi arterial,
+penumpukan vena dan redistribusi aliran darah. Penyebab dari kondisi
+tersebut terutama komponen vasoaktif pada syok anafilaksis; bakteria dan
+toksinnya pada septik syok sebagai mediator dari SIRS; hilangnya tonus
+vaskuler pada syok neurogenik.
+
+56
+
+4. Syok Obstruktif yaitu kegagalan perfusi dan suplai oksigen berkaitan
+dengan terganggunya mekanisme aliran balik darah oleh karena
+meningkatnya tekanan intratorakal atau terganggunya aliran keluar arterial
+jantung (emboli pulmoner, emboli udara, diseksi aorta, hipertensi
+pulmoner, tamponade perikardial, perikarditis konstriktif) ataupun
+keduanya oleh karena obstruksi mekanis.
+5. Syok Endokrin, disebabkan oleh hipotiroidisme, hipertiroidisme dengan
+kolaps kardiak dan insufisiensi adrenal. Pengobatannya dengan tunjangan
+kardiovaskular sambil mengobati penyebabnya. Insufisiensi adrenal
+mungkin kontributor terjadinya syok pada pasien sakit gawat. Pasien yang
+tidak respon pada pengobatan harus tes untuk insufisiensi adrenal.
+Hasil Anamnesis (Subjective)
+Keluhan
+Pasien datang dengan lemas atau dapat tidak sadarkan diri.
+Gejala klinis juga tergantung etiologi penyebabnya, yang sering terjadi adalah
+tromboemboli paru, tamponade jantung, obstruksi arterioventrikuler, tension
+pneumotoraks.
+Untuk identifikasi penyebab, perlu ditanyakan faktor predisposisi seperti
+karena infark miokard antara lain: umur, diabetes melitus, riwayat angina,
+gagal jantung kongestif, infark anterior. Tanda awal iskemi jantung akut yaitu
+nyeri dada, sesak nafas, diaforesis, gelisah dan ketakutan, nausea dan
+vomiting dan gangguan sirkulasi lanjut menimbulkan berbagai disfungsi end
+organ. Riwayat trauma untuk syok karena perdarahan atau syok neurogenik
+pada trauma servikal atau high thoracic spinal cord injury. Demam dan riwayat
+infeksi untuk syok septik. Gejala klinis yang timbul setelah kontak dengan
+antigen pada syok anafilaktik.
+Syok obstruktif, tampak hampir sama dengan syok kardiogenik dan
+hipovolemik.
+Faktor Risiko: Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Keadaan umum:
+1. Hipotensi dan penyempitan tekanan denyutan (adalah tanda hilangnya
+cairan yang berat dan syok).
+2. Hipertermi, normotermi, atau hipotermi dapat terjadi pada syok. Hipotermia
+adalah tanda dari hipovolemia berat dan syok septik.
+3. Detak jantung naik, frekuensi nafas naik, kesadaran turun.
+4. Produksi urin turun. Produksi urin merupakan penunjuk awal hipovolemia
+dan respon ginjal terhadap syok.
+5. Gambaran klinis syok kardiogenik tampak sama dengan gejala klinis syok
+hipovolemik, ditambah dengan adanya disritmia, bising jantung, gallop.
+
+57
+
+6. Gejala klinis syok septik tak dapat dilepaskan dari keadaan sepsis sendiri
+berupa sindroma reaksi inflamasi sistemik (SIRS) dimana terdapat dua
+gejala atau lebih:
+0
+0
+a. Temperatur >38 C atau <36 C.
+b. Heart rate >90x/mnt.
+c. Frekuensi nafas >20x/mn atau PaCO2< 4,3 kPa.
+d. Leukosit >12.000 sel/mm atau <4000sel/mm atau >10% bentuk imatur.
+7. Efek klinis syok anafilaktik mengenai sistem pernafasan dan sistem
+sirkulasi, yaitu:
+Terjadi edema hipofaring dan laring, konstriksi bronkus dan bronkiolus,
+disertai hipersekresi mukus, dimana semua keadaan ini menyebabkan
+spasme dan obstruksi jalan nafas akut.
+8. Syok neurogenik ditandai dengan hipotensi disertai bradikardi. Gangguan
+neurologis: paralisis flasid, refleks ekstremitas hilang dan priapismus.
+9. Syok obstruktif, tampak hampir sama dengan syok kardiogenik dan
+hipovolemik. Gejala klinis juga tergantung etiologi penyebabnya, yang
+sering terjadi adalah tromboemboli paru, tamponade jantung, obstruksi
+arterioventrikuler, tension pneumothorax. Gejala ini akan berlanjut sebagai
+tanda-tanda akut kor pulmonal dan payah jantung kanan: pulsasi vena
+jugularis, gallop, bising pulmonal, aritmia. Karakteristik manifestasi klinis
+tamponade jantung: suara jantung menjauh, pulsus altemans, JVP selama
+inspirasi. Sedangkan emboli pulmonal: disritmia jantung, gagal jantung
+kongesti.
+Pemeriksaan Penunjang
+1. Pulse oxymetri
+2. EKG
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan
+penunjang.
+Diagnosis Banding: Komplikasi
+Kerusakan otak, koma, kematian.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Pengenalan dan restorasi yang cepat dari perfusi adalah kunci
+pencegahan disfungsi organ multipel dan kematian.
+2. Pada semua bentuk syok, manajemen jalan nafas dan pernafasan untuk
+memastikan oksigenasi pasien baik, kemudian restorasi cepat dengan
+infus cairan.
+
+58
+
+3. Pilihan pertama adalah kristaloid (Ringer laktat/Ringer asetat) disusul
+darah pada syok perdarahan. Keadaan hipovolemi diatasi dengan cairan
+koloid atau kristaloid sekaligus memperbaiki keadaan asidosis.
+4. Pengobatan syok sebelumnya didahului dengan penegakan diagnosis
+etiologi. Diagnosis awal etiologi syok adalah esensial, kemudian terapi
+selanjutnya tergantung etiologinya.
+5. Tindakan invasif seperti intubasi endotrakeal dan cricothyroidotomy atau
+tracheostomy dapat dilakukan hanya untuk life saving oleh dokter yang
+kompeten.
+Syok Hipovolemik:
+1. Infus cepat kristaloid untuk ekspansi volume intravaskuler melalui kanula
+vena besar (dapat lebih satu tempat) atau melalui vena sentral.
+2. Pada perdarahan maka dapat diberikan 3-4 kali dari jumlah perdarahan.
+Setelah pemberian 3 liter disusul dengan transfusi darah. Secara
+bersamaan sumber perdarahan harus dikontrol.
+3. Resusitasi tidak komplit sampai serum laktat kembali normal. Pasien syok
+hipovolemik berat dengan resusitasi cairan akan terjadi penumpukan
+cairan di rongga ketiga.
+4. Vasokonstriksi jarang diperlukan pada syok hipovolemik murni.
+Syok Obstruktif:
+1. Penyebab syok obstruktif harus diidentifikasi dan segera dihilangkan.
+2. Pericardiocentesis atau pericardiotomi untuk tamponade jantung.
+3. Dekompressi jarum atau pipa thoracostomy atau keduanya pada tension
+pneumothorax.
+4. Dukungan ventilasi dan jantung, mungkin trombolisis, dan mungkin
+prosedur radiologi intervensional untuk emboli paru.
+5. Abdominal compartment syndrome diatasi dengan laparotomi
+dekompresif.
+Syok Kardiogenik:
+1. Optimalkan pra-beban dengan infus cairan.
+2. Optimalkan kontraktilitas jantung dengan inotropik sesuai keperluan,
+seimbangkan kebutuhan oksigen jantung. Selain itu, dapat dipakai
+dobutamin atau obat vasoaktif lain.
+3. Sesuaikan pasca-beban untuk memaksimalkan CO. Dapat dipakai
+vasokonstriktor bila pasien hipotensi dengan SVR rendah. Pasien syok
+kardiogenik mungkin membutuhkan vasodilatasi untuk menurunkan SVR,
+tahanan pada aliran darah dari jantung yang lemah. Obat yang dapat
+dipakai adalah nitroprusside dan nitroglycerin.
+4. Diberikan diuretik bila jantung dekompensasi.
+5. PAC dianjurkan dipasang untuk penunjuk terapi.
+6. Penyakit jantung yang mendasari harus diidentifikasi dan diobati.
+Syok Distributif:
+1. Pada SIRS dan sepsis, bila terjadi syok ini karena toksin atau mediator
+penyebab vasodilatasi. Pengobatan berupa resusitasi cairan segera dan
+
+59
+
+2.
+3.
+4.
+
+setelah kondisi cairan terkoreksi, dapat diberikan vasopresor untuk
+mencapai MAP optimal. Sering terjadi vasopresor dimulai sebelum prabeban adekuat tercapai. Perfusi jaringan dan oksigenasi sel tidak akan
+optimal kecuali bila ada perbaikan pra-beban.
+Obat yang dapat dipakai adalah dopamin, norepinefrin dan vasopresin.
+Dianjurkan pemasangan PAC.
+Pengobatan kausal dari sepsis.
+
+Syok Neurogenik:
+1. Setelah mengamankan jalan nafas dan resusitasi cairan, guna
+meningkatkan tonus vaskuler dan mencegah bradikardi diberikan
+epinefrin.
+2. Epinefrin berguna meningkatkan tonus vaskuler tetapi akan memperberat
+bradikardi, sehingga dapat ditambahkan dopamin dan efedrin. Agen
+antimuskarinik atropin dan glikopirolat juga dapat untuk mengatasi
+bradikardi.
+3. Terapi definitif adalah stabilisasi Medulla spinalis yang terkena.
+Rencana Tindak Lanjut
+Mencari penyebab syok dan mencatatnya di rekam medis serta
+memberitahukan kepada pasien dan keluarga untuk tindakan lebih lanjut yang
+diperlukan.
+Konseling dan Edukasi
+Keluarga perlu diberitahukan mengenai kemungkinan terburuk yang dapat
+terjadi pada pasien dan pencegahan terjadinya kondisi serupa.
+Kriteria Rujukan
+Setelah kegawatan pasien ditangani, pasien dirujuk ke pelayanan kesehatan
+sekunder.
+Peralatan
+1.
+2.
+3.
+4.
+5.
+
+Infus set
+Oksigen
+NaCl 0,9%
+Senter
+EKG
+
+Prognosis
+Prognosis suatu syok amat tergantung dari kecepatan diagnosa dan
+pengelolaannya sehingga pada umumnya adalah dubia ad bonam.
+Referensi
+1. Karyadi, W. Update on Shock. Pertemuan Ilmiah Terpadu-1. Surabaya: FK
+Universitas Airlangga. 6-7 Mei 2000. (Karyadi, et al., 2000)
+2. Rahardjo, E. Update on Shock. Pertemuan Ilmiah Terpadu-1.Surabaya: FK
+Universitas Airlangga. 6-7 Mei 2000.
+
+60
+
+3. Suryohudoyo, P. Update on Shock, Pertemuan Ilmiah Terpadu-1.
+Surabaya: FK Universitas Airlangga. 6-7 Mei 2000.
+
+14. Reaksi Anafilaktik
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: A92 Allergy/allergic reaction NOS
+: T78.2 Anaphylactic shock, unspecified
+: 4A
+
+Masalah Kesehatan
+Anafilaktik adalah reaksi hipersensitifitas generalisata atau sistemik yang
+beronset cepat, serius, dan mengancam. Jika reaksi tersebut cukup hebat
+dapat menimbulkan syok yang disebut sebagai syok anafilaktik. Syok
+anafilaktik membutuhkan pertolongan cepat dan tepat. Untuk itu diperlukan
+pengetahuan serta keterampilan dalam pengelolaan syok anafilaktik.
+Insidens syok anafilaktik 40–60% adalah akibat gigitan serangga, 20–40%
+akibat zat kontras radiografi, dan 10–20% akibat pemberian obat penisilin.
+Data yang akurat dalam insiden dan prevalensi terjadinya syok anafilaktik
+masih sangat kurang. Anafilaksis yang fatal hanya kira-kira 4 kasus kematian
+dari 10 juta masyarakat per tahun. Sebagian besar kasus yang serius
+anafilaktik adalah akibat pemberian antibiotik seperti penisilin dan bahan zat
+radiologis. Penisilin merupakan penyebab kematian 100 dari 500 kematian
+akibat reaksi anafilaksis.
+Hasil Anamnesis (Subjective)
+Keluhan
+Gambaran atau gejala klinik suatu reaksi anafilakis berbeda-beda gradasinya
+sesuai berat ringannya reaksi antigen-antibodi atau tingkat sensitivitas
+seseorang, namun pada tingkat yang berat barupa syok anafilaktik gejala yang
+menonjol adalah gangguan sirkulasi dan gangguan respirasi. Kedua gangguan
+tersebut dapat timbul bersamaan atau berurutan yang kronologisnya sangat
+bervariasi dari beberapa detik sampai beberapa jam. Pada dasarnya makin
+cepat reaksi timbul makin berat keadaan penderita.
+Gejala respirasi dapat dimulai berupa bersin, hidung tersumbat atau batuk saja
+yang kemudian segera diikuti dengan sesak napas.
+Gejala pada kulit merupakan gejala klinik yang paling sering ditemukan pada
+reaksi anafilaktik. Walaupun gejala ini tidak mematikan namun gejala ini amat
+penting untuk diperhatikan sebab ini mungkin merupakan gejala prodromal
+untuk timbulnya gejala yang lebih berat berupa gangguan nafas dan gangguan
+sirkulasi. Oleh karena itu setiap gejala kulit berupa gatal, kulit kemerahan
+harus diwaspadai untuk kemungkinan timbulnya gejala yang lebih berat.
+Manifestasi dari gangguan gastrointestinal berupa perut kram, mual, muntah
+
+61
+
+sampai diare yang juga dapat merupakan gejala prodromal untuk timbulnya
+gejala gangguan nafas dan sirkulasi.
+Faktor Risiko:
+Riwayat Alergi
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Pasien tampak sesak, frekuensi napas meningkat, sianosis karena edema
+laring dan bronkospasme. Hipotensi merupakan gejala yang menonjol pada
+syok anafilaktik. Adanya takikardia, edema periorbital, mata berair, hiperemi
+konjungtiva. Tanda prodromal pada kulit berupa urtikaria dan eritema.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Untuk membantu menegakkan diagnosis maka World Allergy Organization
+telah membuat beberapa kriteria di mana reaksi anafilaktik dinyatakan sangat
+mungkin bila :
+1. Onset gejala akut (beberapa menit hingga beberapa jam) yang melibatkan
+kulit, jaringan mukosa, atau keduanya (misal: urtikaria generalisata,
+pruritus dengan kemerahan, pembengkakan bibir/lidah/uvula) dan
+sedikitnya salah satu dari tanda berikut ini:
+a. Gangguan respirasi (misal: sesak nafas, wheezing akibat
+bronkospasme, stridor, penurunan arus puncak ekspirasi/APE,
+hipoksemia).
+b. Penurunan tekanan darah atau gejala yang berkaitan dengan
+kegagalan organ target (misal: hipotonia, kolaps vaskular, sinkop,
+inkontinensia).
+2. Atau, dua atau lebih tanda berikut yang muncul segera (beberapa menit
+hingga beberapa jam) setelah terpapar alergen yang mungkin (likely
+allergen), yaitu:
+a. Keterlibatan jaringan mukosa dan kulit
+b. Gangguan respirasi
+c. Penurunan tekanan darah atau gejala yang berkaitan dengan
+kegagalan organ target
+d. Gejala gastrointestinal yang persisten (misal: nyeri kram abdomen,
+muntah)
+3. Atau, penurunan tekanan darah segera (beberapa menit atau jam) setelah
+terpapar alergen yang telah diketahui (known allergen), sesuai kriteria
+berikut:
+a. Bayi dan anak: Tekanan darah sistolik rendah (menurut umur) atau
+terjadi penurunan > 30% dari tekanan darah sistolik semula.
+b. Dewasa: Tekanan darah sistolik <90 mmHg atau terjadi penurunan
+>30% dari tekanan darah sistolik semula.
+
+62
+
+Diagnosis Banding
+1. Beberapa kelainan menyerupai anafilaksis
+a. Serangan asma akut
+b. Sinkop
+c. Gangguan cemas / serangan panik
+d. Urtikaria akut generalisata
+e. Aspirasi benda asing
+f. Kelainan kardiovaskuler akut (infark miokard, emboli paru)
+g. Kelainan neurologis akut (kejang, stroke)
+2. Sindrom flush
+a. Perimenopause
+b. Sindrom karsinoid
+c. Epilepsi otonomik
+d. Karsinoma tiroid meduler
+3. Sindrom pasca-prandial
+a. Scombroidosis, yaitu keracunan histamin dari ikan, misalnya tuna,
+yang disimpan pada suhu tinggi.
+b. Sindrom alergi makanan berpolen, umumnya buah atau sayur yang
+mengandung protein tanaman yang telah bereaksi silang dengan
+alergen di udara
+c. Monosodium glutamat atau Chinese restaurant syndrome
+d. Sulfit
+e. Keracunan makanan
+4. Syok jenis lain
+a. Hipovolemik
+b. Kardiogenik
+c. Distributif
+d. Septik
+5. Kelainan non-organik
+a. Disfungsi pita suara
+b. hiperventilasi
+c. Episode psikosomatis
+6. Peningkatan histamin endogen
+a. Mastositosis / kelainan klonal sel mast
+b. Leukemia basofilik
+7. Lainnya
+a. Angioedema non-alergik, misal: angioedema herediter tipe I, II, atau III,
+angioedema terkait ACE-inhibitor)
+b. Systemic capillary leak syndrome
+c. Red man syndrome akibat vancomycin
+d. Respon paradoksikal pada feokromositoma
+
+63
+
+Komplikasi
+1. Koma
+2. Kematian
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Posisi trendelenburg atau berbaring dengan kedua tungkai diangkat
+(diganjal dengan kursi) akan membantu menaikkan venous return
+sehingga tekanan darah ikut meningkat.
+2. Pemberian Oksigen 3–5 liter/menit harus dilakukan, pada keadaan yang
+sangat ekstrim tindakan trakeostomi atau krikotiroidektomi perlu
+dipertimbangkan.
+3. Pemasangan infus, cairan plasma expander (Dextran) merupakan pilihan
+utama guna dapat mengisi volume intravaskuler secepatnya. Jika cairan
+tersebut tak tersedia, Ringer Laktat atau NaCl fisiologis dapat dipakai
+sebagai cairan pengganti. Pemberian cairan infus sebaiknya
+dipertahankan sampai tekanan darah kembali optimal dan stabil.
+4. Adrenalin 0,3 – 0,5 ml dari larutan 1 : 1000 diberikan secara intramuskuler
+yang dapat diulangi 5–10 menit. Dosis ulangan umumnya diperlukan,
+mengingat lama kerja adrenalin cukup singkat. Jika respon pemberian
+secara intramuskuler kurang efektif, dapat diberi secara intravenous
+setelah 0,1 – 0,2 ml adrenalin dilarutkan dalam spuit 10 ml dengan NaCl
+fisiologis, diberikan perlahan-lahan. Pemberian subkutan, sebaiknya
+dihindari pada syok anafilaktik karena efeknya lambat bahkan mungkin
+tidak ada akibat vasokonstriksi pada kulit, sehingga absorbsi obat tidak
+terjadi.
+5. Aminofilin, dapat diberikan dengan sangat hati-hati apabila bronkospasme
+belum hilang dengan pemberian adrenalin. 250 mg aminofilin diberikan
+perlahan-lahan selama 10 menit intravena. Dapat dilanjutkan 250 mg lagi
+melalui drips infus bila dianggap perlu.
+6. Antihistamin dan kortikosteroid merupakan pilihan kedua setelah adrenalin.
+Kedua obat tersebut kurang manfaatnya pada tingkat syok anafilaktik,
+dapat diberikan setelah gejala klinik mulai membaik guna mencegah
+komplikasi selanjutnya berupa serum sickness atau prolonged effect.
+Antihistamin yang biasa digunakan adalah difenhidramin HCl 5–20 mg IV
+dan untuk golongan kortikosteroid dapat digunakan deksametason 5–10
+mg IV atau hidrokortison 100–250 mg IV.
+7. Resusitasi Kardio Pulmoner (RKP), seandainya terjadi henti jantung
+(cardiac arrest) maka prosedur resusitasi kardiopulmoner segera harus
+dilakukan sesuai dengan falsafah ABC dan seterusnya. Mengingat
+kemungkinan terjadinya henti jantung pada suatu syok anafilaktik selalu
+ada, maka sewajarnya di setiap ruang praktek seorang dokter tersedia
+selain obat-obat emergency, perangkat infus dan cairannya juga perangkat
+resusitasi (Resuscitation kit) untuk memudahkan tindakan secepatnya.
+8. Algoritma Penatalaksanaan Reaksi Anafilaksis (Lihat Lampiran 1)
+
+64
+
+Rencana Tindak Lanjut
+Mencari penyebab reaksi anafilaktik dan mencatatnya di rekam medis serta
+memberitahukan kepada pasien dan keluarga.
+Konseling dan Edukasi
+Keluarga perlu diberitahukan mengenai penyuntikan apapun bentuknya
+terutama obat-obat yang telah dilaporkan bersifat antigen (serum, penisillin,
+anestesi lokal, dll) harus selalu waspada untuk timbulnya reaksi anafilaktik.
+Penderita yang tergolong risiko tinggi (ada riwayat asma, rinitis, eksim, atau
+penyakit-penyakit alergi lainnya) harus lebih diwaspadai lagi. Jangan mencoba
+menyuntikkan obat yang sama bila sebelumnya pernah ada riwayat alergi
+betapapun kecilnya. Sebaiknya mengganti dengan preparat lain yang lebih
+aman.
+Kriteria Rujukan
+Kegawatan pasien ditangani, apabila dengan penanganan yang dilakukan
+tidak terdapat perbaikan, pasien dirujuk ke layanan sekunder.
+Peralatan
+1. Infus set
+2. Oksigen
+3. Adrenalin ampul, aminofilin ampul, difenhidramin vial, deksametason
+ampul
+4. NaCl 0,9%
+Prognosis
+Prognosis suatu syok anafilaktik amat tergantung dari kecepatan diagnosa dan
+pengelolaannya karena itu umumnya adalah dubia ad bonam.
+Referensi
+1. Haupt,M.T. Fujii, T.K. et al. Anaphylactic Reactions. In:Text Book of Critical
+care. Eds: Ake Grenvvik.Stephen, M.Ayres.Peter, R.William, C.
+th
+Shoemaker. 4 Ed.Philadelpia: WB Saunders Company. 2000: p. 246-56.
+2. Koury, S.I. Herfel, L.U. Anaphylaxis and acute allergic reactions. In:
+International
+edition
+Emergency
+Medicine.Eds:Tintinalli.
+Kellen.
+th
+Stapczynski. 5 Ed. New York: McGrraw-Hill. 2000: p. 242-6.
+3. Rehatta, M.N.Syok anafilaktik patofisiologi dan penanganan dalam Update
+on Shock.Pertemuan Ilmiah Terpadu.Fakultas Kedoketran Universitas
+Airlangga Surabaya. 2000.
+
+65
+
+15. Demam Dengue dan Demam Berdarah Dengue
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: A77 Viral disease other/NOS
+: A90 Dengue fever
+A91 Dengue haemorrhagic fever
+: 4A
+
+Masalah Kesehatan
+Penyakit demam berdarah dengue (DBD) masih menjadi salah satu masalah
+kesehatan masyarakat di Indonesia. Tingkat insiden penyakit DBD Indonesia
+merupakan yang tertinggi diantara negara-negara Asia Tenggara. Sepanjang
+tahun 2013, Kementerian Kesehatan mencatat terdapat 103.649 penderita
+dengan angka kematian mencapai 754 orang. Keterlibatan dokter di pelayanan
+kesehatan primer sangat dibutuhkan untuk menekan tingkat kejadian maupun
+mortalitas DBD.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Demam tinggi, mendadak, terus menerus selama 2 – 7 hari.
+2. Manifestasi perdarahan, seperti: bintik-bintik merah di kulit, mimisan, gusi
+berdarah, muntah berdarah, atau buang air besar berdarah.
+3. Gejala nyeri kepala, mialgia, artralgia, nyeri retroorbital.
+4. Gejala gastrointestinal, seperti: mual, muntah, nyeri perut (biasanya di ulu
+hati atau di bawah tulang iga)
+5. Kadang disertai juga dengan gejala lokal, seperti: nyeri menelan, batuk,
+pilek.
+6. Pada kondisi syok, anak merasa lemah, gelisah, atau mengalami
+penurunan kesadaran.
+7. Pada bayi, demam yang tinggi dapat menimbulkan kejang.
+Faktor Risiko
+1. Sanitasi lingkungan yang kurang baik, misalnya: timbunan sampah,
+timbunan barang bekas, genangan air yang seringkali disertai di tempat
+tinggal pasien sehari-hari.
+2. Adanya jentik nyamuk Aedes aegypti pada genangan air di tempat tinggal
+pasien sehari-hari.
+3. Adanya penderita demam berdarah dengue (DBD) di sekitar pasien.
+Hasil Pemeriksaan Fisik dan penunjang sederhana (Objective)
+Pemeriksaan Fisik
+Tanda patognomonik untuk demam dengue
+1. Suhu > 37,5 derajat celcius
+2. Ptekie, ekimosis, purpura
+3. Perdarahan mukosa
+4. Rumple Leed (+)
+
+66
+
+Tanda Patognomonis untuk demam berdarah dengue
+1. Suhu > 37,5 derajat celcius
+2. Ptekie, ekimosis, purpura
+3. Perdarahan mukosa
+4. Rumple Leed (+)
+5. Hepatomegali
+6. Splenomegali
+7. Untuk mengetahui terjadi kebocoran plasma, diperiksa tanda-tanda efusi
+pleura dan asites.
+8. Hematemesis atau melena
+Pemeriksaan Penunjang :
+1. Darah perifer lengkap, yang menunjukkan:
+a. Trombositopenia (≤ 100.000/µL).
+b. Kebocoran plasma yang ditandai dengan:
+ peningkatan hematokrit (Ht) ≥ 20% dari nilai standar data populasi
+menurut umur
+ Ditemukan adanya efusi pleura, asites
+ Hipoalbuminemia, hipoproteinemia
+c. Leukopenia < 4000/µL.
+2. Serologi Dengue, yaitu IgM dan IgG anti-Dengue, yang titernya dapat
+terdeteksi setelah hari ke-5 demam.
+Penegakan Diagnosis (Assessment)
+Diagnosis Klinis
+Diagnosis Klinis Demam Dengue
+1. Demam 2–7 hari yang timbul mendadak, tinggi, terus-menerus, bifasik.
+2. Adanya manifestasi perdarahan baik yang spontan seperti petekie,
+purpura, ekimosis, epistaksis, perdarahan gusi, hematemesis dan atau
+melena; maupun berupa uji tourniquet positif.
+3. Nyeri kepala, mialgia, artralgia, nyeri retroorbital.
+4. Adanya kasus DBD baik di lingkungan sekolah, rumah atau di sekitar
+rumah.
+3
+5. Leukopenia <4.000/mm
+3
+6. Trombositopenia <100.000/mm
+Apabila ditemukan gejala demam ditambah dengan adanya dua atau lebih
+tanda dan gejala lain, diagnosis klinis demam dengue dapat ditegakkan.
+Diagnosis Klinis Demam Berdarah Dengue
+1. Demam 2–7 hari yang timbul mendadak, tinggi, terus-menerus (kontinua)
+2. Adanya manifestasi perdarahan baik yang spontan seperti petekie,
+purpura, ekimosis, epistaksis, perdarahan gusi, hematemesis dan atau
+melena; maupun berupa uji Tourniquette yang positif
+3. Sakit kepala, mialgia, artralgia, nyeri retroorbital
+
+67
+
+4. Adanya kasus demam berdarah dengue baik di lingkungan sekolah, rumah
+atau di sekitar rumah
+a. Hepatomegali
+b. Adanya kebocoran plasma yang ditandai dengan salah satu:
+ Peningkatan nilai hematokrit, >20% dari pemeriksaan awal atau
+dari data populasi menurut umur
+ Ditemukan adanya efusi pleura, asites
+ Hipoalbuminemia, hipoproteinemia
+3
+c. Trombositopenia <100.000/mm
+Adanya demam seperti di atas disertai dengan 2 atau lebih manifestasi klinis,
+ditambah bukti perembesan plasma dan trombositopenia cukup untuk
+menegakkan diagnosis Demam Berdarah Dengue.
+Tanda bahaya (warning signs) untuk mengantisipasi kemungkinan terjadinya
+syok pada penderita Demam Berdarah Dengue.
+Klinis
+
+Demam turun tetapi keadaan anak memburuk
+Nyeri perut dan nyeri tekan abdomen
+Muntah persisten
+Letargi, gelisah
+Perdarahaan mukosa
+Pembesaran hati
+Akumulasi cairan
+Oliguria
+
+Laboratorium
+
+Peningkatan kadar hematokrit bersamaan dengan
+penurunan cepat jumlah trombosit
+Hematokrit awal tinggi
+
+Kriteria Diagnosis Laboratoris
+Kriteria Diagnosis Laboratoris diperlukan untuk survailans epidemiologi, terdiri
+atas:
+Probable Dengue, apabila diagnosis klinis diperkuat oleh hasil pemeriksaan
+serologi antidengue.
+Confirmed Dengue, apabila diagnosis klinis diperkuat dengan deteksi genome
+virus Dengue dengan pemeriksaan RT-PCR, antigen dengue pada
+pemeriksaan NS1, atau apabila didapatkan serokonversi pemeriksaan IgG dan
+IgM (dari negatif menjadi positif) pada pemeriksaan serologi berpasangan.
+Isolasi virus Dengue memberi nilai yang sangat kuat dalam konfirmasi
+diagnosis klinis, namun karena memerlukan teknologi yang canggih dan
+prosedur yang rumit pemeriksaan ini bukan merupakan pemeriksaan yang
+rutin dilakukan.
+
+68
+
+Diagnosis Banding
+1. Demam karena infeksi virus ( influenza , chikungunya, dan lain-lain)
+2. Idiopathic thrombocytopenic purpura
+3. Demam tifoid
+Komplikasi
+Dengue Shock Syndrome (DSS), ensefalopati, gagal ginjal, gagal hati
+Penatalaksanaan komprehensif (Plan)
+Penatalaksanaan pada Pasien Dewasa
+1.
+
+Terapi simptomatik dengan analgetik antipiretik (Parasetamol 3 x 5001000 mg).
+2. Pemeliharaan volume cairan sirkulasi
+Alur penanganan pasien dengan demam dengue/demam berdarah
+dengue, yaitu: pemeriksaan penunjang Lanjutan
+- Pemeriksaan Kadar Trombosit dan Hematokrit secara serial
+5% defisit cairan
+
+Terapi awal cairan intravena kristaloid 6 – 7 ml/kgBB/jam
+Evaluasi
+3 – 4 jam
+PERBAIKAN
+Ht dan frekuensi nadi turun,tekanan
+darah membaik,produksi urin meningkat
+
+Kurangi infus kristaloid
+5 ml/kgBB/jam
+
+PERBAIKAN
+
+TIDAK MEMBAIK
+Ht dan frekuensi nadi meningkat, tekanan
+darah menurun < 20 mmHg, produksi urin
+menurun
+
+TANDA VITAL &
+HEMATOKRIT MEMBURUK
+PERBAIKAN
+
+Kurangi infus kristaloid
+3 ml/kgBB/jam
+
+Infus kristaloid
+10 ml/kgBB/jam
+
+TIDAK MEMBAIK
+
+Infus kristaloid
+15 ml/kgBB/jam
+
+PERBAIKAN
+
+KONDISI MEMBURUK
+Tanda syok
+
+Terapi cairan dihentikan
+24 – 48 jam
+
+Tatalaksana sesuai protokol
+syok dan perdarahan
+PERBAIKAN
+
+Gambar 1.7 Alur penanganan pasien dengan demam dengue/demam
+berdarah
+
+69
+
+Konseling dan Edukasi
+1. Pinsip konseling pada demam berdarah dengue adalah memberikan
+pengertian kepada pasien dan keluarganya tentang perjalanan penyakit
+dan tata laksananya, sehingga pasien dapat mengerti bahwa tidak ada
+obat/medikamentosa untuk penanganan DBD, terapi hanya bersifat
+suportif dan mencegah perburukan penyakit. Penyakit akan sembuh
+sesuai dengan perjalanan alamiah penyakit.
+2. Modifikasi gaya hidup
+a. Melakukan kegiatan 3M: menguras, mengubur, menutup.
+b. Meningkatkan daya tahan tubuh dengan mengkonsumsi makanan
+bergizi dan melakukan olahraga secara rutin.
+Kriteria Rujukan
+1. Terjadi perdarahan masif (hematemesis, melena).
+2. Dengan pemberian cairan kristaloid sampai dosis 15 ml/kg/jam kondisi
+belum membaik.
+3. Terjadi komplikasi atau keadaan klinis yang tidak lazim, seperti kejang,
+penurunan kesadaran, dan lainnya.
+Penatalaksanaan pada Pasien Anak
+Demam berdarah dengue (DBD) tanpa syok
+1. Bila anak dapat minum
+a. Berikan anak banyak minum
+ Dosis larutan per oral: 1 – 2 liter/hari atau 1 sendok makan tiap 5
+menit.
+ Jenis larutan per oral: air putih, teh manis, oralit, jus buah, air
+sirup, atau susu.
+b. Berikan cairan intravena (infus) sesuai dengan kebutuhan untuk
+dehidrasi sedang. Berikan hanya larutan kristaloid isotonik, seperti
+Ringer Laktat (RL) atau Ringer Asetat (RA), dengan dosis sesuai berat
+badan sebagai berikut:
+ Berat badan < 15 kg
+: 7 ml/kgBB/jam
+ Berat badan 15 – 40 kg
+: 5 ml/kgBB/jam
+ Berat badan > 40 kg
+: 3 ml/kgBB/jam
+2. Bila anak tidak dapat minum, berikan cairan infus kristaloid isotonik sesuai
+kebutuhan untuk dehidrasi sedang sesuai dengan dosis yang telah
+dijelaskan di atas.
+3. Lakukan pemantauan: tanda vital dan diuresis setiap jam, laboratorium
+(DPL) per 4-6 jam.
+a. Bila terjadi penurunan hematokrit dan perbaikan klinis, turunkan jumlah
+cairan secara bertahap sampai keadaan klinis stabil.
+b. Bila terjadi perburukan klinis, lakukan penatalaksanaan DBD dengan
+syok.
+4. Bila anak demam, berikan antipiretik (Parasetamol 10 – 15 mg/kgBB/kali)
+per oral. Hindari Ibuprofen dan Asetosal.
+5. Pengobatan suportif lain sesuai indikasi.
+
+70
+
+Demam berdarah dengue (DBD) dengan syok
+1. Kondisi ini merupakan gawat darurat dan mengharuskan rujukan segera
+ke RS.
+2. Penatalaksanaan awal:
+a. Berikan oksigen 2 – 4 liter/menit melalui kanul hidung atau sungkup
+muka.
+b. Pasang akses intravena sambil melakukan pungsi vena untuk
+pemeriksaan DPL.
+c. Berikan infus larutan kristaloid (RL atau RA) 20 ml/kg secepatnya.
+d. Lakukan pemantauan klinis (tanda vital, perfusi perifer, dan diuresis)
+setiap 30 menit.
+e. Jika setelah pemberian cairan inisial tidak terjadi perbaikan klinis,
+ulangi pemberian infus larutan kristaloid 20 ml/kgBB secepatnya
+(maksimal 30 menit) atau pertimbangkan pemberian larutan koloid 10
+– 20 ml/kgBB/jam (maksimal 30 ml/kgBB/24 jam).
+f. Jika nilai Ht dan Hb menurun namun tidak terjadi perbaikan klinis,
+pertimbangkan terjadinya perdarahan tersembunyi. Berikan transfusi
+darah bila fasilitas tersedia dan larutan koloid. Segera rujuk.
+g. Jika terdapat perbaikan klinis, kurangi jumlah cairan hingga 10
+ml/kgBB/jam dalam 2 – 4 jam. Secara bertahap diturunkan tiap 4 – 6
+jam sesuai kondisi klinis dan laboratorium.
+h. Dalam banyak kasus, cairan intravena dapat dihentikan setelah 36 –
+48 jam. Hindari pemberian cairan secara berlebihan.
+3. Pengobatan suportif lain sesuai indikasi.
+Rencana Tindak Lanjut
+Demam berdarah dengue (DBD) tanpa syok
+1. Pemantauan klinis (tanda vital, perfusi perifer, diuresis) dilakukan setiap
+satu jam.
+2. Pemantauan laboratorium (Ht, Hb, trombosit) dilakukan setiap 4-6 jam,
+minimal 1 kali setiap hari.
+3. Pemantauan cairan yang masuk dan keluar.
+Demam berdarah dengue (DBD) dengan syok
+Dokter di pelayanan kesehatan primer merujuk pasien ke RS jika kondisi
+pasien stabil.
+Persyaratan perawatan di rumah
+1. Persyaratan untuk pasien dan keluarga
+a. DBD non-syok(tanpa kegagalan sirkulasi).
+b. Bila anak dapat minum dengan adekuat.
+c. Bila keluarga mampu melakukan perawatan di rumah dengan adekuat.
+2. Persyaratan untuk tenaga kesehatan
+a. Adanya 1 dokter dan perawat tetap yang bertanggung jawab penuh
+terhadap tatalaksana pasien.
+b. Semua kegiatan tatalaksana dapat dilaksanakan dengan baik di rumah.
+
+71
+
+Dokter dan/atau perawat mem-follow up pasien setiap 6 – 8 jam dan
+setiap hari, sesuai kondisi klinis.
+d. Dokter dan/atau perawat dapat berkomunikasi seara lancar dengan
+keluarga pasien sepanjang masa tatalaksana.
+c.
+
+Kriteria Rujukan
+1. DBD dengan syok (terdapat kegagalan sirkulasi).
+2. Bila anak tidak dapat minum dengan adekuat, asupan sulit, walaupun tidak
+ada kegagalan sirkulasi.
+3. Bila keluarga tidak mampu melakukan perawatan di rumah dengan
+adekuat, walaupun DBD tanpa syok..
+Konseling dan Edukasi
+a. Penjelasan mengenai diagnosis, komplikasi, prognosis, dan rencana
+tatalaksana.
+b. Penjelasan mengenai tanda-tanda bahaya (warning signs) yang perlu
+diwaspadai dan kapan harus segera ke layanan kesehatan.
+c. Penjelasan mengenai jumlah cairan yang dibutuhkan oleh anak.
+d. Penjelasan mengenai diet nutrisi yang perlu diberikan.
+e. Penjelasan mengenai cara minum obat.
+f. Penjelasan mengenai faktor risiko dan cara-cara pencegahan yang
+berkaitan dengan perbaikan higiene personal, perbaikan sanitasi
+lingkungan, terutama metode 4M plus seminggu sekali, yang terdiri atas:
+a. Menguras wadah air, seperti bak mandi, tempayan, ember, vas bunga,
+tempat minum burung, dan penampung air kulkas agar telur dan jentik
+Aedes aegypti mati.
+b. Menutup rapat semua wadah air agar nyamuk Aedes aegypti tidak
+dapat masuk dan bertelur.
+c. Mengubur atau memusnahkan semua barang bekas yang dapat
+menampung air hujan agar tidak menjadi sarang dan tempat bertelur
+nyamuk Aedes aegypti.
+d. Memantau semua wadah air yang dapat menjadi tempat nyamuk
+Aedes aegypti berkembang biak.
+e. Tidak menggantung baju, menghindari gigitan nyamuk, membubuhkan
+bubuk abate, dan memelihara ikan.
+Peralatan
+1.
+2.
+3.
+4.
+5.
+
+Poliklinik set (termometer, tensimeter, senter)
+Infus set
+Cairan kristaloid (RL/RA) dan koloid
+Lembar observasi / follow up
+Laboratorium untuk pemeriksaan darah rutin
+
+Prognosis
+Prognosis jika tanpa komplikasi umumnya dubia ad bonam, karena hal ini
+tergantung dari derajat beratnya penyakit.
+
+72
+
+Referensi
+1.
+
+2.
+3.
+4.
+
+5.
+
+Kementerian Kesehatan Republik Indonesia, 2006. Pedoman Tatalaksana
+Demam Berdarah Dengue. Jakarta: Kementerian Kesehatan Republik
+Indonesia.
+Chen, K. Pohan, H.T, Sinto, R. Diagnosis dan Terapi Cairan pada Demam
+Berdarah Dengue. Medicinus. Jakarta. 2009: Vol 22; p.3-7.
+WHO. Dengue Haemorrhagic Fever: diagnosis, treatment, prevention and
+nd
+control. 2 Edition. Geneva. 1997
+Tim Adaptasi Indonesia, 2009. Pelayanan Kesehatan Anak di Rumah
+Sakit: Pedoman bagi Rumah Sakit Rujukan Tingkat Pertama di Kabupaten
+/ Kota. 1 ed. Jakarta: World Health Organization Country Office for
+Indonesia.
+UKK Infeksi dan Penyakit Tropis Ikatan Dokter Anak Indonesia. Pedoman
+Diagnosis dan tata laksana infeksi virus dengue pada anak, Edisi
+pertama. Jakarta: Badan Penerbit IDAI, 2014.
+
+73
+
+B. Darah, Pembentukan Darah dan Sistem Imun

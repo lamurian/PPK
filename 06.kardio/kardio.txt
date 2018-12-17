@@ -1,0 +1,1053 @@
+F. Kardiovaskuler
+
+1.
+
+Angina Pektoris Stabil
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: K74 Ischaemic heart disease with angina
+: I20.9 Angina pectoris, unspecified
+: 3B
+
+Masalah Kesehatan
+Angina pektoris stabil merupakan tanda klinis pertama pada sekitar 50%
+pasien yang mengalami penyakit jantung koroner. Angina pektoris dilaporkan
+terjadi dengan rata-rata kejadian 1,5% tergantung pada jenis kelamin, umur,
+dan faktor risiko. Data dari studi Framingham pada tahun 1970 menunjukkan
+prevalensi sekitar 1,5% untuk wanita dan 4,3% untuk pria berusia 50 – 59
+tahun.
+Hasil Anamnesis (Subjective)
+Keluhan
+Pasien datang dengan keluhan nyeri dada yang khas, yaitu seperti rasa
+ditekan atau terasa seperti ditimpa beban yang sangat berat.
+Diagnosis seringkali berdasarkan keluhan nyeri dada yang mempunyai ciri
+khas sebagai berikut:
+1. Letak
+Sering pasien merasakan nyeri dada di daerah sternum atau di bawah
+sternum (substernal: tidak dapat melokalisasi), atau dada sebelah kiri dan
+kadang-kadang menjalar ke lengan kiri, dapat menjalar ke punggung,
+rahang, leher, atau ke lengan kanan. Nyeri dada juga dapat timbul di
+tempat lain seperti di daerah epigastrium, leher, rahang, gigi, dan bahu.
+2. Kualitas
+Pada angina, nyeri dada biasanya seperti tertekan benda berat, atau
+seperti diperas atau terasa panas, kadang-kadang hanya mengeluh
+perasaan tidak enak di dada karena pasien tidak dapat menjelaskan
+dengan baik.
+3. Hubungan dengan aktivitas
+Nyeri dada pada angina pektoris biasanya timbul pada saat melakukan
+aktivitas, misalnya sedang berjalan cepat, tergesa-gesa, atau sedang
+berjalan mendaki atau naik tangga. Pada kasus yang berat aktivitas ringan
+seperti mandi atau menggosok gigi, makan terlalu kenyang atau emosi,
+sudah dapat menimbulkan nyeri dada. Nyeri dada tersebut segera hilang
+bila pasien menghentikan aktivitasnya. Serangan angina yang timbul pada
+waktu istirahat atau pada waktu tidur malam sering akibat angina pektoris
+tidak stabil
+
+221
+
+4. Lamanya serangan
+Lamanya nyeri dada biasanya berlangsung 1-5 menit, kadang-kadang
+perasaan tidak enak di dada masih terasa setelah nyeri hilang. Bila nyeri
+dada berlangsung lebih dari 20 menit, mungkin pasien mengalami sindrom
+koroner akut dan bukan angina pektoris biasa. Pada angina pektoris dapat
+timbul keluhan lain seperti sesak napas, perasaan lelah, kadang-kadang
+nyeri dada disertai keringat dingin.
+5. Nyeri dada bisa disertai keringat dingin, mual, muntah, sesak dan pucat.
+Faktor Risiko
+Faktor risiko yang tidak dapat diubah:
+1. Usia
+Risiko meningkat pada pria di atas 45 tahun dan wanita di atas 55 tahun
+(umumnya setelah menopause)
+2. Jenis kelamin
+Morbiditas akibat penyakit jantung koroner (PJK) pada laki-laki dua kali
+lebih besar dibandingkan pada perempuan, hal ini berkaitan dengan
+estrogen endogen yang bersifat protektif pada perempuan. Hal ini terbukti
+insidensi PJK meningkat dengan cepat dan akhirnya setara dengan lakilaki pada wanita setelah masa menopause.
+3. Riwayat keluarga
+Riwayat keluarga PAK (Penyakit Arteri Koroner) dini yaitu ayah usia < 55
+tahun dan ibu < 65 tahun.
+Faktor risiko yang dapat diubah:
+1. Mayor
+a. Peningkatan lipid serum
+b. Hipertensi
+c. Merokok
+d. Konsumsi alkohol
+e. Diabetes Melitus
+f. Diet tinggi lemak jenuh, kolesterol dan kalori
+2. Minor
+a. Aktivitas fisik kurang
+b. Stress psikologik
+c. Tipe kepribadian
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Sewaktu terjadi serangan angina dapat tidak menunjukkan kelainan.
+Walau jarang pada auskultasi dapat terdengar derap atrial atau ventrikel
+dan murmur sistolik di daerah apeks. Frekuensi denyut jantung dapat
+menurun, menetap atau meningkat pada waktu serangan angina.
+2. Dapat ditemukan pembesaran jantung.
+
+222
+
+Pemeriksaan Penunjang
+1. EKG
+Gambaran EKG saat istirahat dan bukan pada saat serangan angina
+sering masih normal. Gambaran EKG dapat menunjukkan bahwa pasien
+pernah mendapat infark miokard di masa lampau. Kadang-kadang
+menunjukkan pembesaran ventrikel kiri pada pasien hipertensi dan angina,
+dapat pula menunjukkan perubahan segmen ST atau gelombang T yang
+tidak khas. Pada saat serangan angina, EKG akan menunjukkan depresi
+segmen ST dan gelombang T dapat menjadi negatif.
+Gambaran EKG penderita angina tak stabil/ATS dapat berupa depresi
+segmen ST, inversi gelombang T, depresi segmen ST disertai inversi
+gelombang T, elevasi segmen ST, hambatan cabang berkas His dan bisa
+tanpa perubahan segmen ST dan gelombang T. Perubahan EKG pada
+ATS bersifat sementara dan masing-masing dapat terjadi sendiri-sendiri
+ataupun bersamaan. Perubahan tersebut timbul di saat serangan angina
+dan kembali ke gambaran normal atau awal setelah keluhan angina hilang
+dalam waktu 24 jam. Bila perubahan tersebut menetap setelah 24 jam atau
+terjadi evolusi gelombang Q, maka disebut sebagai Infark Miokard Akut
+(IMA).
+2. X ray thoraks
+X ray thoraks sering menunjukkan bentuk jantung yang normal.
+Pada pasien hipertensi dapat terlihat jantung membesar dan kadangkadang tampak adanya kalsifikasi arkus aorta.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan
+penunjang.
+Klasifikasi Angina:
+1. Stable Angina Pectoris (angina pektoris stabil)
+Keluhan nyeri dada timbul bila melakukan suatu pekerjaan, sesuai dengan
+berat ringannya pencetus, dibagi atas beberapa tingkatan:
+a. Selalu timbul sesudah latihan berat.
+b. Timbul sesudah latihan sedang (jalan cepat 1/2 km)
+c. Timbul waktu latihan ringan (jalan 100 m)
+d. Angina timbul jika gerak badan ringan (jalan biasa)
+2. Unstable Angina Pectoris (angina pektoris tidak stabil/ATS)
+Angina dapat terjadi pada saat istirahat maupun bekerja. Pada patologi
+biasanya ditemukan daerah iskemik miokard yang mempunyai ciri
+tersendiri.
+3. Angina prinzmetal (Variant angina)
+Terjadi tanpa peningkatan jelas beban kerja jantung dan sering timbul
+pada waktu beristirahat atau tidur. Pada angina prinzmetal terjadi spasme
+arteri koroner yang menimbulkan iskemi jantung di bagian hilir. Kadangkadang tempat spasme berkaitan dengan arterosklerosis.
+
+223
+
+Klasifikasi Angina Pektoris menurut Canadian Cardiovascular Society
+Classification System:
+1. Kelas I: Pada aktivitas fisik biasa tidak mencetuskan angina. Angina akan
+muncul ketika melakukan peningkatan aktivitas fisik (berjalan cepat,
+olahraga dalam waktu yang lama).
+2. Kelas II: Adanya pembatasan aktivitas sedikit/aktivitas sehari-hari (naik
+tangga dengan cepat, jalan naik, jalan setelah makan, stres, dingin).
+3. Kelas III: Benar-benar ada pembatasan aktivitas fisik karena sudah timbul
+gejala angina ketika pasien baru berjalan 1 blok atau naik tangga 1 tingkat.
+4. Kelas IV: Tidak bisa melakukan aktivitas sehari-sehari, tidak nyaman,
+untuk melakukan aktivitas sedikit saja bisa kambuh, bahkan waktu istirahat
+juga bisa terjadi angina.
+Diagnosis Banding
+Gastroesofageal Refluks Disease (GERD), Gastritis akut,
+muskuloskeletal, Pleuritis, Herpes di dada, Trauma, Psikosomatik
+
+Nyeri
+
+Komplikasi
+Sindrom koroner akut
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Terapi farmakologi:
+1. Oksigen dimulai 2 L/menit
+2. Nitrat dikombinasikan dengan β-blocker atau Calcium Channel Blocker
+(CCB) non dihidropiridin yang tidak meningkatkan denyut jantung
+(misalnya verapamil, diltiazem). Pemberian dosis pada serangan akut :
+a. Nitrat 5 mg sublingual dapat dilanjutkan dengan 5 mg peroral sampai
+mendapat pelayanan rawat lanjutan di pelayanan sekunder.
+b. Beta bloker:
+ Propanolol 20-80 mg dalam dosis terbagi atau
+ Bisoprolol 2,5-5 mg per 24 jam.
+c. Calcium Channel Blocker (CCB) non dihidropiridine
+Dipakai bila Beta Blocker merupakan kontraindikasi, misalnya:
+ Verapamil 80 mg (2-3 kali sehari)
+ Diltiazem 30 mg ( 3-4 kali sehari)
+3. Antipletelet
+Aspirin 160-320 mg sekali minum pada serangan akut.
+Konseling dan Edukasi
+Menginformasikan individu dan keluarga untuk melakukan modifikasi gaya
+hidup antara lain:
+1. Mengontrol emosi dan mengurangi kerja berat dimana membutuhkan
+banyak oksigen dalam aktivitasnya
+2. Mengurangi konsumsi makanan berlemak
+3. Menghentikan konsumsi rokok dan alkohol
+4. Menjaga berat badan ideal
+
+224
+
+5. Mengatur pola makan
+6. Melakukan olah raga ringan secara teratur
+7. Jika memiliki riwayat diabetes tetap melakukan pengobatan diabetes
+secara teratur
+8. Melakukan kontrol terhadap kadar serum lipid
+9. Mengontrol tekanan darah
+Kriteria Rujukan
+Dilakukan rujukan ke layanan sekunder (spesialis jantung atau spesialis
+penyakit dalam) untuk tatalaksana lebih lanjut.
+Peralatan
+1. Elektrokardiografi (EKG)
+2. Radiologi (X ray thoraks)
+Prognosis
+Prognosis umumnya dubia ad bonam jika dilakukan tatalaksana dini dan tepat.
+Referensi
+1. Isselbacher, J Kurt. Harrison Prinsip-Prinsip Ilmu Penyakit Dalam Edisi 13
+Volume 3. Jakarta: EGC. 2000. (Isselbacher, 2000)
+th
+2. O’Rouke., Walsh., Fuster. Hurst’s The Heart Manual of Cardiology.12 Ed.
+McGraw-Hill. 2009. (O'Rouke, et al., 2009)
+3. Priori, S. G., Blanc, J. J., (France), Budaj., A., Camm, J., Dean, V.,
+Deckers, J., Dickstein. K., Lekakis, J., McGregor. K., Metra. M., Morais. J.,
+Osterspey. A., Tamargo, J., Zamorano, J. L., Guidelines on the
+management of stable angina pectoris, 2006, European Heart Journal
+doi:10.1093/eurheartj/ehl002 ESC Committee for Practice Guidelines
+(CPG). (Priori, et al., 2006)
+4. Sudoyo, W. Aaru, Bambang Setiyohadi. Ilmu Penyakit Dalam Jilid III Edisi
+IV. Jakarta: FKUI.2007.c (Sudoyo, et al., 2006)
+
+2.
+
+Infark Miokard
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: K75 Acute Myocardial Infarction
+: I21.9 Acute Myocardial Infarction, Unspecified
+: 3B
+
+Masalah Kesehatan
+Infark miokard (IM) adalah perkembangan cepat dari nekrosis otot jantung
+yang disebabkan oleh ketidakseimbangan kritis antara suplai oksigen dan
+kebutuhan miokardium. Umumnya disebabkan ruptur plak dan trombus dalam
+pembuluh darah koroner dan mengakibatkan kekurangan suplai darah ke
+miokardium.
+
+225
+
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Nyeri dada retrosternum seperti tertekan atau tertindih benda berat.
+2. Nyeri menjalar ke dagu, leher, tangan, punggung, dan epigastrium.
+Penjalaran ke tangan kiri lebih sering terjadi.
+3. Disertai gejala tambahan berupa sesak, mual, muntah, nyeri epigastrium,
+keringat dingin, dan cemas.
+Faktor Risiko
+Yang tidak dapat diubah:
+1. Usia
+Risiko meningkat pada pria diatas 45 tahun dan wanita diatas 55 tahun
+(umumnya setelah menopause)
+2. Jenis kelamin
+Morbiditas akibat penyakit jantung koroner (PJK) pada laki-laki dua kali
+lebih besar dibandingkan pada perempuan, hal ini berkaitan dengan
+estrogen endogen yang bersifat protektif pada perempuan. Hal ini terbukti
+insidensi PJK meningkat dengan cepat dan akhirnya setara dengan lakilaki pada wanita setelah masa menopause.
+3. Riwayat keluarga
+Riwayat keluarga PAK (Penyakit Arteri Koroner) dini yaitu ayah usia < 55
+tahun dan ibu < 65 tahun.
+Yang dapat di ubah:
+1. Mayor
+a. Peningkatan lipid serum
+b. Hipertensi
+c. Merokok
+d. Konsumsi alkohol
+e. Diabetes Melitus
+f. Diet tinggi lemak jenuh, kolesterol dan kalori
+2. Minor
+a. Aktivitas fisik kurang
+b. Stress psikologik
+c. Tipe kepribadian
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Pasien biasanya terbaring dengan gelisah dan kelihatan pucat
+2. Hipertensi/hipotensi
+3. Dapat terdengar suara murmur dan gallop S3
+4. Ronki basah disertai peningkatan vena jugularis dapat ditemukan pada
+AMI yang disertai edema paru
+5. Dapat ditemukan aritmia
+
+226
+
+Pemeriksaan Penunjang
+EKG:
+1. Pada ST Elevation Myocardial infarct (STEMI), terdapat elevasi segmen
+ST diikuti dengan perubahan sampai inversi gelombang T, kemudian
+muncul peningkatan gelombang Q minimal di dua sadapan.
+2. Pada Non ST Elevation Myocardial infarct (NSTEMI), EKG yg ditemukan
+dpt berupa depresi segmen ST dan inversi gelombang T,atau EKG yang
+normal.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasar anamnesis, pemeriksaan fisik dan penunjang.
+Kriteria diagnosis pasti jika terdapat 2 dari 3 hal di bawah ini:
+1. Klinis: nyeri dada khas angina
+2. EKG: ST elevasi atau ST depresi atau T inverted.
+3. Laboratorium: peningkatan enzim jantung
+Klasifikasi
+1. STEMI
+2. NSTEMI / UAP
+Diagnosis Banding
+Angina pektoris prinzmetal, Unstable angina pectoris, Ansietas, Diseksi aorta,
+Dispepsia, Miokarditis, Pneumothoraks, Emboli paru
+Komplikasi
+1. Aritmia letal
+2. Perluasan infark dan iskemia paska infark
+3. Disfungsi otot jantung
+4. Ruptur miokard
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Segera rujuk setelah pemberian :
+1. Oksigen 2-4 liter/menit
+2. Nitrat, ISDN 5-10 mg sublingual maksimal 3 kali
+3. Aspirin, dosis awal 320 mg dilanjutkan dosis pemeliharaan 1 x 160 mg
+4. Dirujuk dengan terpasang infus dan oksigen
+Pemeriksaan Penunjang Lanjutan
+EKG serial
+Konseling dan Edukasi
+1. Edukasi untuk kemungkinan kegawatan dan segera dirujuk
+2. Modifikasi gaya hidup
+
+227
+
+Kriteria Rujukan
+Segera dirujuk ke layanan sekunder dengan spesialis jantung atau spesialis
+penyakit dalam.
+Peralatan
+1. Tabung oksigen
+2. Masker oksigen
+3. Elektrokardiografi
+Prognosis
+Prognosis umumnya dubia, tergantung pada pada tatalaksana dini dan tepat.
+Referensi
+1. Panduan Pelayanan Medik, PAPDI, 2009 (Departemen Ilmu Penyakit
+Dalam FKUI RSCM, 2004)
+2. Isselbacher, J Kurt. Harrison Prinsip-Prinsip Ilmu Penyakit Dalam Edisi 13
+Volume 3. Jakarta: EGC.2000 (Isselbacher, 2000)
+th
+3. O’Rouke., Walsh., Fuster. Hurst’s The Heart Manual of Cardiology.12
+Ed.McGrawHill.2009. (Isselbacher, 2000)
+4. Sudoyo, W. Aaru, Bambang Setiyohadi. Ilmu Penyakit Dalam Jilid III Edisi
+IV. Jakarta: FKUI.2007. (Sudoyo, et al., 2006)
+
+3.
+
+Takikardia
+
+No. ICPC-2
+No. ICD-10
+
+Tingkat Kemampuan
+
+: K79 Paroxysmal Tachicardy
+: R00.0 Tachicardy Unspecified
+I47.1 Supraventicular Tachicardy
+I47.2 Ventricular Tachicardy
+: 3B
+
+Masalah Kesehatan
+Takikardi adalah suatu kondisi dimana denyut jantung istirahat seseorang
+secara abnormal lebih dari 100 kali per menit. Sedangkan supraventikular
+takikardi (SVT) adalah takikardi yang berasal dari sumber di atas ventrikel
+(atrium atau AV junction), dengan ciri gelombang QRS sempit (< 0,12ms) dan
+frekuensi lebih dari 150 kali per menit.
+Ventrikular Takikardi (VT) adalah takikardi yang berasal dari ventrikel, dengan
+ciri gelombang QRS lebar (> 0,12ms) dan frekuensi biasanya lebih dari 150
+kali per menit. VT ini bisa menimbulkan gangguan hemodinamik yang
+memerlukan tindakan resusitasi.
+
+228
+
+Hasil Anamnesis (Subjective)
+Keluhan
+Gejala utama meliputi:
+1. Palpitasi
+2. Sesak napas
+3. Mudah lelah
+4. Nyeri atau rasa tidak nyaman di dada
+5. Denyut jantung istirahat lebih dari 100 kali per menit
+6. Penurunan tekanan darah dapat terjadi pada kondisi yang tidak stabil
+7. Pusing
+8. Sinkop
+9. Berkeringat
+10. Penurunan kesadaran bila terjadi gangguan hemodinamik
+Faktor Risiko
+1. Penyakit Jantung Koroner
+2. Kelainan Jantung
+3. Stress dan gangguan kecemasan
+4. Gangguan elektrolit
+5. Hipertiroid
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective )
+Pemeriksaan Fisik Patognomonis
+1. Denyut jantung melebihi 100 kali per menit dan bisa menjadi sangat cepat
+dengan frekuensi > 150 kali per menit pada keadaan SVT dan VT
+2. Takipnea
+3. Hipotensi
+4. Sering disertai gelisah hingga penurunan kesadaran pada kondisi yang
+tidak stabil
+Pemeriksaan Penunjang
+EKG
+1. SVT: kompleks QRS sempit (< 0,12ms) dengan frekuensi > 150 kali per
+menit. Gelombang P bisa ada atau terkubur dalam kompleks QRS.
+2. VT: terdapat kompleks QRS lebar (> 0,12ms), tiga kali atau lebih secara
+berurutan. Frekuensi nadi biasanya > 150 kali per menit
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan
+penunjang.
+Diagnosis Banding: Komplikasi
+Dapat menyebabkan kematian
+
+229
+
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Tata Laksana Takikardia Tidak Stabil
+Keadaan ini merupakan keadaan yang mengancam jiwa terutama bila disertai
+hemodinamik yang tidak stabil. Bila hemodinamik tidak stabil (tekanan darah
+sistolik < 90 mmHg) dengan nadi melemah, apalagi disertai penurunan
+kesadaran bahkan pasien menjadi tidak responsif harus dilakukan kardioversi
+baik dengan obat maupun elektrik. Kondisi ini harus segera dirujuk dengan
+terpasang infus dan resusitasi jantung paru bila tidak responsif. Oksigen
+diberikan dengan sungkup O2 10-15 liter per menit.
+Pada kondisi stabil, SVT dapat diatasi dengan dilakukan vagal manuver
+(memijat arteri karotis atau bola mata selama 10-15 menit). Bila tidak respon,
+dilanjutkan dengan pemberian adenosin 6 mg bolus cepat. Bila tidak respon
+boleh diulang dengan 12 mg sebanyak dua kali. Bila tidak respon atau
+adenosin tidak tersedia, segera rujuk ke layanan sekunder. Pada VT, segera
+rujuk dengan terpasang infus dan oksigen O2 nasal 4 liter per menit.
+Takikardia Stabil
+Tatalaksana tergantung penyebab, bila sinus takikardia, istirahatkan pasien,
+dan berikan oksigen, evaluasi penyebab (kardiak atau ekstrakardiak seperti
+nyeri, masalah paru, cemas) bila tidak ada perubahan maka dapat dirujuk.
+Konseling dan Edukasi
+Edukasi kepada keluarga bahwa keadaan ini dapat mengancam jiwa dan perlu
+dilakukan rujukan karena membutuhkan penanganan yang cepat dan tepat.
+Kriteria Rujukan
+Segera rujuk setelah pertolongan pertama dengan pemasangan infus dan
+oksigen.
+Peralatan
+1. EKG
+2. Bag valve mask
+Prognosis
+Prognosis dalam kondisi ini umumnya dubia, tergantung dari penatalaksanaan
+selanjutnya.
+Referensi
+Panduan Pelayanan Medik, PAPDI, 2009
+
+230
+
+4.
+
+Gagal Jantung Akut dan Kronik
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+Gagal jantung akut
+Gagal jantung kronik
+
+: K77 Heart failure
+: I50.9 Heart failure, unspecified
+: 3B
+: 3A
+
+Masalah Kesehatan
+Gagal jantung (akut dan kronik) merupakan masalah kesehatan yang
+menyebabkan penurunan kualitas hidup, tingginya rehospitalisasi karena
+kekambuhan yang tinggi dan peningkatan angka kematian.
+Prevalensi kasus gagal jantung di komunitas meningkat seiring dengan
+meningkatnya usia yaitu berkisar 0,7% (40-45 tahun), 1,3% (55-64 tahun), dan
+8,4% (75 tahun ke atas). Lebih dari 40% pasien kasus gagal jantung memiliki fraksi
+ejeksi lebih dari 50%. Pada usia 40 tahun, risiko terjadinya gagal jantung sekitar
+21% untuk lelaki dan 20,3% pada perempuan.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Sesak pada saat beraktifitas (dyspneu d’effort)
+2. Gangguan napas pada perubahan posisi (ortopneu)
+3. Sesak napas malam hari (paroxysmal nocturnal dyspneu)
+Keluhan tambahan: lemas, mual, muntah dan gangguan mental pada orangtua
+Faktor Risiko
+1. Hipertensi
+2. Dislipidemia
+3. Obesitas
+4. Merokok
+5. Diabetes melitus
+6. Riwayat gangguan jantung sebelumnya
+7. Riwayat infark miokard
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana(Objective)
+Pemeriksaan Fisik:
+1. Peningkatan tekanan vena jugular
+2. Frekuensi pernapasan meningkat
+3. Kardiomegali
+4. Gangguan bunyi jantung (gallop)
+5. Ronki pada pemeriksaan paru
+6. Hepatomegali
+7. Asites
+8. Edema perifer
+
+231
+
+Pemeriksaan Penunjang
+1. X Ray thoraks untuk menilai kardiomegali dan melihat gambaran edema
+paru
+2. EKG (hipertrofi ventrikel kiri, atrial fibrilasi, perubahan gelombang T, dan
+gambaran abnormal lain).
+3. Darah perifer lengkap
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan kriteria Framingham yaitu minimal 1 kriteria
+mayor dan 2 kriteria minor.
+Kriteria Mayor:
+1. Sesak napas tiba-tiba pada malam hari (paroxysmal nocturnal dyspneu)
+2. Distensi vena-vena leher
+3. Peningkatan tekanan vena jugularis
+4. Ronki basah basal
+5. Kardiomegali
+6. Edema paru akut
+7. Gallop (S3)
+8. Refluks hepatojugular positif
+Kriteria Minor:
+1. Edema ekstremitas
+2. Batuk malam
+3. Dyspneu d’effort (sesak ketika beraktifitas)
+4. Hepatomegali
+5. Efusi pleura
+6. Penurunan kapasitas vital paru sepertiga dari normal
+7. Takikardi >120 kali per menit
+Diagnosis Banding
+1. Penyakit paru: obstruktif kronik (PPOK), asma, pneumonia, infeksi paru
+berat (ARDS), emboli paru
+2. Penyakit Ginjal: Gagal ginjal kronik, sindrom nefrotik
+3. Sirosis hepatik
+4. Diabetes ketoasidosis
+Komplikasi
+1. Syok kardiogenik
+2. Gangguan keseimbangan elektrolit
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Modifikasi gaya hidup
+a. Pembatasan asupan cairan maksimal 1,5 liter (ringan), maksimal 1 liter
+(berat)
+
+232
+
+b. Berhenti merokok dan konsumsi alkohol
+2. Aktivitas fisik
+a. Pada kondisi akut berat: tirah baring
+b. Pada kondisi sedang atau ringan: batasi beban kerja sampai 60%
+hingga 80% dari denyut nadi maksimal (220/umur)
+3. Penatalaksanaan farmakologi
+Pada gagal jantung akut:
+a. Terapi oksigen 2-4 liter per menit
+b. Pemasangan iv line untuk akses dilanjutkan dengan pemberian
+furosemid injeksi 20 s/d 40 mg bolus dapat diulang tiap jam sampai
+dosis maksimal 600 mg/hari.
+c. Segera rujuk.
+Pada gagal jantung kronik:
+a. Diuretik: diutamakan loop diuretic (furosemid) bila perlu dapat
+dikombinasikan Thiazid, bila dalam 24 jam tidak ada respon rujuk ke
+layanan sekunder.
+b. ACE Inhibitor (ACE-I) atau Angiotensine II receptor blocker (ARB)
+mulai dari dosis terkecil dan titrasi dosis sampai tercapai dosis yang
+efektif dalam beberapa minggu. Bila pengobatan sudah mencapai
+dosis maksimal dan target tidak tercapai segera dirujuk.
+c. Digoksin diberikan bila ditemukan takikardi untuk menjaga denyut nadi
+tidak terlalu cepat.
+Konseling dan Edukasi
+1. Edukasi tentang penyebab dan faktor risiko penyakit gagal jantung kronik
+misalnya tidak terkontrolnya tekanan darah, kadar lemak atau kadar gula
+darah.
+2. Pasien dan keluarga perlu diberitahu tanda-tanda kegawatan
+kardiovaskular dan pentingnya untuk kontrol kembali setelah pengobatan
+di rumah sakit.
+3. Patuh dalam pengobatan yang telah direncanakan.
+4. Menjaga lingkungan sekitar kondusif untuk pasien beraktivitas dan
+berinteraksi.
+5. Melakukan konferensi keluarga untuk mengidentifikasi faktor-faktor
+pendukung dan penghambat penatalaksanaan pasien, serta menyepakati
+bersama peran keluarga pada masalah kesehatan pasien.
+Kriteria Rujukan
+1. Pasien dengan gagal jantung harus dirujuk ke fasilitas peayanan
+kesehatan sekunder yang memiliki dokter spesialis jantung atau spesialis
+penyakit dalam untuk perawatan maupun pemeriksaan lanjutan seperti
+ekokardiografi.
+2. Pada kondisi akut, dimana kondisi klinis mengalami perburukan dalam
+waktu cepat harus segera dirujuk layanan sekunder atau layanan tertier
+terdekat untuk dilakukan penanganan lebih lanjut.
+
+233
+
+Peralatan
+1. EKG
+2. Radiologi (X ray thoraks)
+3. Laboratorium untuk pemeriksaan darah perifer lengkap
+Prognosis
+Tergantung dari berat ringannya penyakit, komorbid dan respon pengobatan.
+Referensi
+1. Panduan Pelayanan Medik. PAPDI. 2009.
+2. Usatine, R.P. The Color Atlas Of Family Medicine. 2009. (Usatine, et al.,
+2008)
+3. Rakel, R.E. Rakel, D.P.Textbook Of Family Medicine.2011. (RE & Rakel,
+2011)
+
+5.
+
+Cardiorespiratory Arrest
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: K80 cardiac arrhytmia NOS
+: R09.2 Respiratory arrest/ Cardiorespiratory failure
+: 3B
+
+Masalah Kesehatan
+Cardiorespiratory Arrest (CRA) adalah kondisi kegawatdaruratan karena
+berhentinya aktivitas jantung paru secara mendadak yang mengakibatkan
+kegagalan sistem sirkulasi. Hal ini disebabkan oleh malfungsi mekanik jantung
+paru atau elektrik jantung. Kondisi yang mendadak dan berat ini
+mengakibatkan kerusakan organ.
+Henti jantung adalah konsekuensi dari aktivitas otot jantung yang tidak
+terkoordinasi. Dengan EKG, ditunjukkan dalam bentuk Ventricular Fibrillation
+(VF). Satu menit dalam keadaan persisten VF, aliran darah koroner menurun
+hingga tidak ada sama sekali. Dalam 4 menit, aliran darah katoris tidak ada
+sehingga menimbulkan kerusakan neurologi secara permanen.
+Jenis henti jantung
+1. Pulseless Electrical Activity (PEA)
+2. Takikardia Ventrikel
+3. Fibrilasi Ventrikel
+4. Asistole
+
+234
+
+Hasil Anamnesis (Subjective)
+Keluhan
+Pasien dibawa karena pingsan mendadak dengan henti jantung dan paru.
+Sebelumnya, dapat ditandai dengan fase prodromal berupa nyeri dada, sesak,
+berdebar dan lemah.
+Hal yang perlu ditanyakan kepada keluarga pasien adalah untuk mencari
+penyebab terjadinya CRA antara lain oleh:
+1. 5 H (hipovolemia, hipoksia, hidrogen ion atau asidosis, hiper atau
+hipokalemia dan hipotermia)
+2. 5 T (tension pneumothorax, tamponade, tablet atau overdosis obat,
+trombosis koroner, dan thrombosis pulmoner), tersedak, tenggelam, gagal
+jantung akut, emboli paru, atau keracunan karbon monoksida.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Pada pemeriksaan tanda vital ditemukan:
+1. Pasien tidak sadar
+2. Tidak ada nafas
+3. Tidak teraba denyut nadi di arteri-arteri besar (karotis dan femoralis).
+Pemeriksaan Penunjang
+EKG
+Gambaran EKG biasanya menunjukkan gambaran VF (Ventricular Fibrillation).
+Selain itu dapat pula terjadi asistol, yang survival rate-nya lebih rendah
+daripada VF.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan pemeriksaan fisik sedangkan anamnesis
+berguna untuk mengidentifikasi penyebabnya.
+Diagnosis Banding: Komplikasi
+Konsekuensi dari kondisi ini adalah hipoksia ensefalopati, kerusakan neurologi
+permanen dan kematian.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Melakukan resusitasi jantung paru pada pasien, sesegera mungkin tanpa
+menunggu anamnesis dan EKG.
+2. Pasang oksigen dan IV line
+
+235
+
+Konseling dan Edukasi
+Memberitahu keluarga mengenai kondisi pasien dan tindak lanjut dari tindakan
+yang telah dilakukan, serta meminta keluarga untuk tetap tenang pada kondisi
+tersebut.
+Rencana Tindak Lanjut
+Monitor selalu kondisi pasien hingga dirujuk ke spesialis.
+Kriteria rujukan
+Setelah sirkulasi spontan kembali (Return of Spontaneous Circulation/ROSC)
+pasien dirujuk ke layanan sekunder untuk tatalaksana lebih lanjut.
+Peralatan
+1. Elektrokardiografi (EKG)
+2. Tabung oksigen
+3. Bag valve mask
+Prognosis
+Prognosis umumnya dubia ad malam, tergantung pada waktu dilakukannya
+penanganan medis.
+Referensi
+1. Bigatello, L.M. et al. Adult and Pediatric Rescucitation in Critical Care
+Handbook of the Massachusetts General Hospital. 4Ed. Philadelphia:
+Lippincott Williams & Wilkins. 2006. p: 255-279. (Bigatello, 2006)
+th
+2. O’Rouke. Walsh. Fuster. Hurst’s The Heart Manual of Cardiology.12
+Ed.McGraw Hill. 2009.
+3. Sudoyo, W. Aaru, B.S. Ilmu Penyakit Dalam Jilid III Edisi IV. Jakarta: FKUI.
+2007.
+
+6.
+
+Hipertensi Esensial
+
+No ICPC-2
+No ICD-10
+Tingkat Kemampuan
+
+: K86 Hypertension uncomplicated
+: I10 Essential (primary) hypertension
+: 4A
+
+Masalah Kesehatan
+Hipertensi esensial merupakan hipertensi yang tidak diketahui penyababnya.
+Hipertensi menjadi masalah karena meningkatnya prevalensi, masih banyak
+pasien yang belum mendapat pengobatan, maupun yang telah mendapat
+terapi tetapi target tekanan darah belum tercapai serta adanya penyakit
+penyerta dan komplikasi yang dapat meningkatkan morbiditas dan mortalitas.
+
+236
+
+Hasil Anamnesis (Subjective)
+Keluhan
+Mulai dari tidak bergejala sampai dengan bergejala. Keluhan hipertensi antara
+lain:
+1. Sakit atau nyeri kepala
+2. Gelisah
+3. Jantung berdebar-debar
+4. Pusing
+5. Leher kaku
+6. Penglihatan kabur
+7. Rasa sakit di dada
+Keluhan tidak spesifik antara lain tidak nyaman kepala, mudah lelah dan
+impotensi.
+Faktor Risiko
+Faktor risiko yang tidak dapat dimodifikasi:
+1. Umur
+2. Jenis kelamin
+3. Riwayat hipertensi dan penyakit kardiovaskular dalam keluarga.
+Faktor risiko yang dapat dimodifikasi:
+1. Riwayat pola makan (konsumsi garam berlebihan)
+2. Konsumsi alkohol berlebihan
+3. Aktivitas fisik kurang
+4. Kebiasaan merokok
+5. Obesitas
+6. Dislipidemia
+7. Diabetus Melitus
+8. Psikososial dan stres
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Pasien tampak sehat, dapat terlihat sakit ringan-berat bila terjadi
+komplikasi hipertensi ke organ lain.
+2. Tekanan darah meningkat sesuai kriteria JNC VII.
+3. Pada pasien dengan hipertensi, wajib diperiksa status neurologis dan
+pemeriksaan fisik jantung (tekanan vena jugular, batas jantung, dan ronki).
+Pemeriksaan Penunjang
+1. Labortorium
+Urinalisis (proteinuria), tes gula darah, profil lipid, ureum, kreatinin
+2. X ray thoraks
+3. EKG
+4. Funduskopi
+
+237
+
+Penegakan Diagnosis (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik.
+Tabel 6.1 Klasifikasi tekanan darah berdasarkan Joint National
+Committee VII (JNC VII)
+Klasifikasi
+
+TD Sistolik
+
+TD Diastolik
+
+< 120 mmHg
+
+< 80 mm Hg
+
+Pre-Hipertensi
+
+120-139 mmHg
+
+80-89
+mmHg
+
+Hipertensi stage -1
+
+140-159 mmHg
+
+80-99
+mmHg
+
+Hipertensi stage -2
+
+≥ 160 mmHg
+
+≥ 100 mmHg
+
+Normal
+
+Diagnosis Banding
+White collar hypertension, Nyeri akibat tekanan intraserebral, Ensefalitis
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Peningkatan tekanan darah dapat dikontrol dengan perubahan gaya hidup dan
+terapi farmakologis.
+Tabel 6.2 Modifikasi gaya hidup untuk hipertensi
+Modifikasi
+Penurunan berat
+badan
+
+Rekomendasi
+Jaga berat badan ideal (BMI:
+2
+18,5 - 24,9 kg/m )
+
+Rerata penurunan TDS
+5 – 20 mmHg/ 10 kg
+
+Dietary Approaches
+to Stop Hypertension
+(DASH)
+
+Diet kaya buah, sayuran, produk
+rendah lemak dengan jumlah
+lemak total dan lemak jenuh
+yang rendah
+
+8 – 14 mmHg
+
+Pembatasan asupan
+natrium
+
+Kurangi hingga <100 mmol per
+hari (2.0 g natrium atau 6.5 g
+natrium klorida atau 1 sendok
+teh garam perhari)
+
+2 – 8 mmHg
+
+Aktivitas fisik aerobic
+
+Aktivitas fisik aerobik yang
+teratur (mis: jalan cepat) 30
+menit sehari, hampir setiap hari
+dalam seminggu
+
+4 – 9 mmHg
+
+2 – 4 mmHg
+
+Stop alkohol
+
+238
+
+Modifikasi gaya
+hidup
+
+Target tekanan darah tidak tercapai
+<140/90 mmHg, ATAU <130/80 mmHg pada pasien
+DM, penyakit ginjal kronik, memiliki > 3 faktor
+risiko, ada penyakit tertentu
+Obat-obatan
+inisial
+Tanpa indikasi
+khusus
+
+Dengan indikasi
+khusus
+
+Stage I
+
+Stage II
+
+Diuretik tiazid,
+dapat
+dipertimbangkan
+ACEi, BB, CCB,
+atau kombinasi
+
+Kombinasi 2
+obat
+Biasanya
+diuretik dengan
+ACEi, BB, atau
+CCB
+
+Obat-obatan untuk
+indikasi khusus
+tersebut
+ditambah obat
+antihipertensi lain
+(diuretik, ACEi, BB,
+CCB) sesuai
+kebutuhan
+
+Target tekanan darah belum
+tercapai
+
+Optimalkan dosis atau tambahkan obat
+antihipertensi lain. Pertimbangkan konsultasi
+dokter spesialis
+
+Gambar 6.1 Alogaritme tata laksana hipertensi
+1. Hipertensi tanpa compelling indication
+a. Hipertensi stage 1 dapat diberikan diuretik (HCT 12.5-50 mg/hari, atau
+pemberian penghambat ACE (captopril 3x12,5-50 mg/hari), atau
+nifedipin long acting 30-60 mg/hari) atau kombinasi.
+b. Hipertensi stage 2
+Bila target terapi tidak tercapai setelah observasi selama 2 minggu,
+dapat diberikan kombinasi 2 obat, biasanya golongan diuretik, tiazid
+dan penghambat ACE atau penyekat reseptor beta atau penghambat
+kalsium.
+c. Pemilihan anti hipertensi didasarkan ada tidaknya kontraindikasi dari
+masing-masing antihipertensi di atas. Sebaiknya pilih obat hipertensi
+yang diminum sekali sehari atau maksimum 2 kali sehari.
+Bila target tidak tercapai maka dilakukan optimalisasi dosis atau
+ditambahkan obat lain sampai target tekanan darah tercapai
+
+239
+
+Tabel 6.3 Obat yang direkomendasikan untuk hipertensi
+Indikasi
+khusus
+
+Gagal
+jantung
+Paska infark
+miokard akut
+Risiko tinggi
+penyakit
+coroner
+DM
+Penyakit
+ginjal kronik
+Pencegahan
+stroke
+berulang
+
+Diur
+etik
+
+Penye
+kat beta
+(BB)
+
+√
+
+√
+
+Obat yang direkomendasikan
+Peng
+Antagonis Pengham
+hambat
+reseptor
+bat kanal
+ACE
+AII (ARB)
+kalsium
+(ACEi)
+(CCB)
+√
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+√
+
+√
+
+Antago
+nis aldo
+steron
+√
+√
+
+√
+
+√
+√
+
+√
+
+√
+
+2. Kondisi khusus lain
+a. Lanjut Usia
+i. Diuretik (tiazid) mulai dosis rendah 12,5 mg/hari.
+ii. Obat hipertensi lain mempertimbangkan penyakit penyerta.
+b. Kehamilan
+i. Golongan metildopa, penyekat reseptor β, antagonis kalsium,
+vasodilator.
+ii. Penghambat ACE dan antagonis reseptor AII tidak boleh digunakan
+selama kehamilan.
+Komplikasi
+1. Hipertrofi ventrikel kiri
+2. Proteinurea dan gangguan fungsi ginjal
+3. Aterosklerosis pembuluh darah
+4. Retinopati
+5. Stroke atau TIA
+6. Gangguan jantung, misalnya infark miokard, angina pektoris, serta gagal
+jantung
+Konseling dan Edukasi
+1. Edukasi tentang cara minum obat di rumah, perbedaan antara obat-obatan
+yang harus diminum untuk jangka panjang (misalnya untuk mengontrol
+tekanan darah) dan pemakaian jangka pendek untuk menghilangkan
+gejala (misalnya untuk mengatasi mengi), cara kerja tiap-tiap obat, dosis
+yang digunakan untuk tiap obat dan berapa kali minum sehari.
+
+240
+
+2. Pemberian obat anti hipertensi merupakan pengobatan jangka panjang.
+Kontrol pengobatan dilakukan setiap 2 minggu atau 1 bulan untuk
+mengoptimalkan hasil pengobatan.
+3. Penjelasan penting lainnya adalah tentang pentingnya menjaga kecukupan
+pasokan obat-obatan dan minum obat teratur seperti yang disarankan
+meskipun tak ada gejala.
+4. Individu dan keluarga perlu diinformasikan juga agar melakukan
+pengukuran kadar gula darah, tekanan darah dan periksa urin secara
+teratur. Pemeriksaan komplikasi hipertensi dilakukan setiap 6 bulan atau
+minimal 1 tahun sekali.
+Kriteria Rujukan
+1. Hipertensi dengan komplikasi
+2. Resistensi hipertensi
+3. Hipertensi emergensi (hipertensi dengan tekanan darah sistole >180)
+Peralatan
+1. Laboratorium untuk melakukan pemeriksaan urinalisis dan glukosa
+2. EKG
+3. Radiologi (X ray thoraks)
+Prognosis
+Prognosis umumnya bonam apabila terkontrol.
+Referensi
+1. Direktorat Penyakit Tidak Menular. Buku Pedoman
+Hipertensi. Jakarta : Kementerian Kesehatan RI. 2013.
+Kesehatan Republik Indonesia, 2013)
+
+241
+
+Pengendalian
+(Kementerian
+
+G. Muskuloskeletal

@@ -1,0 +1,451 @@
+M. Ginjal Dan Saluran Kemih
+
+1.
+
+Infeksi Saluran Kemih
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: U71 Cystitis/urinary infection others
+: N39.0 Urinary tract infection, site not specified
+: 4A
+
+Masalah Kesehatan
+Infeksi saluran kemih merupakan salah satu masalah kesehatan akut yang sering
+terjadi pada perempuan. Masalah infeksi saluran kemih tersering adalah sistitis akut,
+sistitis kronik, dan uretritis.
+Hasil Anamnesis (Subjective)
+Keluhan
+Pada sistitis akut keluhan berupa:
+1. Demam
+2. Susah buang air kecil
+3. Nyeri saat di akhir BAK (disuria terminal)
+4. Sering BAK (frequency)
+5. Nokturia
+6. Anyang-anyangan (polakisuria)
+7. Nyeri suprapubik
+Pada pielonefritis akut keluhan dapat juga berupa nyeri pinggang, demam tinggi
+sampai menggigil, mual muntah, dan nyeri pada sudut kostovertebra.
+Faktor Risiko
+1. Riwayat diabetes melitus
+2. Riwayat kencing batu (urolitiasis)
+3. Higiene pribadi buruk
+4. Riwayat keputihan
+5. Kehamilan
+6. Riwayat infeksi saluran kemih sebelumnya
+7. Riwayat pemakaian kontrasepsi diafragma
+8. Kebiasaan menahan kencing
+9. Hubungan seksual
+10. Anomali struktur saluran kemih
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Demam
+
+558
+
+2. Flank pain (Nyeri ketok pinggang belakang/costovertebral angle)
+3. Nyeri tekan suprapubik
+Pemeriksaan Penunjang
+1. Darah perifer lengkap
+2. Urinalisis
+3. Ureum dan kreatinin
+4. Kadar gula darah
+Pemeriksaan penunjang tambahan (di layanan sekunder) :
+3
+1. Urine mikroskopik berupa peningkatan >10 bakteri per lapang pandang
+2. Kultur urin (hanya diindikasikan untuk pasien yang memiliki riwayat kekambuhan
+infeksi salurah kemih atau infeksi dengan komplikasi).
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan pemeriksaan
+penunjang.
+Diagnosis Banding
+Recurrent cystitis, Urethritis, Pielonefritis, Bacterial asymptomatic
+Komplikasi
+Gagal ginjal, Sepsis , ISK berulang atau kronik kekambuhan
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Minum air putih minimal 2 liter/hari bila fungsi ginjal normal.
+2. Menjaga higienitas genitalia eksterna
+3. Pada kasus nonkomplikata, pemberian antibiotik selama 3 hari dengan pilihan
+antibiotik sebagai berikut:
+a. Trimetoprim sulfametoxazole
+b. Fluorikuinolon
+c. Amoxicillin-clavulanate
+d. Cefpodoxime
+Konseling dan Edukasi
+Pasien dan keluarga diberikan pemahaman tentang infeksi saluran kemih dan hal-hal
+yang perlu diperhatikan, antara lain:
+1. Edukasi tentang penyebab dan faktor risiko penyakit infeksi saluran kemih.
+Penyebab infeksi saluran kemih yang paling sering adalah karena masuknya
+flora anus ke kandung kemih melalui perilaku atau higiene pribadi yang kurang
+baik.
+2. Pada saat pengobatan infeksi saluran kemih, diharapkan tidak berhubungan
+seks.
+3. Waspada terhadap tanda-tanda infeksi saluran kemih bagian atas (nyeri
+pinggang) dan pentingnya untuk kontrol kembali.
+
+559
+
+4. Patuh dalam pengobatan antibiotik yang telah direncanakan.
+5. Menjaga higiene pribadi dan lingkungan.
+Kriteria Rujukan
+1. Jika ditemukan komplikasi dari ISK maka dilakukan ke layanan kesehatan
+sekunder
+2. Jika gejala menetap dan terdapat resistensi kuman, terapi antibiotika
+diperpanjang berdasarkan antibiotika yang sensitif dengan pemeriksaan kultur
+urin
+Peralatan
+Pemeriksaan laboratorium urinalisa
+Prognosis
+Prognosis pada umumnya baik, kecuali bila higiene genital tetap buruk, ISK dapat
+berulang atau menjadi kronis.
+Referensi
+1.
+2.
+3.
+4.
+
+2.
+
+Weiss,Barry.20 Common Problems In Primary Care.
+Rakel, R.E. Rakel, D.P. Textbook Of Family Medicine. 2011
+Panduan Pelayanan Medik. Jakarta: PB PABDI. 2009
+Hooton TM. Uncomplicated urinary tract infection. N Engl J Med 2012;366:102837 (Hooton, 2012)
+
+Pielonefritis Tanpa Komplikasi
+
+No ICPC-2
+No ICD-10
+Tingkat Kemampuan
+
+: U70. Pyelonephritis / pyelitis
+: N10. Acute tubulo-interstitial nephritis (applicable to: acute
+pyelonephritis)
+: 4A
+
+Masalah Kesehatan
+Pielonefritis akut (PNA) tanpa komplikasi adalah peradangan parenkim dan pelvis
+ginjal yang berlangsung akut. Tidak ditemukan data yang akurat mengenai tingkat
+insidens PNA nonkomplikata di Indonesia. Pielonefritis akut nonkomplikata jauh lebih
+jarang dibandingkan sistitis (diperkirakan 1 kasus pielonefritis berbanding 28 kasus
+sistitis).
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Onset penyakit akut dan timbulnya tiba-tiba dalam beberapa jam atau hari
+2. Demam dan menggigil
+
+560
+
+3. Nyeri pinggang, unilateral atau bilateral
+4. Sering disertai gejala sistitis, berupa: frekuensi, nokturia, disuria, urgensi, dan
+nyeri suprapubik
+5. Kadang disertai pula dengan gejala gastrointestinal, seperti: mual, muntah, diare,
+atau nyeri perut
+Faktor Risiko
+Faktor risiko PNA serupa dengan faktor risiko penyakit infeksi saluran kemih lainnya,
+yaitu:
+1. Lebih sering terjadi pada wanita usia subur
+2. Sangat jarang terjadi pada pria berusia <50 tahun, kecuali homoseksual
+3. Koitus per rektal
+4. HIV/AIDS
+5. Adanya penyakit obstruktif urologi yang mendasari misalnya tumor, striktur, batu
+saluran kemih, dan pembesaran prostat
+6. Pada anak-anak dapat terjadi bila terdapat refluks vesikoureteral
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Tampilan klinis tiap pasien dapat bervariasi, mulai dari yang ringan hingga
+menunjukkan tanda dan gejala menyerupai sepsis. Pemeriksaan fisis menunjukkan
+tanda-tanda di bawah ini:
+o
+1. Demam dengan suhu biasanya mencapai >38,5 C
+2. Takikardi
+3. Nyeri ketok pada sudut kostovertebra, unilateral atau bilateral
+4. Ginjal seringkali tidak dapat dipalpasi karena adanya nyeri tekan dan spasme
+otot
+5. Dapat ditemukan nyeri tekan pada area suprapubik
+6. Distensi abdomen dan bising usus menurun (ileus paralitik)
+Pemeriksaan Penunjang Sederhana
+1. Urinalisis
+Urin porsi tengah (mid-stream urine) diambil untuk dilakukan pemeriksaan dipstick dan mikroskopik. Temuan yang mengarahkan kepada PNA adalah:
+a. Piuria, yaitu jumlah leukosit lebih dari 5 – 10 / lapang pandang besar (LPB)
+pada pemeriksaan mikroskopik tanpa / dengan pewarnaan Gram, atau l
+eukosit esterase (LE) yang positif pada pemeriksaan dengan dip-stick.
+b. Silinder leukosit, yang merupakan tanda patognomonik dari PNA, yang dapat
+ditemukan pada pemeriksaan mikroskopik tanpa/dengan pewarnaan Gram.
+c. Hematuria, yang umumnya mikroskopik, namun dapat pula gross. Hematuria
+biasanya muncul pada fase akut dari PNA. Bila hematuria terus terjadi
+walaupun infeksi telah tertangani, perlu dipikirkan penyakit lain, seperti batu
+saluran kemih, tumor, atau tuberkulosis.
+4
+d. Bakteriuria bermakna, yaitu > 10 koloni/ml, yang nampak lewat pemeriksaan
+mikroskopik tanpa /dengan pewarnaan Gram. Bakteriuria juga dapat
+dideteksi lewat adanya nitrit pada pemeriksaan dengan dip-stick.
+
+561
+
+2. Kultur urin dan tes sentifitas-resistensi antibiotik
+Pemeriksaan ini dilakukan untuk mengetahui etiologi dan sebagai pedoman
+pemberian antibiotik dan dilakukan di layanan sekunder.
+3. Darah perifer dan hitung jenis
+Pemeriksaan ini dapat menunjukkan adanya leukositosis dengan predominansi
+neutrofil.
+4. Kultur darah
+Bakteremia terjadi pada sekitar 33% kasus, sehingga pada kondisi tertentu
+pemeriksaan ini juga dapat dilakukan.
+5. Foto polos abdomen (BNO)
+Pemeriksaan ini dilakukan untuk menyingkirkan adanya obstruksi atau batu di
+saluran kemih.
+Penegakan Diagnosis (Assessment)
+Diagnosis ditegakkan melalui anamnesis, pemeriksaan fisik, dan pemeriksaan
+penunjang sebagaimana telah dijelaskan sebelumnya.
+Diagnosis banding:
+Uretritis akut, Sistitis akut, Akut abdomen, Appendisitis, Prostatitis bakterial akut,
+Servisitis, Endometritis, Pelvic inflammatory disease
+Penatalaksanaan Komprehensif (Plan)
+1. Non-medikamentosa
+a. Identifikasi dan meminimalkan faktor risiko
+b. Tatalaksana kelainan obstruktif yang ada
+c. Menjaga kecukupan hidrasi
+2. Medikamentosa
+a. Antibiotika empiris
+Antibiotika parenteral:
+Pilihan antibiotik parenteral untuk pielonefritis akut nonkomplikata antara lain
+ceftriaxone, cefepime, dan fluorokuinolon (ciprofloxacin dan levofloxacin).
+Jika dicurigai infeksi enterococci berdasarkan pewarnaan Gram yang
+menunjukkan basil Gram positif, maka ampisillin yang dikombinasi dengan
+Gentamisin, Ampicillin Sulbaktam, dan Piperacillin Tazobactam merupakan
+pilihan empiris spektrum luas yang baik. Terapi antibiotika parenteral pada
+pasien dengan pielonefritis akut nonkomplikata dapat diganti dengan obat
+oral setelah 24-48 jam, walaupun dapat diperpanjang jika gejala menetap.
+Antibiotika oral:
+Antibiotik oral empirik awal untuk pasien rawat jalan adalah fluorokuinolon
+untuk basil Gram negatif. Untuk dugaan penyebab lainnya dapat digunakan
+Trimetoprim-sulfametoxazole. Jika dicurigai enterococcus, dapat diberikan
+Amoxicilin sampai didapatkan organisme penyebab. Sefalosporin generasi
+kedua atau ketiga juga efektif, walaupun data yang mendukung masih
+sedikit. Terapi pyeolnefritis akut nonkomplikata dapat diberikan selama 7 hari
+
+562
+
+untuk gejala klinis yang ringan dan sedang dengan respons terapi yang baik.
+Pada kasus yang menetap atau berulang, kultur harus dilakukan. Infeksi
+berulang ataupun menetap diobati dengan antibiotik yang terbukti sensitif
+selama 7 sampai 14 hari
+Penggunaan antibiotik selanjutnya dapat disesuaikan dengan hasil tes
+sensitifitas dan resistensi.
+b. Simtomatik
+Obat simtomatik dapat diberikan sesuai dengan gejala klinik yang dialami
+pasien, misalnya: analgetik-antipiretik, dan anti-emetik.
+Konseling dan Edukasi
+1. Dokter perlu menjelaskan mengenai penyakit, faktor risiko, dan cara-cara
+pencegahan berulangnya PNA.
+2. Pasien seksual aktif dianjurkan untuk berkemih dan membersihkan organ
+kelamin segera setelah koitus.
+3. Pada pasien yang gelisah, dokter dapat memberikan assurance bahwa PNA
+non-komplikata dapat ditangani sepenuhnya dgn antibiotik yang tepat.
+Rencana Tindak Lanjut
+1. Apabila respons klinik buruk setelah 48 – 72 jam terapi, dilakukan re-evaluasi
+adanya faktor-faktor pencetus komplikasi dan efektifitas obat.
+2. Urinalisis dengan dip-stick urin dilakukan pasca pengobatan untuk menilai
+kondisi bebas infeksi.
+Kriteria Rujukan
+Dokter layanan primer perlu merujuk ke layanan sekunder pada kondisi-kondisi
+berikut:
+1. Ditemukan tanda-tanda urosepsis pada pasien.
+2. Pasien tidak menunjukkan respons yang positif terhadap pengobatan yang
+diberikan.
+3. Terdapat kecurigaan adanya penyakit urologi yang mendasari, misalnya: batu
+saluran kemih, striktur, atau tumor.
+Peralatan
+1.
+2.
+3.
+4.
+5.
+
+Pot urin
+Urine dip-stick
+Mikroskop
+Object glass, cover glass
+Pewarna Gram
+
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+563
+
+Referensi
+1. Achmad, I.A. et al., 2007. Guidelines Penatalaksanaan Infeksi Saluran Kemih
+dan Genitalia Pria 2007 1st ed., Jakarta: Pengurus Pusat Ikatan Ahli Urologi
+Indonesia. (Achmad, 2007)
+2. Colgan, R. et al., 2011. International Clinical Practice Guidelines for the
+Treatment of Acute Uncomplicated Cystitis and Pyelonephritis in Women : A
+2010 Update by the Infectious Diseases Society of America and the European
+Society for Microbiology and Infectious Diseases. Clinical Infectious Disease, 52,
+pp.103–120 (Colgan, 2011)
+3. Stamm, W.E., 2008. Urinary Tract Infections, Pyelonephritis, and Prostatitis. In A.
+s Fauci et al., eds. Harrison’s Principles of Internal Medicine. New York:
+McGraw-Hill, pp. 1820–1825. (Stamm, 2008)
+
+3.
+
+Fimosis
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: Y81 Phimosis
+: N47 Phimosis
+: 4A
+
+Masalah Kesehatan
+Fimosis adalah kondisi dimana preputium tidak dapat diretraksi melewati glans penis.
+Fimosis dapat bersifat fisiologis ataupun patalogis. Umumnya fimosis fisiologis
+terdapat pada bayi dan anak-anak. Pada anak usia 3 tahun 90% preputium telah
+dapat diretraksi tetapi pada sebagian anak preputium tetap lengket pada glans penis
+sehingga ujung preputium mengalami penyempitan dan mengganggu proses
+berkemih. Fimosis patologis terjadi akibat peradangan atau cedera pada preputium
+yang menimbulkan parut kaku sehingga menghalangi retraksi.
+Hasil Anamnesis (Subjective)
+Keluhan
+Keluhan umumnya berupa gangguan aliran urin seperti:
+1. Nyeri saat buang air kecil
+2. Mengejan saat buang air kecil
+3. Pancaran urin mengecil
+4. Benjolan lunak di ujung penis akibat penumpukan smegma.
+Faktor Risiko
+1. Hygiene yang buruk
+2. Episode berulang balanitis atau balanoposthitis menyebabkan skar pada
+preputium yang menyebabkan terjadinya fimosis patalogis
+3. Fimosis dapat terjadi pada 1% pria yang tidak menjalani sirkumsisi
+
+564
+
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Preputium tidak dapat diretraksi keproksimal hingga ke korona glandis
+2. Pancaran urin mengecil
+3. Menggelembungnya ujung preputium saat berkemih
+4. Eritema dan udem pada preputium dan glans penis
+5. Pada fimosis fisiologis, preputium tidak memiliki skar dan tampak sehat
+6. Pada fimosis patalogis pada sekeliling preputium terdapat lingkaran fibrotik
+7. Timbunan smegma pada sakus preputium
+Penegakan Diagnosis (Assessment)
+Diagnosis Klinis
+Diagnosis klinis ditegakkan berdasarkan gejala klinis dan pemeriksaan fisis
+Diagnosis Banding
+Parafimosis, Balanitis, Angioedema
+Komplikasi
+Dapat terjadi infeksi berulang karena penumpukan smegma.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Pemberian salep kortikosteroid (0,05% betametason) 2 kali perhari selama 2-8
+minggu pada daerah preputium.
+2. Sirkumsisi
+Rencana Tindak Lanjut
+Apabila fimosis bersifat fisiologis seiring dengan perkembangan maka kondisi akan
+membaik dengan sendirinya
+Konseling dan Edukasi
+Pemberian penjelasan terhadap orang tua atau pasien agar tidak melakukan
+penarikan preputium secara berlebihan ketika membersihkan penis karena dapat
+menimbulkan parut.
+Kriteria Rujukan
+Bila terdapat komplikasi dan penyulit untuk tindakan sirkumsisi maka dirujuk ke
+layanan sekunder.
+Peralatan
+Set bedah minor
+Prognosis
+Prognosis bonam bila penanganan sesuai
+
+565
+
+Referensi
+1. Sjamsuhidajat R, Wim de Jong. Salurankemihdanalatkelaminlelaki. Buku Ajar
+Imu Bedah.Ed.2. Jakarta: EGC,2004.
+2. Hayashi Y, Kojima Y, Mizuno K, danKohri K. Prepuce: Phimosis, Paraphimosis,
+and Circumcision. The Scientific World Journal. 2011. 11, 289–301.
+3. Drake T, Rustom J, Davies M. Phimosis in Childhood. BMJ 2013;346:f3678.
+4. TekgülS,Riedmiller H, Dogan H.S, Hoebeke P, Kocvara R,
+NijmanR,RadmayrChr, danStein R. Phimosis. Guideline of Paediatric Urology.
+European Association of Urology. 2013. hlm 9-10
+
+4.
+
+Parafimosis
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: Y81. Paraphimosis
+: N47.2 Paraphimosis
+: 4A
+
+Masalah Kesehatan
+Parafimosis merupakan kegawatdaruratan karena dapat mengakibatkan terjadinya
+ganggren yang diakibatkan preputium penis yang diretraksi sampai di sulkus
+koronarius tidak dapat dikembalikan pada kondisi semula dan timbul jeratan pada
+penis di belakang sulkus koronarius.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Pembengkakan pada penis
+2. Nyeri pada penis
+Faktor Risiko
+Penarikan berlebihan kulit preputium (forceful retraction) pada laki-laki yang belum
+disirkumsisi misalnya pada pemasangan kateter.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Preputium tertarik ke belakang glans penis dan tidak dapat dikembalikan ke
+posisi semula
+2. Terjadi eritema dan edema pada glans penis
+3. Nyeri
+4. Jika terjadi nekrosis glans penis berubah warna menjadi biru hingga kehitaman
+Penegakan Diagnosis (Assessment)
+Diagnosis Klinis
+Penegakan diagnosis berdasarkan gejala klinis dan peneriksaan fisik
+
+566
+
+Diagnosis Banding
+Angioedema, Balanitis, Penile hematoma
+Komplikasi
+Bila tidak ditangani dengan segera dapat terjadi ganggren
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Reposisi secara manual dengan memijat glans selama 3-5 menit. Diharapkan
+edema berkurang dan secara perlahan preputium dapat dikembalikan pada
+tempatnya.
+2. Dilakukan dorsum insisi pada jeratan
+Rencana Tindak Lanjut
+Dianjurkan untuk melakukan sirkumsisi.
+Konseling dan Edukasi
+Setelah penanganan kedaruratan disarankan untuk dilakukan tindakan sirkumsisi
+karena kondisi parafimosis tersebut dapat berulang.
+Kriteria Rujukan
+Bila terjadi tanda-tanda nekrotik segera rujuk ke layanan sekunder.
+Peralatan
+Set bedah minor
+Prognosis
+Prognosis bonam bila penanganan kegawatdaruratan segera dilakukan.
+Referensi
+1. Sjamsuhidajat R, Wim de Jong. Saluran kemih dan alat kelamin lelaki. Buku Ajar
+Imu Bedah.Ed.2. Jakarta: EGC,2004.
+2. Hayashi Y, Kojima Y, Mizuno K, danKohri K. Prepuce: Phimosis, Paraphimosis,
+and Circumcision. The Scientific World Journal. 2011. 11, 289–301.
+3. Drake T, Rustom J, Davies M. Phimosis in Childhood. BMJ 2013;346:f3678.
+4. TekgülS,Riedmiller H, Dogan H.S, Hoebeke P, Kocvara R, Nijman R,
+RadmayrChr, dan Stein R. Phimosis. Guideline of Paediatric Urology. European
+Association of Urology. 2013. hlm 9-10
+
+567
+
+N. Kesehatan Wanita

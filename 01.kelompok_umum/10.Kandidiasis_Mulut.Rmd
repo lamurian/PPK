@@ -1,0 +1,82 @@
+
+---
+author: <++>
+title: <++>
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+bibliography: ref.bib
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+<++>
+Kandidiasis Mulut
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: A78 Infectious desease other
+: B37.9 Candidiasis unspecified
+: 4A
+
+Masalah Kesehatan
+Infeksi Candida albicans ini menyerang kulit, mukosa maupun organ dalam,
+sedangkan pada bayi dapat terinfeksi melalui vagina saat dilahirkan, atau
+karena dot yang tidak steril
+Hasil Anamnesis (Subjective)
+Keluhan:
+Rasa gatal dan perih di mukosa mulut, rasa metal, dan daya kecap penderita
+yang berkurang
+Faktor Risiko: imunodefisiensi
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Bercak merah, dengan maserasi di daerah sekitar mulut, di lipatan
+(intertriginosa) disertai bercak merah yang terpisah di sekitarnya (satelit).
+2. Guam atau oral thrush yang diselaputi pseudomembran pada mukosa
+mulut.
+Pemeriksaan Penunjang
+Sel ragi dapat dilihat di bawah mikroskop dalam pelarut KOH 10% atau
+pewarnaan Gram.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan
+penunjang.
+Diagnosis Banding
+Peradangan mukosa mulut yang disebabkan oleh bakteri atau virus.
+
+42
+
+Komplikasi
+Diare karena kandidiasis saluran cerna.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Memperbaiki status gizi dan menjaga kebersihan oral
+2. Kontrol penyakit predisposisinya
+3. Gentian violet 1% (dibuat segar/baru) atau larutan nistatin 100.000 –
+200.000 IU/ml yang dioleskan 2 – 3 kali sehari selama 3 hari
+Rencana Tindak Lanjut
+1. Dilakukan skrining pada keluarga dan perbaikan lingkungan keluarga
+untuk menjaga tetap bersih dan kering.
+2. Pasien kontrol kembali apabila dalam 3 hari tidak ada perbaikan dengan
+obat anti jamur.
+Kriteria Rujukan
+Bila kandidiasis merupakan akibat dari penyakit lainnya, seperti HIV.
+Peralatan
+Peralatan laboratorium untuk pemeriksaan KOH
+Prognosis
+Prognosis pada pasien dengan imunokompeten umumnya bonam.
+Referensi
+1. Pengobatan dasar di Puskesmas. 2007. Jakarta. Kementerian Kesehatan
+RI. (Kementerian Kesehatan Republik Indonesia, 2007)

@@ -1,0 +1,128 @@
+---
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    collapsed: false
+    smooth_scroll: true
+    df_print: paged
+  pdf_document:
+    number_sections: true
+    df_print: kable
+    highlight: tango
+  slidy_presentation:
+    highlight: tango
+csl: $HOME$/.pandoc/vancouver-superscript.csl
+---
+
+No. ICPC-2	: A72 *Chickenpox*
+No. ICD-10	: B01.9 *Varicella without complication (Varicella NOS)*
+**Kompetensi	: 4A**
+
+## Masalah Kesehatan
+
+Infeksi akut primer oleh virus Varicella zoster yang menyerang kulit dan
+mukosa, klinis terdapat gejala konstitusi, kelainan kulit polimorf, terutama
+berlokasi di bagian sentral tubuh. Masa inkubasi 14-21 hari. Penularan melalui
+udara (air-borne) dan kontak langsung.
+
+## *Subjective*
+
+### Keluhan
+
+Demam, malaise, dan nyeri kepala. Kemudian disusul timbulnya lesi kulit
+berupa papul eritem yang dalam waktu beberapa jam berubah menjadi vesikel.
+Biasanya disertai rasa gatal.
+
+### Faktor risiko
+
+1. Anak-anak.
+2. Riwayat kontak dengan penderita varisela.
+3. Keadaan imunodefisiensi.
+
+## *Objective*
+
+### Pemeriksaan fisik
+
+**Tanda Patognomonis**  
+Erupsi kulit berupa papul eritematosa yang dalam waktu beberapa jam berubah
+menjadi vesikel. Bentuk vesikel ini khas berupa tetesan embun (tear drops).
+Vesikel akan menjadi keruh dan kemudian menjadi krusta. Sementara proses ini
+berlangsung, timbul lagi vesikel-vesikel baru yang menimbulkan gambaran
+polimorfik khas untuk varisela. Penyebaran terjadi secara sentrifugal, serta
+dapat menyerang selaput lendir mata, mulut, dan saluran napas atas.
+
+![Gambar 1.2 Varisela]{https://github.com/lamurian/lamurian.github.io/blob/master/_fig/a_varisela01.png?raw=true}
+
+### Pemeriksaan penunjang
+
+Bila diperlukan, pemeriksaan mikroskopis dengan menemukan sel Tzanck, yaitu sel
+datia berinti banyak.
+
+## *Assessment*
+
+### Diagnosis Klinis
+
+Diagnosis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik.
+
+### Diagnosis Banding
+
+1. Variola
+2. Herpes simpleks disseminata
+3. Coxsackievirus
+4. Rickettsialpox
+
+### Komplikasi
+
+Pneumonia, ensefalitis, hepatitis, terutama terjadi pada pasien dengan gangguan
+imun. Varisela pada kehamilan berisiko untuk menyebabkan infeksi intrauterin
+pada janin, menyebabkan sindrom varisela kongenital.
+
+## *Plan*
+
+### Penatalaksanaan
+
+1. Gesekan kulit perlu dihindari agar tidak mengakibatkan pecahnya vesikel.
+   Selain itu, dilakukan pemberian nutrisi TKTP, istirahat dan mencegah kontak
+   dengan orang lain.
+2. Gejala prodromal diatasi sesuai dengan indikasi. Aspirin dihindari karena
+   dapat menyebabkan Reye’s syndrome.
+3. Losio kalamin dapat diberikan untuk mengurangi gatal.
+4. Pengobatan antivirus oral, antara lain:
+   * Asiklovir: dewasa 5 x 800 mg/hari, anak-anak 4 x 20 mg/kgBB (dosis
+     maksimal 800 mg), atau
+   * Valasiklovir: dewasa 3 x 1000 mg/hari. Pemberian obat tersebut selama 7-10
+     hari dan efektif diberikan pada 24 jam pertama setelah timbul lesi.
+
+### Konseling dan Edukasi
+
+Edukasi bahwa varisella merupakan penyakit yang self-limiting pada anak yang
+imunokompeten. Komplikasi yang ringan dapat berupa infeksi bakteri sekunder.
+Oleh karena itu, pasien sebaiknya menjaga kebersihan tubuh. Penderita sebaiknya
+dikarantina untuk mencegah penularan.
+
+### Kriteria Rujukan
+
+1. Terdapat gangguan imunitas
+2. Mengalami komplikasi yang berat seperti pneumonia, ensefalitis, dan
+   hepatitis.
+
+### Peralatan
+
+Lup
+
+## Prognosis
+
+Prognosis pada pasien dengan imunokompeten adalah bonam, sedangkan
+pada pasien dengan imunokompromais, prognosis menjadi dubia ad bonam.
+
+## Referensi
+
+1. Djuanda, A., Hamzah, M., Aisah, S. 2007. Ilmu Penyakit Kulit dan Kelamin.
+   Edisi kelima. Jakarta. Balai Penerbit Fakultas Kedokteran Universitas
+   Indonesia.
+2. James, W.D., Berger, T.G., Elston, D.M. 2000. Andrew’s Diseases of the Skin:
+   Clinical Dermatology. 10$$^{th}$$ Ed. Canada. Saunders Elsevier.
+3. Perhimpunan Dokter Spesialis Kulit dan Kelamin. 2011. Pedoman Pelayanan
+   Medik. Jakarta.

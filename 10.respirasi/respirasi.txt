@@ -1,0 +1,4417 @@
+J. Respirasi
+
+1.
+
+Influenza
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: R80 Influenza
+: J11 Influenza, virus not identified
+: 4A
+
+Masalah Kesehatan
+Influenza, sering dikenal dengan flu adalah penyakit menular disebabkan oleh virus
+RNA yaitu virus influenza A, B dan lebih jarang C. Virus influenza terus mengalami
+perubahan, sehingga dalam beberapa waktu akan mengakibatkan wabah
+(pandemik) yang parah. Virus ini menyerang saluran napas atas dan paru-paru.
+Hasil Anamnesis (Subjective)
+Keluhan
+Keluhan yang sering muncul adalah demam, bersin, batuk, sakit tenggorokan,
+hidung meler, nyeri sendi dan badan, sakit kepala, lemah badan.
+Faktor Risiko
+1. Daya tahan tubuh menurun
+2. Kepadatan hunian dan kepadatan penduduk yang tinggi
+3. Perubahan musim/cuaca
+4. Penyakit Paru Obstruktif Kronik (PPOK)
+5. Usia lanjut
+Hasil Pemeriksaan Fisik dan penunjang sederhana (Objective)
+Pemeriksaan Fisik
+Tanda Patognomonis
+1. Febris
+2. Rinore
+3. Mukosa hidung edema
+Pemeriksaan penunjang: tidak diperlukan
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Penegakan diagnosis influenza membutuhkan ketelitian, karena keluhannya hampir
+sama dengan penyakit saluran pernapasan lainnya.
+Influenza dapat didiagnosis berdasarkan 4 kriteria berikut:
+1. Terjadi tiba-tiba/akut
+2. Demam
+
+344
+
+3. Gejala saluran pernapasan seperti batuk, tidak ada lokasi spesifik dari keluhan
+yang timbul
+4. Terdapat penyakit serupa di lingkungan penderita
+Ketika terdapat kasus influenza di masyarakat, semua pasien dengan keluhan
+influenza harus didiagnosis secara klinis. Pasien disarankan kembali untuk tindak
+lanjut jika keluhan yang dialami bertambah buruk atau tidak ada perbaikan dalam
+waktu 72 jam.
+Diagnosis Banding
+Faringitis, Tonsilitis, Laringitis
+Komplikasi
+Infeksi sekunder oleh bakteri, Pneumonia
+Penatalaksanaan komprehensif (Plan)
+Penatalaksanaan
+1. Tatalaksana influenza umumnya tanpa obat(self-limited disease). Hal yang perlu
+ditingkatkan adalah daya tahan tubuh. Tindakan untuk meringankan gejala flu
+adalah beristirahat 2-3 hari, mengurangi kegiatan fisik berlebihan, meningkatkan
+gizi makanan dengan makanan berkalori dan protein tinggi, serta buah-buahan
+yang tinggi vitamin.
+2. Terapi simptomatik per oral
+a. Antipiretik. Pada dewasa yaitu parasetamol 3-4 x 500 mg/hari (10-15
+mg/kgBB), atau ibuprofen 3-4 x 200-400 mg/hari (5-10 mg/kgBB).
+b. Dekongestan, seperti pseudoefedrin (60 mg setiap 4-6 jam)
+c. Antihistamin, seperti klorfeniramin 4-6 mg sebanyak 3-4 kali/hari, atau
+difenhidramin, 25-50 mg setiap 4-6 jam, atau loratadin atau cetirizine 10 mg
+dosis tunggal (pada anak loratadin 0,5 mg/kgBB dan setirizin 0,3 mg/kgBB).
+d. Dapat pula diberikan antitusif atau ekspektoran bila disertai batuk.
+Konseling dan Edukasi
+1. Edukasi
+a. Edukasi terutama ditujukan untuk individu dan lingkungannya. Penyebaran
+penyakit ini melalui udara sehingga lingkungan rumah harus memenuhi
+persyaratan rumah sehat terutama ukuran jendela untuk pencahayaan dan
+ventilasi serta kepadatan hunian. Untuk mencegah penyebaran terhadap
+orang-orang terdekat perlu diberikan juga edukasi untuk memutuskan mata
+rantai penularan seperti etika batuk dan pemakaian masker.
+b. Selain edukasi untuk individu, edukasi terhadap keluarga dan orang-orang
+terdekat juga penting seperti peningkatan higiene dan sanitasi lingkungan
+2. Pencegahan
+a. Imunisasi influenza, terutama bagi orang-orang risiko tinggi.
+b. Harus diwaspadai pasien yang baru kembali dari daerah terjangkit epidemi
+influenza
+
+345
+
+Rujukan
+Bila didapatkan tanda-tanda pneumonia (panas tidak turun 5 hari disertai batuk
+purulen dan sesak napas)
+Prognosis
+Prognosis pada umumnya bonam.
+Peralatan: Referensi
+1. Braunwald, E. Fauci, A.S. Kasper, D.L. Hauser, S.L.et al. Harrisson’s: Principle
+th
+of Internal Medicine. 17 ed. New York: McGraw-Hill Companies. 2009. p: 1006 1020.
+2. WHO. Pedoman Interim WHO. Pencegahan dan Pengendalian Infeksi Saluran
+Pernapasan Atas yang Cenderung Menjadi Epidemi dan Pandemi di Fasilitas
+Pelayanan Kesehatan. 2007.
+
+2.
+
+Faringitis Akut
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: R74. Upper respiratory infection acute
+: J02.9 Acute pharyngitis, unspecified
+: 4A
+
+Masalah Kesehatan
+Faringitis merupakan peradangan dinding faring yang disebabkan oleh virus (4060%), bakteri (5-40%), alergi, trauma, iritan, dan lain-lain. Anak-anak dan orang
+dewasa umumnya mengalami 3-5 kali infeksi virus pada saluran pernafasan atas
+termasuk faringitis setiap tahunnya.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Nyeri tenggorokan, terutama saat menelan
+2. Demam
+3. Sekret dari hidung
+4. Dapat disertai atau tanpa batuk
+5. Nyeri kepala
+6. Mual
+6. Muntah
+7. Rasa lemah pada seluruh tubuh
+8. Nafsu makan berkurang
+
+346
+
+Gejala khas berdasarkan jenisnya, yaitu:
+1. Faringitis viral (umumnya oleh Rhinovirus): diawali dengan gejala rhinitis dan
+beberapa hari kemudian timbul faringitis. Gejala lain demam disertai rinorea dan
+mual.
+2. Faringitis bakterial: nyeri kepala hebat, muntah, kadang demam dengan suhu
+yang tinggi, jarang disertai batuk, dan seringkali terdapat pembesaran KGB
+leher.
+3. Faringitis fungal:terutama nyeri tenggorok dan nyeri menelan.
+4. Faringitis kronik hiperplastik: mula-mula tenggorok kering, gatal dan akhirnya
+batuk yang berdahak.
+5. Faringitis kronik atrofi: umumnya tenggorokan kering dan tebal serta mulut
+berbau.
+6. Faringitis tuberkulosis: nyeri hebat pada faring dan tidak berespon dengan
+pengobatan bakterial non spesifik.
+7. Bila dicurigai faringitis gonorea atau faringitis luetika, ditanyakan riwayat
+hubungan seksual, terutama seks oral.
+Faktor Risiko
+1. Usia 3 – 14 tahun.
+2. Menurunnya daya tahan tubuh.
+3. Konsumsi makanan dapat mengiritasi faring
+4. Gizi kurang
+5. Iritasi kronik oleh rokok, minum alkohol, makanan, refluks asam lambung,
+inhalasi uap yang merangsang mukosa faring.
+6. Paparan udara yang dingin.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Faringitis viral, pada pemeriksaan tampak faring dan tonsil hiperemis, eksudat
+(virus influenza, coxsachievirus, cytomegalovirus tidak menghasilkan eksudat).
+Pada coxsachievirus dapat timbul lesi vesikular di orofaring dan lesi kulit berupa
+maculopapular rash.
+2. Faringitis bakterial, pada pemeriksaan tampak tonsil membesar, faring dan tonsil
+hiperemis dan terdapat eksudat di permukaannya. Beberapa hari kemudian
+timbul bercak petechiae pada palatum dan faring. Kadang ditemukan kelenjar
+limfa leher anterior membesar, kenyal dan nyeri pada penekanan.
+3. Faringitis fungal, pada pemeriksaan tampak plak putih di orofaring dan pangkal
+lidah, sedangkan mukosa faring lainnya hiperemis.
+4. Faringitis kronik hiperplastik, pada pemeriksaan tampak kelenjar limfa di bawah
+mukosa faring dan hiperplasia lateral band. Pada pemeriksaan tampak mukosa
+dinding posterior tidak rata dan bergranular (cobble stone).
+5. Faringitis kronik atrofi, pada pemeriksaan tampak mukosa faring ditutupi oleh
+lendir yang kental dan bila diangkat tampak mukosa kering.
+6. Faringitis tuberkulosis, pada pemeriksaan tampak granuloma perkejuan pada
+mukosa faring dan laring
+
+347
+
+7. Faringitis luetika tergantung stadium penyakit:
+a. Stadium primer
+Pada lidah palatum mole, tonsil, dan dinding posterior faring berbentuk
+bercak keputihan. Bila infeksi berlanjut timbul ulkus pada daerah faring
+seperti ulkus pada genitalia yaitu tidak nyeri. Juga didapatkan pembesaran
+kelenjar mandibula
+b. Stadium sekunder
+Stadium ini jarang ditemukan. Pada dinding faring terdapat eritema yang
+menjalar ke arah laring.
+c. Stadium tersier
+Terdapat guma. Predileksi pada tonsil dan palatum.
+Pemeriksaan Penunjang
+1. Pemeriksaan darah lengkap.
+2. Pemeriksaan mikroskopik dengan pewarnaan Gram.
+3. Pada dugaan adanya infeksi jamur, dapat dilakukan dengan pemeriksaan
+mikroskopik swab mukosa faring dengan pewarnaan KOH.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan pemeriksaan
+penunjang bila diperlukan.
+Klasifikasi faringitis
+1. Faringitis Akut
+a. Faringitis Viral
+Dapat disebabkan oleh rinovirus, adenovirus, Epstein Barr Virus (EBV), virus
+influenza, coxsachievirus, cytomegalovirus, dan lain-lain. Pada adenovirus
+juga menimbulkan gejala konjungtivitis terutama pada anak.
+b. Faringitis Bakterial
+Infeksi grup A stereptokokus beta hemolitikus merupakan penyebab faringitis
+akut pada orang dewasa (15%) dan pada anak (30%).
+Faringitis akibat infeksi bakteri streptokokkus group A dapat diperkirakan
+dengan menggunakan Centor criteria, yaitu :
+ Demam
+ Anterior Cervical lymphadenopathy
+ Eksudat tonsil
+ Tidak ada batuk
+Tiap kriteria ini bila dijumpai di beri skor 1. Bila skor 0-1 maka pasien tidak
+mengalami faringitis akibat infeksi streptokokkus group A, bila skor 1-3 maka
+pasien memiliki kemungkian 40% terinfeksi streptokokkus group A dan bila
+skor 4 pasien memiliki kemungkinan 50% terinfeksi streptokokkus group A.
+c. Faringitis Fungal
+Candida dapat tumbuh di mukosa rongga mulut dan faring.
+d. Faringitis Gonorea
+
+348
+
+Hanya terdapat pada pasien yang melakukan kontak orogenital
+2. Faringitis Kronik
+a. Faringitis Kronik Hiperplastik
+Pada faringitis kronik hiperplastik terjadi perubahan mukosa dinding posterior
+faring.
+b. Faringitis Kronik Atrofi
+Faringitis kronik atrofi sering timbul bersamaan dengan rhinitis atrofi. Pada
+rhinitis atrofi, udara pernafasan tidak diatur suhu serta kelembapannya
+sehingga menimbulkan rangsangan serta infeksi pada faring.
+3. Faringitis Spesifik
+a. Faringitis Tuberkulosis
+Merupakan proses sekunder dari tuberkulosis paru.
+b. Faringitis Luetika
+Treponema palidum dapat menimbulkan infeksi di daerah faring, seperti juga
+penyakit lues di organ lain. Gambaran klinik tergantung stadium penyakitnya.
+Komplikasi
+Tonsilitis, Abses peritonsilar, Abses retrofaringeal, Gangguan fungsi tuba Eustachius,
+Otitis media akut, Sinusitis, Laringitis, Epiglotitis, Meningitis, Glomerulonefritis akut,
+Demam rematik akut, Septikemia
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Istirahat cukup
+2. Minum air putih yang cukup
+3. Berkumur dengan air yang hangat dan berkumur dengan obat kumur antiseptik
+untuk menjaga kebersihan mulut. Pada faringitis fungal diberikan Nistatin
+100.000-400.000 IU, 2 x/hari. Untuk faringitis kronik hiperplastik terapi lokal
+dengan melakukan kaustik faring dengan memakai zat kimia larutan Nitras
+Argentin 25%
+4. Untuk infeksi virus, dapat diberikan anti virus Isoprinosine dengan dosis 60100mg/kgBB dibagi dalam 4-6 x/hari pada orang dewasa dan pada anak <5
+tahun diberikan 50mg/kgBB dibagi dalam 4-6 x/hari
+5. Untuk faringitis akibat bakteri terutama bila diduga penyebabnya Streptococcus
+group A, diberikan antibiotik Amoksisilin 50 mg/kgBB dosis dibagi 3 x/hari selama
+10 hari dan pada dewasa 3x500 mg selama 6-10 hari atau Eritromisin 4x500
+mg/hari.
+6. Pada faringitis gonorea, dapat diberikan Sefalosporin generasi ke-3, seperti
+Seftriakson 2 gr IV/IM single dose.
+7. Pada faringitis kronik hiperplastik, penyakit hidung dan sinus paranasal harus
+diobati. Pada faringitis kronik atrofi pengobatan ditujukan pada rhinitis atrofi.
+Sedangkan, pada faringitis kronik hiperplastik dilakukan kaustik 1 x/hari selama
+3-5 hari.
+8. Jika diperlukan dapat diberikan obat batuk antitusif atau ekspektoran.
+9. Analgetik-antipiretik
+
+349
+
+10. Selain antibiotik, Kortikosteroid juga diberikan untuk menekan reaksi inflamasi
+sehingga mempercepat perbaikan klinis. Steroid yang diberikan dapat berupa
+Deksametason 3 x 0,5 mg pada dewasa selama 3 hari dan pada anak-anak 0,01
+mg/kgBB/hari dibagi dalam 3 x/hari selama 3 hari.
+Konseling dan Edukasi
+Memberitahu pasien dan keluarga untuk:
+1. Menjaga daya tahan tubuh dengan mengkonsumsi makan bergizi dan olahraga
+teratur.
+2. Berhenti merokok bagi anggota keluarga yang merokok.
+3. Menghindari makan makanan yang dapat mengiritasi tenggorok.
+4. Selalu menjaga higiene mulut dan tangan
+Kriteria Rujukan
+1. Faringitis luetika
+2. Bila terjadi komplikasi
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Peralatan
+1. Lampu kepala
+2. Spatula lidah
+3. Lidi kapas
+Referensi
+1. Adam, G.L. Boies, L.R. Higler. Boies.Buku Ajar Penyakit THT. Ed. ke-6. Jakarta:
+EGC. 1997.(Adam dan Boies, 1997)
+2. Lee, K. Essential Otolaryngology, Head and Neck Surgery. Ed. Ke-8. McGrawHill. 2003.(Lee, 2003)
+3. Rusmarjono. Soepardi, E.A.Faringitis, Tonsilitis, dan Hipertrofi Adenoid dalam
+Buku Ajar Ilmu Kesehatan Telinga, Hidung, Tenggorok, KepaladanLeher. Ed. ke6.Jakarta:Fakultas Kedokteran Universitas Indonesia. 2007(Hafil, et al., 2007)
+
+350
+
+3.
+
+Laringitis Akut
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: R77. Laryngitis/tracheitis acute
+: J04.0 Acute laryngitis
+: 4A
+
+Masalah Kesehatan
+Laringitis adalah peradangan pada laring yang dapat disebabkan oleh virus, bakteri,
+atau jamur. Laringitis juga merupakan akibat dari penggunaan suara yang
+berlebihan, pajanan terhadap polutan eksogen, atau infeksi pada pita suara. Refluks
+gastroesofageal, bronkitis, dan pneumonia juga dapat menyebabkan laringitis.
+Laringitis pada anak sering diderita oleh anak usia 3 bulan hingga 3 tahun, dan
+biasanya disertai inflamasi pada trakea dan bronkus dan disebut sebagai penyakit
+croup. Penyakit ini seringkali disebabkan oleh virus, yaitu virus parainfluenza,
+adenovirus, virus influenza A dan B, RSV, dan virus campak. Selain itu, M.
+pneumonia juga dapat menyebabkan croup.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Pasien datang dengan keluhan suara serak atau hilang suara (afonia).
+2. Gejala lokal seperti suara parau, seperti suara yang kasar atau suara yang
+susah keluar atau suara dengan nada lebih rendah dari suara yang biasa/normal
+bahkan sampai tidak bersuara sama sekali(afoni). Hal ini terjadi karena
+gangguan getaran serta ketegangan dalam pendekatan kedua pita suara kiri dan
+kanan.
+3. Sesak nafas dan stridor.
+4. Nyeri tenggorokan, terutama nyeri ketika menelan atau berbicara.
+5. Gejala radang umum, seperti demam, malaise.
+6. Batuk kering yang lama kelamaan disertai dengan dahak kental.
+7. Gejala common cold, seperti bersin-bersin, nyeri tenggorok hingga sulit menelan,
+sumbatan hidung (nasal congestion), nyeri kepala, batuk dan demam dengan
+o
+temperatur yang tidak mengalami peningkatan dari 38 C.
+8. Obstruksi jalan nafas apabila ada edema laring diikuti edema subglotis yang
+terjadi dalam beberapa jam dan biasanya sering terjadi pada anak berupa anak
+menjadi gelisah, nafas berbunyi, air hunger, sesak semakin bertambah berat.
+9. Laringitis kronik ditandai dengan afonia yang persisten. Pada pagi hari, biasanya
+tenggorokan terasa sakit namun membaik pada suhu yang lebih hangat. Nyeri
+tenggorokan dan batuk memburuk kembali menjelang siang. Batuk ini dapat juga
+dipicu oleh udara dingin atau minuman dingin.
+Faktor Risiko
+1. Penggunaan suara yang berlebihan.
+2. Pajanan terhadap zat iritatif seperti asap rokok dan minum-minuman alkohol.
+3. Adanya refluks laringofaringeal, bronkitis, dan pneumonia.
+
+351
+
+4.
+5.
+6.
+7.
+
+Rhinitis alergi.
+Perubahan suhu yang tiba-tiba.
+Malnutrisi.
+Keadaan menurunnya sistem imun atau daya tahan tubuh.
+
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Laringoskopi indirek (khusus untuk pasien dewasa):
+1. Pada pemeriksaan fisik akan tampak mukosa laring yang hiperemis dan
+membengkak terutama di bagian atas dan bawah pita suara.
+2. Biasanya terdapat tanda radang akut di hidung atau sinus paranasal.
+3. Pada laringitis kronik, dapat ditemukan nodul, ulkus dan penebalan mukosa pita
+suara.
+Pemeriksaan Penunjang (bila diperlukan)
+1. Foto rontgen soft tissue leher AP lateral: bisa tampak pembengkakan jaringan
+subglotis (Steeple sign). Tanda ini ditemukan pada 50% kasus.
+2. Foto toraks AP.
+3. Pemeriksaan laboratorium darah lengkap.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan pemeriksaan
+penunjang jika diperlukan.
+Klasifikasi:
+1. Laringitis Akut
+Laringitis akut adalah radang akut laring, dapat disebabkan oleh virus dan
+bakteri. Keluhan berlangsung < 3 minggu dan pada umumnya disebabkan oleh
+infeksi virus influenza (tipe A dan B), parainfluenza (tipe 1,2,3), rhinovirus dan
+adenovirus. Penyebab lain adalah Haemofilus influenzae, Branhamella
+catarrhalis, Streptococcus pyogenes, Staphylococcus aureus, dan Streptococcus
+pneumoniae.
+2. Laringitis Kronik
+Laringitis kronik dapat terjadi setelah laringitis akut yang berulang, dan juga
+dapat diakibatkan oleh sinusitis kronis, deviasi septum berat, polip hidung,
+bronkitis kronik, refluks laringofaring, merokok, pajanan terhadap iritan yang
+bersifat konstan, dan konsumsi alkohol berlebih. Tanda dari laringitis kronik ini
+yaitu nyeri tenggorokan yang tidak signifikan, suara serak, dan terdapat edema
+pada laring. Mungkin juga disebabkan penyalahgunaan suara (vocal abuse)
+seperti berteriak-teriak atau bicara keras.
+3. Laringitis Kronik Spesifik
+a. Laringitis tuberkulosa
+Penyakit ini disebabkan tuberkulosis paru. Setelah diobati, biasanya
+tuberkulosis paru sembuh namun laringitis tuberculosis menetap
+
+352
+
+(membutuhkan pengobatan yang lebih lama), karena struktur mukosa laring
+sangat lekat pada kartilago serta vaskularisasi tidak sebaik paru.
+Terdapat 4 stadium:
+ Stadium Infiltrasi
+Mukosa laring membengkak, hiperemis (bagian posterior), dan pucat.
+Terbentuk tuberkel di daerah submukosa, tampak sebagai bintik-bintik
+kebiruan. Tuberkel membesar, menyatu sehingga mukosa di atasnya
+meregang. Bila pecah akan timbul ulkus.
+ Stadium Ulserasi
+Ulkus membesar, dangkal, dasarnya ditutupi perkejuan dan terasa nyeri
+oleh pasien
+ Stadium Perikondritis
+Ulkus makin dalam mengenai kartilago laring, paling sering terkena
+kartilago aritenoid, dan epiglottis. Terbentuk nanah yang berbau sampai
+terbentuk sekuester. Pada stadium ini keadaan pasien buruk dan dapat
+meninggal. Bila bertahan maka berlanjut ke stadium akhir yaitu stadium
+fibrotuberkulosis
+ Stadium Fibrotuberkulosis
+Terbentuk fibrotuberkulosis pada dinding posterior, pita suara, dan
+subglotik.
+b. Laringitis luetika
+Radang menahun ini jarang ditemukan.
+Diagnosis Banding
+Benda asing pada laring, Faringitis, Bronkiolitis, Bronkitis, Pneumonia, Tumor pada
+laring, Kelumpuhan pita suara
+Komplikasi
+Obstruksi jalan napas atas, Pneumonia, Bronkhitis
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Non-medikamentosa
+a. Istirahat suara (vocal rest).
+b. Rehabilitasi suara (voice therapy), bila diperlukan.
+c. Meningkatkan asupan cairan.
+d. Bila terdapat sumbatan laring dilakukan pemasangan pipa endotrakea, atau
+trakeostomi.
+2. Medikamentosa
+a. Parasetamol atau Ibuprofen sebagai antipiretik dan analgetik.
+b. Pemberian antibiotik dilakukan bila peradangan dari paru dan bila penyebab
+berupa Streptokokus grup A ditemukan melalui kultur. Pada kasus ini,
+antibiotik yang dapat digunakan yaitu golongan Penisilin.
+c. Proton Pump Inhibitor pada laringitis yang disebabkan oleh refluks
+laringofaringeal.
+
+353
+
+d. Kortikosteroid dapat diberikan jika laringitis berat.
+e. Laringitis tuberkulosis: obat antituberkulosis.
+f. Laringitis luetika: penisilin dengan dosis tinggi.
+Rencana Tindak Lanjut
+Pemeriksaan laringoskopi indirek kembali untuk memeriksa perbaikan organ laring.
+Konseling dan Edukasi
+Memberitahu pasien dan keluarga untuk:
+1. Menjaga daya tahan tubuh dengan mengkonsumsi makan bergizi dan olahraga
+teratur.
+2. Menghentikan merokok.
+3. Mengistirahatkan pasien berbicara dan bersuara atau tidak bersuara berlebihan.
+4. Menghindari makanan yang mengiritasi atau meningkatkan asam lambung.
+Kriteria Rujukan
+Indikasi rawat rumah sakit apabila:
+1. Terdapat tanda sumbatan jalan nafas atas.
+2. Usia penderita dibawah 3 tahun.
+3. Tampak toksik, sianosis, dehidrasi atau exhausted.
+4. Ada kecurigaan tumor laring.
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Peralatan
+1.
+2.
+3.
+4.
+
+Lampu kepala
+Kaca laring
+Kassa steril
+Lampu spiritus
+
+Referensi
+1. Adam, GL. Boies LR. Higler. Boies.Buku Ajar Penyakit THT. Ed. ke-6. Jakarta:
+EGC. 1997.
+2. Hermani,B. Abdurrachman, H. Cahyono, A. Kelainan Laring dalam Buku Ajar
+Ilmu Kesehatan Telinga, Hidung, Tenggorok, Kepala dan Leher. Ed. ke6.Jakarta:Fakultas Kedokteran Universitas Indonesia. 2007.
+3. Lee, K. Essential Otolaryngology, Head and Neck Surgery. Ed. Ke-8. McGrawHill. 2003.
+
+354
+
+4.
+
+Tonsilitis Akut
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: R76. Tonsillitis acute
+: J03. Acute tonsillitis
+J35. Chronic tonsilitis
+: 4A
+
+Masalah Kesehatan
+Tonsilitis adalah peradangan tonsil palatina yang merupakan bagian dari cincin
+Waldeyer. Cincin Waldeyer terdiri atas susunan jaringan limfoid yang terdapat di
+dalam rongga mulut yaitu: tonsil faringeal (adenoid), tonsil palatina (tonsil faucial),
+tonsil lingual (tonsil pangkal lidah), tonsil tuba Eustachius (lateral band dinding faring/
+Gerlach’s tonsil). Penyakit ini banyak diderita oleh anak-anak berusia 3 sampai 10
+tahun.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Rasa kering di tenggorokan sebagai gejala awal.
+2. Nyeri pada tenggorok, terutama saat menelan. Rasa nyeri semakin lama
+semakin bertambah sehingga anak menjadi tidak mau makan.
+3. Nyeri dapat menyebar sebagai referred pain ke telinga.
+4. Demam yang dapat sangat tinggi sampai menimbulkan kejang pada bayi dan
+anak-anak.
+5. Sakit kepala, badan lesu, dan nafsu makan berkurang.
+6. Plummy voice / hot potato voice: suara pasien terdengar seperti orang yang
+mulutnya penuh terisi makanan panas.
+7. Mulut berbau (foetor ex ore) dan ludah menumpuk dalam kavum oris akibat nyeri
+telan yang hebat (ptialismus).
+8. Pada tonsilitis kronik, pasien mengeluh ada penghalang / mengganjal di
+tenggorok, tenggorok terasa kering dan pernafasan berbau (halitosis).
+9. Pada Angina Plaut Vincent (Stomatitis ulseromembranosa) gejala yang timbul
+adalah demam tinggi (39˚C), nyeri di mulut, gigi dan kepala, sakit tenggorokan,
+badan lemah, gusi mudah berdarah dan hipersalivasi.
+Faktor Risiko
+1. Faktor usia, terutama pada anak.
+2. Penurunan daya tahan tubuh.
+3. Rangsangan menahun (misalnya rokok, makanan tertentu).
+4. Higiene rongga mulut yang kurang baik.
+5. Riwayat alergi
+
+355
+
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Tonsilitis akut:
+a. Tonsil hipertrofik dengan ukuran ≥ T2.
+b. Hiperemis dan terdapat detritus di dalam kripti yang memenuhi permukaan
+tonsil baik berbentuk folikel, lakuna, atau pseudomembran. Bentuk tonsillitis
+akut dengan detritus yang jelas disebut tonsilitis folikularis. Bila bercakbercak detritus ini menjadi satu, membentuk alur alur maka akan terjadi
+tonsilitis lakunaris.
+c. Bercak detritus ini dapat melebar sehingga terbentuk membran semu
+(pseudomembran) yang menutupi ruang antara kedua tonsil sehingga
+tampak menyempit. Temuan ini mengarahkan pada diagnosis banding
+tonsilitis difteri.
+d. Palatum mole, arkus anterior dan arkus posterior juga tampak udem dan
+hiperemis.
+e. Kelenjar limfe leher dapat membesar dan disertai nyeri tekan.
+2. Tonsilitis kronik:
+a. Tampak tonsil membesar dengan permukaan yang tidak rata, kriptus
+melebar dan berisi detritus.
+b. Pembesaran kelenjar limfe submandibula dan tonsil yang mengalami
+perlengketan.
+3. Tonsilitis difteri:
+a. Tampak tonsil membengkak ditutupi bercak putih kotor yang makin lama
+makin meluas
+b. Tampak pseudomembran yang melekat erat pada dasar tonsil sehingga bila
+diangkat akan mudah berdarah.
+Berdasarkan rasio perbandingan tonsil dengan orofaring, dengan mengukur jarak
+antara kedua pilar anterior dibandingkan dengan jarak permukaan medial kedua
+tonsil, maka gradasi pembesaran tonsil dapat dibagi menjadi:
+1. T0: tonsil sudah diangkat.
+2. T1: <25% volume tonsil dibandingkan dengan volume orofaring atau batas
+medial tonsil melewati pilar anterior sampai ¼ jarak pilar anterior uvula.
+3. T2: 25-50% volume tonsil dibandingkan dengan volume orofaringatau batas
+medial tonsil melewati ¼ jarak pilar anterior-uvula sampai ½ jarak pilar anterioruvula.
+4. T3: 50-75% volume tonsil dibandingkan dengan volume orofaring atau batas
+medial tonsil melewati ½ jarak pilar anterior-uvula sampai ¾ jarak pilar anterioruvula.
+5. T4: > 75% volume tonsil dibandingkan dengan volume orofaring atau batas
+medial tonsil melewati ¾ jarak pilar anterior-uvula sampai uvula atau lebih.
+Pemeriksaan Penunjang: bila diperlukan
+1. Darah lengkap
+
+356
+
+2. Swab tonsil untuk pemeriksaan mikroskop dengan pewarnaan Gram
+
+Gambar 10.1. Gradasi pembesaran tonsil
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan untuk
+diagnosis definitif dengan pemeriksaan penunjang.
+Diagnosis Banding
+Infiltrat tonsil, limfoma, tumor tonsil
+Komplikasi
+1. Komplikasi lokal
+a. Abses peritonsil (Quinsy)
+b. Abses parafaringeal
+c. Otitis media akut
+d. Rinosinusitis
+2. Komplikasi sistemik
+a. Glomerulonephritis
+b. Miokarditis
+c. Demam reumatik dan penyakit jantung reumatik
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Istirahat cukup
+2. Makan makanan lunak dan menghindari makan makanan yang mengiritasi
+3. Menjaga kebersihan mulut
+4. Pemberian obat topikal dapat berupa obat kumur antiseptik
+5. Pemberian obat oral sistemik
+
+357
+
+a. Tonsilitis viral.
+Istirahat, minum cukup, analgetika / antipiretik (misalnya, Paracetamol), dan
+antivirus diberikan bila gejala berat. Antivirus Metisoprinol diberikan pada
+infeksi virus dengan dosis 60-100mg/kgBB dibagi dalam 4-6
+kali pemberian/hari pada orang dewasa dan pada anak < 5 tahun diberikan
+50mg/kgBB dibagi dalam 4-6 kali pemberian/hari.
+b. Tonsilitis bakteri
+Bila diduga penyebabnya Streptococcus group A, diberikan antibiotik yaitu
+Penisilin G Benzatin 50.000 U/kgBB/IM dosis tunggal atau Amoksisilin 50
+mg/kgBB dosis dibagi 3 kali/hari selama 10 hari dan pada dewasa 3 x 500
+mg selama 6-10 hari atau Eritromisin 4 x 500 mg/hari. Selain antibiotik juga
+diberikan Kortikosteroid karena steroid telah terbukti menunjukkan perbaikan
+klinis yang dapat menekan reaksi inflamasi. Steroid yang dapat diberikan
+berupa Deksametason 3 x 0,5 mg pada dewasa selama 3 hari dan pada
+anak-anak 0,01 mg/kgBB/hari dibagi 3 kali pemberian selama 3 hari.
+Analgetik / antipiretik, misalnya Paracetamol dapat diberikan.
+c. Tonsilitis difteri
+Anti Difteri Serum diberikan segera tanpa menunggu hasil kultur, dengan
+dosis 20.000-100.000 unit tergantung umur dan jenis kelamin. Antibiotik
+penisilin atau eritromisin 25-50 mg/kgBB/hari. Antipiretik untuk simptomatis
+dan pasien harus diisolasi. Perawatan harus istirahat di tempat tidur selama
+2-3 minggu.
+d. Angina Plaut Vincent (Stomatitis ulseromembranosa)
+Antibiotik spektrum luas diberikan selama 1 minggu, dan pemberian vitamin
+C serta vitamin B kompleks.
+Indikasi dan Kontraindikasi Tonsilektomi
+Menurut Health Technology Assessment
+tonsilektomi, yaitu:
+
+Kemenkes
+
+Tabel 10.1 Indikasi Tonsilektomi
+Indikasi Absolut
+
+tahun
+
+2004,
+
+indikasi
+
+Indikasi Relatif
+
+1. Pembengkakan tonsil yang
+menyebabkan obstruksi saluran nafas,
+disfagia berat, gangguan tidur dan
+komplikasi kardiopulmonar
+2. Abses peritonsil yang tidak membaik
+dengan pengobatan medis dan drainase
+3. Tonsilitis yang menimbulkan kejang
+demam
+4. Tonsilitis yang membutuhkan biopsi
+untuk menentukan patologi anatomi
+
+1. Terjadi 3 episode atau lebih infeksi
+tonsil per tahun dengan terapi antibiotik
+adekuat
+2. Halitosis akibat tonsilitis kronik yang
+tidak membaik dengan pemberian
+terapi medis
+3. Tonsilitis kronik atau berulang pada
+karier streptococcus yang tidak
+membaik dengan pemberian antibiotik
+laktamase resisten.
+
+Kontraindikasi relatif tonsilektomi:
+1. Gangguan perdarahan
+2. Risiko anestesi atau penyakit sistemik yang berat
+3. Anemia
+
+358
+
+Konseling dan Edukasi
+Memberitahu individu dan keluarga untuk:
+1. Menghindari pencetus, termasuk makanan dan minuman yang mengiritasi
+2. Melakukan pengobatan yang adekuat karena risiko kekambuhan cukup tinggi.
+3. Menjaga daya tahan tubuh dengan mengkonsumsi makan bergizi dan olahraga
+teratur.
+4. Berhenti merokok.
+5. Selalu menjaga kebersihan mulut.
+6. Mencuci tangan secara teratur.
+Rencana Tindak Lanjut
+Memberikan laporan ke dinas kesehatan setempat jika terdapat kasus tonsilitis
+difteri.
+Kriteria Rujukan
+Segera rujuk jika terjadi:
+1. Komplikasi tonsilitis akut: abses peritonsiler,
+glomerulonephritis, demam rematik akut.
+2. Adanya indikasi tonsilektomi.
+3. Pasien dengan tonsilitis difteri.
+
+septikemia,
+
+meningitis,
+
+Peralatan
+1.
+2.
+3.
+4.
+5.
+
+Lampu kepala
+Spatula lidah
+Lidi kapas
+Laboratorium sederhana untuk pemeriksaan darah lengkap
+Laboratorium sederhana untuk pemeriksaan mikrobiologi dengan pewarnaan
+Gram
+
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Referensi
+1. Adam, GL. Boies LR. Higler. Boies. Buku Ajar Penyakit THT. Ed. ke-6. Jakarta:
+EGC. 1997
+2. Lee, K. Essential Otolaryngology, Head and Neck Surgery. Ed. Ke-8. McGrawHill. 2003.
+3. Rusmarjono. Soepardi, E.A. Faringitis, Tonsilitis, dan Hipertrofi Adenoid dalam
+Buku Ajar Ilmu Kesehatan Telinga, Hidung, Tenggorok, Kepala dan Leher. Ed.
+ke-6. Fakultas Kedokteran Universitas Indonesia. Jakarta. 2007.
+
+359
+
+5.
+
+Asma Bronkial (Asma Stabil)
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: R96 Asthma
+: J45 Asthma
+: 4A
+
+a. Asma pada Dewasa
+Masalah Kesehatan
+Asma adalah penyakit heterogen, selalu dikarakteristikkan dengan inflamasi kronis di
+saluran napas. Terdapat riwayat gejala respirasi seperti mengi, sesak, rasa berat di
+dada dan batuk yang intensitasnya berberda-beda berdasarkan variasi keterbatasan
+aliran udara ekspirasi
+Hasil Anamnesis (Subjective)
+Gejala khas untuk Asma, jika ada maka menigkatkan kemungkinan pasien memiliki
+Asma, yaitu :
+1. Terdapat lebih dari satu gejala ( mengi, sesak, dada terasa berat) khususnya
+pada dewasa muda
+2. Gejala sering memburuk di malam hari atau pagi dini hari
+3. Gejala bervariasi waktu dan intensitasnya
+4. Gejala dipicu oleh infeksi virus, latihan, pajanan allergen, perubahan cuaca,
+tertawa atau iritan seperti asap kendaraan, rokok atau bau yang sangat tajam
+Tanel 10.2 Faktor risiko asma bronkial
+Faktor Pejamu
+Prediposisi genetik
+Atopi
+Hiperesponsif jalan napas
+Jenis kelamin
+Ras/etnik
+Alergen di dalam ruangan (mite domestic,
+Faktor lingkungan mempengaruhi
+berkembangnya asma pada individu
+biantang, kecoa, jamur)
+dengan predisposisi asma
+Alergen di luar ruangan (tepung sari
+bunga, jamur)
+Bahan di lingkungan kerja (Asap rokok
+pada perokok aktif dan pasif)
+Polusi udara(dalam dan luar ruangan)
+Infeksi pernapasan (Hipotesis higiene)
+Infeksi parasit
+Status sosioekonomi
+Besar keluarga
+Diet dan obat
+Obesitas
+
+360
+
+Faktor lingkungan mencetuskan
+eksaserbasi dan atau menyebabkan
+gejala-gejala asma menetap
+
+Alergen di dalam dan di luar ruangan
+Polusi udara di dalam dan di luar ruangan
+Infeksi pernapasan
+Exercise dan hiperventilasi
+Perubahan cuaca
+Sulfur dioksida
+Makanan, aditif (pengawet, penyedap,
+pewarna makanan), obat-obatan
+Ekspresi emosi yang berlebihan
+Asap rokok
+Iritan (a.l. parfum, bau-bauan
+merangsang, household spray)
+
+Hasil Pemeriksaan Fisis dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Pemeriksaan fisik pasien asma biasanya normal. Abnormalitas yang paling sering
+ditemukan adalah mengi ekspirasi saat pemeriksaan auskultasi, tetapi ini bisa saja
+hanya terdengar saat ekspirasi paksa. Mengi dapat juga tidak terddengan selama
+eksaserbasi asma yang berat karena penurunan aliran napas yang dikenal dengan
+“silent chest”.
+Pemeriksaan Penunjang
+1. Arus Puncak Ekspirasi (APE) menggunakan Peak Flowmeter
+2. Pemeriksaan darah (eosinofil dalam darah)
+Penegakan Diagnosis (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisis dan pemeriksaan
+penunjang, yaitu terdapat kenaikan ≥15 % rasio APE sebelum dan sesudah
+pemberian inhalasi salbutamol.
+
+361
+
+Klasifikasi
+Tabel 10.3 Klasifikasi asma bronkial
+DerajatAsma
+
+Gejala
+
+I. Intermiten
+
+Bulanan
+Gejala< 1x/minggu
+
+Gejala Malam
+≤ 2 kali
+sebulan
+
+III. Persisten
+sedang
+
+Mingguan
+Gejala> 1 x/minggu,
+tetapi< 1 x/hari
+Serangan dapat
+mengganggu
+aktivitas dan tidur
+Harian
+Gejala setiap hari
+
+APE ≥ 80%
+VEP1≥ 80% nilai prediksi
+APE ≥ 80% nilai terbaik
+
+Tanpa gejala diluar
+serangan
+Serangan singkat
+II. Persisten
+ringan
+
+Faal Paru
+
+Variabiliti APE < 20%
+>2 kali
+sebulan
+
+APE > 80%
+VEP1≥ 80% nilai prediksi
+APE ≥ 80% nilai terbaik
+
+>1
+x/seminggu
+
+Variabiliti APE 20% - 30%
+APE 60 – 80%
+VEP160 – 80%
+nilaiprediksi
+APE 60 – 80% nilaiterbaik
+
+Serangan
+mengganggu
+aktivitas dan tidur
+Membutuhkan
+Variabiliti APE > 30%
+bronkodilator setiap
+hari
+IV. Persisten
+Kontinyu
+APE ≤ 60%
+berat
+Gejala terus
+Sering
+VEP1≤ 60% nilai prediksi
+menerus
+Sering kambuh
+APE ≤ 60% nilai terbaik
+Aktivitas fisik
+Variabiliti APE > 30%
+terbatas
+Catatan: bila spirometri tersedia digunakan penilaian VEP1
+
+362
+
+Penilaian Derajat Kontrol Asma
+Tabel 10.4 Penilaian derajat kontrol asma
+A.
+
+Penilaian klinis (4 minggu terakhir)
+Karakteristik
+Terkontrol
+(tidak ada
+gejala)
+
+Terkontrol
+sebagian
+(terdapat salah
+satu gejala)
+> 2 /minggu
+
+Gejala harian
+
+Tidak ada
+(≤ 2/minggu )
+
+Keterbatasan
+aktivitas
+
+Tidak ada
+
+Ada
+
+Gejala
+malam/terbangun
+
+Tidak ada
+
+Ada
+
+Butuh pelega/
+pemakaian inhaler
+
+Tidak ada
+(≤ 2 /minggu)
+
+> 2 /minggu
+
+Fungsi paru
+(APE atau KVP1 )***
+
+Normal
+
+Tidak
+terkontrol
+
+Tiga atau
+lebih
+gambaran
+asma
+terkontrol
+,
+sebagian * **
+
+< 80 % prediksi
+atau nilai yang
+terbaik
+B.
+Penilaian risiko di masa akan datang (risiko eksaserbasi,
+ketidakseimbangan, penurunan fungsi paru, efek samping)
+Gambaran yang dihubungkan dengan peningkatan risiko yang lebih parah
+di masa depan termasuk :
+Kontrol klinis yang buruk, jumlah eksaserbasi pertahun, riwayat perawatan
+karena asma, pajanan asap rokok, penggunaan obat dosis tinggi)
+* Semua eksaserbasi terjadi dalam pengobatan yang adekuat
+** Berdasarkan definisi, eksaserbasi di minggu apapun membuat asma tidak
+terkontrol
+*** Tanpa pemberian bronkodilator
+Fungsi paru tidak untuk anak 5 tahun atau lebih muda
+Diagnosis Banding
+Disfungsi pita suara, Hiperventilasi, Bronkiektasis, Kistik fibrosis, Gagal jantung,
+Defisiensi benda asing
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Pasien disarankan untuk mengidentifikasi serta mengendalikan faktor
+pencetusnya.
+2. Perlu dilakukan perencanaan dan pemberian pengobatan jangka panjang serta
+menetapkan pengobatan pada serangan akut sesuai tabel di bawah ini.
+
+363
+
+Tabel 10.5 Penatalaksanaan asma berdasarkan beratnya keluhan
+Semua tahapan : ditambahkan agonis beta-2 kerja singkat untuk pelega bila dibutuhkan,
+tidak melebihi 3-4 kali sehari
+Berat Asma
+
+Medikasi pengontrol harian
+
+Alternatif / Pilihan lain
+
+Alternatif lain
+
+Asma
+Intermiten
+Asma
+Persisten
+Ringan
+
+Tidak perlu
+
+----
+
+----
+
+Glukokortikosteroid inhalasi
+(200-400 µg BB/hari atau
+ekuivalennya)
+
+• Teofilin lepas lambat
+• Kromolin
+• Leukotriene modifiers
+
+----
+
+Asma
+Persisten
+Sedang
+
+Kombinasi inhalasi
+glukokortikosteroid (400-800
+µg BB/hari atau
+ekuivalennya) dan agonis
+beta-2 kerja lama
+
+• Glukokortikosteroid
+inhalasi (400-800 µg BB
+atau ekuivalennya)
+ditambah Teofilin lepas
+lambat, atau
+• Glukokortikosteroid
+inhalasi (400-800 µg
+BB/hari atau
+ekuivalennya) ditambah
+agonis beta-2 kerja lama
+oral, atau
+• Glukokortikosteroid
+inhalasi dosis tinggi
+(>800 µg BB atau
+ekuivalennya) atau
+• Glukokortikosteroid
+inhalasi (400-800 µg BB
+atau ekuivalennya)
+ditambah leukotriene
+modifiers
+Prednisolon/
+metilprednisolon oral
+selang sehari 10 mg
+ditambah agonis beta-2
+kerja lama oral, ditambah
+teofilin lepas lambat
+
+Asma
+Persisten Berat
+
+• Ditambah
+agonis beta2 kerja lama
+oral, atau
+• Ditambah
+teofilin lepas
+lambat
+
+Kombinasi inhalasi
+glukokortikosteroid (> 800 µg
+BB atau ekuivalennya) dan
+agonis beta-2 kerja lama.
+Diambah ≥ 1 di bawah ini :
+ Teofilin lepas lambat
+ Leukotriene modifiers
+ Glukokortikosteroid oral
+Semua tahapan : Bila tercapai asma terkontrol, pertahankan terapi paling tidak 3 bulan,
+kemudian turunkan bertahap sampai mencapai terapi seminimal mungkin dengan
+kondisi asma tetap terkontrol
+
+Pemeriksaan Penunjang Lanjutan (bila diperlukan)
+1. Foto toraks
+2. Uji sensitifitas kulit
+3. Spirometri
+4. Uji provokasi bronkus
+Komplikasi
+Pneumotoraks, Pneumomediastinum, Gagal napas, Asma resisten terhadap steroid.
+
+364
+
+Konseling dan Edukasi
+1. Memberikan informasi kepada individu dan keluarga mengenai seluk beluk
+penyakit, sifat penyakit, perubahan penyakit (apakah membaik atau memburuk),
+jenis dan mekanisme kerja obat-obatan dan mengetahui kapan harus meminta
+pertolongan dokter.
+2. Kontrol secara teratur antara lain untuk menilai dan monitor berat asma secara
+berkala (asthma control test/ ACT)
+3. Pola hidup sehat.
+4. Menjelaskan pentingnya melakukan pencegahan dengan:
+a) Menghindari setiap pencetus.
+b) Menggunakan bronkodilator/steroid inhalasi sebelum melakukan exercise
+untuk mencegah exercise induced asthma.
+Kriteria rujukan
+1. Bila sering terjadi eksaserbasi.
+2. Pada serangan asma akut sedang dan berat.
+3. Asma dengan komplikasi.
+Persiapan dalam melakukan rujukan bagi pasien asma, yaitu:
+1. Terdapat oksigen.
+2. Pemberian steroid sistemik injeksi atau inhalasi disamping pemberian
+bronkodilator kerja cepat inhalasi.
+3. Pasien harus didampingi oleh dokter/tenaga kesehatan terlatih selama
+perjalanan menuju ke pelayanan sekunder.
+Peralatan
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+Asthma control test
+Tabung oksigen
+Kanul hidung
+Masker sederhana
+Nebulizer
+Masker inhalasi
+Peak flow meter
+Spirometri
+
+Prognosis
+Ad sanasionam
+Ad fungsionam
+Ad vitam
+
+: bonam
+: bonam
+: bonam
+
+Referensi
+1. Global strategy for asthma management and prevention. GINA. 2014.(Global
+Initiatives for Asthma, 2011)
+2. Global strategy for asthma management and prevention. GINA. 2006.(Global
+Initiatives for Asthma, 2006)
+
+365
+
+3. Perhimpunan dokter paru Indonesia.Asma. Pedoman diagnosis dan
+penatalaksanaan di Indonesia. Jakarta. 2004.(Perhimpunan Dokter Paru
+Indonesia, 2004)
+b.
+
+Asma pada Anak
+
+Masalah Kesehatan
+Asma adalah mengi berulang dan/atau batuk persisten dengan karakteristik sebagai
+berikut: timbul secara episodik, cenderung pada malam/dini hari (nokturnal),
+musiman, setelah aktivitas fisik, serta terdapat riwayat asma atau atopi lain pada
+pasien dan/atau keluarganya. Inflamasi ini juga berhubungan dengan hiperreaktivitas
+jalan napas terhadap berbagai rangsangan. Prevalens total asma di dunia
+diperkirakan 7,2% (6% pada dewasa dan 10% pada anak).
+Hasil Anamnesis (Subjective)
+Anamnesis harus dilakukan dengan cermat agar didapatkan riwayat penyakit yang
+akurat mengenai gejala sulit bernapas, mengi atau dada terasa berat yang bersifat
+episodik dan berkaitan dengan musim serta terdapat riwayat asma atau penyakit
+atopi pada anggota keluarga. Walaupun informasi akurat mengenai hal-hal tersebut
+tidak mudah didapat, beberapa pertanyaan berikut ini sangat berguna dalam
+pertimbangan diagnosis asma :
+1. Apakah anak mengalami serangan mengi atau serangan mengi berulang?
+2. Apakah anak sering terganggu oleh batuk pada malam hari?
+3. Apakah anak mengalami mengi atau batuk setelah berolahraga?
+4. Apakah anak mengalami gejala mengi, dada terasa berat, atau batuk setelah
+terpajan alergen atau polutan?
+5. Apakah jika mengalami pilek, anak membutuhkan >10 hari untuk sembuh?
+6. Apakah gejala klinis membaik setelah pemberian pengobatan anti-asma?
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Pada pemeriksaan fisik, umumnya tidak ditemukan kelainan saat pasien tidak
+mengalami serangan. Pada sebagian kecil pasien yang derajat asmanya lebih berat,
+dapat dijumpai mengi di luar serangan. Dengan adanya kesulitan ini, diagnosis asma
+pada bayi dan anak kecil (di bawah usia 5 tahun) hanya merupakan diagnosis klinis
+(penilaian hanya berdasarkan gejala dan pemeriksaan fisis dan respons terhadap
+pengobatan). Pada kelompok usia ini, tes fungsi paru atau pemeriksaan untuk
+mengetahui adanya hiperresponsivitas saluran napas tidak mungkin dilakukan dalam
+praktek sehari-hari. Kemungkinan asma perlu dipikirkan pada anak yang hanya
+menunjukkan batuk sebagai satu-satunya gejala dan pada pemeriksaan fisis tidak
+ditemukan mengi, sesak, dan lain-lain. Pada anak yang tampak sehat dengan batuk
+malam hari yang rekuren, asma harus dipertimbangkan sebagai probable diagnosis.
+Beberapa anak menunjukkan gejala setelah berolahraga.
+
+366
+
+Pemeriksaan Penunjang
+Arus puncak ekspirasi (APE) dengan peak flow meter. Metode yang dianggap
+merupakan cara mengukur nilai diurnal APE terbaik adalah pengukuran selama
+paling sedikit 1 minggu dan hasilnya dinyatakan sebagai persen nilai terbaik dari
+selisih nilai APE pagi hari terendah dengan nilai APE malam hari tertinggi. Jika
+didapatkan variabilitas APE diurnal > 20% (petanda adanya perburukan asma) maka
+diagnosis asma perlu dipertimbangkan.
+Penegakan Diagnosis (Assessment)
+Asma Stabil
+Jika gejala dan tanda klinis jelas serta respons terhadap pemberian obat asma baik,
+pemeriksaan lebih lanjut tidak perlu dilakukan. Jika respons terhadap obat asma
+tidak baik, sebelum mengganti obat dengan yang lebih poten, harus dinilai lebih dulu
+apakah dosis sudah adekuat, cara dan waktu pemberian sudah benar, serta
+ketaatan pasien baik. Bila semua aspek tersebut sudah dilakukan dengan baik dan
+benar, diagnosis bukan asma perlu dipikirkan.
+Klasifikasi asma pada anak menurut PNAA 2004
+Parameter klinis,
+kebutuhan obat
+dan faal paru
+Frekuensi
+serangan
+Lama serangan
+
+Asma episodik
+jarang
+(Asma ringan)
+< 1 x/bulan
+
+Asma episodik
+sering
+(Asma sedang)
+>1 x/bulan
+
+Asma persisten
+(Asma berat)
+
+< 1 minggu
+
+≥ 1 minggu
+
+Diantara serangan
+
+Tanpa gejala
+
+Sering ada gejala
+
+Tidur dan aktivitas
+Pemeriksaan fisik
+di luar serangan
+Obat pengendali
+(anti inflamasi)
+Uji faal paru (di
+luar serangan)*
+
+Tidak terganggu
+Normal (tidak ada
+kelainan)
+Tidak perlu
+
+Sering terganggu
+Mungkin terganggu
+(ada kelainan)
+Nonsteroid/steroid
+hirupan dosis rendah
+PEF/VEP1 60-80%
+
+Hampir sepanjang
+tahun tidak ada
+remisi
+Gejala siang dan
+malam
+Sangat terganggu
+Tidak pernah
+normal
+Steroid
+hirupan/oral
+PEF/VEP1 < 60 %
+Variabilitas 20-30
+%
+Variabilitas > 50
+%
+
+PEF/VEP1 > 80 %
+
+Variabilitas faal
+Variabilitas > 15
+paru (bila ada
+%
+serangan)*
+*jika fasilitas tersedia
+
+Variabilitas > 30 %
+
+Sering
+
+Asma Eksaserbasi
+Eksaserbasi (serangan) asma adalah episode perburukan gejala-gejala asma secara
+progresif. Gejala yang dimaksud adalah sesak napas, batuk, mengi, dada rasa
+tertekan, atau berbagai kombinasi gejala tersebut. Pada umumnya, eksaserbasi
+disertai distres pernapasan. Serangan asma ditandai oleh penurunan PEF atau
+
+367
+
+FEV1. Pengukuran ini merupakan indikator yang lebih dapat dipercaya daripada
+penilaian berdasarkan gejala. Sebaliknya, derajat gejala lebih sensitif untuk
+menunjukkan awal terjadinya ekaserbasi karena memberatnya gejala biasanya
+mendahului perburukan PEF. Derajat serangan asma bervariasi mulai dari yang
+ringan sampai yang mengancam jiwa, perburukan dapat terjadi dalam beberapa
+menit, jam, atau hari. Serangan akut biasanya timbul akibat pajanan terhadap faktor
+pencetus (paling sering infeksi virus atau allergen atau kombinasi keduanya),
+sedangkan serangan berupa perburukan yang bertahap mencerminkan kegagalan
+pengelolaan jangka panjang penyakit.
+Parameter
+klinis, fungsi
+paru,
+laboratorium
+Sesak
+(breathless)
+
+Ringan
+
+Sedang
+
+Berat
+Tanpa
+Ancaman
+ancaman
+henti napas
+henti napas
+Istirahat
+Bayi: tidak
+mau
+minum/makan
+
+Berjalan
+Bayi:
+menangis
+keras
+
+Berbicara
+Bayi :
+tangis pendek
+dan lemah
+kesulitan
+menyusu/makan
+
+Posisi
+
+Bisa
+berbaring
+
+Lebih suka
+duduk
+
+Duduk
+bertopang
+lengan
+
+Bicara
+
+Kalimat
+
+Penggal kalimat
+
+Kata-kata
+
+Kesadaran
+
+Mungkin
+iritable
+
+Biasanya iritable
+
+Biasanya
+irritable
+
+Kebingungan
+
+Sianosis
+Mengi
+
+Tidak ada
+Sedang.
+Sering
+hanya pada
+akhir
+ekspirasi
+
+Tidak ada
+Nyaring,
+sepanjang
+ekspirasi ±
+inspirasi
+
+Ada
+Sangat
+nyaring,
+terdengar
+tanpa
+stetoskop
+sepanjang
+ekspirasi dan
+inspirasi
+
+Nyata
+Sulit/ tidak
+terdengar
+
+Penggunaan
+otot bantu
+respiratorik
+
+Biasanya
+tidak
+
+Biasanya ya
+
+Ya
+
+Gerakan
+paradox
+torakoabdominal
+
+Retraksi
+
+Dangkal,
+retraksi
+interkostal
+
+Sedang,
+ditambah
+retraksi
+suprasternal
+
+Dalam,
+diatambah
+napas cuping
+hidung
+
+Dangkal/
+hilang
+
+Frekuensi
+napas
+
+Takipnea
+
+Takipnea
+
+Takipnea
+
+Bradipnea
+
+368
+
+Frekuensi nadi
+
+Pulsus
+paradoksus
+(pemeriksaanya
+tidak praktis)
+
+Pedoman nilai baku laju napas pada anak sadar:
+Usia
+Frekuensi napas normal
+< 2 bulan
+< 60 / menit
+2-12 bulan
+< 50 / menit
+1-5 tahun
+< 40 / menit
+6-8 tahun
+< 30 / menit
+Normal
+takikardi
+Takikardi
+Bradikardi
+Pedoman nilai baku frekuensi nadi pada anak:
+Usia
+Laju nadi normal
+2-12 bulan
+< 160 / mnt
+1-2 tahun
+< 120 / mnt
+3-8 tahun
+< 110 / mnt
+Tidak ada
+Ada
+Ada
+Tidak ada,
+< 10 mmHg 10-20 mmHg
+> 20 mmHG
+tanda
+kelelahan otot
+napas
+
+VEP atau KVP1 (% nilai prediksi/ % nilai terbaik)
+Pra
+> 60%
+40-60%
+bronkodilator
+Pasca
+> 80%
+60-80%
+bronkodilator
+
+< 40%
+< 60%
+Respons < 2
+jam
+
+SaO2 %
+
+> 95 %
+
+91-95%
+
+≤ 90%
+
+PaO2
+
+Normal
+(biasanya
+tidak perlu
+diperiksa)
+
+> 60 mmHg
+
+< 60 mmHg
+
+PaCO2
+
+< 45 mmHg
+
+< 45 mmHg
+
+> 45 mmHg
+
+# pada matrik klinis, setiap pasien asma harus dicantumkan diagnosis asma secara
+lengkap berdasarkan kekerapan serangan maupun drajat berat serangan misalnya
+asma episodik jarang serangan Ryan, asma episodik sering di luar serangan.
+Penatalaksanaan Komprehensif (Plan)
+Asma Stabil
+Obat asma dapat dibagi dalam 2 kelompok besar, yaitu obat pereda (reliever) dan
+obat pengendali (controller). Obat pereda terkadang juga disebut sebagai obat
+pelega atau obat serangan. Obat kelompok ini digunakan untuk meredakan
+serangan atau gejala asma yang sedang timbul. Jika serangan sudah teratasi dan
+gejala sudah menghilang, obat ini tidak digunakan lagi. Kelompok kedua adalah obat
+pengendali yang sering disebut sebagai obat pencegah atau profilaksis. Obat ini
+digunakan untuk mengatasi masalah dasar asma, yaitu inflamasi kronik saluran
+napas. Dengan demikian, obat ini dipakai terus menerus dalam jangka waktu yang
+relatif lama, bergantung pada derajat penyakit asma dan responsnya terhadap
+pengobatan.
+
+369
+
+Asma episodik jarang
+Respons 4-6 minggu
+
+Obat pereda : β-agonis atau teofilin (hirupan atau oral) bila perlu
+> 3x dosis/ mengi
+
+≤ 3x dosis/ mengi
+
+Tambahkan obat pengendali : *) steroid hirupan dosis rendah
+Respon 6-8 minggu
+
+Asma episodik sering
+
+Respon 6-8 minggu
+
+Asma persisten
+
+Respon 6-8 minggu
+
+(-)
+
+E
+N
+
+(+)
+
+Pertimbangkan alternatif penambahan salah satu obat :
+
+β-agonis kerja panjang (LABA)
+
+Teofilin lepas lambat
+
+Antileukotrien
+Atau dosis steroid hirupan ditingkatkan (tinggi)
+
+(-)
+
+P
+
+G
+H
+I
+
+(+)
+
+N
+
+Steroid dosis medium ditambahkan salah satu obat :
+
+β-agonis kerja panjang (LABA)
+
+Teofilin lepas lambat
+
+Antileukotrien
+Atau dosis steroid hirupan ditingkatkan (tinggi)
+
+D
+
+(-)
+
+(+)
+
+Obat steroid oral
+Tatalaksana Asma Stabil
+
+Tatalaksana Asma Stabil
+
+Asma Eksaserbasi
+Global initiative for asthma (GINA) membagi tatalaksana serangan asma menjadi
+dua yaitu tatalaksana di rumah dan di rumah sakit. Tatalaksana di rumah dilakukan
+oleh pasien (atau orang tuanya) sendiri di rumah. Hal ini dapat dilakukan oleh pasien
+yang sebelumnya telah menjalani terapi dengan teratur dan mempunyai pendidikan
+yang cukup. Pada panduan pengobatan di rumah, disebutkan bahwa terapi awal
+adalah inhalasi B2agonis kerja cepat sebanyak 2 kali dengan selang waktu 20 menit.
+Bila belum ada perbaikan, segera mencari pertolongan ke dokter atau sarana
+kesehatan.
+
+370
+
+A
+R
+
+A
+N
+
+Nilai derajat serangan
+
+
+
+
+
+Tatalaksana awal
+nebulisasi B2agonis 1-2x, selang 20 menit
+nebulisasi kedua + antikolinergik jika serangan sedang/berat
+nebulisasi langsung dengan B2agonis+antikolinergik
+
+Serangan ringan
+(nebulisasi 1x, respons baik)
+ Observasi 1-2 jam
+ Jika efek bertahan, boleh
+pulang
+ Jika gejala timbul lagi,
+perlakukan sebagai
+serangan sedang
+
+
+
+
+
+
+
+Boleh pulang
+Bekali dengan obat βagonis (hirupan/oral)
+Jika sudah ada obat
+pengendali, teruskan
+Jika pencetusnya adalah
+infeksi virus, dapat
+diberikan steroid oral
+Dalam 24-48 jam control
+ke klinik rawat jalan.
+
+
+
+
+
+
+
+
+
+
+
+
+Serangan sedang
+(nebulisasi 2x, respons parsial)
+Berikan oksigen
+Nilai kembali derajat serangan,
+jika sesuai dengan serangan
+sedang, observasi di Ruang
+Rawat Sehari
+Berikan steroid oral
+Pasang jalur parenteral
+
+Serangan berat
+(bila telah nebulisasi 3x, respons
+buruk)
+ Sejak awal berikan O2 saat/di
+luar nebulisasi
+ Pasang jalur parenteral, nilai
+ulang keadaan klinis, jika
+seuai dgn serangan berat,
+rawat di Ruang Rawat Inap
+ Foto rontgen toraks
+
+Ruang rawat sehari/observasi
+Teruskan pemberian oksigen
+Lanjutkan steroid oral
+Nebulisasi tiap 2 jam
+Bila dalam 12 jam perbaikan
+klinis stabil, boleh pulang.
+Tetapi jika klinis tetap belum
+membaik/memburuk, alih
+rawat ke Ruang rawat inap.
+
+Ruang rawat inap
+ Teruskan oksigen
+ Atasi dehidrasi dan asidosis
+jika ada
+ Steroid IV tiap 6-8 jam
+ Nebulisasi tiap 1-2 jam
+ Aminofilin IV awal, lanjutkan
+rumatan
+ Jika membaik dalam 4-6x
+nebulisasi, interval jadi 4-6 jam
+ Jika dalam 24 jam perbaikan
+klinis stabil, boleh pulang
+ Jika dengan steroid dan
+aminofilin parenteral tidak
+membaik, bahkan timbul
+ancaman henti napas, alih
+rawat ke Ruang rawat
+intensif
+
+Catatan:
+Jika menurut penilaian serangannya
+sedang/berat,
+nebulisasi
+pertama
+Tatalaksana
+Asma
+Eksaserbasi
+kali langsung dengan β-agonis + antikolinergik
+ Bila terdapat tanda ancaman henti napas segera ke Ruang Rawat
+Intensif
+ Jika alat nebulisasi tidak tersedia, nebulisasi dapat diganti dengan
+adrenalin subkutan 0,01 ml/kgBB/kali, maksimal 0,3 ml/kali
+ Untuk serangan sedang dan terutama berat, oksigen 2-4 L/menit
+diberikan sejak awal, termasuk pada saat nebulisasi
+
+
+Tatalaksana Asma Eksaserbasi
+
+371
+
+1. Asma episodik jarang cukup diobati dengan obat pereda berupa bronkodilator agonis hirupan kerja pendek (Short Acting B2-Agonist, SABA) atau golongan
+xantin kerja cepat hanya apabila perlu saja, yaitu jika ada gejala/serangan. Pada
+alur tatalaksana jangka panjang (Gambar 3.6.1), terlihat bahwa jika tatalaksana
+asma episodik jarang sudah adekuat, tetapi responsnya tetap tidak baik dalam 46 minggu, tatalaksananya berpindah ke asma episodik sering.
+2. Asma episodik sering
+Penggunaan B2-agonis hirupan lebih dari 3x per minggu (tanpa menghitung
+penggunaan pra-aktivitas fisik), atau serangan sedang/berat terjadi lebih dari
+sekali dalam sebulan, merupakan indikasi penggunaan anti-inflamasi sebagai
+pengendali. Obat steroid hirupan yang sering digunakan pada anak adalah
+budesonid, sehingga digunakan sebagai standar. Dosis rendah steroid hirupan
+adalah 100-200 g/hari budesonid (50-100 g/hari flutikason) untuk anak berusia
+kurang dari 12 tahun, dan 200-400 g/hari budesonid (100-200 g/hari flutikason)
+untuk anak berusia di atas 12 tahun. Pada penggunaan beklometason atau
+budesonid dengan dosis 100-200 g/hari atau setara dengan flutikason 50-100 g,
+belum pernah dilaporkan adanya efek samping jangka panjang. Jika setelah
+pengobatan selama 8-12 minggu dengan steroid dosis rendah tidak timbul
+respons (masih terdapat gejala asma atau gangguan tidur atau aktivitas seharihari), pengobatan dilanjutkan dengan tahap kedua , yaitu menaikkan dosis
+steroid hirupan sampai dengan 400 g/hari yang termasuk dalam tatalaksana
+asma persisten. Jika tatalaksana suatu derajat penyakit asma sudah adekuat,
+tetapi responsnya tetap tidak baik dalam 8-12 minggu, derajat tatalaksananya
+berpindah ke yang lebih berat (step up). Sebaliknya, jika asma terkendali dalam
+8-12 minggu, derajatnya beralih ke yang lebih ringan (step down). Jika
+memungkinkan, steroid hirupan dihentikan penggunaannya.
+Sebelum melakukan step-up, harus dilakukan evaluasi terhadap pelaksanaan
+penghindaran pencetus, penggunaan obat, serta faktor komorbid yang
+mempersulit pengendalian asma seperti rinitis dan sinusitis.
+3. Asma persisten
+Bergantung pada kasusnya, steroid hirupan dapat diberikan mulai dari dosis
+tinggi lalu diturunkan sampai dosis rendah selama gejala masih terkendali, atau
+sebaliknya, mulai dari dosis rendah sampai dosis tinggi hingga gejala dapat
+dikendalikan. Pada keadaan tertentu, khususnya pada anak dengan penyakit
+berat, dianjurkan untuk menggunakan dosis tinggi dahulu, disertai steroid oral
+jangka pendek (3-5 hari).
+Kriteria Rujukan
+1. Asma eksaserbasi sedang-berat
+2. Asma tidak terkontrol
+3. Asma mengancam jiwa
+4. Asma Persisten
+
+372
+
+Pencegahan
+Pengendalian lingkungan, pemberian ASI eksklusif minimal 6 bulan, penghindaran
+makanan berpotensi alergenik, pengurangan pajanan terhadap tungau debu rumah
+dan rontokan bulu binatang, telah terbukti mengurangi timbulnya alergi makanan dan
+khususnya dermatitis atopik pada bayi.
+Komplikasi
+1. Pneumotoraks
+2. Pneumomediastinum dan emfisema subkutis
+3. Atelektasis
+4. Gagal napas
+5. Bronkitis
+6. Fraktur iga
+Peralatan
+1. Alat tiup APE
+2. Pemeriksaan darah rutin
+3. Radiologi (jika fasilitas tersedia)
+4. Oksigen
+Prognosis
+Prognosis tergantung pada beratnya penyakit dan ketepatan penanganan.
+Referensi
+Konsensus Nasional Asma Anak. Unit Koordinasi Kerja Pengurus Pusat Ikatan
+Dokter Anak Indonesia, 2001.
+Rahajoe NN, Supriyatno B, Setyanto DB. Buku ajar respirologi anak. Edisi pertama.
+Indonesia IDAI. 2010.
+Global Initiative for Asthma. Global Strategy for Asthma Management and
+Prevention.
+National
+Institute
+of
+Health.
+www.ginasthma.com/download.asp?intId=214 . 2006
+
+6. Status Asmatikus (Asma Akut Berat)
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: R03. Wheezing
+: J45.902 Unspecified asthma with status asthmaticus
+: 3B
+
+Masalah Kesehatan
+Asma akut berat (serangan asma atau asma eksaserbasi) adalah episode
+peruburukan gejala yang progresif dari sesak, batuk, mengi, atau rasa berat di dada,
+atau kombinasi gejala-gejala tersebut.
+
+373
+
+Hasil Anamnesis (Subjective)
+Riwayat singkat serangan meliputi gejala, pengobatan yang telah digunakan,
+respons pengobatan, waktu mula terjadinya dan penyebab/ pencetus serangan saat
+itu, dan ada tidaknya risiko tinggi untuk mendapatkan keadaan fatal/ kematian yaitu:
+1. Riwayat serangan asma yang membutuhkan intubasi/ ventilasi mekanis
+2. Riwayat perawatan di rumah sakit atau kunjungan ke darurat gawat dalam satu
+tahun terakhir
+3. Saat serangan, masih dalam glukokortikosteroid oral, atau baru saja
+menghentikan salbutamol atau ekivalennya
+4. Dengan gangguan/ penyakit psikiatri atau masalah psikososial termasuk
+penggunaan sedasi
+5. Riwayat tidak patuh dengan pengobatan (jangka panjang) asma.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pada fasilitas layanan kesehatan sederhana dengan kemampuan sumber daya
+manusia terbatas, dapat hanya menekankan kepada :
+1. Posisi penderita
+2. Cara bicara
+3. Frekuensi napas
+4. Penggunaan otot-otot bantu napas
+5. Nadi
+6. Tekanan darah (pulsus paradoksus)
+7. Ada tidak mengi
+Pemeriksaan Penunjang
+1. Pada serangan asma, APE sebaiknya diperiksa sebelum pengobatan, tanpa
+menunda pemberian pengobatan. Pemeriksaan ini dilakukan jika alat tersedia.
+2. Saturasi oksigen dengan pulse oxymetry dapat dilakukan bila alat tersedia.
+3. Pemeriksaan analisis gas darah dilakukan jika fasilitas tersedia.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan pemeriksaan
+penunjang bila diperlukan.
+
+374
+
+Tabel 10.6 Serangan akut asma
+Gejala dan
+tanda
+Sesak napas
+Posisi
+Cara bicara
+Kesadaran
+
+Frekuensi
+napas
+Nadi
+Pulsus
+Paradoksus
+Otot bantu
+napas dan
+retraksi
+Mengi
+
+APE
+PaO2
+PaCO2
+SaO2
+
+Ringan
+
+Berat serangan akut
+Sedang
+Berat
+
+Berjalan
+Dapat tidur
+telentang
+Satu
+kalimat
+Mungkin
+gelisah
+
+Berbicara
+Membungkuk
+
+Keadaan
+mengancam
+jiwa
+
+Beberapa kata
+
+Istirahat
+Duduk
+membungkuk
+Kata demi kata
+
+Gelisah
+
+Gelisah
+
+< 20/menit
+
+20-30/menit
+
+>30/menit
+
+<100
+- 10 mmHg
+
+100-120
++/- 10-20
+mmHg
++
+
+>120
++ > 25 mmHg
+
+Bradikardia
+Kelelahan otot
+
++
+
+Torakoabdominal
+paradoksal
+
+Akhir ekspirasi
+
+Inspirasi dan
+ekspirasi
+
+Silent chest
+
+60-80 %
+80-60 mmHg
+< 45 mmHg
+91-95 %
+
+< 60 %
+< 60 mmHg
+> 45 mmHg
+< 95 %
+
+-
+
+Akhir
+ekspirasi
+paksa
+80 %
+> 80 mmHg
+< 45 mmHg
+> 95 %
+
+Diagnosis banding
+1. Obstruksi saluran napas atas
+2. Benda asing di saluran napas
+3. PPOK eksaserbasi
+4. Penyakit paru parenkimal
+5. Disfungsi pita suara
+6. Gagal jantung akut
+7. Gagal ginjal akut
+
+375
+
+Mengantuk,
+gelisah,
+kesadaran
+menurun
+
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Penilaian berat serangan
+Anamnesis, pemeriksaan fisis ( auskultasi, penggunaan otot bantu, nadi, laju
+napas, APE, saturasi oksigen, analisa gas darah jika pasien sangat buruk)
+
+Terapi Awal
+Oksigen untuk mencapai saturasi ≥ 0%
+Inhalasi agonis beta-2 kerja singkat secara kontinyu dalam 1 jam
+Glukokortikosteroid sistemik jika pasien tak ada respons segera atau sebelumnya
+pasien telah mendapat glukokortikosteroid oral atau jika serangan hebat
+
+Re-evaluasi setelah 1 jam  pemeriksaan fisis, APE, saturasi
+
+Respon Baik
+Gejala (batuk/ berdahak/ sesak/ mengi)
+membaik.
+Perbaikan dengan agonis beta-2 dan
+bertahan selama 4 jam. APE > 80%
+prediksi / nilai terbaik
+
+1.
+
+2.
+
+Respon Buruk
+Gejala menetap atau bertambah berat
+APE < 60% prediksi / nilai terbaik
+1.
+2.
+
+Respon Baik
+Lanjutkan agonis beta-2 inhalasi setiap
+3–4 jam untuk 24 – 48 jam
+Alternatif : Bronkodilator oral setiap 6 –
+8 jam
+Steroid inhalasi diteruskan dengan dosis
+tinggi (bila sedang menggunakan
+steroid inhalasi) selama 2 minggu, kmd
+kembali ke dosis sebelumnya
+
+Agonis B-2 diulang
+Tambahkan glukokortikosteroid
+sistemik
+
+RUJUK
+
+Gambar 10.2. Status Asmatikus (Asma Akut Berat)
+Catatan: Jika algoritma di atas tidak dapat digunakan, dokter dapat menggunakan
+obat-obatan alternatif pada tabel Daftar Obat-obat Asma.
+
+376
+
+Tabel 10.7 Pengobatan
+pengobatan
+SERANGAN
+RINGAN
+Aktiviti relatif normal
+Berbicara satu kalimat
+dalam satu napas
+Nadi <100
+APE > 80%
+
+asma berdasarkan
+
+berat
+
+PENGOBATAN
+Terbaik:
+Inhalasi agonis beta-2
+kerja singkat tunggal atau
+dikombinasikan dengan
+antikolinergik
+
+serangan
+
+dan
+
+tempat
+
+TEMPAT PENGOBATAN
+Di rumah
+Di praktek dokter/
+klinik/ puskesmas
+
+Alternatif:
+Kombinasi oral agonis
+beta-2
+dan aminofilin / teofilin
+SEDANG
+Jalan jarak jauh
+timbulkan gejala
+Berbicara beberapa
+kata dalam satu napas
+Nadi 100-120
+APE 60-80%
+
+Terbaik
+Nebulisasi agonis beta-2
+tiap 4 jam
+Alternatif:
+-Agonis beta-2 subkutan
+-Aminofilin IV
+-Adrenalin 1/1000 0,3ml
+SK
+
+Darurat Gawat/ RS
+Klinik
+Praktek dokter
+Puskesmas
+
+Oksigen bila mungkin
+Kortikosteroid sistemik
+BERAT
+Sesak saat istirahat
+Berbicara kata perkata
+dalam satu napas
+Nadi >120
+APE<60% atau
+100 l/dt
+
+Terbaik
+Nebulisasi agonis beta-2
+tiap 4 jam
+Alternatif:
+-Agonis beta-2 SK/ IV
+-Adrenalin 1/1000 0,3ml
+SK
+Aminofilin
+dilanjutkan drip
+Oksigen
+Kortikosteroid IV
+
+MENGANCAM JIWA
+Kesadaran berubah/
+menurun
+Gelisah
+Sianosis
+Gagal napas
+
+Darurat Gawat/ RS
+Klinik
+
+bolus
+
+Seperti serangan akut
+berat
+Pertimbangkan intubasi
+dan
+ventilasi mekanis
+
+Darurat Gawat/ RS
+ICU
+
+Rencana tindak lanjut
+Kriteria untuk melanjutkan observasi (di klinik, praktek dokter/ puskesmas)
+tergantung kepada fasiliti yang tersedia :
+1. Respons terapi tidak adekuat dalam 1-2 jam
+2. Obstruksi jalan napas yang menetap (APE < 30% nilai terbaik/ prediksi)
+3. Riwayat serangan asma berat, perawatan rumah sakit/ ICU sebelumny
+
+377
+
+4. Dengan risiko tinggi (lihat di riwayat serangan)
+5. Gejala memburuk yang berkepanjangan sebelum datang membutuhkan
+pertolongan saat itu
+6. Pengobatan yang tidak adekuat sebelumnya
+7. Kondisi rumah yang sulit/ tidak menolong
+8. Masalah/ kesulitan dalam transport atau mobilisasi ke rumah sakit
+Kriteria Pulang
+Pertimbangan untuk memulangkan pada penderita di layanan primer:
+1. Bila terjadi perbaikan klinis, yaitu: keluhan berkurang, frekuensi napas kembali
+normal, mengi menghilang, nadi dan tekanan darah kembali normal, pasien
+dapat bernapas tanpa otot-otot bantu napas, pasien dapat berbicara lebih lancar
+atau berjalan, atau kesadaran membaik.
+2. Bila APE pasca tatalaksana awal 40-60% nilai terbaik/ prediksi dengan
+pengawasan ketat di komunitas.
+3. Bila APE pasca tatalaksana awal > 60% nilai terbaik/ prediksi dan pasien dapat
+menggunakan obat inhalasi atau oral dengan patuh.
+4. Penderita dirawat inap
+Kriteria Rujukan
+1. Tidak respons dengan pengobatan, ditandai dengan:
+a. Tidak terjadi perbaikan klinis
+b. Bila APE sebelum pengobatan awal < 25% nilai terbaik/ prediksi; atau APE
+pasca tatalaksana < 40% nilai terbaik/ prediksi.
+c. Serangan akut yang mengancam jiwa
+d. Tanda dan gejala tidak jelas (atipik), atau masalah dalam diagnosis banding,
+atau komplikasi atau penyakit penyerta (komorbid); seperti sinusitis, polip
+hidung, aspergilosis (ABPA), rinitis berat, disfungsi pita suara, refluks
+gastroesofagus dan PPOK.
+e. Dibutuhkan pemeriksaan/ uji lainnya di luar pemeriksaan standar, seperti uji
+kulit (uji alergi), pemeriksaan faal paru lengkap, uji provokasi bronkus, uji
+latih (kardiopulmonary exercise test), bronkoskopi dan sebagainya.
+Konseling dan Edukasi
+1. Meningkatkan kebugaran fisis
+2. Berhenti merokok
+3. Menghindari pencetus di lingkungan sehari-hari
+Peralatan
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Tabung oksigen
+Kanul hidung
+Sungkup sederhana
+Sungkup inhalasi
+Nebulizer
+Peak flow meter
+Pulse oxymeter
+
+378
+
+8. Analisis gas darah
+9. Tensimeter
+Prognosis
+Ad vitam
+: Dubia ad bonam
+Ad functionam : Bonam
+Ad sanationam : Dubia ad bonam
+Referensi
+1. Perhimpunan Dokter Paru Indonesia. Asma. Pedoman diagnosis dan
+penatalaksanaan di Indonesia. PDPI. Jakarta. 2004
+2. Global Initiative For Asthma. Global strategy for asthma management and
+prevention. GINA. 2012.
+
+7.
+
+Pneumonia Aspirasi
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: R99 Respiratory disease other
+: J69.0 Pneumonitis due to food and vomit
+: 3B
+
+Masalah Kesehatan
+Pneumonia aspirasi (Aspiration pneumonia) adalah pneumonia yang disebabkan
+oleh terbawanya bahan yang ada diorofaring pada saat respirasi ke saluran napas
+bawah dan dapat menimbulkan kerusakan parenkim paru. Secara spesifik,
+pneumonia aspirasi didefinisikan dengan ditemukannya bukti radiografi berupa
+penambahan infiltrat di paru pada pasien dengan faktor risiko aspirasi orofaring.
+Hasil Anamnesis (Subjective)
+Kejadian aspiration pneumonia biasanya tidak dapat diketahui waktu terjadinya dan
+paling sering pada orang tua. Keluhannya berupa :
+1. Batuk
+2. Takipnea
+3. Tanda-tanda dari pneumonia
+Faktor Risiko:
+1. Pasien dengan disfagi neurologis.
+2. Pasien dengan irupsi dari gastroesophageal junction.
+3. Terdapat abnormalitas anatomis dari traktus aerodigestifus atas.
+Hasil Pemeriksaan Fisis dan Penunjang Sederhana (Objective)
+Pemeriksaan fisis serupa pada pneumonia umumnya. Temuan pemeriksaan fisis
+dada tergantung dari luas lesi di paru.
+
+379
+
+Inspeksi
+Palpasi
+Perkusi
+Auskultasi
+
+: dapat terlihat bagian yang sakit tertinggal waktu bernapas
+: fremitus dapat mengeras pada bagian yang sakit
+: redup di bagian yang sakit
+: terdengar suara napas bronkovesikuler sampai bronkial yang mungkin
+disertai ronki basah halus, yang kemudian menjadi ronki basah kasar
+pada stadium resolusi.
+
+Pemeriksaan Penunjang
+1. Foto toraks
+2. Pemeriksaan laboratorium darah lengkap
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis berdasarkan anamnesis, pemeriksaan fisis, dan penunjang.
+Diagnosis Banding :Aspiration pneumonitis: Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Pemberian oksigen
+2. Pemberian cairan dan kalori yang cukup (bila cairan parenteral). Jumlah cairan
+sesuai berat badan, peningkatan suhu dan derajat dehidrasi.
+3. Pemberian antibiotik tergantung pada kondisi :
+a. Pneumonia komunitas : levofloksasin (500mg/hari) atau seftriakson (1-2
+gr/hari)
+b. Pasien dalam perawatan di rumah sakit : levofloksasin (500 mg/hari)atau
+piperasilin tazobaktam (3, 375 gr/6 jam) atau seftazidim (2 gr/8 jam)
+c. Penyakit periodontal berat, dahak yang busuk atau alkoholisme : piperasilintazobaktam (3, 375 gr/6 jam) atau imipenem (500 mg/8 jam sampai 1 gr/6
+jam) atau
+kombinasi dua obat : levofloksasin (500 mg/hari) atau
+siprofloksasin (400 mg/12 jam) atau seftriakson (1-2 gr/hari) ditambah
+klindamisin (600 mg/8 jam) atau metronidazol (500 mg/8jam)
+Kriteria Rujukan
+Penilaian status keparahan serupa dengan pneumonia biasa.
+Peralatan
+Tabung oksigen beserta nasal kanul atau masker
+Prognosis
+Prognosis pada umumnya bonam.
+
+380
+
+Referensi
+1. Perhimpunan
+Dokter
+Paru
+Indonesia.
+Pneumonia.
+PDPI.
+Jakarta
+2013.(Perhimpunan Dokter Paru Indonesia, 2013)
+2. Marik PE. Aspiration pneumonitis and aspiration pneumonia. N Eng J Med.
+2001;3:665-71.(Marik, 2001)
+
+8.
+
+Pneumonia, Bronkopneumonia
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: R81 Pneumonia
+: J18.0 Bronchopneumonia, unspecified
+J18.9 Pneumonia, unspecified
+: 4A
+
+Masalah Kesehatan
+Pneumonia adalah peradangan/inflamasi parenkim paru, distal dari bronkiolus
+terminalis yang mencakup bronkiolus respiratorius dan alveoli, serta menimbulkan
+konsolidasi jaringan paru dan gangguan pertukaran gas setempat. Sebagian besar
+disebabkan oleh mikroorganisme (virus/bakteri) dan sebagian kecil disebabkan oleh
+hal lain (aspirasi, radiasi dll). Pneumonia yang dimaksud di sini tidak termasuk
+dengan pneumonia yang disebabkan oleh Mycobacterium tuberculosis. Pneumonia
+merupakan penyebab utama morbiditas dan mortalitas anak berusia di bawah lima
+tahun (balita). Diperkirakan hampir seperlima kematian anak diseluruh dunia, lebih
+kurang 2 juta anak balita, meninggal setiap tahun akibat pneumonia, sebagian besar
+terjadi di Afrika dan Asia Tenggara. Menurut survei kesehatan nasional (SKN) 2001,
+27,6% kematian bayi dan 22,8% kematian balita di Indonesia disebabkan oleh
+penyakit sistem respiratori, terutama pneumonia. Lima provinsi yang mempunyai
+insiden dan prevalensi pneumonia tertinggi untuk semua umur adalah Nusa
+Tenggara Timur (4,6% dan 10,3%), Papua (2,6% dan 8,2%), Sulawesi Tengah (2,3%
+dan 5,7%), Sulawesi Barat (3,1% dan 6,1%), dan Sulawesi Selatan (2,4% dan 4,8%)
+berdasarkan RISKESDAS 2013.
+
+a. Pneumonia pada Pasien Dewasa
+Hasil Anamnesis (Subjective)
+Gambaran klinik biasanya ditandai dengan :
+1. Demam, menggigil, suhu tubuh meningkat dapat melebihi 40°C
+2. Batuk dengan dahak mukoid atau purulen kadang-kadang disertai darah
+3. Sesak napas
+4. Nyeri dada
+
+381
+
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan fisik
+Temuan pemeriksaan fisis dada tergantung dari luas lesi di paru.
+Inspeksi
+: dapat terlihat bagian yang sakit tertinggal waktu bernapas
+Palpasi
+: fremitus dapat mengeras pada bagian yang sakit
+Perkusi
+: redup di bagian yang sakit
+Auskultasi
+: terdengar suara napas bronkovesikuler sampai bronkial yang
+mungkin disertai ronki basah halus, yang kemudian menjadi ronki
+basah kasar pada stadium resolusi.
+Pemeriksaan Penunjang
+1. Pewarnaan gram
+2. Pemeriksaan lekosit
+3. Pemeriksaan foto toraks jika fasilitas tersedia
+4. Kultur sputum jika fasilitas tersedia
+5. Kultur darah jika fasilitas tersedia
+Penegakan Diagnosis (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik. Untuk
+diagnosis defenitif dilakukan pemeriksaan penunjang.
+Diagnosis pasti pneumonia komuniti ditegakkan jika pada foto toraks terdapat infiltrat
+baru atau infiltrat progresif ditambah dengan 2 atau lebih gejala di bawah ini:
+1. Batuk-batuk bertambah
+2. Perubahan karakteristik dahak / purulen
+3. Suhu tubuh > 38°C (aksila) / riwayat demam
+4. Pemeriksaan fisis : ditemukan tanda-tanda konsolidasi, suara napas bronkial dan
+ronki
+5. Leukosit > 10.000 atau < 4500
+Komplikasi
+Efusi pleura, Empiema, Abses paru, Pneumotoraks, gagal napas, sepsis.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Dalam hal mengobati penderita pneumonia perlu diperhatikan keadaan klinisnya.
+Bila keadaan klinis baik dan tidak ada indikasi rawat dapat diobati di rumah. Juga
+diperhatikan ada tidaknya faktor modifikasi yaitu keadaan yang dapat meningkatkan
+risiko infeksi dengan mikroorganisme patogen yang spesifik.
+1. Pengobatan suportif / simptomatik
+a. Istirahat di tempat tidur
+b. Minum secukupnya untuk mengatasi dehidrasi
+c. Bila panas tinggi perlu dikompres atau minum obat penurun panas
+d. Bila perlu dapat diberikan mukolitik dan ekspektoran
+
+382
+
+2. Terapi definitif dengan pemberian antibiotik yang harus diberikan kurang dari 8
+jam.
+Pasien Rawat Jalan
+b. Pasien yang sebelumnya sehat dan tidak ada risiko kebal obat ;
+ Makrolid: azitromisin, klaritromisin atau eritromisin (rekomendasi kuat)
+ Doksisiklin (rekomendasi lemah)
+c. Terdapat komorbid seperti penyakit jantung kronik, paru, hati atau penyakit
+ginjal, diabetes mellitus, alkoholisme, keganasan, kondisi imunosupresif atau
+penggunaan obat imunosupresif, antibiotik lebih dari 3 bulan atau faktor
+risiko lain infeksi pneumonia :
+ Florokuinolon respirasi : moksifloksasisn, gemfloksasin atau
+levofloksasin (750 mg) (rekomendasi kuat)
+ β-lactam + makrolid : Amoksisilin dosis tinggi (1 gram, 3x1/hari) atau
+amoksisilin-klavulanat (2 gram, 2x1/hari) (rekomendasi kuat)
+Alternatif obat lainnya termasuk ceftriakson, cefpodoxime dan
+cefuroxime (500 mg, 2x1/hari), doksisiklin
+Pasien perawatan, tanpa rawat ICU
+1. Florokuinolon respirasi (rekomendasi kuat)
+2. β-laktam+makrolid (rekomendasi kuat)
+Agen β-laktam termasuk sefotaksim, seftriakson, dan ampisilin; ertapenem untuk
+pasien tertentu; dengan doksisiklin sebagai alternatif untuk makrolid.
+Florokuinolon respirasi sebaikanya digunakan untuk pasien alergi penisilin.
+Konseling dan Edukasi
+1. Edukasi
+Edukasi diberikan kepada individu dan keluarga mengenai pencegahan infeksi
+berulang, pola hidup sehat termasuk tidak merokok dan sanitasi lingkungan.
+2. Pencegahan
+Vaksinasi influenza dan pneumokokal, terutama bagi golongan risiko tinggi
+(orang usia lanjut atau penderita penyakit kronis).
+Kriteria Rujukan
+1. Kriteria CURB
+(Conciousness, kadar Ureum, Respiratory rate>30 x/menit, tekanan darah:
+sistolik <90 mmHg dan diastolik <60 mmHg; masing masing bila ada kelainan
+bernilai 1).
+Dirujuk bila total nilai 2.
+2. Kriteria PORT (patient outcome research team)
+Penilaian Derajat Keparahan Penyakit
+Penilaian derajat keparahan penyakit pneumonia komuniti dapat dilakukan dengan
+menggunakan sistem skor menurut hasil penelitian Pneumonia Patient Outcome
+Research Team (PORT).
+
+383
+
+Tabel 10.8 Sistem skor pada pneumonia komuniti berdasarkan PORT
+Karakteristik penderita
+Faktor demografi
+ Usia : laki-laki
+perempuan
+ Perawatan di rumah
+ Penyakit penyerta
+Keganasan
+Penyakit hati
+Gagal jantung kongestif
+Penyakit serebrovaskuler
+Penyakit ginjal
+Pemeriksaan fisis
+ Perubahan status mental
+ Pernapasan ≥ 30 kali/menit
+ Tekanan darah sistolik ≤ 90 mmHg
+ Suhu tubuh < 35°C atau > 40°C
+ Nadi ≥ 125 kali/menit
+Hasil laboratorum/ radiologi
+ Analisis gas darah arteri :pH 7, 35
+ BUN > 30 mg/dL
+ Natrium < 130 mEq/liter
+ Glukosa > 250 mg/dL
+ Hematokrit < 30 %
+ PO2 ≤ 60 mmHg
+ Efusi pleura
+
+Jumlah poin
+Umur (tahun)
+Umur (tahun) – 10
++10
++30
++20
++10
++10
++10
++20
++20
++20
++15
++10
++30
++20
++20
++10
++10
++10
++10
+
+Berdasar kesepakatan PDPI, kriteria yang dipakai untuk indikasi rawat inap
+pneumonia komuniti adalah :
+1. Skor PORT > 70
+2. Bila skor PORT < 70 maka penderita tetap perlu dirawat inap bila dijumpai salah
+satu dari kriteria dibawah ini :
+a. Frekuensi napas > 30/menit
+b. Pa02/FiO2 kurang dari 250 mmHg
+c. Foto toraks paru menunjukkan kelainan bilateral
+d. Foto toraks paru melibatkan > 2 lobus
+e. Tekanan diastolik < 60 mmHg
+f. Tekanan sistolik < 90 mmHg
+3. Pneumonia pada pengguna NAPZA
+4. Menurut ATS (American Thoracic Society) kriteria pneumonia berat bila dijumpai
+salah satu atau lebih' kriteria di bawah ini.
+a. Kriteria minor:
+ Frekuensi napas > 30/menit
+ Pa02/FiO2kurang dari 250 mmHg
+ Foto toraks paru menunjukkan kelainan bilateral
+ Foto toraks paru melibatkan > 2 lobus
+
+384
+
+ Tekanan sistolik < 90 mmHg
+ Tekanan diastolik < 60 mmHg
+b. Kriteria mayor adalah sebagai berikut :
+ Membutuhkan ventilasi mekanik
+ Infiltrat bertambah > 50%
+ Membutuhkan vasopresor > 4 jam (septik syok)
+ Kreatinin serum > 2 mg/dl atau peningkatan > 2 mg/dI, pada penderita
+riwayat penyakit ginjal atau gagal ginjal yang membutuhkan dialisis
+Penderita yang memerlukan perawatan di Ruang Rawat Intensif adalah penderita
+yang mempunyai:
+1. Satu dari dua gejala mayor tertentu (membutuhkan ventalasi mekanik dan
+membutuhkan vasopressor > 4 jam [syok sptik]) atau
+2. Dua dari tiga gejala minor tertentu (Pa02/FiO2 kurang dari 250 mmHg, foto
+toraks paru menunjukkan kelainan bilateral, dan tekanan sistolik < 90 mmHg).
+Kriteria minor dan mayor yang lain bukan merupakan indikasi untuk perawatan
+Ruang Rawat Intensif.
+
+b.
+
+Bronkopneumonia pada Pasien Anak
+
+Hasil Anamnesis (Subjective)
+Sebagian besar gambaran klinis pneumonia pada anak berkisar antara ringan hingga
+sedang, sehingga dapat berobat jalan saja. Hanya sebagian kecil yang berat,
+mengancam kehidupan, dan mungkin terdapat komplikasi sehingga memerlukan
+perawatan di rumah sakit.
+Beberapa faktor yang memengaruhi gambaran klinis pneumonia pada anak adalah:
+1. Imaturitas anatomik dan imunologik
+2. Mikroorganisme penyebab yang luas, gejala klinis yang kadang-kadang tidak
+khas terutama pada bayi
+3. Etiologi noninfeksi yang relatif lebih sering
+4. Faktor patogenesis
+5. Kelompok usia pada anak merupakan faktor penting yang menyebabkan
+karakteristik penyakit berbeda-beda, sehingga perlu dipertimbangkan dalam
+tatalaksana pneumonia.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Gambaran klinis pneumonia pada bayi dan anak bergantung pada berat-ringannya
+infeksi, tetapi secara umum adalah sebagai berikut:
+1. Gejala infeksi umum, yaitu demam, sakit kepala, gelisah, malaise, penurunan
+nafsu makan, keluhan gastrointestinal seperti mual, muntah atau diare; kadangkadang ditemukan gejala infeksi ekstrapulmoner.
+2. Gejala gangguan respiratori, yaitu batuk, sesak napas, retraksi dada, takipnea,
+napas cuping hidung, air hunger, merintih, dan sianosis.
+
+385
+
+Pada pemeriksaan fisik dapat ditemukan tanda klinis seperti pekak perkusi, suara
+napas melemah, dan ronki. Akan tetapi pada neonatus dan bayi kecil, gejala dan
+tanda pneumonia lebih beragam dan tidak selalu jelas terlihat. Pada perkusi dan
+auskultasi paru umumnya tidak ditemukan kelainan.
+Pemeriksaan Penunjang
+Pewarnaan gram, pemeriksaan lekosit, pemeriksaan foto toraks, kultur sputum serta
+kultur darah (bila fasilitas tersedia)
+Penegakan Diagnosis (Assessment)
+Diagnosis etiologik berdasarkan pemeriksaan mikrobiologis dan/atau serologis
+sebagai dasar terapi yang optimal. Akan tetapi, penemuan bakteri penyebab tidak
+selalu mudah karena memerlukan laboratorium penunjang yang memadai. Oleh
+karena itu, pneumonia pada anak umumnya didiagnosis berdasarkan gambaran
+klinis yang menunjukkan keterlibatan sistem respiratori, serta gambaran radiologis.
+Prediktor paling kuat adanya pneumonia adalah demam, sianosis, dan lebih dari satu
+gejala respiratori sebagai berikut: takipnea, batuk, napas cuping hidung, retraksi,
+ronki, dan suara napas melemah.
+WHO mengembangkan pedoman diagnosis dan tatalaksana yang sederhana.
+Pedoman ini terutama ditujukan untuk Pelayanan Kesehatan Primer, dan sebagai
+pendidikan kesehatan untuk masyarakat di negara berkembang. Gejala klinis
+sederhana tersebut meliputi napas cepat, sesak napas, dan berbagai tanda bahaya
+agar anak segera dirujuk ke pelayanan kesehatan. Napas cepat dinilai dengan
+menghitung frekuensi napas selama satu menit penuh ketika bayi dalam keadaan
+tenang. Sesak napas dinilai dengan melihat adanya tarikan dinding dada bagian
+bawah ke dalam ketika menarik napas (retraksi epigastrium). Tanda bahaya pada
+anak berusia 2 bulan–5 tahun adalah tidak dapat minum, kejang, kesadaran
+menurun, stridor, dan gizi buruk; tanda bahaya untuk bayi berusia di bawah 2 bulan
+adalah malas minum, kejang, kesadaran menurun, stridor, mengi, dan demam/badan
+terasa dingin.
+Klasifikasi pneumonia berdasarkan pedoman WHO adalah:
+1. Bayi dan anak berusia 2 bulan–5 tahun
+a. Pneumonia berat
+ Ada sesak napas
+ Harus dirawat dan diberikan antibiotik.
+b. Pneumonia
+ Tidak ada sesak napas
+ Ada napas cepat dengan laju napas:
+>50 x/menit untuk anak usia 2 bulan–1 tahun
+>40 x/menit untuk anak >1–5 tahun
+ Tidak perlu dirawat, diberikan antibiotik oral.
+c. Bukan pneumonia
+ Tidak ada napas cepat dan sesak napas
+
+386
+
+
+
+Tidak perlu dirawat dan tidak perlu antibiotik, hanya diberikan
+pengobatan simptomatis seperti penurun panas
+2. Bayi berusia di bawah 2 bulan
+a. Pneumonia
+ Ada napas cepat (>60 x/menit) atau sesak napas
+ Harus dirawat dan diberikan antibiotik.
+b. Bukan pneumonia
+
+Tidak ada napas cepat atau sesak napas
+
+Tidak perlu dirawat, cukup diberikan pengobatan simptomatis.
+Penatalaksanaan Komprehensif (Plan)
+Sebagian besar pneumonia pada anak tidak perlu dirawat inap. Indikasi perawatan
+terutama berdasarkan berat-ringannya penyakit, misalnya toksis, distres pernapasan,
+tidak mau makan/minum, atau ada penyakit dasar yang lain, komplikasi, dan
+terutama mempertimbangkan usia pasien. Neonatus dan bayi kecil dengan
+kemungkinan klinis pneumonia harus dirawat inap.
+Dasar tatalaksana pneumonia rawat inap adalah pengobatan kausal dengan
+antibiotik yang sesuai dan pengobatan suportif yang meliputi :
+1. Pemberian cairan intravena, terapi oksigen, koreksi terhadap gangguan
+keseimbangan asam-basa, elektrolit, dan gula darah
+2. Untuk nyeri dan demam dapat diberikan analgetik/antipiretik
+3. Suplementasi vitamin A tidak terbukti efektif
+4. Penyakit penyerta harus ditanggulangi dengan adekuat
+5. Komplikasi yang mungkin terjadi harus dipantau dan diatasi
+Pneumonia Rawat Jalan
+Pada pneumonia ringan rawat jalan dapat diberikan antibiotik lini pertama secara
+oral, misalnya amoksisilin atau kotrimoksazol. Pada pneumonia ringan berobat jalan,
+dapat diberikan antibiotik tunggal oral dengan efektifitas yang mencapai 90%.
+Penelitian multisenter di Pakistan menemukan bahwa pada pneumonia rawat jalan,
+pemberian amoksisilin dan kotrimoksazol dua kali sehari mempunyai efektifitas yang
+sama. Dosis amoksisilin yang diberikan adalah 25 mg/kgBB, sedangkan
+kotrimoksazol adalah 4 mg/kgBB TMP − 20 mg/kgBB sulfametoksazol.
+Penumonia Rawat Inap
+Pilihan antibiotik lini pertama dapat menggunakan antibiotik golongan beta-laktam
+atau kloramfenikol. Pada pneumonia yang tidak responsif terhadap beta-laktam dan
+kloramfenikol, dapat diberikan antibiotik lain seperti gentamisin, amikasin, atau
+sefalosporin, sesuai dengan petunjuk etiologi yang ditemukan. Sebaiknya segera
+dirujuk jika tidak tersedia antibiotik yang sesuai.
+Kriteria Rujukan
+1. Pneumonia berat
+2. Pneumonia rawat inap
+
+387
+
+Pencegahan
+1. Pemberian imunisasi Pemberian vitamin A
+2. Menghindari faktor paparan asap rokok dan polusi udara
+3. Membiasakan cuci tangan
+4. Isolasi penderita
+5. Menghindarkan bayi/anak kecil dari tempat keramaian umum
+6. Pemberian ASI
+7. Menghindarkan bayi/anak kecil dari kontak dengan penderita ISPA
+Komplikasi
+Empiema torakis, Perikarditis purulenta, Pneumotoraks, Infeksi ekstrapulmoner
+seperti meningitis purulenta
+Peralatan
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Termometer
+Tensimeter
+Pulse oxymeter (jika fasilitas tersedia)
+Pemeriksaan pewarnaan gram
+Pemeriksaan darah rutin
+Radiologi (jika fasilitas tersedia)
+Oksigen
+
+Prognosis
+Prognosis tergantung pada beratnya penyakit dan ketepatan penanganan.
+Referensi
+1. Perhimpunan Dokter Paru Indonesia. Pneumonia Komuniti. Pedoman Diagnosis
+dan Penatalaksanaan di Indonesia. Jakarta. 2011.(Perhimpunan Dokter Paru
+Indonesia, 2011)
+2. Mandell Al, Wunderink RG, Bartlett JG, Campbell GD, Dean NC, Dowell SE, etc.
+Infectious diseases society of America/American thoracic society consensus
+guidelines on the management of community-acquired pneumonia in adults.
+Clinical Infectious Diseases 2007; 44:S27–72(Mandel, et al., 2007)
+3. Said M. Pneumonia. Rahajoe NN, Supriyatno B, Setyanto DB, editor. Buku ajar
+respirologi anak. Edisi I. Jakarta: IDAI;2011.p. 310-33. (Said, 2011)
+
+388
+
+9.
+
+Pneumotoraks
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: R99 Respiratory Disease Other
+: J93.9 Respiratory Disease other
+: 4A
+
+Masalah Kesehatan
+Pneumotoraks adalah kondisi dimana terdapat udara bebas dalam rongga pleura.
+Insiden pneumotoraks sulit diketahui karena episodenya banyak yang tidak
+diketahui. Umumnya pria lebih banyak dari wanita.
+Terdapat 2 jenis pneumotoraks, yaitu:
+1. Pneumotoraks spontan primer adalah pneumotoraks yang terjadi tanpa riwayat
+penyakit paru sebelumnya ataupun trauma, dan dapat terjadi pada individu yang
+sehat. Terutama lebih sering pada laki, tinggi dan kurus, dan perokok.
+2. Pneumotoraks spontan sekunder adalah pneumotoraks yang terjadi pada
+penderita yang memiliki riwayat penyakit paru sebelumnya seperti PPOK, TB
+paru dan lain-lain.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Pneumotoraks dapat menimbulkan keluhan atau tidak. Keluhan yang dapat
+timbul adalah sesak napas, yang dapat disertai nyeri dada pada sisi yang sakit.
+Nyeri dada tajam, timbul secara tiba-tiba, dan semakin nyeri jika menarik napas
+dalam atau terbatuk. Keluhan timbul mendadak ketika tidak sedang aktivitas.
+2. Faktor risiko, di antaranya:
+a. Infeksi, misalnya: tuberkulosis, pneumonia
+b. Trauma
+c. Merokok
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Gejala klinis :
+1. Hiperkapnia
+2. Hipotensi
+3. Takikardi
+4. Perubahan status mental
+5. Pemeriksaan fisik paru :
+a. Inspeksi paru, tampak sisi yang sakit lebih menonjol dan tertinggal pada
+pernapasan
+b. Palpasi paru, suara fremitus menurun di sisi yang sakit
+c. Perkusi paru, ditemukan suara hipersonor dan pergeseran mediastinum ke
+arah yang sehat
+d. Auskultasi paru, didapatkan suara napas yang melemah dan jauh
+
+389
+
+Pemeriksaan Penunjang:
+1. Foto toraks, didapatkan garis penguncupan paru yang sangat halus (pleural line),
+dan gambaran avaskuler di sisi yang sakit. Bila disertai darah atau cairan
+lainnya, akan tampak garis mendatar yang merupakan batas udara dan cairan
+(air fluid level).
+2. Pulse oxymetry. Pemeriksaan ini tidak untuk menegakkan diagnosis, namun
+untuk menilai apakah telah terjadi gagal napas.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan untuk
+diagnosis definitif dengan pemeriksaan penunjang.
+Komplikasi
+1. Kegagalan respirasi
+2. Kegagalan sirkulasi
+3. Kematian
+Penatalaksanaan Komprehensif (Plan)
+1. Oksigen
+2. Jika ada tanda kegagalan sirkulasi, dilakukan pemasangan IV line dengan cairan
+kristaloid
+3. Rujuk
+Konseling dan Edukasi
+Menjelaskan kepada pasien dan keluarga mengenai:
+1. Bahaya dan komplikasi pneumotoraks
+2. Pertolongan kegawatdaruratan pada pneumotoraks
+3. Perlunya rujukan segera ke RS
+Kriteria Rujukan
+Segera rujuk pasien
+penanggulangan awal.
+
+yang
+
+terdiagnosis
+
+Peralatan
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+Infus set
+Abbocath 14
+Tabung oksigen
+Kanul hidung
+Sungkup sederhana
+Lidocaine 2%
+Spuit 3 cc, 5 cc, 10 cc, 20 cc, 50 cc
+Three-way
+Botol bervolume 500 cc
+
+390
+
+pneumotoraks,
+
+setelah
+
+dilakukan
+
+Prognosis
+Ad vitam
+: Dubia
+Ad functionam : Dubia
+Ad sanationam : Dubia
+Referensi
+1. Astowo P. Pneumotoraks. Dalam: Pulmonologi intervensi dan gawat darurat
+napas. Swidarmoko B, Susanto AD, editor. Jakarta: Dep. Pulmonologi dan Ked.
+Respirasi. 2010: 54-71.(Astowo, 2010)
+2. MacDuff A, Arnold A, Harvey J. Management of spontaneous pneumothorax:
+British Thoracic Society pleural diseases guideline 2010. Thorax. 2010; 65:1831.(MacDuff, et al., 2010)
+
+10. PPOK (Penyakit Paru Obstruktif Kronis)
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: R95 Chronic Obstructive Pulmonary Diseases
+: J44.9 Chronic Obstructive Pulmonary Diseasesm
+unspecified
+: 4A
+
+Masalah Kesehatan
+PPOK adalah penyakit paru kronik yang dapat dicegah dan diobati, dikarakteristikkan
+dengan hambatan aliran udara yang persisten, progresif dan berhubungan dengan
+peningkatan respons inflamasi kronis di paru terhadap partikel dan gas berbahaya.
+Eksaserbasi dan komorbid berkontribusi terhadap keseluruhan keparahan tiap
+individu. Prevalensi PPOK tertinggi terdapat di Nusa Tenggara Timur (10,0%), diikuti
+Sulawesi Tengah (8,0%), Sulawesi Barat, dan Sulawesi Selatan masing-masing 6,7
+persen. PPOK lebih tinggi pada laki-laki dibanding perempuan dan lebih tinggi di
+perdesaan dibanding perkotaan. Prevalensi PPOK cenderung lebih tinggi pada
+masyarakat dengan pendidikan rendah dan kuintil indeks kepemilikan terbawah.
+Hasil Anamnesis (Subjective)
+1. Keluhan
+a. Sesak napas
+b. Kadang-kadang disertai mengi
+c. Batuk kering atau dengan dahak yang produktif
+d. Rasa berat di dada
+2. Faktor risiko
+a. Genetik
+b. Pajanan partikel
+ Asap rokok
+ Debu kerja, organik dan inorganik
+
+391
+
+
+
+Polusi udara dalam rumah dari pemanas atau biomassa rumah tangga
+dengan ventilasi yang buruk
+ Polusi udara bebas
+c. Pertumbuhan dan perkembangan paru
+d. Stres oksidatif
+e. Jenis kelamin
+f. Umur
+g. Infeksi paru
+h. Status sosial-ekonomi
+i. Nutrisi.
+j. Komorbiditas
+3. Penilaian severitas gejala
+Penilaian dapat dilakukan dengan kuesioner COPD Assesment Test (CAT) yang
+terdiri atas 8 pertanyaan untuk mengukur pengaruh PPOK terhadap status
+kesehatan pasien.
+Hasil Pemeriksaan Fisis dan Penunjang Sederhana (Objective)
+Pemeriksaan fisik
+1. Inspeksi
+a. Sianosis sentral pada membran mukosa mungkin ditemukan
+b. Abnormalitas dinding dada yang menunjukkan hiper inflasi paru termasuk iga
+yang tampak horizontal, barrel chest (diameter antero - posterior dan
+transversal sebanding) dan abdomen yang menonjol keluar
+c. Hemidiafragma mendatar
+d. Laju respirasi istirahat meningkat lebih dari 20 kali/menit dan pola napas
+lebih dangkal
+e. Pursed - lips breathing (mulut setengah terkatup mencucu), laju ekspirasi
+lebih lambat memungkinkan pengosongan paru yang lebih efisien
+f. Penggunaan otot bantu napas adalah indikasi gangguan pernapasan
+g. Bila telah terjadi gagal jantung kanan terlihat denyut vena jugularis di leher
+dan edema tungkai
+2. Palpasi dan Perkusi
+a. Sering tidak ditemukan kelainan pada PPOK
+b. Irama jantung di apeks mungkin sulit ditemukan karena hiperinflasi paru
+c. Hiperinflasi menyebabkan hati letak rendah dan mudah di palpasi
+3. Auskultasi
+a. Pasien dengan PPOK sering mengalami penurunan suara napas tapi tidak
+spesifik untuk PPOK
+b. Mengi selama pernapasan biasa menunjukkan keterbatasan aliran udara.
+Tetapi mengi yang hanya terdengar setelah ekspirasi paksa tidak spesifik
+untuk PPOK
+c. Ronki basah kasar saat inspirasi dapat ditemukan
+d. Bunyi jantung terdengar lebih keras di area xiphoideus
+
+392
+
+Pemeriksaan Penunjang
+Pemeriksaan penunjang yang dapat dilakukan adalah uji jalan 6 menit yang
+dimodifikasi. Untuk di Puskesmas dengan sarana terbatas, evaluasi yang dapat
+digunakan adalah keluhan lelah yang timbul atau bertambah sesak.
+Pemeriksaan-pemeriksaan ini dapat dilakukan bila fasilitas tersedia:
+1. Spirometri
+2. Peak flow meter (arus puncak respirasi)
+3. Pulse oxymetry
+4. Analisis gas darah
+5. Foto toraks
+6. Pemeriksaan darah rutin (Hb, Ht, leukosit, trombosit)
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik dan penunjang.
+Tabel 10.9 Indikator kunci untuk mendiagnosis PPOK
+Gejala
+Keterangan
+Sesak
+
+Progresif (sesak bertambah berat seiring
+berjalannya waktu)
+Bertambah berat dengan aktivitas
+Persisten (menetap sepanjang hari)
+Pasien mengeluh, “Perlu usaha untuk
+bernapas”
+Berat, sukar bernapas, terengah-engah
+Hilang timbul dan mungkin tidak berdahak
+Setiap batuk kronik berdahak dapat
+mengindikasikan PPOK
+Asap rokok
+Debu
+Bahan kimia di tempat kerja
+Asap dapur
+
+Batuk kronik
+Batuk kronik berdahak
+Riwayat terpajan faktor risiko
+
+Riwayat keluarga
+Penatalaksanaan Komprehensif (Plan)
+Tujuan penatalaksanaan di Puskesmas:
+1. Mengurangi laju beratnya penyakit
+2. Mempertahankan PPOK yang stabil
+3. Mengatasi eksaserbasi ringan
+4. Merujuk ke spesialis paru atau rumah sakit
+Penatalaksanaan PPOK stabil
+1. Obat-obatan dengan tujuan mengurangi
+mempertahankan keadaan stabil.
+
+393
+
+laju
+
+beratnya
+
+penyakit
+
+dan
+
+2. Bronkodilator dalam bentuk oral, kombinasi golongan β2 agonis (salbutamol)
+dengan golongan xantin (aminofilin dan teofilin). Masing-masing dalam dosis
+suboptimal, sesuai dengan berat badan dan beratnya penyakit. Untuk dosis
+pemeliharaan, aminofilin/teofilin 100-150 mg kombinasi dengn salbutamol 1 mg.
+3. Kortikosteroid digunakan dalam bentuk inhalasi, bila tersedia.
+4. Ekspektoran dengan obat batuk hitam (OBH)
+5. Mukolitik (ambroxol) dapat diberikan bila sputum mukoid.
+Penatalaksanaan PPOK eksaserbasi
+1. Oksigen (bila tersedia)
+2. Bronkodilator
+Pada kondisi eksaserbasi, dosis dan atau frekuensi bronkodilator kerja pendek
+ditingkatkan dan dikombinasikan dengan antikolinergik. Bronkodilator yang
+disarankan adalah dalam sediaan inhalasi. Jika tidak tersedia, obat dapat
+diberikan secara injeksi, subkutan, intravena atau perdrip, misalnya:
+Adrenalin 0, 3 mg subkutan, digunakan dengan hati-hati
+Aminofilin bolus 5 mg/kgBB (dengan pengenceran) harus perlahan (10 menit) utk
+menghindari efek samping.dilanjutkan dengan perdrip 0,5-0,8 mg/kgBB/jam.
+3. Kortikosteroid
+diberikan dalam dosis 30 mg/hari diberikan maksimal selama 2 minggu.
+Pemberian selama 2 minggu tidak perlu tapering off.
+4. Antibiotik yang tersedia di Puskesmas
+5. Pada kondisi telah terjadi kor pulmonale, dapat diberikan diuretik dan perlu
+berhati-hati dalam pemberian cairan.
+Konseling dan Edukasi
+1. Edukasi ditujukan untuk mencegah penyakit bertambah berat dengan cara
+menggunakan obat-obatan yang tersedia dengan tepat, menyesuaikan
+keterbatasan aktivitas serta mencegah eksaserbasi.
+2. Pengurangan pajanan faktor risiko
+3. Berhenti merokok
+4. Keseimbangan nutrisi antara protein lemak dan karbohidrat, dapat diberikan
+dalam porsi kecil tetapi sering.
+5. Rehabilitasi
+a. Latihan bernapas dengan pursed lip breathing
+b. Latihan ekspektorasi
+c. Latihan otot pernapasan dan ekstremitas
+6. Terapi oksigen jangka panjang
+Kriteria Rujukan:
+1. Untuk memastikan diagnosis dan menentukan derajat PPOK
+2. PPOK eksaserbasi
+3. Rujukan penatalaksanaan jangka panjang
+
+394
+
+Peralatan
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+Spirometer
+Peak flow meter
+Pulse oxymeter
+Tabung oksigen
+Kanul hidung
+Sungkup sederhana
+Sungkup inhalasi
+Nebulizer
+Laboratorium untuk pemeriksaan darah rutin
+
+Prognosis
+Ad vitam
+: Dubia
+Ad functionam : Dubia
+Ad sanationam : Dubia
+Referensi
+1. Perhimpunan dokter paru Indonesia. Penyakit paru obstruktif kronik. Diagnosis
+dan penatalaksanaan. Jakarta. 2011.(Perhimpunan Dokter Paru Indonesia,
+2011)
+2. Global strategy for the diagnosis, management and prevention of chronic
+obstructive pulmonary disease. GOLD, Inc. 2013.(GLobal Initiatives for COPD,
+2013)
+3. Global strategy for the diagnosis, management and prevention of chronic
+obstructive pulmonary disease. GOLD, Inc. 2006.(Global Initiatives for COPD,
+2006)
+
+11. Epistaksis
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: R06. Nose bleed/epistaxis
+: R04.0 Epistaxis
+: 4A
+
+Masalah Kesehatan
+Epistaksis adalah perdarahan yang mengalir keluar dari hidung yang berasal dari
+rongga hidung atau nasofaring. Epistaksis bukan suatu penyakit, melainkan gejala
+dari suatu kelainan. Hampir 90% epistaksis dapat berhenti sendiri. Perdarahan dari
+hidung dapat merupakan gejala yang sangat mengganggu. Faktor etiologi dapat
+lokal atau sistemik. Sumber perdarahan harus dicari dan dikoreksi untuk mengobati
+epistaksis secara efektif.
+
+395
+
+Klasifikasi
+1. Epistaksis Anterior
+Epistaksis anterior paling sering berasal dari pleksus Kiesselbach, yang
+merupakan sumber perdarahan paling sering dijumpai pada anak-anak. Selain
+itu juga dapat berasal dari arteri etmoidalis anterior. Perdarahan dapat berhenti
+sendiri (spontan) dan dapat dikendalikan dengan tindakan sederhana.
+2. Epistaksis Posterior
+Pada epistaksis posterior, perdarahan berasal dari arteri sfenopalatina atau arteri
+etmoidalis posterior. Epistaksis posterior sering terjadi pada orang dewasa yang
+menderita hipertensi, arteriosklerosis, atau penyakit kardiovaskuler. Perdarahan
+biasanya hebat dan jarang berhenti spontan.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Keluar darah dari hidung atau riwayat keluar darah dari hidung.
+2. Harus ditanyakan secara spesifik mengenai :
+a. Lokasi keluarnya darah (depan rongga hidung atau ke tenggorok)
+b. Banyaknya perdarahan
+c. Frekuensi
+d. Lamanya perdarahan
+Faktor Risiko
+1. Trauma
+2. Adanya penyakit di hidung yang mendasari, misalnya: rinosinusitis, rinitis alergi.
+3. Penyakit sistemik, seperti kelainan pembuluh darah, nefritis kronik, demam
+berdarah dengue.
+4. Riwayat penggunaan obat-obatan seperti NSAID, aspirin, warfarin, heparin,
+tiklodipin, semprot hidung kortikosteroid.
+5. Tumor, baik jinak maupun ganas yang terjadi di hidung, sinus paranasal, atau
+nasofaring.
+6. Kelainan kongenital, misalnya: hereditary hemorrhagic telangiectasia / Osler's
+disease.
+7. Adanya deviasi septum.
+8. Pengaruh lingkungan, misalnya tinggal di daerah yang sangat tinggi, tekanan
+udara rendah, atau lingkungan dengan udara yang sangat kering.
+9. Kebiasaan
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Rinoskopi anterior
+Pemeriksaan harus dilakukan secara berurutan dari anterior ke posterior.
+Vestibulum, mukosa hidung dan septum nasi, dinding lateral hidung dan konka
+inferior harus diperiksa dengan cermat untuk mengetahui sumber perdarahan.
+
+396
+
+2. Rinoskopi posterior
+Pemeriksaan nasofaring dengan rinoskopi posterior penting pada pasien dengan
+epistaksis berulang untuk menyingkirkan neoplasma.
+3. Pengukuran tekanan darah
+Tekanan darah perlu diukur untuk menyingkirkan diagnosis hipertensi, karena
+hipertensi dapat menyebabkan epistaksis posterior yang hebat dan sering
+berulang.
+Pemeriksaan Penunjang
+Bila diperlukan:
+1. Darah perifer lengkap
+2. Skrining terhadap koagulopati (bleeding time, clotting time)
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan pemeriksaan
+penunjang bila diperlukan.
+Diagnosis Banding
+Hemoptisis, Varises oesofagus yang berdarah, Perdarahan di basis cranii,
+Karsinoma nasofaring, Angiofibroma hidung.
+Komplikasi
+1. Akibat pemasangan tampon anterior dapat timbul sinusitis (karena ostium sinus
+tersumbat) dan sumbatan duktus lakrimal.
+2. Akibat pemasangan tampon posterior dapat timbul otitis media,
+haemotympanum, serta laserasi palatum mole dan sudut bibir bila benang yang
+dikeluarkan melalui mulut terlalu kencang ditarik.
+3. Akibat perdarahan hebat dapat terjadi syok dan anemia.
+Penatalaksanaan Komprehensif (Plan)
+Tiga prinsip utama dalam menanggulangi epistaksis, yaitu :
+1. Menghentikan perdarahan
+2. Mencegah komplikasi
+3. Mencegah berulangnya epistaksis
+Penatalaksanaan
+1. Perbaiki keadaan umum penderita,penderita diperiksa dalam posisi duduk
+kecuali bila penderita sangat lemah atau keadaaan syok, pasien bisa berbaring
+dengan kepala dimiringkan.
+2. Pada anak yang sering mengalami epistaksis ringan, perdarahan dapat
+dihentikan dengan cara duduk dengan kepala ditegakkan, kemudian cuping
+hidung ditekan ke arah septum selama 3-5 menit (metode Trotter).
+3. Bila perdarahan berhenti, dengan spekulum hidung dibuka dan dengan alat
+pengisap (suction) dibersihkan semua kotoran dalam hidung baik cairan, sekret
+maupun darah yang sudah membeku.
+
+397
+
+4. Bila perdarahan tidak berhenti, masukkan kapas yang dibasahi ke dalam hidung
+dengan larutan anestesi lokal yaitu 2 cc larutan Pantokain 2% atau 2 cc larutan
+Lidokain 2% yang ditetesi 0,2 cc larutan Adrenalin 1/1000. Hal ini bertujuan untuk
+menghilangkan rasa sakit dan membuat vasokontriksi pembuluh darah sehingga
+perdarahan dapat berhenti sementara untuk mencari sumber perdarahan.
+Sesudah 10 sampai 15 menit kapas dalam hidung dikeluarkan dan dilakukan
+evaluasi.
+5. Pada epistaksis anterior, jika sumber perdarahan dapat dilihat dengan jelas,
+dilakukan kaustik dengan lidi kapas yang dibasahi larutan Nitras Argenti 15 –
+25% atau asam Trikloroasetat 10%. Sesudahnya area tersebut diberi salep
+antibiotik.
+6. Bila dengan kaustik perdarahan anterior masih terus berlangsung, diperlukan
+pemasangan tampon anterior dengan kapas atau kain kasa yang diberi Vaselin
+yang dicampur betadin atau zat antibiotika. Dapat juga dipakai tampon rol yang
+dibuat dari kasa sehingga menyerupai pita dengan lebar kurang ½ cm,
+diletakkan berlapis-lapis mulai dari dasar sampai ke puncak rongga hidung.
+Tampon yang dipasang harus menekan tempat asal perdarahan dan dapat
+dipertahankan selama 2 x 24 jam. Selama 2 hari dilakukan pemeriksaan
+penunjang untuk mencari faktor penyebab epistaksis. Selama pemakaian
+tampon, diberikan antibiotik sistemik dan analgetik.
+
+Gambar 10.3 Tampon anterior hidung
+7. Untuk perdarahan posterior dilakukan pemasangan tampon posterior, yang
+disebut tampon Bellocq. Tampon ini terbuat dari kasa padat berbentuk bulat atau
+kubus berdiameter kira-kira 3 cm. Pada tampon ini terdapat 3 buah benang, yaitu
+2 buah pada satu sisi dan sebuah pada sisi lainnya. Tampon harus dapat
+menutupi koana (nares posterior). Teknik pemasangan tampon posterior, yaitu:
+a. Masukkan kateter karet melalui nares anterior dari hidung yang berdarah
+sampai tampak di orofaring, lalu tarik keluar melalui mulut.
+b. Ikatkan ujung kateter pada 2 buah benang tampon Bellocq, kemudian tarik
+kembali kateter itu melalui hidung.
+
+398
+
+c.
+
+Tarik kedua ujung benang yang sudah keluar melalui nares anterior dengan
+bantuan jari telunjuk, dorong tampon ke nasofaring. Jika dianggap perlu, jika
+masih tampak perdarahan keluar dari rongga hidung, maka dapat pula
+dimasukkan tampon anterior ke dalam kavum nasi.
+d. Ikat kedua benang yang keluar dari nares anterior pada sebuah gulungan
+kain kasa di depan lubang hidung, supaya tampon yang terletak di
+nasofaring tidak bergerak.
+e. Lekatkan benang yang terdapat di rongga mulut dan terikat pada sisi lain dari
+tampon Bellocq pada pipi pasien. Gunanya adalah untuk menarik tampon
+keluar melalui mulut setelah 2-3 hari.
+f. Berikan juga obat hemostatik selain dari tindakan penghentian perdarahan
+itu.
+
+Gambar 10.4 Tampon posterior (Bellocq) untuk hidung
+Rencana Tindak Lanjut
+Setelah perdarahan dapat diatasi, langkah selanjutnya adalah mencari sumber
+perdarahan atau penyebab epistaksis.
+Konseling dan Edukasi
+Memberitahu pasien dan keluarga untuk:
+1. Mengidentifikasi penyebab epistaksis, karena hal ini merupakan gejala suatu
+penyakit, sehingga dapat mencegah timbulnya kembali epistaksis.
+2. Mengontrol tekanan darah pada penderita dengan hipertensi.
+3. Menghindari membuang lendir melalui hidung terlalu keras.
+4. Menghindari memasukkan benda keras ke dalam hidung, termasuk jari sehingga
+dibutuhkan pengawasan yang lebih ketat pada pasien anak.
+5. Membatasi penggunaan obat-obatan yang dapat meningkatkan perdarahan
+seperti aspirin atau ibuprofen.
+Pemeriksaan penunjang lanjutan
+Pemeriksaan radiologi: Foto sinus paranasal bila dicurigai sinusitis.
+
+399
+
+Kriteria Rujukan
+1. Bila perlu mencari sumber perdarahan dengan modalitas yang tidak tersedia di
+layanan primer, misalnya naso-endoskopi.
+2. Pasien dengan epistaksis yang curiga akibat tumor di rongga hidung atau
+nasofaring.
+3. Epistaksis yang terus berulang atau masif
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Peralatan dan Bahan Medis Habis Pakai
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+Lampu kepala
+Spekulum hidung
+Alat penghisap (suction)
+Pinset bayonet
+Tampon anterior, Tampon posterior
+Kaca rinoskopi posterior
+Kapas dan kain kassa
+Lidi kapas
+Nelaton kateter
+Benang kasur
+Larutan Adrenalin 1/1000
+Larutan Pantokain 2% atau Lidokain 2%
+Larutan Nitras Argenti 15 – 25%
+Salep vaselin, Salep antibiotik
+
+Referensi
+1. Adam, G.L. Boies, L.R. Higler. Boies.Buku Ajar Penyakit THT. Ed. ke-6. Jakarta:
+EGC. 1997.
+2. Iskandar, M. Teknik Penatalaksanaan Epistaksis. In: Cermin Dunia Kedokteran.
+No. 132. 2001. p. 43-4 (Iskandar, 2001)
+3. Mangunkusumo, E. Wardani, R.S.Epistaksisdalam Buku Ajar Ilmu Kesehatan
+Telinga, Hidung, Tenggorok, Kepala&Leher. Ed. ke-6. Jakarta:Fakultas
+Kedokteran Universitas Indonesia. 2007.
+
+400
+
+12. Benda Asing di Hidung
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: R87. Foreign body nose/larynx/bronch
+: T17.1 Foreign body in nostril
+: 4A
+
+Masalah Kesehatan
+Kasus benda asing di hidung sering ditemui oleh dokter di pelayanan kesehatan
+primer. Kasus ini paling sering dialami oleh anak dan balita. Terdapat dua jenis
+benda asing, yaitu benda hidup (organik) dan benda mati (anorganik). Contoh benda
+asing organik, antara lain lintah, lalat, larva, sedangkan benda asing anorganik,
+misalnya manik-manik, kertas, tisu, logam, baterai kecil, kacang-kacangan, dan lainlain.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Hidung tersumbat
+2. Onset tiba-tiba
+3. Umumnya unilateral
+4. Hiposmia atau anosmia
+5. Setelah 2 – 3 hari, keluar sekret mukoid / mukopurulen dan berbau di satu sisi
+hidung.
+6. Dapat timbul rasa nyeri
+7. Bila benda asing organik, terasa ada yang bergerak-gerak di dalam rongga
+hidung. Khusus untuk lintah, sumbatan pada hidung semakin memberat setiap
+hari.
+8. Adanya laporan dari pasien atau orang tua mengenai adanya benda yang masuk
+atau dimasukkan ke rongga hidung.
+Faktor Risiko
+Faktor-faktor yang meningkatkan kemungkinan masuknya benda asing ke dalam
+rongga hidung:
+1. Umur: biasanya anak ≤ 5 tahun
+2. Adanya kegagalan mekanisme proteksi yang normal, misal: keadaan tidur,
+kesadaran menurun, alkoholisme, epilepsi
+3. Adanya masalah kejiwaan, emosi, dan gangguan psikiatrik
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Pada rinoskopi anterior, nampak:
+1. Benda asing
+2. Sekret purulen (bila sudah berlangsung 2 – 3 hari)
+
+401
+
+Pemeriksaan Penunjang:
+Foto Rontgen kranium (Schedel) posisi AP dan lateral, bila diperlukan dan fasilitas
+tersedia.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik.
+Diagnosis Banding
+Rinolit
+Komplikasi
+1. Obstruksi jalan napas akut akibat masuknya benda asing ke saluran napas yang
+lebih distal (laring, trakea).
+2. Pada benda asing organik berupa larva / ulat / lintah, dapat terjadi destruksi
+mukosa dan kartilago hidung.
+3. Benda asing baterai cepat merusak mukosa sehingga dapat masuk ke dalam
+septum atau konka inferior dalam beberapa jam dan menyebabkan perforasi
+septum.
+4. Pada benda asing berupa lalat (miasis hidung), dapat terjadi invasi ke
+intrakranium dan, walaupun jarang, dapat menyebabkan meningitis yang fatal.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Non Medikamentosa
+a. Tindakan ekstraksi benda asing secara manual dengan menggunakan
+pengait tumpul atau pinset. Dokter perlu berhati-hati agar tidak sampai
+mendorong benda asing lebih dalam sehingga masuk ke saluran napas
+bawah.
+b. Untuk lintah, sebelum ekstraksi, teteskan air tembakau ke dalam rongga
+hidung dan biarkan 5 menit hingga lintah terlebih dahulu terlepas dari
+mukosa hidung.
+2. Medikamentosa
+Pemberian antibiotik per oral selama 5 hari bila telah terjadi infeksi sekunder.
+Konseling dan Edukasi
+1. Reassurance bahwa tidak ada kondisi berbahaya bila segera dilakukan
+ekstraksi.
+2. Sebelum tindakan dilakukan, dokter perlu menjelaskan mengenai prosedur
+ekstraksi dan meminta persetujuan pasien / orang tua (informed consent).
+3. Setelah benda asing berhasil dikeluarkan, dokter dapat memberi beberapa saran
+yang relevan untuk mencegah berulangnya kejadian kemasukan benda asing ke
+hidung di kemudian hari, misalnya:
+a. Pada orang tua, dapat lebih berhati-hati dalam meletakkan benda-benda
+yang mudah atau sering dimasukkan ke dalam rongga hidung.
+
+402
+
+b. Pada anak, dapat diingatkan untuk menghindari memasukkan benda-benda
+ke dalam hidung.
+c. Pada pekerja yang sering terpapar larva atau benda-benda organik lain,
+dapat menggunakan masker saat bekerja.
+Kriteria Rujukan
+1. Pengeluaran benda asing tidak berhasil karena perlekatan atau posisi benda
+asing sulit dilihat.
+2. Pasien tidak kooperatif.
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Peralatan
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+Lampu kepala
+Spekulum hidung
+Pengait tumpul(blunt hook)
+Pinset
+Forsep aligator
+Suction
+Xylocaine 2% spray
+Formulir informed consent
+
+Referensi
+1. Efiaty, A. Nurbaiti, I. Jenny, B. Ratna, D. Buku Ajar Ilmu Kesehatan Telinga
+th
+Hidung Tenggorok Kepala & Leher. 6 Ed. Jakarta: Balai Penerbit FKUI. 2007.
+st
+2. Buku Modul Hidung: Benda Asing 1 ed. Jakarta: Kolegium Ilmu Kesehatan
+Telinga Hidung Tenggorok Bedah Kepala dan Leher. 2008. (Kolegium Ilmu
+Kesehatan THT-KL, 2008)
+
+403
+
+13. Furunkel Pada Hidung
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: R73. Boil/abscess nose
+: J34.0 Abscess, furuncle and carbuncle of nose
+: 4A
+
+Masalah Kesehatan
+Furunkel adalah infeksi dari kelenjar sebasea atau folikel rambut hidung yang
+melibatkan jaringan subkutan. Biasanya disebabkan oleh Staphylococcus aureus.
+Penyakit ini memiliki insidensi yang rendah. Belum terdapat data spesifik yang
+menunjukkan prevalensi furunkel. Furunkel umumnya terjadi paling banyak pada
+anak-anak, remaja sampai dewasa muda.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Bisul di dalam hidung, disertai rasa nyeri dan perasaan tidak nyaman.
+2. Kadang dapat disertai gejala rinitis.
+Faktor Risiko
+1. Sosio ekonomi rendah
+2. Higiene personal yang buruk
+3. Rinitis kronis, akibat iritasi dari sekret rongga hidung.
+4. Kebiasaan mengorek rinitisbagian dalam hidung.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Pada lubang hidung tampak furunkel. Paling sering terdapat pada lateral vestibulum
+nasi yang mempunyai vibrissae (rambut hidung).
+Pemeriksaan Penunjang:
+Tidak diperlukan
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik.
+Diagnosis Banding:Komplikasi
+1. Penyebaran infeksi ke vena fasialis, vena oftalmika, lalu ke sinus kavernosus
+sehingga menyebabkan tromboflebitis sinus kavernosus.
+2. Abses.
+3. Vestibulitis.
+
+404
+
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Non Medikamentosa
+a. Kompres hangat
+b. Insisi dilakukan jika telah timbul abses
+2. Medikamentosa
+a. Antibiotik topikal, seperti salep Bacitrasin dan Polimiksin B
+b. Antibiotik oral selama 7-10 hari, yaitu Amoksisilin 3 x 500 mg/hari, Sefaleksin
+4 x 250 – 500 mg/hari, atau Eritromisin 4 x 250 – 500 mg/hari.
+Konseling dan Edukasi
+1. Menghindari kebiasaan mengorek-ngorek bagian dalam hidung.
+2. Tidak memencet atau melakukan insisi padafurunkel.
+3. Selalu menjaga kebersihan diri.
+Kriteria Rujukan: Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Peralatan dan Bahan Medis Habis Pakai
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Lampu kepala
+Spekulum hidung
+Skalpel atau jarum suntik ukuran sedang (untuk insisi)
+Kassa steril
+Klem
+Pinset Bayonet
+Larutan Povidon Iodin 7,5%
+
+Referensi
+1. Adam, G.L. Boies L.R. Higler.Boies.Buku Ajar Penyakit THT. Ed. ke-6. Jakarta:
+EGC. 1997.
+2. Wardani, R.S. Mangunkusumo, E.Infeksi Hidung dalam Buku Ajar Ilmu
+Kesehatan Telinga, Hidung, Tenggorok, Kepala&Leher. Ed. ke-6.
+Jakarta:Fakultas Kedokteran Universitas Indonesia. 2007.
+
+405
+
+14. Rinitis Akut
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: R74. Upper respiratory infection acute
+: J00. Acute nasopharyngitis (common cold)
+: 4A
+
+Masalah Kesehatan
+Rinitis akut adalah peradangan pada mukosa hidung yangberlangsung akut (<12
+minggu). Hal ini dapat disebabkan oleh infeksi virus, bakteri, ataupun iritan. Radang
+sering ditemukan karena manifestasi dari rinitis simpleks (common cold), influenza,
+penyakit eksantem (seperti morbili, variola, varisela, pertusis), penyakit spesifik, serta
+sekunder dari iritasi lokal atau trauma.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Keluar ingus dari hidung (rinorea)
+2. Hidung tersumbat
+3. Dapat disertai rasa panas atau gatal pada hidung
+4. Bersin-bersin
+5. Dapat disertai batuk
+Faktor Risiko
+1. Penurunan daya tahan tubuh.
+2. Paparan debu, asap, atau gas yang bersifat iritatif.
+3. Paparan dengan penderita infeksi saluran napas.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Suhu dapat meningkat
+2. Rinoskopi anterior:
+a. Tampak kavum nasi sempit, terdapat sekret serous atau mukopurulen,
+mukosa konka udem dan hiperemis.
+b. Pada rinitis difteri tampak sekret yang bercampur darah. Membran keabuabuan tampak menutup konka inferior dan kavum nasi bagian bawah,
+membrannya lengket dan bila diangkat mudah berdarah.
+Pemeriksaan Penunjang: Tidak diperlukan
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik.
+Klasifikasi berdasarkan etiologi:
+1. Rinitis Virus
+
+406
+
+a. Rinitis simplek (pilek, selesma, common cold, coryza)
+Rinitis simplek disebabkan oleh virus. Infeksi biasanya terjadi melalui droplet
+di udara. Beberapa jenis virus yang berperan antara lain, adenovirus,
+picovirus, dan subgrupnya seperti rhinovirus, dancoxsackievirus. Masa
+inkubasinya 1-4 hari dan berakhir dalam 2-3 minggu.
+b. Rinitis influenza
+Virus influenza A, Batau C berperan dalam penyakit ini. Tanda dan gejalanya
+mirip dengan common cold. Komplikasi berhubungan dengan infeksi bakteri
+sering terjadi.
+c. Rinitis eksantematous
+Morbili,varisela,variola,danpertusis,sering berhubungan dengan rinitis,
+dimana didahului dengan eksantema sekitar 2-3 hari. Infeksi sekunder dan
+komplikasi lebih sering dijumpai dan lebih berat.
+2. Rinitis Bakteri
+a. Infeksi non spesifik
+ Rinitis bakteri primer. Infeksi ini tampak pada anak dan biasanya akibat
+dari infeksi pneumococcus, streptococcus atau staphylococcus.
+Membran putih keabu-abuan yang lengket dapat terbentuk di rongga
+hidung, dan apabila diangkat dapat menyebabkan pendarahan /
+epistaksis.
+ Rinitis bakteri sekunder merupakan akibat dari infeksi bakteri pada rinitis
+viral akut.
+b. Rinitis Difteri
+Disebabkan oleh Corynebacterium diphteriae, dapat berbentuk akut atau
+kronik dan bersifat primer pada hidung atau sekunder pada tenggorokan.
+Harus dipikirkan pada penderita dengan riwayat imunisasi yang tidak
+lengkap. Penyakit ini semakin jarang ditemukan karena cakupan program
+imunisasi yang semakin meningkat.
+3. Rinitis Iritan
+Disebabkan oleh paparan debu, asap atau gas yang bersifat iritatif seperti
+ammonia, formalin, gas asam dan lain-lain. Dapat juga disebabkan oleh trauma
+yang mengenai mukosa hidung selama masa manipulasi intranasal, contohnya
+pada pengangkatan corpus alienum. Pada rinitis iritan terdapat reaksi yang
+terjadi segera yang disebut dengan “immediate catarrhalreaction” bersamaan
+dengan bersin, rinore, dan hidung tersumbat. Gejalanya dapat sembuh cepat
+dengan menghilangkan faktor penyebab atau dapat menetap selama beberapa
+hari jika epitel hidung telah rusak. Pemulihan akan bergantung pada kerusakan
+epitel dan infeksi yang terjadi.
+Diagnosis Banding
+Rinitis alergi pada serangan akut, Rinitis vasomotor pada serangan akut
+Komplikasi
+1. Rinosinusitis
+2. Otitis media akut.
+3. Otitis media efusi
+
+407
+
+4. Infeksi traktus respiratorius bagian bawah seperti laringitis, trakeobronkitis,
+pneumonia.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Non medikamentosa
+a. Istirahat yang cukup
+b. Menjaga asupan yang bergizi dan sehat
+2. Medikamentosa
+a. Simtomatik: analgetik dan antipiretik (Paracetamol), dekongestan topikal,
+dekongestan oral (Pseudoefedrin, Fenilpropanolamin, Fenilefrin).
+b. Antibiotik: bila terdapat komplikasi seperti infeksi sekunder bakteri,
+Amoksisilin, Eritromisin, Sefadroksil.
+c. Untuk rinitis difteri: Penisilin sistemik dan anti-toksin difteri.
+Rencana Tindak Lanjut
+Jika terdapat kasus rinitis difteri dilakukan pelaporan ke dinas kesehatan setempat.
+Konseling dan Edukasi
+Memberitahu individu dan keluarga untuk:
+1. Menjaga tubuh selalu dalam keadaan sehat.
+2. Lebih sering mencuci tangan, terutama sebelum menyentuh wajah.
+3. Memperkecil kontak dengan orang-orang yang telah terinfeksi.
+4. Menutup mulut ketika batuk dan bersin.
+5. Mengikuti program imunisasi lengkap, sepertivaksinasi influenza, vaksinasi MMR
+untuk mencegah terjadinya rinitis eksantematosa.
+6. Menghindari pajanan alergen bila terdapat faktor alergi sebagai pemicu.
+7. Melakukan bilas hidung secara rutin.
+Peralatan
+1. Lampu kepala
+2. Spekulum hidung
+3. Suction
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Referensi
+1. Adam, G.L. Boies, L.R. Higler.Boies.Buku Ajar Penyakit THT. Ed. ke-6. Jakarta:
+EGC. 1997.
+2. Lee, K. Essential Otolaryngology, Head and Neck Surgery. Ed. Ke-8. McGrawHill. 2003.
+
+408
+
+3. Wardani, R.S. Mangunkusumo, E.Infeksi Hidung dalam Buku Ajar Ilmu
+Kesehatan
+Telinga,
+Hidung,
+Tenggorok,
+Kepala&Leher.
+Ed.
+ke6.Jakarta:Fakultas Kedokteran Universitas Indonesia. 2007.
+
+15. Rinitis Vasomotor
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: R97 Allergic rhinitis
+: J30.0 Vasomotor rhinitis
+: 4A
+
+Masalah Kesehatan
+Rinitis vasomotor adalah salah satu bentuk rinitis kronik yang tidak diketahui
+penyebabnya (idiopatik), tanpa adanya infeksi, alergi, eosinofilia, perubahan
+hormonal, dan pajanan obat (kontrasepsi oral, antihipertensi, B-bloker,
+aspirin,klorpromazin, dan obat topikal hidung dekongestan). Rinitis non alergi dan
+mixed rhinitis lebih sering dijumpai pada orang dewasa dibandingkan anak-anak,
+lebih sering dijumpai pada wanita dan cenderung bersifat menetap.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Hidung tersumbat, bergantian kiri dan kanan tergantung posisi tidur pasien,
+memburuk pada pagi hari dan jika terpajan lingkungan non-spesifik seperti
+perubahan suhu atau kelembaban udara, asap rokok, bau menyengat.
+2. Rinore yang bersifat serosa atau mukus, kadang-kadang jumlahnya agak
+banyak.
+3. Bersin-bersin lebih jarang dibandingkan rinitis alergika.
+4. Lebih sering terjadi pada wanita.
+Faktor Predisposisi
+1. Obat-obatan yang menekan dan menghambat kerja saraf simpatis antara lain:
+Ergotamin, Klorpromazine, obat anti hipertensi, dan obat vasokonstriktor topikal.
+2. Faktor fisik, seperti iritasi oleh asap rokok, udara dingin, kelembaban udara yang
+tinggi, serta bau yang menyengat (misalnya, parfum).
+3. Faktor endokrin, seperti kehamilan, masa pubertas, pemakaian kontrasepsi oral,
+dan hipotiroidisme.
+4. Faktor psikis, seperti rasa cemas, tegang, dan stress.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Rinoskopi anterior:
+1. Tampak gambaran konka inferior membesar (edema atau hipertrofi), berwarna
+merah gelap atau merah tua atau pucat.
+
+409
+
+Untuk membedakan edema dengan hipertrofi konka, dokter dapat memberikan
+larutan Epinefrin 1/10.000 melalui tampon hidung. Pada edema, konka akan
+mengecil, sedangkan pada hipertrofi tidak mengecil.
+2. Terlihat adanya sekret serosa dan biasanya jumlahnya tidak banyak. Akan tetapi
+pada golongan rinore tampak sekret serosa yang jumlahnya sedikit lebih banyak
+dengan konka licin atau berbenjol-benjol.
+Pemeriksaan Penunjang
+Pemeriksaan laboratorium dilakukan untuk menyingkirkan kemungkinan rinitis alergi.
+Pemeriksaan dilakukan bila diperlukan dan fasilitas tersedia di layanan primer, yaitu:
+1. Kadar eosinofil pada darah tepi atau sekret hidung
+2. Tes cukit kulit (skin prick test)
+3. Kadar IgE spesifik
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosisditegakkan berdasarkananamnesis,pemeriksaan fisik, dan pemeriksaan
+penunjang bila diperlukan.
+Berdasarkan gejala yang menonjol, kelainan ini dibedakan dalam 3 golongan, yaitu:
+1. Golongan bersin (sneezer): gejalabiasanya memberikan respon baik dengan
+terapi antihistamin dan glukokortikoid topikal.
+2. Golongan rinore (runners): gejala rinore yang jumlahnya banyak.
+3. Golongan tersumbat (blockers): gejala kongesti hidung dan hambatan aliran
+udara pernafasan yang dominan dengan rinore yang minimal.
+Diagnosis Banding
+Rinitis alergi, Rinitis medikamentosa, Rinitis akut
+Komplikasi
+Anosmia, Rinosinusitis
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Non medikamentosa
+Kauterisasi konka yang hipertofi dapat menggunakan larutan AgNO 3 25% atau
+trikloroasetat pekat.
+2. Medikamentosa
+a. Tatalaksana dengan terapi kortikosteroid topikal dapat diberikan, misalnya
+Budesonide 1-2 x/hari dengan dosis 100-200 mcg/hari. Dosis dapat
+ditingkatkan sampai 400 mcg/hari. Hasilnya akan terlihat setelah pemakaian
+paling sedikit selama 2 minggu. Saat ini terdapat kortikosteroid topikal baru
+dalam aqua seperti Fluticasone Propionate dengan pemakaian cukup 1
+x/hari dengan dosis 200 mcg selama 1-2 bulan.
+b. Pada kasus dengan rinorea yang berat, dapat ditambahkan antikolinergik
+topikal Ipratropium Bromide.
+
+410
+
+c.
+
+Tatalaksana dengan terapi oral dapat menggunakan preparat
+simpatomimetik golongan agonis alfa (Pseudoefedrin, Fenilpropanolamin,
+Fenilefrin) sebagai dekongestan hidung oral dengan atau tanpa kombinasi
+antihistamin.
+
+Konseling dan Edukasi
+Memberitahu individu dan keluarga untuk:
+1. Mengidentifikasi dan menghindari faktor pencetus, yaitu iritasi terhadap
+lingkungan non-spesifik.
+2. Berhenti merokok.
+Kriteria Rujukan
+Jika diperlukan tindakan operatif
+Prognosis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+Peralatan dan Bahan Medis Habis Pakai
+1.
+2.
+3.
+4.
+
+Lampu kepala
+Spekulum hidung
+Tampon hidung
+Epinefrin 1/10.000
+
+Referensi
+1. Adam, G.L. Boies, L.R. Higler.Boies.Buku Ajar Penyakit THT. Ed. ke-6. Jakarta:
+EGC. 1997.
+2. Irawati, N., Poerbonegoro, NL., Kasakeyan, E. Rhinitis Vasomotor dalam Buku
+Ajar Ilmu Kesehatan Telinga, Hidung, Tenggorok, Kepala & Leher. Ed ke-6.
+Fakultas Kedokteran Universitas Indonesia. Jakarta. 2007.
+3. Lee, K. Essential Otolaryngology, Head and Neck Surgery. Ed. Ke-8. McGrawHill. 2003.
+
+16. Rinitis Alergik
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: R97 Allergic rhinitis
+: J30.4 Allergic rhinitis, unspecified
+: 4A
+
+Masalah Kesehatan
+Rinitis alergi adalah penyakit inflamasi yang disebabkan oleh reaksi alergi pada
+pasien atopi yang sebelumnya sudah tersensitisasi oleh alergen yang sama serta
+
+411
+
+dilepaskan suatu mediator kimia ketika terjadi paparan ulangan dengan alergen
+spesifik tersebut. Menurut WHO ARIA (Allergic Rhinitis and it’s Impact on Asthma),
+2001, rinitis alergi adalah kelainan pada gejala bersin-bersin, rinore, rasa gatal dan
+tersumbat setelah mukosa hidung terpapar alergen yang diperantai oleh Ig E.
+Rinitis ditemukan di semua ras manusia, pada anak-anak lebih sering terjadi
+terutama anak laki-laki. Memasuki usia dewasa, prevalensi laki-laki dan perempuan
+sama. Insidensi tertinggi terdapat pada anak-anak dan dewasa muda dengan rerata
+pada usia 8-11 tahun, sekitar 80% kasus rinitis alergi berkembang mulai dari usia 20
+tahun. Insidensi rinitis alergi pada anak-anak 40% dan menurun sejalan dengan usia
+sehingga pada usia tuarinitis alergi jarang ditemukan.
+Hasil Anamnesis (Subjective)
+Keluhan
+Pasien datang dengan keluhan keluarnya ingus encer dari hidung (rinorea), bersin,
+hidung tersumbat dan rasa gatal pada hidung (trias alergi). Bersin merupakan gejala
+khas, biasanya terjadi berulang, terutama pada pagi hari. Bersin lebih dari lima kali
+sudah dianggap patologik dan perlu dicurigai adanya rinitis alergi dan ini
+menandakan reaksi alergi fase cepat. Gejala lain berupa mata gatal dan banyak air
+mata.
+Faktor Risiko
+1. Adanya riwayat atopi.
+2. Lingkungan dengan kelembaban yang tinggi merupakan faktor risiko untuk untuk
+tumbuhnya jamur, sehingga dapat timbul gejala alergis.
+3. Terpaparnya debu tungau biasanya karpet serta sprai tempat tidur, suhu yang
+tinggi.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Perhatikan adanya allergic salute, yaitu gerakan pasien menggosok hidung
+dengan tangannya karena gatal.
+2. Wajah:
+a. Allergic shiners yaitu dark circles di sekitar mata dan berhubungan dengan
+vasodilatasi atau obstruksi hidung.
+b. Nasal crease yaitu lipatan horizontal (horizontal crease) yang melalui
+setengah bagian bawah hidung akibat kebiasaan menggosok hidung keatas
+dengan tangan.
+c. Mulut sering terbuka dengan lengkung langit-langit yang tinggi, sehingga
+akan menyebabkan gangguan pertumbuhan gigi-geligi (facies adenoid).
+3. Faring: dinding posterior faring tampak granuler dan edema (cobblestone
+appearance), serta dinding lateral faring menebal. Lidah tampak seperti
+gambaran peta (geographic tongue).
+
+412
+
+4. Rinoskopi anterior:
+a. Mukosa edema, basah, berwarna pucat atau kebiruan (livide), disertai
+adanya sekret encer, tipis dan banyak. Jika kental dan purulen biasanya
+berhubungan dengan sinusitis.
+b. Pada rinitis alergi kronis atau penyakit granulomatous, dapat terlihat adanya
+deviasi atau perforasi septum.
+c. Pada rongga hidung dapat ditemukan massa seperti polip dan tumor, atau
+dapat juga ditemukan pembesaran konka inferior yang dapat berupa edema
+atau hipertropik. Dengan dekongestan topikal, polip dan hipertrofi konkatidak
+akan menyusut, sedangkan edema konka akan menyusut.
+5. Pada kulit kemungkinan terdapat tanda dermatitis atopi.
+Pemeriksaan Penunjang
+Bila diperlukan dan dapat dilakukan di layanan primer.
+1. Hitung eosinofil dalam darah tepi dan sekret hidung.
+2. Pemeriksaan Ig E total serum
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan pemeriksaan
+penunjang bila diperlukan.
+Rekomendasi dari WHO Initiative ARIA (Allergic Rhinitis and it’s Impact on Asthma),
+2001, rinitis alergi dibagi berdasarkan sifat berlangsungnya menjadi:
+1. Intermiten, yaitu bila gejala kurang dari 4 hari/minggu atau kurang dari 4 minggu.
+2. Persisten, yaitu bila gejala lebih dari 4 hari/minggu dan/atau lebih dari 4 minggu.
+Sedangkan untuk tingkat berat ringannya penyakit, rinitis alergi dibagi menjadi:
+1. Ringan, yaitu bila tidak ditemukan gangguan tidur, gangguan aktivitas
+harian,bersantai, berolahraga, belajar, bekerja dan hal-hal lain yang
+mengganggu.
+2. Sedang atau berat, yaitu bila terdapat satu atau lebih dari gangguan tersebut di
+atas.
+Diagnosis Banding
+Rinitis vasomotor, Rinitis akut
+Komplikasi
+Polip hidung, Sinusitis paranasal, Otitis media
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Menghindari alergen spesifik
+2. Pemeliharaan dan peningkatan kebugaran jasmani telah diketahui berkhasiat
+dalam menurunkan gejala alergis
+3. Terapi topikal dapat dengan dekongestan hidung topikal melalui semprot hidung.
+Obat yang biasa digunakan adalah oxymetazolin atau xylometazolin, namun
+
+413
+
+4.
+
+5.
+
+6.
+
+7.
+
+hanya bila hidung sangat tersumbat dan dipakai beberapa hari (< 2 minggu)
+untuk menghindari rinitis medikamentosa.
+Preparat kortikosteroid dipilih bila gejala sumbatan hidung akibat respons fase
+lambat tidak dapat diatasi dengan obat lain. Obat yang sering dipakai adalah
+kortikosteroid topikal: beklometason, budesonid, flunisolid, flutikason,
+mometason furoat dan triamsinolon.
+Preparat antikolinergik topikal adalah ipratropium bromida yang bermanfaat
+untuk mengatasi rinorea karena aktivitas inhibisi reseptor kolinergik pada
+permukaan sel efektor.
+Terapi oral sistemik
+a. Antihistamin
+ Anti histamin generasi 1: difenhidramin, klorfeniramin, siproheptadin.
+ Anti histamin generasi 2: loratadin, cetirizine
+b. Preparat simpatomimetik golongan agonis alfa dapat dipakai sebagai
+dekongestan hidung oral dengan atau tanpa kombinasi antihistamin.
+Dekongestan oral: pseudoefedrin, fenilpropanolamin, fenilefrin.
+Terapi lainnya dapat berupa operasi terutama bila terdapat kelainan anatomi,
+selain itu dapat juga dengan imunoterapi
+
+Konseling dan Edukasi
+Memberitahu individu dan keluarga untuk:
+1. Menyingkirkan faktor penyebab yang dicurigai (alergen).
+2. Menghindari suhu ekstrim panas maupun ekstrim dingin.
+3. Selalu menjaga kesehatan dan kebugaran jasmani. Hal ini dapatmenurunkan
+gejala alergi.
+Pemeriksaan penunjang lanjutan
+Bila diperlukan, dilakukan:
+1. Uji kulit atau Prick Test, digunakan untuk menentukan alergen penyebab rinitis
+alergi pada pasien.
+2. Pemeriksaan radiologi dengan foto sinus paranasal.
+Kriteria Rujukan
+1. Bila perlu dilakukan Prick Test untuk mengetahui jenis alergen.
+2. Bila perlu dilakukan tindakan operatif.
+Peralatan
+1. Lampu kepala / senter
+2. Spekulum hidung
+3. Spatula lidah
+Prognosis
+Ad vitam
+: Bonam
+Ad functionam : Bonam
+Ad sanationam : Dubia ad bonam
+
+414
+
+Referensi
+1. Adam, GL. Boies LR. Higler,. Boies Buku Ajar Penyakit THT. Ed. ke-6. Jakarta:
+EGC. 1997.
+2. Bousquet, J. Cauwenberge, P. ARIA (Allergic Rhinitis and Its Impact on Asthma
+Initiative).
+3. Lee, K. Essential Otolaryngology, Head and Neck Surgery. Ed. Ke-8. McGrawHill. 2003.
+4. Irawati, N. Kasakeyan, E. Rusmono, N.Rhinitis Alergi dalam Buku Ajar Ilmu
+Kesehatan Telinga, Hidung, Tenggorok, Kepala & Leher. Ed. ke-6. Fakultas
+Kedokteran Universitas Indonesia. Jakarta. 2007
+
+17. Sinusitis (Rinosinusitis)
+No ICPC-2
+No ICD-10
+Tingkat Kemampuan
+
+: R75. Sinusitis acute / chronic
+: J01. Acute sinusitis
+J32. Chronic sinusitis
+: 4A (Rinosinusitis akut)
+3A (Rinosinusitis kronik)
+
+Masalah Kesehatan
+Rinosinusitis adalah penyakit akibat peradangan pada mukosa sinus paranasal dan
+rongga hidung. Dokter di pelayanan kesehatan primer harus memiliki keterampilan
+yang memadai untuk mendiagnosis, menatalaksana, dan mencegah berulangnya
+rinosinusitis. Tatalaksana rinosinusitis yang efektif dari
+dokter di pelayanan
+kesehatan primer dapat meningkatkan kualitas hidup pasien secara signifikan,
+menurunkan biaya pengobatan, serta mengurangi durasi dan frekuensi absen kerja.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Gejala yang dialami, sesuai dengan kriteria pada tabel ..di halaman …
+2. Onset timbulnya gejala, dibagi menjadi:
+a. Akut
+: < 12 minggu
+b. Kronis
+: ≥ 12 minggu
+3. Khusus untuk sinusitis dentogenik:
+a. Salah satu rongga hidung berbau busuk
+b. Dari hidung dapat keluar ingus kental atau tidak beringus
+c. Terdapat gigi di rahang atas yang berlubang / rusak
+
+415
+
+Tabel 10.10.
+
+Kriteria diagnosis rinosinusitis menurut American Academy of
+Otolaryngology
+Faktor mayor
+Faktor minor
+Sakit kepala
+Hidung tersumbat
+Keluar sekret dari hidung atau post- Demam
+nasal discharge yang purulen
+Halitosis
+Rasa lemah (fatigue)
+Nyeri pada wajah
+Sakit gigi
+Hiposmia / anosmia
+Sakit atau rasa penuh di telinga
+Batuk
+
+Faktor Risiko
+Keluhan atau riwayat terkait faktor risiko, terutama pada kasus rinosinusitis kronik,
+penting untuk digali. Beberapa di antaranya adalah:
+1. Riwayat kelainan anatomis kompleks osteomeatal, seperti deviasi septum
+2. Rinitis alergi
+3. Rinitis non-alergi, misalnya vasomotor, medikamentosa
+4. Polip hidung
+5. Riwayat kelainan gigi atau gusi yang signifikan
+6. Asma bronkial
+7. Riwayat infeksi saluran pernapasan atas akut yang sering berulang
+8. Kebiasaan merokok
+9. Pajanan polutan dari lingkungan sehari-hari
+10. Kondisi imunodefisiensi, misalnya HIV/AIDS
+11. Riwayat penggunaan kokain
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+1. Suhu dapat meningkat
+2. Pemeriksaan rongga mulut
+Dapat ditemukan karies profunda pada gigi rahang atas.
+3. Rinoskopi anterior
+Rinoskopi anterior dapat dilakukan dengan atau tanpa dekongestan topikal.
+Pada rinosinusitis akut dapat ditemukan:
+a. Edema dan / atau obstruksi mukosa di meatus medius
+b. Sekret mukopurulen. Bila sekret tersebut nampak pada meatus medius,
+kemungkinan sinus yang terlibat adalah maksila, frontal, atau etmoid
+anterior. Pada sinusitis dentogenik, dapat pula tidak beringus.
+c. Kelainan anatomis yang mempredisposisi, misalnya: deviasi septum, polip
+nasal, atau hipertrofi konka.
+4. Rinoskopi posterior
+Bila pemeriksaan ini dapat dilakukan, maka dapat ditemukan sekret purulen
+pada nasofaring. Bila sekret terdapat di depan muara tuba Eustachius, maka
+berasal dari sinus-sinus bagian anterior (maksila, frontal, etmoid anterior),
+
+416
+
+sedangkan bila sekret mengalir di belakang muara tuba Eustachius, maka
+berasal dari sinus-sinus bagian posterior (sfenoid, etmoid posterior).
+5. Otoskopi
+Pemeriksaan ini dilakukan untuk mendeteksi adanya komplikasi pada telinga,
+misalnya tuba oklusi, efusi ruang telinga tengah, atau kelainan pada membran
+timpani (inflamasi, ruptur).
+6. Foto polos sinus paranasal dengan Water’s view (AP / lateral), bila fasilitas
+tersedia.
+Pada posisi ini, sinus yang dapat dinilai adalah maksila, frontal, dan etmoid.
+Temuan yang menunjang diagnosis rinosinusitis antara lain: penebalan mukosa
+(perselubungan), air-fluid level, dan opasifikasi sinus yang terlibat. Foto polos
+sinus tidak direkomendasikan untuk anak berusia di bawah 6 tahun. Pada pasien
+dewasa, pemeriksaan ini juga bukan suatu keharusan, mengingat diagnosis
+biasanya dapat ditegakkan secara klinis.
+7. Laboratorium, yaitu darah perifer lengkap, bila diperlukan dan fasilitas tersedia.
+Penegakan Diagnosis (Assessment)
+Rinosinusitis Akut (RSA)
+Dasar penegakkan diagnosis RSA dapat dilihat pada tabel berikut ini.
+Tabel 10.11. Dasar Penegakkan Diagnosis Rinosinusitis Akut (RSA)
+Pada orang dewasa
+
+Pada anak
+
+Dasar
+penegakan
+diagnosis
+
+Klinis
+
+Klinis
+
+Kriteria
+
+Sekurangnya
+2
+faktor mayor,
+di
+mana salah satu
+harus:
+ hidung
+tersumbat, atau
+ keluar
+sekret
+dari hidung atau
+post-nasal
+discharge yang
+purulen
+dan dapat disertai:
+ nyeri
+pada
+wajah
+ hiposmia
+/
+anosmia
+
+Sekurangnya 2 faktor
+mayor, di mana salah
+satu harus:
+ hidung
+tersumbat, atau
+ keluar sekret dari
+hidung atau postnasal discharge
+yang purulen
+dan dapat disertai:
+ nyeri pada wajah
+ batuk (sepanjang
+hari)
+
+Onset gejala
+Durasi gejala
+
+Tiba-tiba
+ < 12 minggu
+ Bila
+rekurens,
+terdapat interval
+
+Tiba-tiba
+ < 12 minggu
+ Bila
+rekurens,
+terdapat interval
+
+417
+
+Pemeriksaan
+fisik
+
+Pemeriksaan
+penunjang (foto
+Rontgen)
+
+bebas
+gejala
+yang jelas
+Rinoskopi anterior:
+ Edema
+dan
+hiperemia konka
+ Sekret
+mukopurulen
+
+Umumnya
+tidak
+perlu.
+Indikasi
+pemeriksaan:
+ Severitas berat
+ Pasien
+imunodefisien
+ Adanya
+tanda
+komplikasi
+
+bebas
+gejala
+yang jelas
+Rinoskopi
+anterior
+(bila
+dapat
+dilakukan):
+ Edema
+dan
+hiperemia konka
+ Sekret
+mukopurulen
+Inspeksi
+rongga
+mulut:
+ Sekret
+pada
+faring
+ Eksklusi infeksi
+pada gigi
+Tidak dianjurkan.
+
+Rinosinusitis akut dapat dibedakan lagi menjadi:
+1. Rinosinusitis akut viral (common cold): Bila durasi gejala < 10 hari
+2. Rinosinusitis akut pasca-viral:
+a. Bila terjadi peningkatan intensitas gejala setelah 5 hari, atau
+b. Bila gejala persisten > 10 hari namun masih < 12 minggu
+3. Rinosinusitis akut bakterial:
+Bila terdapat sekurangnya 3 tanda / gejala berikut ini:
+a. Sekret berwarna atau purulen dari rongga hidung
+b. Nyeri yang berat dan terlokalisasi pada wajah
+o
+c. Demam, suhu > 38 C
+d. Peningkatan LED / CRP
+e. Double sickening, yaitu perburukan setelah terjadi perbaikan sebelumnya
+
+418
+
+Rinosinusitis Kronis (RSK)
+Dasar penegakkan diagnosis RSK dapat dilihat pada tabel 5.5 di lampiran
+Tabel 10.12. Dasar Penegakkan Diagnosis Rinosinusitis Kronik (RSK)
+Pada orang dewasa dan anak
+Dasar penegakan diagnosis
+Klinis
+Kriteria
+
+Sekurangnya 2 faktor mayor, di
+mana salah satu harus:
+ hidung tersumbat, atau
+ keluar sekret dari hidung atau
+post-nasal
+discharge
+yang
+purulen
+dan dapat disertai:
+ nyeri pada wajah
+ hiposmia / anosmia
+
+Durasi gejala
+Pemeriksaan fisik
+
+≥ 12 minggu
+Rinoskopi anterior:
+ Edema konka, dapat disertai
+hiperemia
+ Sekret mukopurulen
+Inspeksi rongga mulut:
+ Sekret pada faring
+ Eksklusi infeksi pada gigi
+
+Pemeriksaan
+Rontgen)
+
+penunjang
+
+(foto
+
+Dianjurkan, bila tidak
+setelah 2 minggu terapi
+
+Pemeriksaan lain
+
+Elaborasi
+mendasari
+
+faktor
+
+risiko
+
+sembuh
+
+yang
+
+Diagnosis Banding
+Berikut ini adalah diagnosis banding dari rinosinusitis akut dan kronis:
+Tabel 10.13. Diagnosis banding Rinosinusitis Akut (RSA) dan Rinosinusitis
+Kronik (RSK)
+Rinosinusitis Akut (RSA)
+Episode
+akut
+rinosinusitis kronik
+Bronkitis akut
+Rinitis akut
+Asma bronkial
+Influenza
+Cluster headache
+Migrain
+
+(rekurens)
+
+Rinosinusitis Kronis (RSK)
+pada
+
+Refluks gastro-esofageal
+Tumor ganas rongga hidung
+Tumor ganas nasofaring
+Tumor ganas sinus
+Benda asing pada saluran
+napas
+Fibrosis kistik
+Sinusitis jamur
+
+419
+
+Komplikasi
+1. Kelainan orbita
+Penyebaran infeksi ke orbita paling sering terjadi pada sinusitis etmoid, frontal,
+dan maksila. Gejala dan tanda yang patut dicurigai sebagai infeksi orbita adalah:
+edema periorbita, selulitis orbita, dan nyeri berat pada mata. Kelainan dapat
+mengenai satu mata atau menyebar ke kedua mata.
+2. Kelainan intrakranial
+Penyebaran infeksi ke intrakranial dapat menimbulkan meningitis, abses
+ekstradural, dan trombosis sinus kavernosus. Gejala dan tanda yang perlu
+dicurigai adalah: sakit kepala (tajam, progresif, terlokalisasi), paresis nervus
+kranial, dan perubahan status mental pada tahap lanjut.
+3. Komplikasi lain, terutama pada rinosinusitis kronik, dapat berupa: osteomielitis
+sinus maksila, abses subperiosteal, bronkitis kronik, bronkiektasis.
+Penatalaksanaan Komprehensif (Plan)
+Rinosinusitis Akut (RSA)
+Tujuan penatalaksanaan RSA adalah mengeradikasi infeksi, mengurangi severitas
+dan durasi gejala, serta mencegah komplikasi. Prinsip utama tatalaksana adalah
+memfasilitasi drainase sekret dari sinus ke ostium di rongga hidung. Tatalaksana
+RSA dapat dilihat dalam gambar Algoritma tatalaksana RSA.
+Konseling dan Edukasi :
+1. Pasien dan atau keluarga perlu mendapatkan penjelasan yang adekuat
+mengenai penyakit yang dideritanya, termasuk faktor risiko yang diduga
+mendasari.
+2. Dokter bersama pasien dapat mendiskusikan hal-hal yang dapat membantu
+mempercepat kesembuhan, misalnya:
+a. Pada pasien perokok, sebaiknya merokok dihentikan. Dokter dapat
+membantu pasien berhenti merokok dengan melakukan konseling (dengan
+metode 5A) atau anjuran (metode pengurangan, penundaan, atau cold
+turkey, sesuai preferensi pasien).
+b. Bila terdapat pajanan polutan sehari-hari, dokter dapat membantu
+memberikan anjuran untuk meminimalkannya, misalnya dengan pasien
+menggunakan masker atau ijin kerja selama simtom masih ada.
+c. Pasien dianjurkan untuk cukup beristirahat dan menjaga hidrasi.
+d. Pasien dianjurkan untuk membilas atau mencuci hidung secara teratur
+dengan larutan garam isotonis (salin).
+Rencana Tindak Lanjut
+1. Pasien dengan RSA viral (common cold) dievaluasi kembali setelah 10 hari
+pengobatan. Bila tidak membaik, maka diagnosis menjadi RSA pasca viral dan
+dokter menambahkan kortikosteroid (KS) intranasal ke dalam rejimen terapi.
+2. Pasien dengan RSA pasca viral dievaluasi kembali setelah 14 hari pengobatan.
+Bila tidak ada perbaikan, dapat dipertimbangkan rujukan ke spesialis THT.
+
+420
+
+3. Pasien dengan RSA bakterial dievaluasi kembali 48 jam setelah pemberian
+antibiotik dan KS intranasal. Bila tidak ada perbaikan, dapat dipertimbangkan
+rujukan ke spesialis THT.
+Kriteria Rujukan
+Pada kasus RSA, rujukan segera ke spesialis THT dilakukan bila:
+1. Terdapat gejala dan tanda komplikasi, di antaranya: Edema / eritema periorbital,
+perubahan posisi bola mata, Diplopia, Oftalmoplegia, penurunan visus, sakit
+kepala yang berat, pembengkakan area frontal, tanda-tanda iritasi meningeal,
+kelainan neurologis fokal
+2. Bila tidak terjadi perbaikan pasca terapi adekuat setelah 10 hari (RSA viral), 14
+hari (RSA pasca viral), dan 48 jam (RSA bakterial).
+Rinosinusitis Kronis
+Strategi tatalaksana RSK meliputi identifikasi dan tatalaksana faktor risiko serta
+pemberian KS intranasal atau oral dengan / tanpa antibiotik. Tatalaksana RSK dapat
+dilihat pada Algoritma tatalaksana RSK.
+Konseling dan Edukasi
+1. Dokter perlu menjelaskan mengenai faktor risiko yang mendasari atau
+mencetuskan rinosinusitis kronik pada pasien beserta alternatif tatalaksana untuk
+mengatasinya.
+2. Pencegahan timbulnya rekurensi juga perlu didiskusikan antara dokter dengan
+pasien.
+Kriteria Rujukan
+Rujukan ke spesialis THT dilakukan apabila:
+1. Pasien imunodefisien
+2. Terdapat dugaan infeksi jamur
+3. Bila rinosinusitis terjadi ≥ 4 kali dalam 1 tahun
+4. Bila pasien tidak mengalami perbaikan setelah pemberian terapi awal yang
+adekuat setelah 4 minggu.
+5. Bila ditemukan kelainan anatomis ataupun dugaan faktor risiko yang
+memerlukan tatalaksana oleh spesialis THT, misalnya: deviasi septum, polip
+nasal, atau tumor.
+Sinusitis Dentogenik
+1. Eradikasi fokus infeksi, misal: ekstraksi gigi
+2. Irigasi sinus maksila
+3. Antibiotik
+Prognosis
+Rinosinusitis Akut
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Bonam
+: Bonam
+
+421
+
+Rinosinusitis Kronis
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+Sinusitis Dentogenik
+1. Ad vitam
+2. Ad functionam
+3. Ad sanationam
+
+: Bonam
+: Dubia ad bonam
+: Dubia ad bonam
+: Bonam
+: Bonam
+: Bonam
+
+Peralatan
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+
+Termometer
+Spekulum hidung
+Kaca rinoskop posterior
+Kassa steril
+Lampu kepala
+Lampu Bunsen / spiritus dan korek api
+Otoskop
+Suction
+Lampu baca x-ray
+Formulir permintaan pemeriksaan radiologi
+Formulir rujukan
+
+Referensi
+1. Fokkens, W et.al, 2012. European Position Paper on Rhinosinusitis and Nasal
+Polyps. Rhinol Suppl, 23, pp.1-298. Available at: http://www.rhinologyjournal.com
+[Accessed June 24, 2014]. (Fokkens, 2012)
+2. Departemen Ilmu Telinga Hidung Tenggorokan Bedah Kepala – Leher FKUI /
+RSCM. Panduan Pelayanan Medis Rinosinusitis.
+3. Desrosiers, M et.al, 2011. Canadian Clinical Practice Guidelines for Acute and
+Chronic Rhinosinusitis. Allergy, Asthma, & Clinical Immunology, 71, pp.1-38.
+Available at: http://www.aacijournal.com/content/7/1/2 [Accessed June 6, 2014].
+(Desrosier et.al, 2011)
+4. Hwang, PH & Getz, A, 2014. Acute Sinusitis and Rhinosinusitis in Adults:
+Treatment. UpToDate Wolters Kluwer Health. Available at: www.uptodate.com
+[Accessed June 6, 2014]. (Hwang & Getz, 2014)
+5. Chow, AW et.al, 2012. IDSA Clinical Practice Guideline for Acute Bacterial
+Rhinosinusitis in Children and Adults. Clinical Infectious Diseases, pp.e1-e41.
+Available at: http://cid.oxfordjournals.org/ [Accessed June 6, 2014]. (Chow et.al,
+2012)
+6. Fagnan, LJ, 1998. Acute Sinusitis: A Cost-Effective Approach to Diagnosis and
+Treatment. American Family Physician, 58(8), pp.1795-1802. Available at:
+http://www.aafp.org/afp/1998/1115/p1795.html [Accessed June 6, 2014].
+(Fagnan, 1998)
+
+422
+
+K. Kulit

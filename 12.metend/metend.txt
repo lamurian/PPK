@@ -1,0 +1,1591 @@
+L. Metabolik Endokrin Dan Nutrisi
+
+1.
+
+Obesitas
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: T82 obesity, T83 overweight
+: E66.9 obesity unspecified
+: 4A
+
+Masalah Kesehatan
+Obesitas merupakan keadaan dimana seseorang memiliki kelebihan lemak (body fat)
+sehingga orang tersebut memiliki risiko kesehatan. Riskesdas 2013, prevalensi
+penduduk laki-laki dewasa obesitas pada tahun 2013 sebanyak 19,7% lebih tinggi
+dari tahun 2007 (13,9%) dan tahun 2010 (7,8%). Sedangkan pada perempuan di
+tahun 2013, prevalensi obesitas perempuan dewasa (>18 tahun) 32,9 persen, naik
+18,1 persen dari tahun 2007 (13,9%) dan 17,5 persen dari tahun 2010 (15,5%).
+WHO, dalam data terbaru Mei 2014, obesitas merupakan faktor risiko utama untuk
+penyakit tidak menular seperti penyakit kardiovaskular (terutama penyakit jantung
+dan stroke), diabetes, gangguan muskuloskeletal, beberapa jenis kanker
+(endometrium, payudara, dan usus besar). Dari data tersebut, peningkatan
+penduduk dengan obesitas, secara langsung akan meningkatkan penyakit akibat
+kegemukan.
+Hasil Anamnesis (Subjective)
+Keluhan
+Biasanya pasien datang bukan dengan keluhan kelebihan berat badan namun
+dengan adanya gejala dari risiko kesehatan yang timbul.
+Penyebab
+1. Ketidakseimbangnya asupan energi dengan tingkatan aktifitas fisik.
+2. Faktor-faktor yang harus dipertimbangkan antara lain kebiasaan makan berlebih,
+genetik, kurang aktivitas fisik, faktor psikologis dan stres, obat-obatan (beberapa
+obat seperti steroid, KB hormonal, dan anti-depresan memiliki efek samping
+penambahan berat badan dan retensi natrium), usia (misalnya menopause),
+kejadian tertentu (misalnya berhenti merokok, berhenti dari kegiatan olahraga,
+dsb).
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Pengukuran Antropometri (BB, TB dan LP)
+Indeks Masa Tubuh (IMT/Body mass index/BMI) menggunakan rumus
+2
+Berat Badan (Kg)/Tinggi Badan kuadrat (m )
+Pemeriksaan fisik lain sesuai keluhan untuk menentukan telah terjadi komplikasi
+atau risiko tinggi
+
+524
+
+2. Pengukuran lingkar pinggang (pada pertengahan antara iga terbawah dengan
+krista iliaka, pengukuran dari lateral dengan pita tanpa menekan jaringan lunak).
+Risiko meningkat bila laki-laki >85 cm dan perempuan >80cm.
+3. Pengukuran tekanan darah
+Untuk menentukan risiko dan komplikasi, misalnya hipertensi.
+Pemeriksaan Penunjang
+Untuk menentukan risiko dan komplikasi, yaitu pemeriksaan kadar gula darah, profil
+lipid, dan asam urat.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik dan penunjang.
+Tabel 12.1 Kategori obesitas
+Klasifikasi
+
+IMT(kg/m2)
+
+Underweight
+
+< 18,5
+
+Normal
+
+18,5 – 22,9
+
+Overweight
+
+> 23,0
+
+BB Lebih Dengan Risiko
+
+23,0-24,9
+
+Obese I
+
+25,0-29,9
+
+Obese II
+
+>30
+
+Sumber: WHO WPR/IASO/IOTF dalam The Asia-Pacific Perspective:Redefining
+Obesity and its Treatment
+Diagnosis Banding:
+1. Keadaan asites atau edema
+2. Masa otot yang tinggi, misalnya pada olahragawan
+Diagnosis klinis mengenai kondisi kesehatan yang berasosiasi dengan
+obesitas:
+1. Hipertensi
+2. DM tipe 2
+3. Dislipidemia
+4. Sindrom metabolik
+5. Sleep apneu obstruktif
+6. Penyakit sendi degeneratif
+
+525
+
+Komplikasi
+Diabetes Mellitus tipe 2, Hipertensi, penyakit kardiovakular, Sleep apnoe,
+abnormalitas hormon reproduksi, Low back pain, perlemakan hati
+Obesitas dikelompokkan menjadi obesitas risiko tinggi bila disertai dengan 3 atau
+lebih keadaan di bawah ini:
+1. Hipertensi
+2. Perokok
+3. Kadar LDL tinggi
+4. Kadar HDL rendah
+5. Kadar gula darah puasa tidak stabil
+6. Riwayat keluarga serangan jantung usia muda
+7. Usia (laki-laki > 45 thn, atau perempuan > 55 thn).
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Non –Medikamentosa
+1. Penatalaksanaan dimulai dengan kesadaran pasien bahwa kondisi sekarang
+adalah obesitas, dengan berbagai risikonya dan berniat untuk menjalankan
+program penurunan berat badan
+2. Diskusikan dan sepakati target pencapaian dan cara yang akan dipilih (target
+rasional adalah penurunan 10% dari BB sekarang)
+3. Usulkan cara yang sesuai dengan faktor risiko yang dimiliki pasien, dan
+jadwalkan pengukuran berkala untuk menilai keberhasilan program
+4. Penatalaksanaan ini meliputi perubahan pola makan (makan dalam porsi kecil
+namun sering) dengan mengurangi konsumsi lemak dan kalori, meningkatkan
+latihan fisik dan bergabung dengan kelompok yang bertujuan sama dalam
+mendukung satu sama lain dan diskusi hal-hal yang dapat membantu dalam
+pencapaian target penurunan berat badan ideal.
+5. Pengaturan pola makan dimulai dengan mengurangi asupan kalori sebesar 300500 kkal/hari dengan tujuan untuk menurunkan berat badan sebesar ½-1 kg per
+minggu.
+6. Latihan fisik dimulai secara perlahan dan ditingkatkan secara bertahap
+intensitasnya. Pasien dapat memulai dengan berjalan selama 30 menit dengan
+jangka waktu 5 kali seminggu dan dapat ditingkatkan intensitasnya selama 45
+menit dengan jangka waktu 5 kali seminggu.
+Konseling dan Edukasi
+1. Perlu diingat bahwa penanganan obesitas dan kemungkinan besar seumur
+hidup. Adanya motivasi dari pasien dan keluarga untuk menurunkan berat badan
+hingga mencapai BB ideal sangat membantu keberhasilan terapi.
+2. Menjaga agar berat badan tetap normal dan mengevaluasi adanya penyakit
+penyerta.
+3. Membatasi asupan energi dari lemak total dan gula.
+
+526
+
+4. Meningkatkan konsumsi buah dan sayuran, serta kacang-kacangan, biji-bijian
+dan kacang-kacangan.
+5. Terlibat dalam aktivitas fisik secara teratur (60 menit sehari untuk anak-anak dan
+150 menit per minggu untuk orang dewasa)
+Kriteria Rujukan
+1. Konsultasi pada dokter spesialis penyakit dalam bila pasien merupakan obesitas
+dengan risiko tinggi dan risiko absolut
+2. Jika sudah dipercaya melakukan modifikasi gaya hidup (diet yang telah
+diperbaiki, aktifitas fisik yang meningkat dan perubahan perilaku) selama 3 bulan,
+dan tidak memberikan respon terhadap penurunan berat badan, maka pasien
+dirujuk ke spesialis penyakit dalam untuk memperoleh obat-obatan penurun
+berat badan
+Prognosis
+Terdapat berbagai komplikasi yang menyertai obesitas. Risiko akan meningkat
+seiring dengan tingginya kelebihan berat badan.
+Referensi
+1. Henthorn, T.K. Anesthetic Consideration in Morbidly Obese Patients. [cite 2010
+June
+12]
+Available
+from:
+http://cucrash.com/Handouts04/MorbObese
+Henthorn.pdf.
+2. Sugondo, Sidartawan. Obesitas. Dalam: Buku Ajar Ilmu Penyakit Dalam. Jilid III.
+Ed. V. Jakarta. 2006. Hal. 1973-83.
+3. Vidiawati,D. Penatalaksanaan Obesitas.Pedoman Praktik Klinik untuk Dokter
+Keluarga. Ikatan Dokter Indonesia. HWS-IDI. 200. (Trisna, 2008)
+
+2.
+
+Tirotoksikosis
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: T85 Hipertiroidisme/tirotoksikosis
+: E05.9 Tirotoksikosis unspecified
+: 3B
+
+Masalah Kesehatan
+Tirotoksikosis adalah manifestasi klinis akibat kelebihan hormon tiroid yang beredar
+di sirkulasi. Data Nasional dalam Riskesdas 2013, hipertiroid di Indonesia,
+terdiagnosis dokter sebesar 0,4%. Prevalensi hipertiroid tertinggi di DI Yogyakarta
+dan DKI Jakarta (masing-masing 0,7%), Jawa Timur (0,6%), dan Jawa Barat (0,5%).
+Tiroktosikosis di bagi dalam 2 kategori, yaitu yang berhubungan dengan
+hipertiroidisme dan yang tidak berhubungan.
+Tirotoksikosis dapat berkembang menjadi krisis tiroid yang dapat menyebabkan
+kematian. Tirotoksikosis yang fatal biasanya disebabkan oleh autoimun Grave’s
+disease pada ibu hamil. Janin yang dikandungnya dapat mengalami tirotoksikosis
+
+527
+
+pula, dan keadaaan hepertiroid pada janin dapat menyebabkan retardasi
+pertumbuhanm kraniosinostosis, bahkan kematian janin.
+Hasil Anamnesis (Subjective)
+Keluhan
+Pasien dengan tirotoksikosis memiliki gejala antara lain:
+1. Berdebar-debar
+2. Tremor
+3. Iritabilitas
+4. Intoleran terhadap panas
+5. Keringat berlebihan
+6. Penurunan berat badan
+7. Peningkatan rasa lapar (nafsu makan bertambah)
+8. Diare
+9. Gangguan reproduksi (oligomenore/amenore dan libido turun)
+10. Mudah lelah
+11. Pembesaran kelenjar tiroid
+12. Sukar tidur
+13. Rambut rontok
+Faktor Risiko
+Memiliki penyakit Graves (autoimun hipertiroidisme) atau struma multinodular toksik
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Benjolan di leher depan
+2. Takikardia
+3. Demam
+4. Exopthalmus
+5. Tremor
+Spesifik untuk penyakit Grave :
+1. Oftalmopati (spasme kelopak mata atas dengan retraksi dan gerakan kelopak
+mata yang lamban, eksoftalmus dengan proptosis, pembengkakan supraorbital
+dan infraorbital)
+2. Edema pretibial
+3. Kemosis,
+4. Ulkus kornea
+5. Dermopati
+6. Akropaki
+7. Bruit
+Pemeriksaan Penunjang
+1. Darah rutin, SGOT, SGPT, gula darah sewaktu
+2. EKG
+
+528
+
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Untuk hipertiroidisme diagnosis yang tepat adalah dengan pemeriksaan konsentrasi
+tiroksin bebas di dalam plasma (serum free T4 & T3 meningkat dan TSH sedikit
+hingga tidak ada).
+Diagnosis tirotoksikosis sering dapat ditegakkan secara klinis melaui anamnesis dan
+pemeriksaan fisik tanpa pemeriksaan laboratorium, namun untuk menilai kemajuan
+terapi tanpa pemeriksaan penunjang sulit dideteksi.
+Diagnosis Banding
+1. Hipertiroidisme primer: penyakir Graves, struma multinudosa toksik, adenoma
+toksik, metastase karsinoma tiroid fungsional, struma ovari,mutasi reseptor TSH,
+kelebihan iodium (fenomena Jod Basedow).
+2. Tirotoksikosis tanpa hipotiroidisme: tiroiditis sub akut, tiroiditis silent, destruksi
+tiroid, (karena aminoidarone, radiasi, infark adenoma) asupan hormon tiroid
+berlebihan (tirotoksikosis faktisia)
+3. Hipertiroidisme sekunder: adenoma hipofisis yang mensekresi TSH, sindrom
+resistensi hormon tiroid, tumor yang mensekresi HCG, tirotoksikosis gestasional.
+4. Anxietas
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Pemberian obat simptomatis
+2. Propanolol dosis 40-80 mg dalam 2-4 dosis.
+3. PTU 300-600 mg dalam 3 dosis bila klinis Graves jelas
+Rencana Tindak Lanjut
+1. Diagnosis pasti dan penatalaksanaan awal pasien tirotoksikosis dilakukan pada
+pelayanan kesehatan sekunder
+2. Bila kondisi stabil pengobatan dapat dilanjutkan di pelayanan primer.
+Konseling dan Edukasi
+1. Pada pasien diberikan edukasi mengenai pengenalan tanda dan gejala
+tirotoksikosis
+2. Anjuran kontrol dan minum obat secara teratur.
+3. Melakukan gaya hidup sehat
+Kriteria Rujukan
+Pasien dirujuk untuk penegakan diagnosis dengan pemeriksaan laboratorium ke
+layanan sekunder.
+Peralatan
+EKG
+Prognosis
+Prognosis tergantung respon terapi, kondisi pasien serta ada tidaknya komplikasi.
+
+529
+
+Referensi
+
+1. Djokomoeljanto, R. Buku Ajar Ilmu Penyakit Dalam. Jilid III. Edisi ke 4. Jakarta:
+FK UI. Hal 1961-5.2006.
+2. Panduan Pelayanan Medik Ilmu Penyakit Dalam. Jakarta: Departemen Ilmu
+Penyakit Dalam FKUI/RSCM. Hal 37-41.2004.
+
+3. Diabetes Mellitus Tipe 2
+No. ICPC-2
+No. ICD-10
+
+: T90 Diabetes non-insulin dependent
+: E11 Non-insulin-dependent diabetes mellitus
+
+Masalah Kesehatan
+Diabetes Melitus (DM) tipe 2, menurut American Diabetes Association (ADA) adalah
+kumulan gejala yang ditandai oleh hiperglikemia akibat defek pada kerja insulin
+(resistensi insulin) dan sekresi insulin atau kedua-duanya. Berdasarkan Riset
+Kesehatan Dasar (Riskesdas) tahun 2013, terjadi peningkatan dari 1,1% (2007)
+menjadi 2,1% (2013). Proporsi penduduk ≥15 tahun dengan diabetes mellitus (DM)
+adalah 6,9%. WHO memprediksi kenaikan jumlah penyandang DM tipe 2 di
+Indonesia dari 8,4 juta pada tahun 2000 menjadi sekitar 21,3 juta pada tahun 2030.
+Senada dengan WHO, International Diabetes Federation (IDF) pada tahun 2009,
+memprediksi kenaikan jumlah penyandang DM dari 7,0 juta pada tahun 2009
+menjadi 12,0 juta pada tahun 2030. Meskipun terdapat perbedaan angka prevalensi,
+laporan keduanya menunjukkan adanya peningkatan jumlah penyandang DM
+sebanyak 2-3 kali lipat pada tahun 2030.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Polifagia
+2. Poliuri
+3. Polidipsi
+4. Penurunan berat badan yang tidak jelas sebabnya
+Keluhan tidak khas:
+1. Lemah
+2. Kesemutan (rasa baal di ujung-ujung ekstremitas)
+3. Gatal
+4. Mata kabur
+5. Disfungsi ereksi pada pria
+6. Pruritus vulvae pada wanita
+7. Luka yang sulit sembuh
+
+530
+
+Faktor risiko
+2
+1. Berat badan lebih dan obese (IMT ≥ 25 kg/m )
+2. Riwayat penyakit DM di keluarga
+3. Mengalami hipertensi (TD ≥ 140/90 mmHg atau sedang dalam terapi hipertensi)
+4. Riwayat melahirkan bayi dengan BBL > 4000 gram atau pernah didiagnosis DM
+Gestasional
+5. Perempuan dengan riwayat PCOS (polycistic ovary syndrome)
+6. Riwayat GDPT (Glukosa Darah Puasa Terganggu) / TGT (Toleransi Glukosa
+Terganggu)
+7. Aktifitas jasmani yang kurang
+Hasil Pemeriksaan Fisik dan penunjang sederhana (Objective)
+Pemeriksaan Fisik
+1. Penilaian berat badan
+2. Mata
+: Penurunan visus, lensa mata buram
+3. Extremitas : Uji sensibilitas kulit dengan mikrofilamen
+Pemeriksaan Penunjang
+1. Gula Darah Puasa
+2. Gula Darah 2 jam Post Prandial
+3. Urinalisis
+Penegakan Diagnosis (Assessment)
+Diagnosis Klinis
+Kriteria diagnostik DM dan gangguan toleransi glukosa:
+1. Gejala klasik DM (poliuria, polidipsia, polifagi) + glukosa plasma sewaktu ≥ 200
+mg/dL (11,1 mmol/L). Glukosa plasma sewaktu merupakan hasil pemeriksaan
+sesaat pada suatu hari tanpa memperhatikan waktu makan terakhir ATAU
+2. Gejala Klasik DM + Kadar glukosa plasma puasa ≥ 126 mg/dl. Puasa diartikan
+pasien tidak mendapat kalori tambahan sedikitnya 8 jam ATAU
+3. Kadar glukosa plasma 2 jam pada tes toleransi glukosa oral (TTGO)> 200
+mg/dL (11,1 mmol/L) TTGO dilakukan dengan standard WHO, menggunakan
+beban glukosa anhidrus 75 gram yang dilarutkan dalam air.
+Apabila hasil pemeriksaan tidak memenuhi kriteria normal atau DM, maka dapat
+digolongkan ke dalam kelompok Toleransi Glukosa Terganggu (TGT) atau Gula
+Darah Puasa Teranggu (GDPT) tergantung dari hasil yang diperoleh
+Kriteria gangguan toleransi glukosa:
+1. GDPT ditegakkan bila setelah pemeriksaan glukosa plasma puasa didapatkan
+antara 100–125 mg/dl (5,6–6,9 mmol/l)
+2. TGT ditegakkan bila setelah pemeriksaan TTGO kadar glukosa plasma 140–199
+mg/dl pada 2 jam sesudah beban glukosa 75 gram (7,8 -11,1 mmol/L)
+3. HbA1C 5,7 -6,4%
+
+531
+
+Komplikasi
+1. Akut
+Ketoasidosis diabetik, Hiperosmolar non ketotik, Hipoglikemia
+2. Kronik
+Makroangiopati, Pembuluh darah jantung, Pembuluh darah perifer, Pembuluh
+darah otak
+3. Mikroangiopati:
+Pembuluh darah kapiler retina, pembuluh darah kapiler renal
+4. Neuropati
+5. Gabungan:
+Kardiomiopati, rentan infeksi, kaki diabetik, disfungsi ereksi
+Penatalaksanaan komprehensif (Plan)
+Penatalaksanaan
+Terapi untuk Diabetes Melitus dilakukan dengan modifikasi gaya hidup dan
+pengobatan (algoritma pengelolaan DM tipe 2)
+
+532
+
+Langkah-langkah Diagnostik DM dan Gangguan toleransi glukosa
+Keluhan Klinik Diabetes
+
+Keluhan klasik DM (+)
+
+≥ 126
+------≥ 200
+
+GDP
+Atau
+GDS
+
+Keluhan klasik-()
+
+<126
+------<200
+
+GDP ≥ 126
+Atau ------GDS ≥ 200
+
+100- 125
+-----------140-199
+
+<100 GDP
+------- Atau
+< 140 GDS
+
+Ulang GDP atau GDS
+
+GDP
+Atau
+GDS
+
+≥ 126
+?
+------?200
+≥
+200
+
+<126
+------<200
+
+TTGO
+GD 2 jam
+
+≥ 200
+
+DIABETES MELITUS
+
+140-199
+
+TGT
+
+Evaluasi status gizi
+Evaluasi penyulit DM
+Evaluasi perencanaan
+makan sesuai
+kebutuhan
+
+<140
+
+GDPT
+
+Normal
+
+Nasihat Umum
+Perencanaan makan
+Latihan Jasmani
+Berat idaman
+Belum perlu obat
+penurun glukosa
+
+GDP = Gula Darah Puasa
+GDS = Gula Darah Sewaktu
+GDPT = Gula Darah Puasa Terganggu
+TGT = Toleransi Glukosa Terganggu
+
+Gambar 12.1 Algoritme Diagnosis Diabetes Mellitus Tipe 2
+
+533
+
+Gambar 12.2 Algoritma pengelolaan Diabetes Melitus tipe 2 tanpa komplikasi
+Catatan: Pemilihan jenis Obat Hipoglikemik oral (OHO) dan insulin bersifat individual
+tergantung kondisi pasien dan sebaiknya mengkombinasi obat dengan cara kerja
+yang berbeda.
+
+534
+
+Dosis OHO
+Cara Pemberian OHO, terdiri dari:
+1. OHO dimulai dengan dosis kecil dan ditingkatkan secara bertahap sesuai
+respons kadar glukosa darah, dapat diberikan sampai dosis optimal.
+2. Sulfonilurea: 15 –30 menit sebelum makan.
+3. Metformin : sebelum/pada saat/sesudah makan.
+4. Penghambat glukosidase (Acarbose): bersama makan suapan pertama.
+Penunjang Penunjang
+1. Urinalisis
+2. Funduskopi
+3. Pemeriksaan fungsi ginjal
+4. EKG
+5. Xray thoraks
+Rencana Tindak Lanjut:
+Tindak lanjut adalah untuk pengendalian kasus DM berdasarkan parameter berikut:
+Table 12.2 Kriteria pengendalian DM (berdasarkan konsensus DM)
+Baik
+Glukosa darah
+puasa (mg/dL)
+Glukosa darah 2
+jam (mg/dL)
+A1C (%)
+Kolesterol total
+(mg/dL)
+Kolesterol LDL
+(mg/dL)
+
+Sedang
+
+Buruk
+
+80 -99
+
+100-125
+
+≥ 126
+
+80-144
+
+145-179
+
+≥ 180
+
+< 6,5
+
+6,5 – 8
+
+>8
+
+< 200
+
+200-239
+
+≥ 240
+
+< 100
+
+100 – 129
+
+≥ 130
+
+Kolesterol HDL
+(mg/dL)
+
+Pria > 40
+Wanita
+>
+50
+
+Trigliserida
+((mg/dL)
+
+< 150
+
+150-199
+
+≥ 200
+
+IMT (kg/m )
+
+18, 5 -23
+
+23-25
+
+> 25
+
+Tekanan darah
+(mmHg)
+
+≤130/80
+
+> 130-140
+/ >80-90
+
+>140/90
+
+3
+
+Keterangan:
+Angka-angka laboratorium di atas adalah hasil pemeriksaan plasma vena.
+Perlu konversi nilai kadar glukosa darah dari darah kapiler darah utuh dan plasma
+vena
+
+535
+
+Konseling dan Edukasi
+Edukasi meliputi pemahaman tentang:
+1. Penyakit DM tipe 2 tidak dapat sembuh tetapi dapat dikontrol
+2. Gaya hidup sehat harus diterapkan pada penderita misalnya olahraga,
+menghindari rokok, dan menjaga pola makan.
+3. Pemberian obat jangka panjang dengan kontrol teratur setiap 2 minggu
+Perencanaan Makan
+Standar yang dianjurkan adalah makanan dengan komposisi:
+1. Karbohidrat
+45 – 65 %
+2. Protein
+15 – 20 %
+3. Lemak
+20 – 25 %
+Jumlah kandungan kolesterol disarankan < 300 mg/hari. Diusahakan lemak berasal
+dari sumber asam lemak tidak jenuh (MUFA = Mono Unsaturated Fatty Acid), dan
+membatasi PUFA (Poly Unsaturated Fatty Acid) dan asam lemak jenuh. Jumlah
+kandungan serat + 25 g/hr, diutamakan serat larut.
+Jumlah kalori basal per hari:
+1. Laki-laki: 30 kal/kg BB idaman
+2. Wanita: 25 kal/kg BB idaman
+Rumus Broca:*
+Berat badan idaman = ( TB – 100 ) – 10 %
+*Pria < 160 cm dan wanita < 150 cm, tidak dikurangi 10 % lagi.
+BB kurang
+: < 90 % BB idaman
+BB normal
+: 90 – 110 % BB idaman
+BB lebih
+: 110 – 120 % BB idaman
+Gemuk
+: >120 % BB idaman
+Penyesuaian (terhadap kalori basal/hari):
+1. Status gizi:
+a. BB gemuk
+- 20 %
+b. BB lebih
+- 10 %
+c. BB kurang
++ 20 %
+2. Umur > 40 tahun :
+-5%
+3. Stres metabolik (infeksi, operasi,dll): + (10 s/d 30 %)
+4. Aktifitas:
+a. Ringan
++ 10 %
+b. Sedang
++ 20 %
+c. Berat
++ 30 %
+5. Hamil:
+a. trimester I, II
++ 300 kal
+b. trimester III / laktasi
++ 500 kal
+
+536
+
+Latihan Jasmani
+Kegiatan jasmani sehari-hari dan latihan teratur (3-5 kali seminggu selama kurang
+lebih 30-60 menit minimal 150 menit/minggu intensitas sedang). Kegiatan sehari-hari
+seperti berjalan kaki ke pasar, menggunakan tangga, berkebun, harus tetap
+dilakukan.
+Kriteria Rujukan
+Untuk penanganan tindak lanjut pada kondisi berikut:
+1. DM tipe 2 dengan komplikasi
+2. DM tipe 2 dengan kontrol gula buruk
+3. DM tipe 2 dengan infeksi berat
+Peralatan
+1. Laboratorium untuk pemeriksaan gula darah, darah rutin, urin rutin, ureum,
+kreatinin
+2. Alat Pengukur berat dan tinggi badan anak serta dewasa
+3. Monofilamen test
+Prognosis
+Prognosis umumnya adalah dubia. Karena penyakit ini adalah penyakit kronis, quo
+ad vitam umumnya adalah dubia ad bonam, namun quo ad fungsionam dan
+sanationamnya adalah dubia ad malam.
+Referensi
+1. Sudoyo, A.W. Setiyohadi, B. Alwi, I. Simadibrata, M. Setiati, S.Eds. Buku ajar
+ilmu penyakit dalam. Ed 4. Vol. III. Jakarta: Pusat Penerbitan Departemen Ilmu
+Penyakit Dalam FKUI; 2006.
+2. Perkumpulan Endokrinologi Indonesia. Konsensus Pengelolaan dan
+Pencegahan Diabetes Melitus Tipe 2 di Indonesia. 2011. (Perkumpulan
+Endokrinologi Indonesia, 2006)
+3. Departemen Ilmu Kedokteran Komunitas FKUI dan Persadia. Penatalaksanaan
+Diabetes Mellitus pada Layanan Primer, ed.2, 2012.
+(Departemen Ilmu
+Kedokteran Komunitas Indonesia FKUI, 2012)
+
+537
+
+4. Hiperglikemia Hiperosmolar Non Ketotik
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: A91 Abnormal result invetigation NOS
+: R73.9 Hyperglycaemia unspecified
+: 3B
+
+Masalah Kesehatan
+Hiperglikemik Hiperosmolar Non Ketotik (HHNK) merupakan komplikasi akut pada
+DM tipe 2 berupa peningkatan kadar gula darah yang sangat tinggi (> 600mg/dl1200mg/dl) dan ditemukan tanda-tanda dehidrasi tanpa disertai gejala asidosis.
+HHNK biasanya terjadi pada orang tua dengan DM, yang mempunyai penyakit
+penyerta dengan asupan makanan yang kurang. Faktor pencetus serangan antara
+lain: infeksi, ketidakpatuhan dalam pengobatan, DM tidak terdiagnosis, dan penyakit
+penyerta lainnya.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Lemah
+2. Gangguan penglihatan
+3. Mual dan muntah
+4. Keluhan saraf seperti letargi, disorientasi, hemiparesis, kejang atau koma.
+Secara klinis HHNK sulit dibedakan dengan ketoasidosis diabetik terutama bila hasil
+laboratorium seperti kadar gula darah, keton, dan keseimbangan asam basa belum
+ada hasilnya.
+Untuk menilai kondisi tersebut maka dapat digunakan acuan, sebagai berikut:
+1. Sering ditemukan pada usia lanjut, yaitu usia lebih dari 60 tahun, semakin muda
+semakin berkurang, dan belum pernah ditemukan pada anak.
+2. Hampir separuh pasien tidak mempunyai riwayat DM atau diabetes tanpa
+pengobatan insulin.
+3. Mempunyai penyakit dasar lain. Ditemukan 85% pasien HHNK mengidap
+penyakit ginjal atau kardiovaskular, pernah ditemukan pada penyakit akromegali,
+tirotoksikosis, dan penyakit Cushing.
+4. Sering disebabkan obat-obatan antara lain Tiazid, Furosemid, Manitol, Digitalis,
+Reserpin, Steroid, Klorpromazin, Hidralazin, Dilantin, Simetidin, dan Haloperidol
+(neuroleptik).
+5. Mempunyai faktor pencetus, misalnya penyakit kardiovaskular, aritmia,
+perdarahan, gangguan keseimbangan cairan, pankreatitis, koma hepatik, dan
+operasi.
+Dari anamnesis keluarga biasanya faktor penyebab pasien datang ke rumah sakit
+adalah poliuria, polidipsia, penurunan berat badan, dan penurunan kesadaran.
+
+538
+
+Hasil Pemeriksaan Fisik dan Pemeriksaan Penunjang
+Pemeriksaan Fisik
+1. Pasien apatis sampai koma
+2. Tanda-tanda dehidrasi berat seperti: turgor buruk, mukosa bibir kering, mata
+cekung, perabaan ekstremitas yang dingin, denyut nadi cepat dan lemah.
+3. Kelainan neurologis berupa kejang umum, lokal, maupun mioklonik, dapat juga
+terjadi hemiparesis yang bersifat reversible dengan koreksi defisit cairan
+4. Hipotensi postural
+5. Tidak ada bau aseton yang tercium dari pernapasan
+6. Tdak ada pernapasan Kussmaul.
+Pemeriksaan Penunjang
+Pemeriksaaan kadar gula darah
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Secara klinis dapat didiagnosis melalui anamnesis, pemeriksaan fisik dan
+pemeriksaan kadar gula darah sewaktu
+Diagnosis Banding
+Ketoasidosis Diabetik (KAD), Ensefalopati uremikum, Ensefalopati karena infeksi
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Penanganan kegawatdaruratan yang diberikan untuk mempertahankan pasien tidak
+mengalami dehidrasi lebih lama. Proses rujukan harus segera dilakukan untuk
+mencegah komplikasi yang lebih lanjut.
+Pertolongan pertama dilayanan primer adalah:
+1. Memastikan jalan nafas lancar dan membantu pernafasan dengan suplementasi
+oksigen
+2. Memasang akses infus intravena dan melakukan hidrasi cairan NaCl 0.9 %
+dengan target TD sistole > 90 atau produksi urin >0.5 ml/kgbb/jam
+3. Memasang kateter urin untuk pemantauan cairan
+4. Dapat diberikan insulin rapid acting bolus intravena atau subkutan sebesar 180
+mikrounit/kgBB
+Komplikasi
+Oklusi vakular, Infark miokard, Low-flow syndrome, DIC, Rabdomiolisis
+Konseling dan Edukasi
+Edukasi ke keluarga mengenai kegawatan hiperglikemia dan perlu segera dirujuk
+Rencana Tindak Lanjut
+Pemeriksaan tanda vital dan gula darah perjam
+
+539
+
+Kriteria Rujukan
+Pasien harus dirujuk ke layanan sekunder (spesialis penyakit dalam) setelah
+mendapat terapi rehidrasi cairan.
+Peralatan
+Laboratorium untuk pemeriksaan glukosa darah
+Prognosis
+Prognosis biasanya buruk, sebenarnya kematian pasien bukan disebabkan oleh
+sindrom hiperosmolar sendiri tetapi oleh penyakit yang mendasari atau
+menyertainya.
+Referensi
+1. Soewondo, Pradana. 2006. Buku Ajar Ilmu Penyakit Dalam. Jilid III. Edisi ke 4.
+Jakarta: FK UI. Hal 1900-2.
+2. Panduan Pelayanan Medik Ilmu Penyakit Dalam. Jakarta: Departemen Ilmu
+Penyakit Dalam FKUI/RSCM. 2004. Hal 15-17.
+
+5. Hipoglikemia
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan:
+Hipoglikemia ringan
+Hipoglikemia berat
+
+: T87 hypoglycaemia
+: E16.2 hypoglycaemia unspecified
+: 4A
+: 3B
+
+Masalah Kesehatan
+Hipoglikemia adalah keadaan dimana kadar glukosa darah < 60 mg/dl, atau kadar
+glukosa darah < 80 mg/dl dengan gejala klinis.. Hipoglikemia merupakan komplikasi
+akut dari penyandang diabetes melitus dan geriatri.
+Hipoglikemia dapat terjadi karena:
+1. Kelebihan dosis obat, terutama insulin atau obat hipoglikemia oral yaitu
+sulfonilurea.
+2. Kebutuhan tubuh akan insulin yang relatif menurun; gagal ginjal kronik, dan
+paska persalinan.
+3. Asupan makan tidak adekuat: jumlah kalori atau waktu makan tidak tepat.
+4. Kegiatan jasmani berlebihan.
+
+540
+
+Hasil Anamnesis (Subjective)
+Keluhan
+Tanda dan gejala hipoglikemia dapat bervariasi pada setiap individu dari yang ringan
+sampai berat, sebagai berikut:
+1. Rasa gemetar
+2. Perasaan lapar
+3. Pusing
+4. Keringat dingin
+5. Jantung berdebar
+6. Gelisah
+7. Penurunan kesadaran bahkan sampai koma dengan atau tanpa kejang.
+Pada pasien atau keluarga perlu ditanyakan adanya riwayat penggunan preparat
+insulin atau obat hipoglemik oral, dosis terakhir, waktu pemakaian terakhir,
+perubahan dosis, waktu makan terakhir, jumlah asupan makanan, dan aktivitas fisik
+yang dilakukan.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Pucat
+2. Diaphoresis/keringat dingin
+3. Tekanan darah menurun
+4. Frekuensi denyut jantung meningkat
+5. Penurunan kesadaran
+6. Defisit neurologik fokal (refleks patologis positif pada satu sisi tubuh) sesaat.
+Pemeriksaan Penunjang
+Kadar glukosa darah sewaktu
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis hipoglikemia ditegakkan berdasarkan gejala-gejalanya dan hasil
+pemeriksaan kadar gula darah. Trias whipple untuk hipoglikemia secara umum:
+1. Gejala yang konsisten dengan hipoglikemia
+2. Kadar glukosa plasma rendah
+3. Gejala mereda setelah kadar glukosa plasma meningkat.
+Diagnosis Banding
+1. Syncope vagal
+2. Stroke/TIA
+Komplikasi
+Kerusakan otak, koma, kematian
+
+541
+
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Stadium permulaan (sadar):
+1. Berikan gula murni 30 gram (2 sendok makan) atau sirop/permen atau gula
+murni (bukan pemanis pengganti gula atau gula diet/ gula diabetes) dan
+makanan yang mengandung karbohidrat.
+2. Hentikan obat hipoglikemik sementara. Pantau glukosa darah sewaktu tiap 1-2
+jam.
+3. Pertahankan GD sekitar 200 mg/dL (bila sebelumnya tidak sadar).
+4. Cari penyebab hipoglikemia dengan anamnesis baik auto maupun allo
+anamnesis.
+Stadium lanjut (koma hipoglikemia atau tidak sadar dan curiga hipoglikemia):
+1. Diberikan larutan dekstrose 40% sebanyak 2 flakon (=50 mL) bolus intra vena.
+2. Diberikan cairan dekstrose 10 % per infus 6 jam perkolf.
+3. Periksa GDS setiap satu jam setelah pemberian dekstrosa 40%
+a. Bila GDS < 50 mg/dLbolus dekstrosa 40 % 50 mL IV.
+b. Bila GDS <100 mg/dLbolus dekstrosa 40 % 25 mL IV.
+c. Bila GDS 100 – 200 mg /dL tanpa bolus dekstrosa 40 %.
+d. Bila GDS > 200 mg/dL pertimbangan menurunkan kecepatan drip
+dekstrosa 10 %.
+4. Bila GDS > 100 mg/dL sebanyak 3 kali berturut–turut, pemantauan GDS setiap 2
+jam, dengan protokol sesuai diatas, bila GDs >200 mg/dL – pertimbangkan
+mengganti infus dengan dekstrosa 5 % atau NaCI 0,9 %.
+5. Bila GDs > 100 mg/dL sebanyak 3 kali berturut-turut, protokol hipoglikemi
+dihentikan.
+Rencana Tindak Lanjut
+1. Mencari penyebab hipoglikemi kemudian tatalaksana sesuai penyebabnya.
+2. Mencegah timbulnya komplikasi menahun, ancaman timbulnya hipoglikemia
+merupakan faktor limitasi utama dalam kendali glikemi pada pasien DM tipe 1
+dan DM tipe 2 yang mendapat terapi ini.
+Konseling dan Edukasi
+Seseorang yang sering mengalami hipoglikemia (terutama penderita diabetes),
+hendaknya selalu membawa tablet glukosa karena efeknya cepat timbul dan
+memberikan sejumlah gula yang konsisten.
+Kriteria Rujukan
+1. Pasien hipoglikemia dengan penurunan kesadaran harus dirujuk ke layanan
+sekunder (spesialis penyakit dalam) setelah diberikan dekstrose 40% bolus dan
+infus dekstrose 10% dengan tetesan 6 jam per kolf.
+2. Bila hipoglikemi tidak teratasi setelah 2 jam tahap pertama protokol penanganan
+
+542
+
+Peralatan
+1. Laboratorium untuk pemeriksaan kadar glukosa darah.
+2. Cairan Dekstrosa 40 % dan Dekstrosa 10 %
+Prognosis
+Prognosis pada umumnya baik bila penanganan cepat dan tepat.
+Referensi
+1. Soemadji, Djoko Wahono. Buku Ajar Ilmu Penyakit Dalam. Jilid III. Edisi ke 4.
+Jakarta: FK UI.2006. Hal 1892-5.
+2. Panduan Pelayanan Medik Ilmu Penyakit Dalam. Jakarta: Departemen Ilmu
+Penyakit Dalam FKUI/RSCM. 2004.Hal 18-20.
+
+6.
+
+Hiperurisemia-Gout Arthritis
+
+No. ICPC-2
+No. ICD-10
+
+Tingkat Kemampuan
+
+: T99 Endocrine/metabolic/nutritional disease other
+T92 Gout
+: E79.0 Hyperuricemia without signs of inflammatory arthritis
+and tophaceous disease
+M10 Gout
+: 4A
+
+Masalah Kesehatan
+Kondisi kadar asam urat dalam darah lebih dari 7,0 mg/dl pada pria dan pada wanita
+6 mg/dl. Hiperurisemia dapat terjadi akibat meningkatnya produksi ataupun
+menurunnya pembuangan asam urat, atau kombinasi dari keduanya.
+Gout adalah radang sendi yang diakibatkan deposisi kristal monosodium urat pada
+jaringan sekitar sendi.
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Bengkak pada sendi
+2. Nyeri sendi yang mendadak, biasanya timbul pada malam hari.
+3. Bengkak disertai rasa panas dan kemerahan.
+4. Demam, menggigil, dan nyeri badan.
+Apabila serangan pertama, 90% kejadian hanya pada 1 sendi dan keluhan dapat
+menghilang dalam 3-10 hari walau tanpa pengobatan.
+Faktor Risiko
+1. Usia dan jenis kelamin
+2. Obesitas
+
+543
+
+3.
+4.
+5.
+6.
+7.
+8.
+
+Alkohol
+Hipertensi
+Gangguan fungsi ginjal
+Penyakit-penyakit metabolik
+Pola diet
+Obat: aspirin dosis rendah, diuretik, obat-obat TBC
+
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Arthritis
+monoartikuler
+dapat
+ditemukan,
+biasanya
+melibatkan
+sendi
+metatarsophalang 1 atau sendi tarsal lainnya. Sendi yang mengalami inflamasi
+tampak kemerahan dan bengkak.
+Pemeriksaan Penunjang
+1. X ray: Tampak pembengkakan asimetris pada sendi dan kista subkortikal tanpa
+erosi
+2. Kadar asam urat dalam darah > 7 mg/dl.
+Penegakan Diagnosis (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik dan untuk
+diagnosis definitif gout arthritis adalah ditemukannya kristal urat (MSU) di cairan
+sendi atau tofus.
+Gambaran klinis hiperurisemia dapat berupa:
+1. Hiperurisemia asimptomatis
+Keadaan hiperurisemia tanpa manifestasi klinis berarti. Serangan arthritis
+biasanya muncul setelah 20 tahun fase ini.
+2. Gout arthritis, terdiri dari 3 stadium, yaitu:
+a. Stadium akut
+b. Stadium interkritikal
+c. Stadium kronis
+3. Penyakit Ginjal
+Diagnosis Banding
+Sepsis arthritis, Rheumatoid arthritis, Arthritis lainnya
+Komplikasi
+1. Terbentuknya batu ginjal
+2. Gagal ginjal.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Mengatasi serangan akut dengan segera
+Obat: analgetik, kolkisin, kortikosteroid
+
+544
+
+a. Kolkisin (efektif pada 24 jam pertama setelah serangan nyeri sendi timbul.
+Dosis oral 0,5-0.6 mg per hari dengan dosis maksimal 6 mg.
+b. Kortikosteroid sistemik jangka pendek (bila NSAID dan kolkisin tidak
+berespon baik) seperti prednisone 2-3x5 mg/hari selama 3 hari
+c. NSAID seperti natrium diklofenak 25-50 mg selama 3-5 hari
+2. Program pengobatan untuk mencegah serangan berulang
+Obat: analgetik, kolkisin dosis rendah
+3. Mengelola hiperurisemia (menurunkan kadar asam urat) dan mencegah
+komplikasi lain
+a. Obat-obat penurun asam urat
+Agen penurun asam urat (tidak digunakan selama serangan akut).
+Pemberian Allupurinol dimulai dari dosis terendah 100 mg, kemudian
+bertahap dinaikkan bila diperlukan, dengan dosis maksimal 800 mg/hari.
+Target terapi adalah kadar asam urat < 6 mg/dl.
+b. Modifikasi gaya hidup
+ Minum cukup (8-10 gelas/hari).
+ Mengelola obesitas dan menjaga berat badan ideal.
+ Hindari konsumsi alkohol
+ Pola diet sehat (rendah purin)
+Kriteria Rujukan
+1. Apabila pasien mengalami komplikasi atau pasien memiliki penyakit komorbid
+2. Bila nyeri tidak teratasi
+Peralatan
+1. Laboratorium untuk pemeriksaan asam urat.
+2. Radiologi
+Prognosis
+Quo ad vitam dubia ad bonam, quo ad fuctionam dubia
+Referensi
+1. Braunwald, Fauci, Hauser, editor. Harrison’s Principals of Internal Medicine.
+th
+17 ed. USA: McGraw Hill, 2008.
+2. Sudoyo AW, Setiyohadi B, Alwi I, Simadibrata M, Setiati S, eds. Buku ajar ilmu
+penyakit dalam. 4 ed. Vol. III. Jakarta: Pusat Penerbitan Departemen Ilmu
+Penyakit Dalam FKUI; 2006.
+
+545
+
+7.
+
+Dislipidemia
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: T93 Lipid disorder
+: E78.5 Hiperlipidemia
+: 4A
+
+Masalah Kesehatan
+Dislipidemia adalah kelainan metabolisme lipid yang ditandai dengan peningkatan
+maupun penurunan fraksi lipid dalam darah. Beberapa kelainan fraksi lipid yang
+utama adalah kenaikan kadar kolesterol total, kolesterol LDL, dan atau trigliserida,
+serta penurunan kolesterol HDL. Dislipidemia merupakan faktor risiko terjadinya
+aterosklerosis sehingga dapat menyebabkan stroke, Penyakit Jantung Koroner
+(PJK), Peripheral Arterial Disease (PAD), Sindroma Koroner Akut (SKA).
+Hasil Anamnesis (Subjective)
+Keluhan
+Pada umumnya dislipidemia tidak bergejala dan biasanya ditemukan pada saat
+pasien melakukan pemeriksaan rutin kesehatan (medical check-up).
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+1. Pemeriksaan tanda-tanda vital
+2. Pemeriksaaan antropometri (lingkar perut dan IMT/Indeks Massa Tubuh).
+2
+2
+Cara pengukuran IMT(kg/m )= BB(kg)/TB (m)
+Pemeriksaan Penunjang
+Pemeriksaan laboratorium memegang peranan penting
+diagnosa. Pemeriksaan yang dilakukan adalah pemeriksaan:
+1. Kadar kolesterol total
+2. Kolesterol LDL
+3. Kolesterol HDL
+4. Trigliserida plasma
+
+dalam
+
+menegakkan
+
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik dan penunjang.
+
+546
+
+Tabel 12.3 Interpretasi kadar lipid plasma berdasarkan NECP (National
+Cholesterol Education Program)
+Kolesterol LDL
+< 100 mg/Dl
+
+Optimal
+
+100-129 mg/dL
+
+Mendekati optimal
+
+130-159 mg/dL
+
+Borderline
+
+160-189 mg/dL
+
+Tinggi
+
+≥ 190 mg/dL
+
+Sangat tinggi
+
+Kolesterol Total
+< 200 mg/dL
+
+Diinginkan
+
+200-239 mg/dL
+
+Borderline
+
+≥ 240 mg/dL
+
+Tinggi
+
+Kolesterol HDL
+< 40 mg/dL
+
+Rendah
+
+≥ 60 mg/dL
+
+Tinggi
+
+Trigeliserida
+< 150 mg/dL
+
+Optimal
+
+150-199 mg/dL
+
+Borderline
+
+200-499 mg/dL
+
+Tinggi
+
+≥ 500 mg/dL
+
+Sangat tinggi
+
+Diagnosis Banding : Komplikasi
+Penyakit jantung koroner, stroke
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Penatalaksanaan dalam dislipidemia dimulai dengan melakukan penilaian jumlah
+faktor risiko penyakit jantung koroner pada pasien untuk menentukan kolesterolLDL yang harus dicapai.
+Berikut ini adalah tabel faktor risiko (selain kolesterol LDL) yang menentukan
+sasaran kolesterol LDL yang ingin dicapai berdasarkan NCEP-ATP III:
+
+547
+
+Tabel 12.4 Faktor risiko utama (selain kolesterol LDL) yang menentukan
+sasaran kolesterol LDL
+Perokok sigaret
+Hipertensi (≥140/90 mmHg atau sedang mendapat obat antihipertensi)
+Kolesterol HDL rendah ( <40 mg/dl). Jika didapatkan kolesterol HDL ≥60mg/dl maka
+mengurangi satu faktor risiko dari jumlah total
+Riwayat keluarga PJK dini yaitu ayah usia < 55 tahun dan ibu < 65 tahun
+Umur pria ≥ 45 tahun dan wanita ≥ 55 tahun.
+2. Setelah menemukan banyaknya faktor risiko pada seorang pasien, maka pasien
+dibagi kedalam tiga kelompok risiko penyakit arteri koroner yaitu risiko tinggi,
+risiko sedang dan risiko tinggi. Hal ini digambarkan pada tabel berikut ini:
+Tabel 12.5 Tiga kategori risiko yang menentukan sasaran kolesterol LDL yang
+ingin dicapai berdasarkan NCEP (Sudoyo, 2006)
+Kategori Risiko
+1. Risiko Tinggi
+a. Mempunyai Riwayat PJK dan
+b. Mereka yang mempunyai risiko yang disamakan
+dengan PJK
+ Diabetes Melitus
+ Bentuk lain penyakit aterosklerotik yaitu
+stroke, penyakit arteri perifer, aneurisma
+aorta abdominalis
+ Faktor risiko multipel (> 2 faktor risiko) yang
+mempunyai risiko PJK dalam waktu 10
+tahun
+> 20 % (lihat skor risiko
+Framingham)
+2. Risiko Multipel (≥2 faktor risiko) dengan risiko PJK
+dalam kurun waktu 10 tahun < 20%
+3. Risiko Rendah (0-1 faktor risiko) dengan risiko PJK
+dalam kurun waktu 10 tahun < 10 %
+
+Sasaran Kolesterol
+LDL (mg/dl)
+<100
+
+<130
+<160
+
+3. Selanjutnya penatalaksanaan pada pasien ditentukan berdasarkan kategori
+risiko pada tabel diatas. Berikut ini adalah bagan penatalaksanaan untuk masingmasing kategori risiko:
+
+548
+
+Risiko Tinggi
+
+Kol – LDL > 100 mg/dl
+
+Kol – LDL < 100
+mg/dl
+
+- Diet dan olahraga
+- Dipertimbangkan pemberian
+statin bila LDL > 130 mg/dl
+
+- Gaya hidup sehat
+- Periksa ulang setiap 6 – 12 tahun
+
+Periksa ulang 3 bulan
+Kol – LDL > mg/dl
+
+- Mulai statin
+- Periksa ulang 3 bulan
+Sasaran Kol – LDL < 100
+mg/dl
+
+549
+
+Jumlah Faktor Risiko 0 – 1
+
+Kol – LDL > 160
+mg/dl
+
+Kol – LDL < 160
+mg/dl
+
+Cari dan obati penyebab
+sekunder
+- Gaya hidup sehat
+- Periksa ulang setiap1 – 2 tahun atau
+3 – 5 tahun bila Kol – LDL
+< 130 mg/dl
+
+Kol – LDL > 160 Mg/dl
+Terapi diet
+Periksa ulang 3 bulan
+
+Kol – LDL = 160 – 189 mg/dl
+
+- Teruskan diet, olahraga
+- Pertimbangkan statin
+- Periksa ulang 3 bulan
+
+Kol – LDL > 190
+mg/dl
+- Mulai statin
+- Periksa ulang 3
+bulan
+
+Sasaran Kol – LDL < 160 mg/dl
+
+550
+
+Jumlah Faktor Risiko > 2
+
+Kol – LDL > 130
+mg/dl
+
+Kol – LDL < 130
+mg/dl
+
+Cari dan obati penyebab sekunder
+
+- Gaya hidup sehat
+- periksa ulang setiap1 – 2 tahun
+
+Kol – LDL > 130 mg/dl
+Terapi diet
+Periksa ulang 3 bulan
+
+Kol – LDL = 130 – 159 mg/dl
+
+- Teruskan diet, olahraga
+- Pertimbangkan statin
+- Periksa ulang 3 bulan
+
+Kol – LDL > 160 mg/dl
+
+- Mulai statin
+- Periksa ulang 3 bulan
+
+Sasaran Kol – LDL < 130 mg/dl
+
+Gambar 12.3 Penatalaksanaan untuk masing-masing kategori risiko
+4. Terapi non farmakologis
+a. Terapi nutrisi medis
+Pasien dengan kadar kolesterol LDL tinggi dianjurkan untuk mengurangi
+asupan lemak total dan lemak jenuh, dan meningkatkan asupan lemak tak
+jenuh rantai tunggal dan ganda. Pada pasien dengan trigliserida tinggi perlu
+dikurangi asupan karbohidrat, alkohol, dan lemak
+b. Aktivitas fisik
+Pasien dianjurkan untuk meningkatkan aktivitas fisik sesuai kondisi dan
+kemampuannya.
+5. Tata laksana farmakologis
+Terapi farmakologis dilakukan setelah 6 minggu terapi non farmakologis.
+
+551
+
+Tabel 12.6 Obat hipoglikemik dan efek terhadap kadar lipid plasma
+Jenis Obat
+
+Kolesterol LDL
+
+Kolesterol HDL
+
+Trigliserida
+
+Statin
+
+↓ 18 – 55 %
+
+↑ 5- 15 %
+
+↓ 7 – 30 %
+
+Resin
+
+↓ 15 – 30 %
+
+↑ 3- 5 %
+
+-
+
+Fibrat
+
+↓ 5 – 25 %
+
+↑ 10 - 20 %
+
+↓ 20 – 50 %
+
+Asam Nikotinat
+
+↓ 5 – 25 %
+
+↑ 15- 35 %
+
+↓ 20 – 50 %
+
+Ezetimibe
+
+↓ 17 – 18 %
+
+↑ 3- 4 %
+
+-
+
+Tabel 12.7 Obat Hipolopidemik
+Jenis Obat
+Dosis
+Resin
+Kolestiramin
+4 – 16 gram/hari
+Kolestipol
+5 – 20 gram/hari
+Golongan Asam
+Nikotinat
+Asam Nikotinat
+Lepas cepat 1,5-3
+gram/hari
+Lepas lambat 1-2
+gram/hari
+
+Golongan Statin
+Fluvastatin
+Lovastatin
+Pravastatin
+Simvastatin
+Atorvastatin
+Rosuvastatin
+Pitavastatin
+Golongan Asam Fibrat
+Fenofibrat
+Gemfibrozil
+
+Penghambat Absorbsi
+Kolesterol
+Ezetimibe
+
+Efek Samping
+Konstipasi, gangguan
+absorbs obat lain
+
+Flushing,
+hiperglikemia,
+hiperuricemia,
+hepatotoksik,
+gangguan saluran
+cerna
+
+20 – 80 mg malam hari
+5 – 40 mg malam hari
+5 – 40 mg malam hari
+5 – 40 mg malam hari
+10 – 80 mg malam hari
+10 – 40 mg malam hari
+1 – 4 mg malam hari
+
+Miopati, Peningkatan
+SGOT/SGPT,
+Rhabdomiolosis
+
+145,160 mg 1x/hari
+600 mg 2x/hari
+900 mg 1x/hari
+
+Dispepsia, miopati
+Kontraindikasi:
+gangguan fungsi hati
+dan ginjal berat
+
+10 mg 1x/ hari
+
+Dispepsia, sakit kepala
+dan punggung
+
+552
+
+Konseling dan Edukasi
+1. Perlu adanya motivasi dari pasien dan keluarga untuk mengatur diet pasien dan
+aktivitas fisik yang sangat membantu keberhasilan terapi.
+2. Pasien harus kontrol teratur untuk pemeriksaan kolesterol lengkap untuk melihat
+target terapi dan maintenance jika target sudah tercapai.
+Kriteria Rujukan
+1. Terdapat penyakit komorbid yang harus ditangani oleh spesialis.
+2. Terdapat salah satu dari faktor risiko PJK
+Peralatan
+Pemeriksaan kimia darah
+Prognosis
+Dengan penatalaksanaan yang tepat maka dapat dicegah terjadinya komplikasi
+akibat dislipidemia.
+Referensi
+1. Azwar, B. Dislipidemia sebagai Faktor Risiko Penyakit Jantung Koroner. Medan:
+FK USU.2004. (Azwar, 2004)
+2. Darey, Patrick. At a Glance Medicine. Jakarta: Erlangga. 2005. (Darey, 2005)
+3. Ganiswarna, Sulistia. Farmakologi dan Terapi. Jakarta: Gaya Baru.2007.
+(Ganiswarna, 2007)
+4. Sudoyo, A. Setyohadi, B. Alwi, I. Setiati, S.Buku Ajar Ilmu Penyakit Dalam.
+Jakarta: FKUI.2009.
+5. PERKENI, Konsensus Pengelolaan Dislipidemia di Indonesia. Jakarta: Pusat
+Penerbitan Ilmu Penyakit Dalam FKUI. 2012 (Perkumpulan Endokrinologi
+Indonesia, 2012)
+
+8.
+
+Malnutrisi Energi Protein (MEP)
+
+No. ICPC II
+No. ICD X
+Tingkat Kemampuan
+
+: T91 Vitamin/nutritional deficiency
+: E46 Unspecified protein-energy malnutrition
+: 4A
+
+Masalah Kesehatan
+MEP adalah penyakit akibat kekurangan energi dan protein umumnya disertai
+defisiensi nutrisi lain.
+Klasifikasi dari MEP adalah :
+1. Kwashiorkor
+2. Marasmus
+3. Marasmus Kwashiorkor
+
+553
+
+Hasil Anamnesis (Subjective)
+Keluhan
+1. Kwashiorkor, dengan keluhan:
+ Edema
+ Wajah sembab
+ Pandangan sayu
+ Rambut tipis, kemerahan seperti warna rambut jagung, mudah dicabut tanpa
+sakit, rontok
+ Anak rewel, apatis
+2. Marasmus, dengan keluhan:
+ Sangat kurus
+ Cengeng
+ Rewel
+ Kulit keriput
+3. Marasmus Kwashiorkor, dengan keluhan kombinasi dari ke-2 penyakit tersebut
+diatas.
+Faktor Risiko
+Berat badan lahir rendah, HIV, Infeksi TB, pola asuh yang salah
+Hasil Pemeriksaan Fisik dan penunjang sederhana (Objective)
+Pemeriksaan Fisik Patognomonis
+1. BB/TB < 70% atau < -3SD
+2. Marasmus: tampak sangat kurus, tidak ada jaringan lemak bawah kulit, anak
+tampak tua, baggy pants appearance.
+3. Kwashiorkor: edema, rambut kuning mudah rontok, crazy pavement dermatosa
+4. Tanda dehidrasi
+5. Demam
+6. Frekuensi dan tipe pernapasan: pneumonia atau gagal jantung
+7. Sangat pucat
+8. Pembesaran hati, ikterus
+9. Tanda defisiensi vitamin A pada mata: konjungtiva kering, ulkus kornea,
+keratomalasia
+10. Ulkus pada mulut
+11. LILA < 11,5 cm untuk anak 6-59 bulan
+Pemeriksaan Penunjang
+1. Laboratorium: gula darah, Hb, Ht, preparat apusan darah, urin rutin, feses
+2. Antropometri
+3. Foto toraks
+4. Uji tuberkulin
+
+554
+
+Penegakan Diagnosis (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan tanda dan gejala klinis serta pengukuran
+antropometri. Anak didiagnosis dengan gizi buruk, apabila:
+1. BB/TB < -3SD atau 70% dari median (marasmus).
+2. Edema pada kedua punggung kaki sampai seluruh tubuh (kwashiorkor: BB/TB >3SD atau marasmik-kwashiorkor BB/TB <-3SD).
+Tabel 12.8 Klasifikasi Malnutrisi Energi Protein (MEP)
+Kriteria
+Gizi buruk
+Gizi kurang
+
+Klinis
+Tampak sangat kurus dan atau edema pada
+kedua punggung kaki atau seluruh tubuh
+Tampak kurus
+
+Antropometri
+(BB/TB-PB)
+<-3SD
+-3SD < -2SD
+
+Diagnosis Banding: Komplikasi
+Anoreksia, Pneumonia berat, Anemia berat, Infeksi, Dehidrasi berat, Gangguan
+elektrolit, Hipoglikemi, Hipotermi, Hiperpireksia, Penurunan kesadaran
+Penatalaksanaan komprehensif (Plan)
+Penatalaksanaan dan Target Terapi
+
+Gambar 12.4. Langkah penanganan gizi buruk terbagi dalam fase stabilisasi
+dan rehabilitasi
+
+555
+
+Penanganan pasien dengan MEP, yaitu:
+ Vitamin A dosis tinggi diberikan pada anak gizi buruk dengan dosis sesuai umur
+pada saat pertama kali ditemukan
+ Makanan untuk pemulihan gizi dapat berupa makanan lokal atau pabrikan.
+- Jenis pemberian ada 3 pilihan: makanan therapeuticatau gizi siap saji, F100
+atau makanan lokal dengan densitas energi yg sama terutama dari lemak
+(minyak/santan/margarin).
+- Pemberian jenis makanan untuk pemulihan gizi disesuaikan masa pemulihan
+(rehabilitasi):
+o 1 minggu pertama pemberian F100.
+o Minggu berikutnya jumlah dan frekuensi F100 dikurangi seiring dengan
+penambahan makanan keluarga.
+Kunjungan Rumah
+ Tenaga kesehatan atau kader melakukan kunjungan rumah pada anak gizi buruk
+rawat jalan, bila:
+Berat badan anak sampai pada minggu ketiga tidaknaik atau turun
+dibandingkan dengan berat badanpada saat masuk (kecuali anak dengan
+edema).
+Anak yang 2 kali berturut-turut tidak datang tanpa pemberitahuan
+ Kunjungan rumah bertujuan untuk menggali permasalahan yang dihadapi
+keluarga termasuk kepatuhan mengonsumsi makanan untuk pemulihan gizi dan
+memberikan nasihat sesuai dengan masalah yang dihadapi.
+ Dalam melakukan kunjungan, tenaga kesehatan membawa kartu status, cheklist
+kunjungan rumah, formulir rujukan, makanan untuk pemulihan gizi dan bahan
+penyuluhan.
+ Hasil kunjungan dicatat pada checklist kunjungan dan kartu status. Bagi anak
+yang harus dirujuk, tenaga kesehatan mengisi formulir rujukan.
+Konseling dan Edukasi
+ Menyampaikan informasi kepada ibu/pengasuh tentang hasil penilaian
+pertumbuhan anak.
+ Mewawancarai ibu untuk mencari penyebab kurang gizi.
+ Memberi nasihat sesuai penyebab kurang gizi.
+ Memberikan anjuran pemberian makan sesuai umur dan kondisi anak dan cara
+menyiapkan makan formula, melaksanakan anjuran makan dan memilih atau
+mengganti makanan.
+Kriteria Rujukan
+1. Bila terjadi komplikasi, seperti: sepsis, dehidrasi berat, anemia berat, penurunan
+kesadaran
+2. Bila terdapat penyakit komorbid, seperti: pneumonia berat
+
+556
+
+Peralatan
+1. Alat pemeriksaan gula darah sederhana
+2. Alat pengukur berat dan tinggi badan anak serta dewasa
+3. Skala antropometri
+Prognosis
+Prognosis umumnya dubia ad bonam untuk ad vitam, sedangkan untuk quo ad
+fungsionam dan sanationam umumnya dubia ad malam.
+Referensi
+1. Sudoyo AW, Setiyohadi B, Alwi I, Simadibrata M, Setiati S, eds. Buku ajar ilmu
+penyakit dalam. 4 ed. Vol. III. Jakarta: Pusat Penerbitan Departemen Ilmu
+Penyakit Dalam FKUI; 2006.
+2. Dirjen Bina Gizi dan Kesehatan Ibu dan Anak. Pedoman Pelayanan Anak Gizi
+Buruk. Kemkes RI. Jakarta. 2011.
+
+557
+
+M. Ginjal Dan Saluran Kemih

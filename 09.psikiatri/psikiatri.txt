@@ -1,0 +1,760 @@
+I. Psikiatri
+
+1.
+
+Gangguan Somatoform
+
+No ICPC-2
+No ICD-10
+Tingkat Kemampuan
+
+: P75. Somatization disorder
+: F45 Somatoform disorders
+: 4A
+
+Masalah Kesehatan
+Gangguan somatoform merupakan suatu kelompok kelainan psikiatrik yang
+manifestasinya dapat berupa berbagai gejala fisik yang dirasakan signifikan oleh
+pasien namun tidak ditemukan penyebabnya secara medis.Tidak ada data yang
+pasti mengenai prevalensi gangguan ini di Indonesia. Satu penelitian di Jakarta
+mendapatkan prevalensi gangguan jiwa yang terdeteksi di Puskesmas sebesar
+31,8%. Pada penelitian ini, jenis gangguan yang tersering adalah neurosis, yaitu
+sebesar 25,8%, dan di dalamnya termasuk psikosomatik. Walaupun tidak ada kondisi
+medis yang serius, gejala-gejala yang dirasakan oleh pasien dengan gangguan
+somatoform sangat mengganggu dan berpotensi menimbulkan distres emosional.
+Peran dokter di pelayanan kesehatan primer pada kasus gangguan somatoform
+sangat penting. Keberhasilan dokter dalam mengeksklusi kelainan medis,
+mendiagnosis gangguan somatoform dengan tepat, dan menatalaksana akan sangat
+membantu meningkatkan kualitas hidup pasien, mengurangi rujukan yang tidak
+perlu, dan menghindarkan pasien dari pemeriksaan medis yang berlebihan atau
+merugikan.
+Hasil Anamnesis (Subjective)
+Keluhan
+Pasien biasanya datang dengan keluhan fisik tertentu. Dokter harus
+mempertimbangkan diagnosis gangguan somatoform bila terdapat beberapa
+karakteristik berikut ini:
+1. Keluhan atau gejala fisik berulang,
+2. Dapat disertai dengan permintaan pemeriksaan medis,
+3. Hasil pemeriksaan medis tidak menunjukkan adanya kelainan yang dapat
+menjelaskan keluhan tesebut,
+4. Onset dan kelanjutan dari keluhan berhubungan erat dengan peristiwa
+kehidupan yang tidak menyenangkan atau konflik-konflik,
+5. Pasien biasanya menolak upaya untuk membahas kemungkinan adanya
+penyebab psikologis,
+6. Dapat terlihat perilaku mencari perhatian (histrionik), terutama pada pasien yang
+tidak puas karena tidak berhasil membujuk dokter menerima persepsinya bahwa
+
+326
+
+keluhan yang dialami merupakan penyakit fisik dan memerlukan pemeriksaan
+lebih lanjut.
+Selain untuk menegakkan diagnosis, anamnesis dilakukan untuk menggali
+pemahaman dan persepsi pasien mengenai kondisi yang dialaminya. Seringkali
+tujuan ini baru dapat dicapai setelah beberapa kali pertemuan. Dokter harus
+mengklarifikasi keluhan-keluhan pasien hingga dicapai kesamaan persepsi. Selain
+itu, perlu pula digali harapan dan keinginan pasien, keyakinan dan ketakutan yang
+mungkin pasien miliki, serta stresor psikososial yang mungkin dialami dan menjadi
+penyebab gangguan.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Tidak ada pemeriksaan fisis dan pemeriksaan penunjang spesifik yang diperlukan
+untuk menegakkan diagnosis gangguan somatoform. Pemeriksaan fisis dan
+penunjang dilakukan untuk mengeksklusi kelainan organik yang dianggap relevan
+dengan keluhan pasien. Pemeriksaan penunjang yang terlalu berlebihan perlu
+dihindari agar tidak menambah kekhawatiran pasien.
+Penegakan Diagnosis (Assessment)
+Dokter layanan primer harus memikirkan diagnosis gangguan somatoform bila pada
+pasien terdapat keluhan dengan karakteristik sebagaimana yang telah dijelaskan
+pada halaman sebelumnya (lihat poin Hasil Anamnesis (Subjective)). Dalam
+praktik sehari-hari, dokter dapat menggunakan kuesioner khusus sebagai alat bantu
+skrining gangguan somatoform. Salah satu contohnya adalah Patient Health
+Questionnaire 15 (PHQ-15). Berikut ini adalah langkah-langkah pendekatan terhadap
+keluhan fisik pasien hingga dokter sampai pada kesimpulan diagnosis gangguan
+somatoform:
+1. Mengeksklusi kelainan organik
+Keluhan dan gejala fisik yang dialami oleh pasien perlu ditindaklanjuti sesuai
+dengan panduan tatalaksana medis terkait, dengan melakukan anamnesis,
+pemeriksaan fisis, dan pemeriksaan penunjang yang relevan.
+2. Mengeksklusi gangguan-gangguan psikiatri yang tergolong dalam kelompok dan
+blok yang hirarkinya lebih tinggi.
+Penegakkan diagnosis gangguan psikiatrik dilakukan secara hirarkis.
+Dalam Pedoman Penggolongan dan Diagnosis Gangguan Jiwa III,
+gangguan somatoform memiliki kode F45 dan merupakan blok penyakit
+yang termasuk dalam kelompok F40-F48, yaitu gangguan neurotik,
+gangguan somatoform, dan gangguan yang berkaitan dengan stres. Dengan
+demikian, pada kasus gangguan somatoform, dokter perlu mengeksklusi
+gangguan mental organik (F00-F09), gangguan mental dan perilaku akibat
+penggunaan zat psikoaktif (F10-F19), skizofrenia, gangguan skizotipal, dan
+gangguan waham (F20-F29), serta gangguan suasana perasaan atau mood atau
+afektif (F30-F39). Pada blok F40-F48 sendiri, dokter perlu terlebih dahulu
+
+327
+
+memastikan ada tidaknya tanda-tanda gangguan ansietas (F40-F41), obsesif
+kompulsif (F42), reaksi stres dan gangguan penyesuaian (F43), dan gangguan
+disosiatif atau konversi (F44). Gangguan somatoform tidak dapat ditegakkan bila
+gejala dan tanda pada pasien memenuhi kriteria diagnostik gangguan di hirarki
+yang lebih tinggi.
+3. Mengeksklusi kondisi factitious disorder dan malingering
+Pada kondisi factitious disorder, pasien mengadopsi keluhan-keluhan fisik, tanpa
+ia sadari, sebagai upaya memperoleh keuntungan internal, misalnya: untuk
+mendapat perhatian lebih dari orang-orang tertentu di sekitarnya. Berbeda
+halnya dengan kondisi malingering, di mana pasien sengaja atau berpura-pura
+sakit untuk memperoleh keuntungan eksternal, misalnya: agar terhindar dari
+tanggung jawab atau kondisi tertentu, atau untuk memperoleh kompensasi uang
+tertentu). Pada gangguan somatoform, tidak ada keuntungan yang coba didapat
+oleh pasien. Keluhan-keluhan yang disampaikan juga bukan sesuatu yang
+disengaja, malahan adanya keluhan-keluhan tersebut dipicu, dipertahankan, dan
+diperparah oleh kekhawatiran dan ketakutan tertentu (Oyama et al. 2007).
+4. Menggolongkan ke dalam jenis gangguan somatoform yang spesifik
+Blok gangguan somatoform terdiri atas:
+a. F45.0. Gangguan somatisasi
+b. F45.1. Gangguan somatoform tak terinci
+c. F45.2. Gangguan hipokondrik
+d. F45.3. Disfungsi otonomik somatoform
+e. F45.4. Gangguan nyeri somatoform menetap
+f. F45.5. Gangguan somatoform lainnya
+g. F45.6. Gangguan somatoform yang tidak tergolongkan (YTT)
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+Tujuan dari tatalaksana gangguan somatoform adalah mengelola gejala dan
+bukan menyembuhkan, karena pada dasarnya tidak ada kelainan medis yang
+dialami oleh pasien. Berikut ini adalah prinsip-prinsip dasar pengelolaan pasien
+dengan gangguan somatoform:
+1. Dokter harus menerima bahwa pasien memang betul-betul merasakan gejala
+pada tubuhnya dan memahami bahwa gejala-gejala tersebut mengganggu
+pasien. Dokter perlu melatih diri untuk tidak terlalu prematur menganggap pasien
+berpura-pura (malingering) tanpa didukung bukti yang kuat. Kunci utama
+tatalaksana gangguan somatoform adalah membangun kemitraan dengan dan
+kepercayaan dari pasien.
+2. Bila terdapat kecurigaan adanya gangguan somatoform, dokter perlu
+mendiskusikan kemungkinan ini sedini mungkin dengan pasien. Bila diagnosis
+gangguan somatoform sudah ditegakkan, dokter perlu mendiskusikannya
+dengan pasien.
+
+328
+
+3. Dokter perlu mengedukasi pasien mengenai gangguan yang dialaminya dengan
+berempati dan menghindari konfrontasi. Dokter harus menunjukkan
+kesungguhan untuk membantu pasien sebaik-baiknya, tanpa memaksa pasien
+untuk menerima pendapat dokter.
+4. Pemeriksaan medis dan rujukan ke layanan sekunder yang tidak perlu harus
+dihindari. Bila ada gejala baru, dokter perlu berhati-hati dalam menganjurkan
+pemeriksaan atau rujukan.
+5. Dokter harus memfokuskan penatalaksanaan pada fungsi pasien sehari-hari,
+bukan gejala, serta pada pengelolaan gejala, bukan penyembuhan.
+6. Dokter perlu menekankan modifikasi gaya hidup dan reduksi stres. Keluarga
+pasien dapat dilibatkan dalam tatalaksana bila memungkinkan dan diperlukan.
+Pasien mungkin perlu dibantu untuk mengindentifikasi serta mengelola stres
+secara efektif, misalnya dengan relaksasi, breathing control. Peningkatan
+aktifitas fisik dapat disarankan untuk mengurangi fatigue dannyeri
+muskuloskeletal
+7. Bila gangguan somatoform merupakan bagian dari kelainan psikiatrik lain, dokter
+harus mengintervensi dengan tepat.
+8. Dokter perlu menjadwalkan pertemuan yang reguler sebagai follow-up.
+Pertemuan dapat singkat saja, misalnya 1 kali setiap bulan selama 5 – 10 menit,
+terutama untuk memberi dukungan dan reassurance. Dokter perlu membatasi
+dan menghindari konsultasi via telepon atau kunjungan-kunjungan yang bersifat
+mendesak.
+9. Dokter perlu berkolaborasi dengan psikiater bila diperlukan, misalnya saat
+penegakan diagnosis yang sulit, menentukan adanya komorbid psikiatrik lain,
+atau terkait pengobatan.
+Non-medikamentosa
+Cognitive behavior therapy (CBT) merupakan salah satu tatalaksana yang efektif
+untuk mengelola gangguan somatoform. Dalam CBT, dokter memposisikan diri
+sebagai mitra yang membantu pasien. Tahap awal dari CBT adalah mengkaji
+masalah pasien dengan tepat dan membantu pasien mengidentifikasi hal-hal yang
+selama ini menimbulkan atau memperparah gejala fisik yang dialami, misalnya
+distorsi kognitif, keyakinan yang tidak realistis, kekhawatiran, atau perilaku tertentu.
+Tahap selanjutnya adalah membantu pasien mengidentifikasi dan mencoba alternatif
+perilaku yang dapat mengurangi atau mencegah timbulnya gejala-gejala fisik, yang
+dikenal sebagai behavioral experiments.
+Medikamentosa
+Penggunaan obat harus berdasarkan indikasi yang jelas. Hanya sedikit studi yang
+menunjukkan efektifitas yang signifikan dari penggunaan obat-obat untuk tatalaksana
+gangguan somatoform. Antidepresan dapat diberikan bila terdapat gejala-gejala
+depresi atau ansietas yang mengganggu.
+
+329
+
+Prognosis
+1. Ad vitam
+: Bonam
+2. Ad functionam
+: Dubia
+3. Ad sanationam
+: Dubia
+Sebagian pasien tidak menunjukkan respon positif atas tatalaksana yang dilakukan
+dan gangguan somatoform terus berlanjut bahkan hingga seumur hidup. Kondisi ini
+diperkirakan terjadi pada 0,2 – 0,5% anggota populasi. Diagnosis dan tatalaksana
+dini dapat memperbaiki prognosis dan mengurangi hambatan pada fungsi sosial dan
+okupasi sehari-hari.
+Peralatan
+Untuk keperluan skrining, dapat disediakan lembar PHQ-15 di ruang praktik dokter.
+Selain itu, tidak ada peralatan khusus yang diperlukan terkait diagnosis dan
+tatalaksana gangguan somatoform.
+Referensi
+1. Departemen Kesehatan Republik Indonesia, 1993. F45 Gangguan Somatoform.
+In Pedoman Penggolongan dan Diagnosis Gangguan Jiwa di Indonesia III.
+Jakarta: Direktorat Jenderal Pelayanan Medik, Departemen Kesehatan Republik
+Indonesia, pp. 209–221.
+2. Gill, D. & Bass, C., 1997. Somatoform and Dissociative Disorders: Assessment
+and Treatment. Advances in Psychiatric Treatment, 3(1), pp.9–16. Available at:
+http://apt.rcpsych.org/cgi/doi/10.1192/apt.3.1.9 [Accessed May 26, 2014].
+3. Hidayat, D. et al., 2010. Penggunaan Metode Dua Menit ( M2M ) dalam
+Menentukan Prevalensi Gangguan Jiwa di Pelayanan Primer. Majalah
+Kedokteran Indonesia, 60(10), pp.448–453.
+4. Oyama, O., Paltoo, C. & Greengold, J., 2007. Somatoform Disorders. American
+Family Physician, 76, pp.1333–1338. Available at: www.aafp.org/afp.
+5. PHQ Screeners, Physical Symptoms (PHQ-15). Patient Health Questionnaire
+(PHQ) Screeners. Available at: http://www.phqscreeners.com/pdfs/04_PHQ15/English.pdf [Accessed May 24, 2014].
+6. Ravesteijn, H. Van et al., 2009. Detecting Somatoform Disorders in Primary Care
+with the PHQ-15. Annals of Family Medicine, 7, pp.232–238. Available at:
+http://www.annfammed.org/content/7/3/232.full.pdf+html.
+
+330
+
+2.
+
+Demensia
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: P70 Dementia
+: F03 Unspecified dementia
+: 3A
+
+Masalah Kesehatan
+Demensia merupakan sindrom akibat penyakit otak yang bersifat kronik progresif,
+ditandai dengan kemunduran fungsi kognitif multiple, termasuk daya ingat (memori),
+daya pikir, daya tangkap (komprehensi), kemampuan belajar, orientasi, kalkulasi,
+visuospasial, bahasa dan daya nilai. Gangguan kognitif biasanya diikuti dengan
+deteriorasi dalam kontrolemosi, hubungan sosial dan motivasi.
+Pada umumnya terjadi pada usia lanjut, ditemukan pada penyakit Alzhaimer,
+penyakit serebrovaskular, dan kondisi lain yang secara primer dan sekunder
+mempengaruhi otak.
+Hasil Anamnesis(Subjective)
+Keluhan
+Keluhan utama adalah gangguan daya ingat, mudah lupa terhadap kejadian yang
+baru dialami, dan kesulitan mempelajari informasi baru. Diawali dengan sering lupa
+terhadap kegiatan rutin, lupa terhadap benda-benda kecil, pada akhirnya lupa
+mengingat nama sendiri atau keluarga.
+Faktor Risiko
+Usia > 60 tahun (usialanjut).
+Riwayat keluarga.
+Adanya penyakit Alzheimer, serebrovaskular (hipertensi, penyakitjantung), atau
+diabetes mellitus.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+PemeriksaanFisik
+1. Kesadaran sensorium baik.
+2. Penurunan dayaingat yang bersifat kronik dan progresif. Gangguan fungsi otak
+terutama berupa gangguan fungsi memori dan bahasa, seperti afasia, aphrasia,
+serta adanya kemunduranf ungsi kognitif eksekutif.
+3. Dilakukan pemeriksaan untuk menyingkirkan adanya gangguan neurologik atau
+penyakit sistemik
+Pemeriksaan penunjang
+Pemeriksaan laboratorium dilakukan jika ada kecurigaan adanya kondisi medis yang
+menimbulkan dan memper berat gejala. Dapat dilakukan Mini Mental State
+Examination (MMSE).
+
+331
+
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Pemeriksaan dilakukan dengan anamnesis, pemeriksaan fisik dan pemeriksaan
+penunjang.
+Kriteria Diagnosis
+1. Adanya penurunan kemampuan daya ingat dan daya pikir yang sampai
+mengganggu kegiatan harian seseorang
+2. Tidak ada gangguan kesadaran
+3. Gejala dan disabilitas sudah nyata untuk paling sedikit enam bulan
+Klasifikasi
+1. Demensia pada penyakit Alzheimer
+2. Demensia Vaskular (Demensia multiinfark)
+3. Demensia pada penyakit Pick (Sapi Gila)
+4. Demensia pada penyakit Creufield-Jacob
+5. Demensia pada penyakit Huntington
+6. Demensia pada penyakit Parkinson
+7. Demensia pada penyakit HIV/AIDS
+8. Demensia tipe Alzheimer prevalensinya paling besar (50-60%), disusul demensia
+vaskular (20-30%)
+Diagnosis Banding
+Delirium, Depresi, Gangguan Buatan, Skizofrenia
+PenatalaksanaanKomprehensif (Plan)
+Penatalaksanaan
+1. Non farmakologi
+a. Modifikasi faktor resiko yaitu kontrol penyakit fisik, lakukan aktifitas fisik
+sederhana seperti senam otak, stimulasi kognitif dengan permintaan, kuis,
+mengisi teka-tekisilang, bermain catur.
+b. Modifikasi lingkungan sekitar agar lebih nyaman dan aman bagi pasien.
+c. Rencanakan aktivitas hidup sehari-hari (mandi, makan, dan lain-lain) untuk
+mengoptimalkan aktivitas independen, meningkatkan fungsi, membantu
+adaptasi dan mengembangkan keterampilan, serta meminimalisasi
+kebutuhan akan bantuan.
+d. Ajarkan kepada keluarga agar dapat membantu mengenal barang milik
+pribadinya, mengenal waktu dengan menggunakan jam besar, kalender
+harian, dapat menyebutkan namanya dan anggota keluarga terdekat,
+mengenal lingkungan sekitar, beri pujian jika dapat menjawab dengan benar,
+bicara dengan kalimat sederhana dan jelas (satu atau dua tahap saja), bila
+perlu gunakan isyarat atau sentuhan lembut.
+
+332
+
+2. Farmakologi
+a. Jangan berikan inhibitor asetilkolinesterase (seperti: donepzil, galantamine
+dan rivastigmine) atau memantine secara rutin untuk semua kasus
+demensia. Pertimbangkan pemberiannya hanya pada kondisi yang
+memungkinkan diagnosis spesifik penyakit Alzheimer ditegakkan dan
+tersedia dukungan serta supervisi adekuat oleh spesialis serta pemantauan
+efek samping oleh pelaku rawat.
+b. Bila pasien berperilaku agresif, dapat diberikan antipsikotik dosis rendah,
+seperti Haloperidol 0,5 – 1 mg/hari.
+Kriteria Rujukan
+1. Pasien dirujuk untuk konfirmasi diagnosis dan penatalaksanaan lanjutan.
+2. Apabila pasien menunjukkan gejala agresifitas dan membahayakan dirinya atau
+orang lain.
+Peralatan
+Tidak ada Peralatan khusus
+Prognosis
+Prognosis umumnya ad vitam adalah dubia ad bonam, sedangkan fungsi adalah
+dubia ad malam. Ad sanationam adalah ad malam.
+Referensi
+1. Departemen Kesehatan RI. Pedoman Penggolongan dan Diagnosis Gangguan
+Jiwa di Indonesia III, cetakan pertama, 1993. (Kementerian Kesehatan Republik
+Indonesia, 1993)
+2. Perhimpunan Dokter Spesialis Kedokteran Jiwa Indonesia. Pedoman Nasional
+Pelayanan Kedokteran Jiwa/Psikiatri, 2012. (Perhimpunan Dokter Spesialis
+Kedokteran Jiwa Indonesia, 2012)
+3. World Health Organization. MH gap Intervention Guide for Mental, Neurological
+and Substance Use Disorders in Non-Specialized Health Settings, 2010. (World
+Health Organization, 2010)
+
+333
+
+3.
+
+Insomnia
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: P06 Sleep disturbance
+: G47.0 Disorders of initiating and maintaining sleep
+(insomnias)
+: 4A
+
+Masalah Kesehatan
+Insomnia adalah gejala atau gangguan dalam tidur, dapat berupa kesulitan berulang
+untuk mencapai tidur, atau mempertahankan tidur yang optimal, atau kualitas tidur
+yang buruk. Pada kebanyakan kasus, gangguan tidur adalah salah satu gejala dari
+gangguan lainnya, baik mental (psikiatrik) atau fisik.
+Secara umum lebih baik membuat diagnosis gangguan tidur yang spesifik
+bersamaan dengan diagnosis lain yang relevan untuk menjelaskan secara kuat
+psikopatologi dan atau patofisiologinya.
+Hasil Anamnesis (Subjective)
+Keluhan
+Sulit masuk tidur, sering terbangun di malam hari atau mempertahankan tidur yang
+optimal, atau kualitas tidur yang buruk.
+Faktor Risiko
+1. Adanya gangguan organik (seperti gangguan endokrin, penyakit jantung).
+2. Adanya gangguan psikiatrik seperti gangguan psikotik, gangguan depresi,
+gangguan cemas, dan gangguan akibat zat psikoaktif.
+Faktor Predisposisi
+1. Sering bekerja di malam hari .
+2. Jam kerja tidak stabil.
+3. Penggunaan alkohol, cafein atau zat adiktif yang berlebihan.
+4. Efek samping obat.
+5. Kerusakan otak, seperti: encephalitis, stroke, penyakit Alzheimer
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Pada status generalis, pasien tampak lelah dan mata cekung. Bila terdapat
+gangguan organik, ditemukan kelainan pada organ.
+Pemeriksaan Penunjang
+Pemeriksaan spesifik tidak diperlukan.
+
+334
+
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis ditegakkan berdasarkan anamnesis.
+Pedoman Diagnosis
+1. Keluhan adanya kesulitan masuk tidur atau mempertahankan tidur atau kualitas
+tidur yang buruk
+2. Gangguan terjadi minimal tiga kali seminggu selama minimal satu bulan.
+3. Adanya preokupasi tidak bisa tidur dan peduli yang berlebihan terhadap
+akibatnya pada malam hari dan sepanjang siang hari.
+4. Ketidakpuasan terhadap kuantitas dan atau kualitas tidur menyebabkan
+penderitaan yang cukup berat dan mempengaruhi fungsi dalam sosial dan
+pekerjaan.
+Diagnosis Banding
+Gangguan Psikiatri, Gangguan Medikumum, Gangguan Neurologis, Gangguan
+Lingkungan, Gangguan Ritmesirkadian.
+Komplikasi
+Dapat terjadi penyalahgunaan zat.
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Pasien diberikan penjelasan tentang faktor-faktor risiko yang dimilikinya dan
+pentingnya untuk memulai pola hidup yang sehat dan mengatasi masalah yang
+menyebabkan terjadinya insomnia.
+2. Untuk obat-obatan, pasien dapat diberikan Lorazepam 0,5 – 2 mg atau
+Diazepam 2-5 mg pada malam hari. Pada orang yang berusia lanjut atau
+mengalami gangguan medik umum diberikan dosis minimal efektif.
+Konseling dan Edukasi
+Memberikan informasi kepada pasien dan keluarga agar mereka dapat memahami
+tentang insomnia dan dapa tmenghindari pemicu terjadinya insomnia.
+Kriteria Rujukan
+Apabila setelah 2 minggu pengobatan tidak menunjukkan perbaikan, atau apabila
+terjadi perburukan walaupun belum sampai 2 minggu, pasien dirujuk kefasilitas
+kesehatan sekunder yang memiliki dokter spesialis kedokteran jiwa.
+Peralatan
+Tidak ada Peralatan khusus
+Prognosis
+Prognosis pada umumnya bonam
+
+335
+
+Referensi
+1. Departemen Kesehatan RI. Pedoman Penggolongan dan Diagnosis Gangguan
+Jiwa di Indonesia III, cetakan pertama, 1993.
+2. Perhimpunan Dokter Spesialis Kedokteran Jiwa Indonesia. Pedoman Nasional
+Pelayanan Kedokteran Jiwa/Psikiatri, 2012.
+3. World Health Organization. MH gap Intervention Guide for Mental, Neurological
+and Substance Use Disorders in Non-Specialized Health Settings, 2010.
+
+4.
+
+Gangguan Campuran Anxietas dan Depresi
+
+No. ICPC-2
+No. ICD-10
+Tingkat Kemampuan
+
+: P74Anxiety Disorder (anxiety state)
+: F41.2 Mixed Anxiety and Depression Disorder
+: 3A
+
+Masalah Kesehatan
+Gangguan yang ditandai oleh adanya gejala-gejala anxietas (kecemasan) dan
+depresi bersama-sama, dan masing-masing gejala tidak menunjukkan rangkaian
+gejala yang cukup beratuntuk dapat ditegakannya suatu diagnosis tersendiri. Untuk
+gejala anxietas, beberapa gejala autonomik harus ditemukan, walaupun tidak
+terusmenerus, di samping rasa cemas atauk hawatir berlebihan.
+Hasil Anamnesis (Subjective)
+Keluhan
+Biasanya pasien datang dengan keluhan fisik seperti: nafas pendek/cepat,
+berkeringat, gelisah, gangguan tidur, mudah lelah, jantung berdebar, gangguan
+lambung, diare, atau bahkan sakit kepala yang disertai dengan rasa cemas/khawatir
+berlebihan.
+Allo dan Auto Anamnesis tambahan:
+1. Adanya gejala seperti minat dalam melakukan aktivitas/semangat yang menurun,
+merasa sedih/ murung, nafsu makan berkurang atau meningkat berlebihan, sulit
+berkonsentrasi, kepercayaan diri yang menurun, pesimistis.
+2. Keluhan biasanya sering terjadi, atau berlangsung lama, dan terdapat stresor
+kehidupan.
+3. Menyingkirkan riwayat penyakit fisik dan penggunaan zat (alkohol, tembakau,
+stimulan, dan lain-lain)
+Faktor Risiko
+1. Adanya faktorbiologis yang mempengaruhi, antara lain hiper aktivitas sistem
+noradrenergik, faktorgenetik.
+2. Ciri kepribadian tertentu yang imatur dan tidak fleksibel, seperti ciri kepribadian
+dependen, skizoid, anankastik, cemas menghindar.
+
+336
+
+3. Adanya stres kehidupan.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Respirasi meningkat, tekanan darah dapat meningkat, dan tanda lain sesuai keluhan
+fisiknya.
+Pemeriksaan penunjang
+Laboratorium dan penunjang lainnya tidak ditemukan adanya tanda yang bermakna.
+Pemeriksaan laboratorium bertujuan untuk menyingkirkan diagnosis banding sesuai
+keluhan fisiknya.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis klinisditegakkan berdasarkan anamnesis dan pemeriksaan fisik. Kriteria
+diagnosis berdasarkan ICD 10, yaitu:adanya gejala-gejala kecemasan dan depresi
+yang timbul bersama-sama, dan masing-masing gejala tidak menunjukkan rangkaian
+gejala yang cukup beratuntuk dapat ditegakkannya suatu diagnosis tersendiri.
+1. Gejala-gejala kecemasan antara lain:
+a. Kecemasan atau khawatir berlebihan, sulit berkonsentrasi
+b. Ketegangan motorik: gelisah, sakit kepala, gemetaran, tegang, tidak dapat
+santai
+c. Aktivitas autonomik berlebihan: palpitasi, berkeringat berlebihan, sesak
+nafas, mulut kering,pusing, keluhan lambung, diare.
+2. Gejala-gejala depresi antara lain: suasana perasaan sedih/murung, kehilangan
+minat/kesenangan (menurunnya semangat dalam melakukan aktivitas), mudah,
+lelah, gangguan tidur, konsentrasi menurun, gangguan pola makan, kepercayaan
+diri yang berkurang, pesimistis , rasa tidak berguna/rasa bersalah
+Diagnosis Banding
+Gangguan Cemas (Anxietas) Organik, Gangguan Mental dan Perilaku Akibat
+Penggunaan Zat, Gangguan Depresi, Gangguan Cemas Menyeluruh, Gangguan
+Panik, Gangguan Somatoform
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Non-farmakologi
+a. Konseling dan edukasi pada pasien dan keluarga
+ Karena gangguan campuran cemas depresi dapat mengganggu
+produktivitas pasien, keluarga perlu memahami bahwa hal ini bukan
+karena pasien malas atau tidak mau mengerjakan tugasnya, melainkan
+karena gejala-gejala penyakitnya itu sendiri, antara lain mudah lelah
+
+337
+
+serta hilang energi. Oleh sebab itu, keluarga perlu memberikan
+dukungan agar pasien mampu dan dapat mengatasi gejala penyakitnya.
+ Gangguan campuran anxietas dan depresi kadang-kadang memerlukan
+pengobatan yang cukup lama, diperlukan dukungan keluarga untuk
+memantau agar pasien melaksanakan pengobatan dengan benar,
+termasuk minum obat setiap hari.
+b. Intervensi Psikososial
+ Lakukan penentraman (reassurance) dalam komunikasi terapeutik,
+dorong pasien untuk mengekspresikan pikiran perasaan tentang gejala
+dan riwayat gejala.
+ Beri penjelasan adanya pengaruh antara faktor fisik dan psikologis,
+termasuk bagaimana faktor perilaku, psikologik dan emosi berpengaruh
+mengeksaserbasi gejala somatik yang mempunyai dasar fisiologik.
+ Bicarakan dan sepakati rencana pengobatandan follow-up, bagaimana
+menghadapi gejala, dan dorong untuk kembali keaktivitas normal.
+ Ajarkan teknik relaksasi (teknik nafas dalam)
+ Anjurkan untuk berolah raga teratur atau melakukan aktivitas yang
+disenangi serta menerapkan perilaku hidup sehat.
+ Ajarkan untuk selalu berpikir positif dan manajemen stres dengan baik.
+2. Farmakologi:
+a. Untuk gejala kecemasan maupun depresinya, diberikan antidepresan dosis
+rendah, dapat dinaikkan apabila tidak ada perubahan yang signifikan setelah
+2-3
+minggu:
+fluoksetin
+1x10-20
+mg/hari
+atau
+sertralin 1x25-50 mg/hariatauamitriptilin 1x12,5-50 mg/hariatau imipramin12x10-25 mg/hari. Catatan: amitriptilin dan imipramin tidak boleh diberikan
+pada pasien dengan penyakit jantung, dan pemberian berhati-hati untuk
+pasien lansia karena efek hipotensi ortostastik (dimulai dengan dosis minimal
+efektif).
+b. Pada pasien dengan gejala kecemasan yang lebih dominan dan atau
+dengan gejala insomnia dapat diberikan kombinasi fluoksetin atau sertralin
+dengan antianxietas benzodiazepin. Obat-obatan antianxietas jenis
+benzodiazepin yaitu: diazepam 1x2-5 mg atau lorazepam 1-2x0,5-1
+mgatauklobazam 2x5-10 mgataualprazolam 2x 0,25-0,5mg. Setelah kira-kira
+2-4 minggu benzodiazepin ditappering-off perlahan, sementara antidepresan
+diteruskan hingga 4-6 bulan sebelum ditappering-off. Hati-hati potensi
+penyalah gunaan pada alprazolam karenawaktu paruh yang pendek.
+Kriteria Rujukan
+Pasien dapat dirujuk setelah didiagnosis mengalami gangguan ini, terutama apabila
+gejala progresif dan makin bertambah berat yang menunjukkan gejala depresi
+seperti pasien menolak makan, tidak mau merawat diri, ada ide/tindakan bunuh diri;
+atau jika tidak ada perbaikan yang signifikan dalam 2-3 bulan terapi.
+
+338
+
+Peralatan
+Tidak ada peralatan khusus.
+Prognosis
+Pada umumnya prognosis gangguan ini adalah bonam.
+Referensi
+th
+
+1. Kaplan and Sadock, Synopsis of psychiatry, 7 edition, William and Wilkins.
+2. Departemen Kesehatan RI.Pedoman penggolongan dan diagnosis Gangguan
+jiwa di Indonesia III, cetakan pertama, 1993.
+3. World Health Organization. Diagnostic and management guidelines for mental
+disorders in primary care: ICD-10 chapter V, primary care version. Seattle:
+Hogrefe & Huber Publishers. (World Health Organization, t.thn.)
+4. Perhimpunan Dokter Spesialis Kedokteran Jiwa Indonesia. Pedoman Nasional
+Pelayanan Kedokteran Jiwa/ Psikiatri, 2012
+
+5.
+
+Gangguan Psikotik
+
+No. ICPC-2
+No. ICD-10 PC
+Tingkat Kemampuan
+
+: P98Psychosis NOS/other
+: F20 Chronic Psychotic Disorder
+: 3A
+
+Masalah Kesehatan
+Gangguan yang ditandai dengan ketidakmampuan atau hendaya berat dalam menilai
+realita, berupa sindroma (kumpulan gejala), antara lain dimanifestasikan dengan
+adanya halusinasi dan waham.
+Hasil Anamnesis (Subjective)
+Keluhan
+Pasien mungkin datang dengan keluhan:
+1. Sulit berpikir/sulit berkonsentrasi
+2. Tidak dapat tidur, tidak mau makan
+3. Perasaan gelisah, tidak dapat tenang, ketakutan
+4. Bicara kacau yang tidak dapat dimengerti
+5. Mendengar suara orang yang tidak dapat didengar oleh orang lain
+6. Adanya pikiran aneh yang tidak sesuai realita
+7. Marah tanpa sebab yang jelas, kecurigaan yang berat, perilaku kacau, perilaku
+kekerasan
+8. Menarik diri dari lingkungannya dan tidak merawat diri dengan baik
+
+339
+
+Alo dan Auto Anamnesis tambahan:
+Singkirkan adanya kemungkinan penyakit fisik (seperti demam tinggi, kejang, trauma
+kepala) dan penggunaan zat psikoaktif sebagai penyebab timbulnya keluhan.
+Faktor Risiko
+1. Adanya faktor biologis yang mempengaruhi, antara lain hiperaktivitas sistem
+dopaminergik dan faktor genetik.
+2. Ciri kepribadian tertentu yang imatur, seperti ciri kepribadian skizoid, paranoid,
+dependen.
+3. Adanya stresor kehidupan.
+Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Pemeriksaan Fisik
+Pemeriksaan fisik diperlukan untuk menyingkirkan penyebab organik dari psikotiknya
+(gangguan mental organik). Selain itu pasien dengan gangguan psikotik juga sering
+terdapat gangguan fisik yang menyertai karena perawatan diri yang kurang.
+Pemeriksaan Penunjang
+1. Dilakukan jika dicurigai adanya penyakit fisik yang menyertai untuk
+menyingkirkan diagnosis banding gangguan mental organik.
+2. Apabila ada kesulitan dalam merujuk ke fasilitas pelayanan kesehatan tingkat
+lanjut maka pada faskes primer yang mampu perlu dilakukan pemeriksaan
+penunjang yang sesuai seperti: darah perifer lengkap, elektrolit, gula darah,
+fungsi hati, fungsi ginjal, serta radiologi dan EKG.
+Penegakan Diagnostik (Assessment)
+Diagnosis Klinis
+Diagnosis klinis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik. Kriteria
+diagnosis berdasarkan ICD 10-PC, yaitu:
+1. Halusinasi (terutama
+halusinasi dengar); merupakan gangguan persepsi
+(persepsi palsu), tanpa adanya stimulus sensori eksternal. Halusinasi dapat
+terjadi pada setiap panca indra, yaitu halusinasi dengar, lihat, cium, raba, dan
+rasa.
+2. Waham (delusi);merupakan gangguan pikiran, yaitu keyakinan yang salah, tidak
+sesuai dengan realita dan logika, namun tetap dipertahankan dan tidak dapat
+dikoreksi dengan cara apapun serta tidak sesuai dengan budaya setempat.
+Contoh: waham kejar, waham kebesaran, waham kendali, waham pengaruh.
+3. Perilaku kacau atau aneh
+4. Gangguan proses pikir (terlihat dari pembicaraan yang kacau dan tidak
+dimengerti)
+5. Agitatif
+6. Isolasi sosial (social withdrawal)
+
+340
+
+7. Perawatan diri yang buruk
+Diagnosis Banding
+1. Gangguan Mental Organik (Delirium, Dementia, Psikosis Epileptik)
+2. Gangguan Mental dan Perilaku akibat Penggunaan Zat (Napza)
+3. Gangguan Afektif Bipolar/ Gangguan Manik
+4. Gangguan Depresi (dengan gejala psikotik)
+Penatalaksanaan Komprehensif (Plan)
+Penatalaksanaan
+1. Intervensi Psikososial
+a. Informasi penting bagi pasien dan keluarga
+ Agitasi dan perilaku aneh merupakan gejala gangguan mental, yang juga
+termasuk penyakit medis.
+ Episode akut sering mempunyai prognosis yang baik, tetapi perjalanan
+penyakit jangka panjang sulit diprediksi. Pengobatan perlu dilanjutkan
+meskipun setelah gejala mereda.
+ Gejala-gejala dapat hilang timbul. Diperlukan antisipasi dalam
+menghadapi kekambuhan. Obat merupakan komponen utama dalam
+pengobatan. Minum obat secara teratur akan mengurangi gejala-gejala
+dan mencegah kekambuhan.
+ Dukungan keluarga penting untuk ketaatberobatan (compliance) dan
+rehabilitasi.
+ Organisasi masyarakat dapat menyediakan dukungan yang berharga
+untuk pasien dan keluarga.
+b. Konseling pasien dan keluarga
+ Bicarakan rencana pengobatan dengan anggota keluarga dan minta
+dukungan mereka. Terangkan bahwa minum obat secara teratur dapat
+mencegah kekambuhan. Informasikan bahwa obat tidak dapat dikurangi
+atau dihentikan tiba-tiba tanpa persetujuan dokter. Informasikan juga
+tentang
+efek
+samping
+yang
+mungkin
+timbul
+dan
+cara
+penanggulangannya.
+ Dorong pasien untuk melakukan fungsinya dengan seoptimal mungkin
+di pekerjaan dan aktivitas harian lain.
+ Dorong pasien untuk menghargai norma dan harapan masyarakat
+(berpakaian, berpenampilan dan berperilaku pantas).
+ Menjaga keselamatan pasien dan orang yg merawatnya pd fase akut:
+- Keluarga atau teman harus menjaga pasien.
+- Pastikan kebutuhan dasar terpenuhi (misalnya makan dan minum).
+- Jangan sampai mencederai pasien.
+ Meminimalisasi stres dan stimulasi:
+
+341
+
+
+
+- Jangan mendebat pikiran psikotik (anda boleh tidak setuju dengan
+keyakinan pasien, tetapi jangan mencoba untuk membantah bahwa
+pikiran itu salah). Sedapat mungkin hindari konfrontasi dan kritik.
+- Selama masa gejala-gejala menjadi lebih berat, istirahat dan
+menghindari stres dapat bermanfaat.
+Agitasi yang berbahaya untuk pasien, keluarga dan masyarakat
+memerlukan rawat inap atau pengamatan ketat di tempat yang aman.
+
+2. Farmakologi
+a. Berikan obat antipsikotik: Haloperidol 2-3 x 2-5 mg/hari atau Risperidon 2x 13 mg/hari atau Klorpromazin 2-3 x 100-200 mg/hari. Untuk haloperidol dan
+risperidon dapat digabungkan dengan benzodiazepin (contoh: diazepam 2-3
+x 5 mg, lorazepam 1-3 x 1-2 mg) untuk mengurangi agitasi dan memberikan
+efek sedasi. Benzodiazepin dapat ditappering-off setelah 2-4 minggu.
+Catatan: klorpromazin memiliki efek samping hipotensi ortostatik.
+b. Intervensi sementara untuk gaduh gelisah dapat diberikan injeksi intra
+muskular haloperidol kerja cepat (short acting) 5 mg, dapat diulangi dalam 30
+menit - 1 jam jika belum ada perubahan yang signifikan, dosis maksimal 30
+mg/hari. Atau dapat juga dapat diberikan injeksi intra muskular klorpromazin
+2-3 x 50 mg. Untuk pemberian haloperidol dapat diberikan tambahan injeksi
+intra muskular diazepam untuk mengurangi dosis ntipsikotiknya dan
+menambah efektivitas terapi. Setelah stabil segera rujuk ke RS/RSJ.
+c. Untuk pasien psikotik kronis yang tidak taat berobat, dapat dipertimbangkan
+untuk pemberian injeksi depo (jangka panjang) antipsikotik seperti
+haloperidol decanoas 50 mg atau fluphenazine decanoas 25 mg. Berikan
+injeksi I.M ½ ampul terlebih dulu untuk 2 minggu, selanjutnya injeksi 1 ampul
+untuk 1 bulan. Obat oral jangan diberhentikan dahulu selama 1-2 bulan,
+sambil dimonitor efek samping, lalu obat oral turunkan perlahan.
+d. Jika timbul efek samping ekstrapiramidal seperti tremor, kekakuan, akinesia,
+dapat diberikan triheksifenidil 2-4 x 2 mg; jika timbul distonia akut berikan
+injeksi diazepam atau difenhidramin, jika timbul akatisia (gelisah, mondar
+mandir tidak bisa berhenti bukan akibat gejala) turunkan dosis antipsikotik
+dan berikan beta-blocker, propranolol 2-3 x 10-20 mg.
+3. Kunjungan Rumah (home visit)
+Kunjungan rumah dilakukan sesuai indikasi untuk:
+a. Memastikan kepatuhan dan kesinambungan pengobatan
+b. Melakukan asuhan keperawatan
+c. Melakukan pelatihan bagi pelaku rawat
+Kriteria Rujukan
+1. Pada kasus baru dapat dirujuk untuk konfirmasi diagnostik ke fasyankes
+sekunder yang memiliki pelayanan kesehatan jiwa setelah dilakukan
+penatalaksanaan awal.
+
+342
+
+2. Kondisi gaduh gelisah yang membutuhkan perawatan inap karena berpotensi
+membahayakan diri atau orang lain segera dirujuk setelah penatalaksanaan
+awal.
+Peralatan
+1. Alat restraint (fiksasi)
+2. Alat transportasi untuk merujuk (bila tersedia).
+Prognosis
+Untuk ad Vitam adalah bonam, ad fungsionam adalah dubia, dan ad sanationam
+adalah dubia.
+Referensi
+th
+1. Kaplan and Sadock.Synopsis of psychiatry. 7 Ed. William and Wilkins.
+2. Departemen Kesehatan RI.Pedoman penggolongan dan diagnosis gangguan
+jiwa di Indonesia III.Ed 1. 1993.
+3. World Health Organization. Diagnostic and management guidelines for mental
+disorders in primary care: ICD-10 chapter V, primary care version. Seattle:
+Hogrefe & Huber Publishers.
+4. Perhimpunan Dokter Spesialis Kedokteran Jiwa Indonesia. Pedoman Nasional
+Pelayanan Kedokteran Jiwa/Psikiatri. 2012.
+
+343
+
+J. Respirasi
