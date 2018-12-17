@@ -1,7 +1,4 @@
-
 ---
-author: <++>
-title: <++>
 output:
   html_document:
     toc: true
@@ -16,542 +13,253 @@ output:
     highlight: tango
   slidy_presentation:
     highlight: tango
-bibliography: ref.bib
 csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
-<++>
-10. Lepra
-No. ICPC-2
-No. ICD-10
-Tingkat Kemampuan
+No. ICPC-2	: A78 *Infectious disease other/NOS*  
+No. ICD-10	: A30 *Leprosy [Hansen disease]*  
+**Kompetensi	: 4A**
 
-: A78 Infectious disease other/NOS
-: A30 Leprosy [Hansen disease]
-: 4A
+## Masalah Kesehatan
 
-Masalah Kesehatan
-Lepra adalah penyakit menular, menahun dan disebabkan oleh Mycobacterium
-leprae yang bersifat intraselular obligat. Penularan kemungkinan terjadi melalui
+Lepra adalah penyakit menular, menahun dan disebabkan oleh Mycobacterium leprae
+yang bersifat intraselular obligat. Penularan kemungkinan terjadi melalui
 saluran pernapasan atas dan kontak kulit pasien lebih dari 1 bulan terus
 menerus. Masa inkubasi rata-rata 2,5 tahun, namun dapat juga bertahuntahun.
 
-43
+## *Subjective*
 
-Hasil Anamnesis (Subjective)
-Keluhan
-Bercak kulit berwarna merah atau putih berbentuk plakat, terutama di wajah
-dan telinga. Bercak kurang/mati rasa, tidak gatal. Lepuh pada kulit tidak
-dirasakan nyeri. Kelainan kulit tidak sembuh dengan pengobatan rutin,
-terutama bila terdapat keterlibatan saraf tepi.
-Faktor Risiko
+### Keluhan
+
+Bercak kulit berwarna merah atau putih berbentuk plakat, terutama di wajah dan
+telinga. Bercak kurang/mati rasa, tidak gatal. Lepuh pada kulit tidak dirasakan
+nyeri. Kelainan kulit tidak sembuh dengan pengobatan rutin, terutama bila
+terdapat keterlibatan saraf tepi.
+
+### Faktor risiko
+
 1. Sosial ekonomi rendah
-2. Kontak lama dengan pasien, seperti anggota keluarga yang didiagnosis
-dengan lepra
+2. Kontak lama dengan pasien, seperti anggota keluarga yang didiagnosis dengan
+   lepra
 3. Imunokompromais
 4. Tinggal di daerah endemik lepra
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
-Pemeriksaan Fisik
-Tanda Patognomonis
-1. Tanda-tanda pada kulit
-Perhatikan setiap bercak, bintil (nodul), bercak berbentuk plakat dengan
-kulit mengkilat atau kering bersisik. Kulit tidak berkeringat dan berambut.
-Terdapat baal pada lesi kulit, hilang sensasi nyeri dan suhu, vitiligo. Pada
-kulit dapat pula ditemukan nodul.
-2. Tanda-tanda pada saraf
-Penebalan nervus perifer, nyeri tekan dan atau spontan pada saraf,
-kesemutan, tertusuk-tusuk dan nyeri pada anggota gerak, kelemahan
-anggota gerak dan atau wajah, adanya deformitas, ulkus yang sulit
-sembuh.
-Kerusakan saraf tepi biasanya terjadi pada saraf yang ditunjukkan pada
-gambar 1.4.
-3. Ekstremitas dapat terjadi mutilasi
-Untuk kelainan yang ditemukan pada pemeriksaan fisik, simbol-simbol
-pada gambar 1.5 digunakan dalam penulisan di rekam medik.
-Pemeriksaan Penunjang
+
+## *Objective*
+
+### Pemeriksaan fisik
+
+#### Tanda patognomonis
+
+**1. Tanda-tanda pada kulit**  
+   Perhatikan setiap bercak, bintil (nodul), bercak berbentuk plakat dengan kulit
+   mengkilat atau kering bersisik. Kulit tidak berkeringat dan berambut. Terdapat
+   baal pada lesi kulit, hilang sensasi nyeri dan suhu, vitiligo. Pada kulit dapat
+   pula ditemukan nodul.
+**2. Tanda-tanda pada saraf**  
+   Penebalan nervus perifer, nyeri tekan dan atau spontan pada saraf,
+   kesemutan, tertusuk-tusuk dan nyeri pada anggota gerak, kelemahan
+   anggota gerak dan atau wajah, adanya deformitas, ulkus yang sulit
+   sembuh. Kerusakan saraf tepi biasanya terjadi pada saraf yang ditunjukkan
+   pada gambar 1.4.
+
+![Gambar 11.1 Saraf tepi yang perlu diperiksa pada lepra/kusta](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/01_11_o_lepra01.png?raw=true)
+
+**3. Ekstremitas**  
+   Untuk kelainan yang ditemukan pada pemeriksaan fisik, simbol-simbol
+   pada gambar 1.5 digunakan dalam penulisan di rekam medik.
+
+![Gambar 11.2 Penulisan kelainan pemeriksaan fisik pada rekam medik](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/01_11_o_lepra02.png?raw=true)
+
+### Pemeriksaan penunjang
+
 Pemeriksaan mikroskopis kuman BTA pada sediaan kerokan jaringan kulit.
 
-Gambar 1.4 Saraf tepi yang perlu diperiksa pada lepra/kusta
+## *Assessment*
 
-44
+### Diagnosis klinis
 
-Gambar 1.5 Penulisan kelainan pemeriksaan fisik pada rekam medik
-Penegakan Diagnosis (Assessment)
-Diagnosis Klinis
-Diagnosis ditegakkan apabila terdapat satu dari tanda-tanda utama atau
-kardinal (cardinal signs), yaitu:
+Diagnosis ditegakkan apabila terdapat satu dari tanda-tanda utama atau kardinal
+(cardinal signs), yaitu:
+
 1. Kelainan (lesi) kulit yang mati rasa
 2. Penebalan saraf tepi yang disertai gangguan fungsi saraf
-3. Adanya basil tahan asam (BTA) dalam kerokan jaringan kulit (slit skin
-smear)
+3. Adanya basil tahan asam (BTA) dalam kerokan jaringan kulit (slit skin smear)
+
 Sebagian besar pasien lepra didiagnosis berdasarkan pemeriksaan klinis.
 Klasifikasi Lepra terdiri dari 2 tipe, yaitu Pausibasilar (PB) dan Multibasilar
 (MB)
-Tabel 1.6 Tanda utama lepra tipe PB dan MB
-Tanda Utama
 
-PB
+| Tanda Utama                       | PB     | MB     |
+|-----------------------------------|--------|--------|
+| Bercak kusta                      | 1-5    | >5     |
+| Penebalan dan gangguan saraf tepi | 1      | >2     |
+| Kerokan kulit                     | BTA(-) | BTA(+) |
 
-MB
+**Table 11.1 Tanda utama lepra tibe PB dan MB**
 
-Bercak Kusta
+| Bercak         | PB                              | MB                                                   |
+|----------------|---------------------------------|------------------------------------------------------|
+| **Distribusi** | Unilateral/ bilateral asimetris | Bilateral simetris                                   |
+| **Permukaan**  | Kering, kasar                   | Halus, mengkilap                                     |
+| **Batas**      | Tegas                           | Kurang tegas                                         |
+| **Mati rasa**  | Jelas                           | Kurang jelas                                         |
+| **Deformitas   | Cepat                           | Tahap lanjut                                         |
+| **Ciri khas**  | -                               | Mandarosis, hidung pelana, wajah singa, genikomastia |
 
-Jumlah 1-5
+**Tabel 11.2 Tanda lain klasifikasi lepra**
 
-Jumlah >5
+![Gambar 11.3 : Alur diagnosis dan klasifikasi kusta](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/01_11_p_lepra01.png?raw=true)
 
-Penebalan saraf tepi disertai
-gangguan fungsi (mati rasa
-dan/ atau kelemahan otot, di
-daerah yang dipersarafi
-saraf yang bersangkutan)
+### Diagnosis banding
 
-Hanya 1 saraf
+### Bercak eritema
 
-Lebih dari 1 saraf
-
-Kerokan jaringan kulit
-
-BTA negatif
-
-BTA positif
-
-45
-
-Tabel 1.7 Tanda lain klasifikasi lepra
-PB
-
-MB
-
-Distribusi
-
-Unilateral atau bilateral
-asimetris
-
-Bilateral simetris
-
-Permukaan bercak
-
-Kering, kasar
-
-Halus, mengkilap
-
-Batas bercak
-
-Tegas
-
-Kurang tegas
-
-Mati rasa pada bercak
-
-Jelas
-
-Biasanya kurang jelas
-
-Deformitas
-
-Proses terjadi lebih cepat
-
-Terjadi pada tahap lanjut
-
-Ciri-ciri khas
-
--
-
-Mandarosis, hidung pelana,
-wajah singa (facies leonina),
-ginekomastia pada pria
-
-Tanda utama
-
-Ada
-
-Ragu
-
-Tidak ada
-
-Kusta
-
-Tersangka
-
-Bukan Kusta
-
- Jumlah bercak
- Penebalan saraf &
-gangguan fungsi
- BTA
-
-BTA
-
-Atau
-
-Observasi
-3 – 6 bulan
-
-Tanda
-utama
-Bercak 1 – 5
-Saraf 1
-BTA (-)
-
-Bercak >
-5
-Saraf > 1
-BTA (+)
-
-Ada
-
-Tidak
-ada
-
-Ragu
-
-MB
-
-PB
-
-Gambar 1.6 : Alur diagnosis dan klasifikasi kusta
-Diagnosis Banding
-Bercak eritema
 1. Psoriasis
-
-46
-
-Rujuk
-
 2. Tinea circinata
 3. Dermatitis seboroik
-Bercak putih
+
+### Bercak putih
+
 1. Vitiligo
 2. Pitiriasis versikolor
 3. Pitiriasis alba
-Nodul
+
+### Nodul
+
 1. Neurofibromatosis
 2. Sarkoma Kaposi
 3. Veruka vulgaris
-Komplikasi
+
+## Komplikasi
+
 1. Arthritis.
 2. Sepsis.
 3. Amiloid sekunder.
 4. Reaksi kusta adalah interupsi dengan episode akut pada perjalanan yang
-sangat kronis. Reaksi ini merupakan reaksi hipersensitivitas seluler (tipe
-1/reversal) atau hipersentitivitas humoral (tipe 2/eritema nodosum
-leprosum/ENL).
-Tabel 1.8 Faktor pencetus reaksi tipe 1 dan tipe 2
-Reaksi Tipe 1
+   sangat kronis. Reaksi ini merupakan reaksi hipersensitivitas seluler (tipe
+   1/reversal) atau hipersentitivitas humoral (tipe 2/eritema nodosum
+   leprosum/ENL).
 
-Reaksi Tipe 2
-Obat MDT, kecuali Lampren
+![Tabel 11.3 Faktor pencetus reaksi tipe 1 dan tipe 2](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/01_11_o_lepra03.png?raw=true)
 
-Pasien dengan bercak multipel dan
-diseminata, mengenai area tubuh
-yang luas serta keterlibatan saraf
-multiple
-Bercak luas pada wajah dan lesi
-dekat mata, berisiko terjadinya
-lagoftalmos karena reaksi
-Saat
-puerpurium
-(karena
-peningkatan CMI). Paling tinggi 6
-bulan pertama setelah melahirkan/
-masa menyusui
+![Tabel 11.4 Perbedaan reaksi tipe 1 dan 2 kusta](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/01_11_o_lepra04.png?raw=true)
 
-BI >4+
+## *Plan*
 
-Kehamilan awal (karena stress
-mental), trisemester ke-3, dan
-puerpurium (karena stress fisik),
-setiap masa kehamilan (karena
-infeksi penyerta
+### Penatalaksanaan
 
-Infeksi penyerta: Hepatitis B dan C
-
-Infeksi penyerta: streptokokus,
-virus, cacing, filarial, malaria
-
-Neuritis atau riwayat nyeri saraf
-
-Stres fisik dan mental
-Lain-lain seperti trauma, operasi,
-imunisasi protektif, tes Mantoux positif
-kuat, minum kalium hidroksida
-
-47
-
-Tabel 1. 9 Perbedaan reaksi tipe 1 dan 2 kusta
-No
-1.
-
-Gejala Tanda
-
-Reaksi tipe 1
-
-Reaksi tipe 2
-
-Tipe kusta
-
-Dapat terjadi pada
-kusta tipe PB maupun
-MB
-Biasanya segera
-setelah pengobatan
-
-Hanya pada kusta tipe MB
-
-Umumnya baik,
-demam ringan (subfebris) atau tanpa
-demam
-Bercak kulit lama
-menjadi lebih
-meradang (merah),
-bengkak, berkilat,
-hangat. Kadangkadang hanya pada
-sebagian lesi. Dapat
-timbul bercak baru
-Sering terjadi,
-umumnya berupa
-nyeri saraf dan atau
-gangguan fungsi
-saraf. Silent neuritis
-(+)
-(+)
-
-Ringan sampai berat disertai
-kelemahan umum dan
-demam tinggi
-
-Anastesi kornea dan
-lagoftalmos karena
-keterlibatan N. V dan
-N. VII
-Hampir tidak ada
-
-Iritis, iridosiklitis, galucoma,
-katarak, dll
-
-2.
-
-Waktu timbulnya
-
-3.
-
-Keadaan umum
-
-4.
-
-Peradangan di
-kulit
-
-5.
-
-Saraf
-
-6.
-
-Udem pada
-ekstrimitas
-Peradangan
-pada mata
-
-7.
-
-8.
-
-Peradangan
-pada organ lain
-
-Biasanya setelah mendapat
-pengobatan yang lama,
-umumnya lebih dari 6 bulan
-
-Timbul nodus kemerahan,
-lunak dan nyeri tekan.
-Biasanya pada lengan dan
-tungkai. Nodus dapat pecah.
-
-Dapat terjadi
-
-(-)
-
-Terjadi pada testis, sendi,
-ginjal, kelenjar getah bening,
-dll
-
-Penatalaksanaan Komprehensif (Plan)
-Penatalaksanaan
-1. Pasien diberikan informasi mengenai kondisi pasien saat ini, serta
-mengenai pengobatan dan pentingnya kepatuhan untuk eliminasi penyakit.
+1. Pasien diberikan informasi mengenai kondisi pasien saat ini, serta mengenai
+   pengobatan dan pentingnya kepatuhan untuk eliminasi penyakit.
 2. Kebersihan diri dan pola makan yang baik perlu dilakukan.
-
-48
-
 3. Pasien dimotivasi untuk memulai terapi hingga selesai terapi dilaksanakan.
 4. Terapi menggunakan Multi Drug Therapy (MDT) pada:
-a. Pasien yang baru didiagnosis kusta dan belum pernah mendapat
-MDT.
-b. Pasien ulangan, yaitu pasien yang mengalami hal-hal di bawah ini:
- Relaps
- Masuk kembali setelah default (dapat PB maupun MB)
- Pindahan (pindah masuk)
- Ganti klasifikasi/tipe
+   * Pasien yang baru didiagnosis kusta dan belum pernah mendapat MDT.
+   * Pasien ulangan, yaitu pasien yang mengalami hal-hal di bawah ini:
+     * Relaps
+     * Masuk kembali setelah default (dapat PB maupun MB)
+     * Pindahan (pindah masuk)
+     * Ganti klasifikasi/tipe
 5. Terapi pada pasien PB:
-a. Pengobatan bulanan: hari pertama setiap bulannya (obat diminum di
-depan petugas) terdiri dari: 2 kapsul Rifampisin @ 300mg (600mg)
-dan 1 tablet Dapson/DDS 100 mg.
-b. Pengobatan harian: hari ke 2-28 setiap bulannya: 1 tablet Dapson/
-DDS 100 mg. 1 blister obat untuk 1 bulan.
-c. Pasien minum obat selama 6-9 bulan (± 6 blister).
-d. Pada anak 10-15 tahun, dosis Rifampisin 450 mg, dan DDS 50 mg.
+   * Pengobatan bulanan: hari pertama setiap bulannya (obat diminum di depan
+     petugas) terdiri dari: 2 kapsul Rifampisin @ 300mg (600mg) dan 1 tablet
+     Dapson/DDS 100 mg.
+   * Pengobatan harian: hari ke 2-28 setiap bulannya: 1 tablet Dapson/ DDS 100
+     mg. 1 blister obat untuk 1 bulan.
+   * Pasien minum obat selama 6-9 bulan (± 6 blister).
+   * Pada anak 10-15 tahun, dosis Rifampisin 450 mg, dan DDS 50 mg.
 6. Terapi pada Pasien MB:
-a. Pengobatan bulanan: hari pertama setiap bulannya (obat diminum di
-depan petugas) terdiri dari: 2 kapsul Rifampisin @ 300mg (600mg), 3
-tablet Lampren (klofazimin) @ 100mg (300mg) dan 1 tablet
-dapson/DDS 100 mg.
-b. Pengobatan harian: hari ke 2-28 setiap bulannya: 1 tablet lampren 50
-mg dan 1 tablet dapson/DDS 100 mg. 1 blister obat untuk 1 bulan.
-c. Pasien minum obat selama 12-18 bulan (± 12 blister).
-d. Pada anak 10-15 tahun, dosis Rifampisin 450 mg, Lampren 150 mg
-dan DDS 50 mg untuk dosis bulanannya, sedangkan dosis harian
-untuk Lampren 50 mg diselang 1 hari.
+   * Pengobatan bulanan: hari pertama setiap bulannya (obat diminum di depan
+     petugas) terdiri dari: 2 kapsul Rifampisin @ 300mg (600mg), 3 tablet
+     Lampren (klofazimin) @ 100mg (300mg) dan 1 tablet dapson/DDS 100 mg.
+   * Pengobatan harian: hari ke 2-28 setiap bulannya: 1 tablet lampren 50 mg
+     dan 1 tablet dapson/DDS 100 mg. 1 blister obat untuk 1 bulan.
+   * Pasien minum obat selama 12-18 bulan (± 12 blister).
+   * Pada anak 10-15 tahun, dosis Rifampisin 450 mg, Lampren 150 mg dan DDS 50
+     mg untuk dosis bulanannya, sedangkan dosis harian untuk Lampren 50 mg
+     diselang 1 hari.
 7. Dosis MDT pada anak <10 tahun dapat disesuaikan dengan berat badan:
-a. Rifampisin: 10-15 mg/kgBB
-b. Dapson: 1-2 mg/kgBB
-c. Lampren: 1 mg/kgBB
-8. Obat penunjang (vitamin/roboransia) dapat diberikan vitamin B1, B6, dan
-B12.
-9. Tablet MDT dapat diberikan pada pasien hamil dan menyusui. Bila pasien
-juga mengalami tuberkulosis, terapi rifampisin disesuaikan dengan
-tuberkulosis.
-10. Untuk pasien yang alergi dapson, dapat diganti dengan lampren, untuk
-MB dengan alergi, terapinya hanya 2 macam obat (dikurangi DDS).
+   * Rifampisin: 10-15 mg/kgBB
+   * Dapson: 1-2 mg/kgBB
+   * Lampren: 1 mg/kgBB
+8. Obat penunjang (vitamin/roboransia) dapat diberikan vitamin B1, B6, dan B12.
+9. Tablet MDT dapat diberikan pada pasien hamil dan menyusui. Bila pasien juga
+   mengalami tuberkulosis, terapi rifampisin disesuaikan dengan tuberkulosis.
+10. Untuk pasien yang alergi dapson, dapat diganti dengan lampren, untuk MB
+   dengan alergi, terapinya hanya 2 macam obat (dikurangi DDS).
 
-49
+![Tabel 11.5 Efek samping obat dan penanganannya](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/01_11_o_lepra05.png?raw=true)
 
-Tabel 1.10 Efek samping obat dan penanganannya
-Masalah
+Terapi untuk reaksi kusta ringan, dilakukan dengan pemberian prednison dengan
+cara pemberian:
 
-Nama Obat
-
-Penanganan
-
-Air seni berwarna
-
-Rifampisin
-
-Perubahan warna kulit
-menjadi coklat
-Masalah gastrointestinal
-
-Clofazimin
-
-Reassurance
-(Menenangkan penderita
-dengan penjelasan yang
-benar) Konseling
-Konseling
-
-Anemia
-
-Dapson
-
-Ringan
-
-Serius
-Ruam kulit yang gatal
-Alergi urtikaria
-Ikterus (kuning)
-Syok, purpura, gagal
-ginjal
-
-Semua obat (3 obat
-dalam MDT)
-
-Dapson
-Dapson atau
-Rifampisin
-Rifampisin
-Rifampisin
-
-Obat diminum
-bersamaan dengan
-makanan (atau setelah
-makan)
-Berikan tablet Fe dan
-Asam folat
-Hentikan Dapson, Rujuk
-Hentikan keduanya,
-Rujuk
-Hentikan Rifampisin,
-Rujuk
-Hentikan Rifampisin,
-Rujuk
-
-Terapi untuk reaksi kusta ringan, dilakukan dengan pemberian prednison
-dengan cara pemberian:
 1. 2 Minggu pertama 40 mg/hari (1x8 tab) pagi hari sesudah makan
 2. 2 Minggu kedua 30 mg/hari (1x6 tab) pagi hari sesudah makan
 3. 2 Minggu ketiga 20 mg/hari (1x4 tab) pagi hari sesudah makan
 4. 2 Minggu keempat 15 mg/hari (1x3 tab) pagi hari sesudah makan
 5. 2 Minggu kelima 10 mg/hari (1x2 tab) pagi hari sesudah makan
 6. 2 Minggu keenam 5 mg/hari (1x1 tab) pagi hari sesudah makan
-7. Bila terdapat ketergantungan terhadap Prednison, dapat diberikan
-Lampren lepas
-Konseling dan Edukasi
+7. Bila terdapat ketergantungan terhadap Prednison, dapat diberikan Lampren
+   lepas
+
+### Konseling dan edukasi
+
 1. Individu dan keluarga diberikan penjelasan tentang lepra, terutama cara
-penularan dan pengobatannya.
-2. Dari keluarga diminta untuk membantu memonitor pengobatan pasien
-sehingga dapat tuntas sesuai waktu pengobatan.
+   penularan dan pengobatannya.
+2. Dari keluarga diminta untuk membantu memonitor pengobatan pasien sehingga
+   dapat tuntas sesuai waktu pengobatan.
 3. Apabila terdapat tanda dan gejala serupa pada anggota keluarga lainnya,
-perlu dibawa dan diperiksakan ke pelayanan kesehatan.
+   perlu dibawa dan diperiksakan ke pelayanan kesehatan.
 
-50
+### Rencana tindak lanjut:
 
-Rencana tindak lanjut:
 1. Setiap petugas harus memonitor tanggal pengambilan obat.
 2. Bila terlambat, paling lama dalam 1 bulan harus dilakukan pelacakan.
-3. Release From Treatment (RFT) dapat dinyatakan setelah dosis dipenuhi
-tanpa diperlukan pemeriksaan laboratorium.
-4. Pasien yang sudah RFT namun memiliki faktor risiko: cacat tingkat 1 atau
-2, pernah mengalami reaksi, BTA pada awal pengobatan >3 (ada nodul
-atau infiltrat), maka perlu dilakukan pengamatan semiaktif.
-5. Pasien PB yang telah mendapat pengobatan 6 dosis (blister) dalam waktu
-6-9 bulan dinyatakan RFT, tanpa harus pemeriksaan laboratorium.
-6. Pasien MB yang telah mendapat pengobatan MDT 12 dosis (blister) dalam
-waktu 12-18 bulan dinyatakan RFT, tanpa harus pemeriksaan
-laboratorium.
-7. Default
-Jika pasien PB tidak mengambil/minum obatnya lebih dari 3 bulan dan
-pasien MB lebih dari 6 bulan secara kumulatif (tidak mungkin baginya
-untuk menyelesaikan pengobatan sesuai waktu yang ditetapkan), maka
-yang bersangkutan dinyatakan default. Pasien defaulter tidak diobati
-kembali bila tidak terdapat tanda-tanda klinis aktif. Namun jika memiliki
-tanda-tanda klinis aktif (eritema dari lesi lama di kulit/ ada lesi baru/ ada
-pembesaran saraf yang baru).
-Bila setelah terapi kembali pada defaulter ternyata berhenti setelah lebih
-dari 3 bulan, maka dinyatakan default kedua. Bila default lebih dari 2 kali,
-perlu dilakukan tindakan dan penanganan khusus.
-Kriteria Rujukan
+3. Release From Treatment (RFT) dapat dinyatakan setelah dosis dipenuhi tanpa
+   diperlukan pemeriksaan laboratorium.
+4. Pasien yang sudah RFT namun memiliki faktor risiko: cacat tingkat 1 atau 2,
+   pernah mengalami reaksi, BTA pada awal pengobatan >3 (ada nodul atau
+   infiltrat), maka perlu dilakukan pengamatan semiaktif.
+5. Pasien PB yang telah mendapat pengobatan 6 dosis (blister) dalam waktu 6-9
+   bulan dinyatakan RFT, tanpa harus pemeriksaan laboratorium.
+6. Pasien MB yang telah mendapat pengobatan MDT 12 dosis (blister) dalam waktu
+   12-18 bulan dinyatakan RFT, tanpa harus pemeriksaan laboratorium.
+7. *Default*  
+   Jika pasien PB tidak mengambil/minum obatnya lebih dari 3 bulan dan pasien
+   MB lebih dari 6 bulan secara kumulatif (tidak mungkin baginya untuk
+   menyelesaikan pengobatan sesuai waktu yang ditetapkan), maka yang
+   bersangkutan dinyatakan default. Pasien defaulter tidak diobati kembali bila
+   tidak terdapat tanda-tanda klinis aktif. Namun jika memiliki tanda-tanda
+   klinis aktif (eritema dari lesi lama di kulit/ ada lesi baru/ ada pembesaran
+   saraf yang baru).  
+   Bila setelah terapi kembali pada defaulter ternyata berhenti setelah lebih
+   dari 3 bulan, maka dinyatakan default kedua. Bila default lebih dari 2 kali,
+   perlu dilakukan tindakan dan penanganan khusus.
+
+### Kriteria rujukan
+
 1. Terdapat efek samping obat yang serius.
 2. Reaksi kusta dengan kondisi:
-a. ENL melepuh, pecah (ulserasi), suhu tubuh tinggi, neuritis.
-b. Reaksi tipe 1 disertai dengan bercak ulserasi atau neuritis.
-c. Reaksi yang disertai komplikasi penyakit lain yang berat, misalnya
-hepatitis, DM, hipertensi, dan tukak lambung berat.
-Peralatan
+   * ENL melepuh, pecah (ulserasi), suhu tubuh tinggi, neuritis.
+   * Reaksi tipe 1 disertai dengan bercak ulserasi atau neuritis.
+   * Reaksi yang disertai komplikasi penyakit lain yang berat, misalnya
+     hepatitis, DM, hipertensi, dan tukak lambung berat.
+
+### Peralatan
+
 Laboratorium sederhana untuk pemeriksaan BTA
-Prognosis
+
+## Prognosis
+
 Prognosis untuk vitam umumnya bonam, namun dubia ad malam pada fungsi
 ekstremitas, karena dapat terjadi mutilasi, demikian pula untuk kejadian
 berulangnya.
-Referensi
-1. Direktorat Jenderal Pengendalian Penyakit dan Penyehatan Lingkungan.
-2012. Pedoman Nasional Pengendalian Penyakit Kusta. Jakarta.
 
-51
+## Referensi
 
-Kementerian Kesehatan RI. (Direktorat Jenderal Pengendalian Penyakit
-dan Penyehatan Lingkungan , 2012)
-2. Djuanda, A., Hamzah, M., Aisah, S. 2007. Buku Ajar Ilmu Penyakit Kulit
-dan Kelamin. Edisi kelima. Jakarta. Balai Penerbit Fakultas Kedokteran
-Universitas Indonesia. (Djuanda, et al., 2007)
+1. Direktorat Jenderal Pengendalian Penyakit dan Penyehatan Lingkungan. 2012.
+   Pedoman Nasional Pengendalian Penyakit Kusta. Jakarta. Kementerian Kesehatan
+   RI. (Direktorat Jenderal Pengendalian Penyakit dan Penyehatan Lingkungan ,
+   2012)
+2. Djuanda, A., Hamzah, M., Aisah, S. 2007. Buku Ajar Ilmu Penyakit Kulit dan
+   Kelamin. Edisi kelima. Jakarta. Balai Penerbit Fakultas Kedokteran
+   Universitas Indonesia. (Djuanda, et al., 2007)

@@ -1,7 +1,4 @@
-
 ---
-author: <++>
-title: <++>
 output:
   html_document:
     toc: true
@@ -16,93 +13,110 @@ output:
     highlight: tango
   slidy_presentation:
     highlight: tango
-bibliography: ref.bib
 csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
-<++>
-Infeksi Pada Umbilikus
+No. ICPC-2	: A94 *Perinatal morbidity other*  
+No. ICD-10	: P38 *Omphalitis of newborn with or without mild haemorrhage*  
+**Kompetensi	: 4A**
 
-No. ICPC-2
-No. ICD-10
+## Masalah Kesehatan
 
-: A94 Perinatal morbidity other
-: P38 Omphalitis of newborn with or without mild
-haemorrhage
-Tingkat Kemampuan : 4A
-Masalah Kesehatan
 Tali pusat biasanya lepas pada hari ke-7 setelah lahir dan luka baru sembuh
 pada hari ke-15. Infeksi pada tali pusat atau jaringan kulit di sekitar perlu
 dikenali secara dini dalam rangka mencegah sepsis.
-Hasil Anamnesis(Subjective)
-Keluhan
+
+## *Subjective*
+
+### Keluhan
+
 Panas, rewel, tidak mau menyusu.
-Faktor Risiko
+
+### Faktor risiko
+
 1. Imunitas seluler dan humoral belum sempurna
 2. Luka umbilikus
 3. Kulit tipis sehingga mudah lecet
-Faktor Predisposisi
+
+### Faktor predisposisi
+
 Pemotongan dan perawatan tali pusat yang tidak steril
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana(Objective)
-Pemeriksaan Fisik
+
+## *Objective*
+
+### Pemeriksaan fisik
+
 1. Ada tanda tanda infeksi di sekitar tali pusat seperti kemerahan, panas,
-bengkak, nyeri, dan mengeluarkan pus yang berbau busuk.
+   bengkak, nyeri, dan mengeluarkan pus yang berbau busuk.
 2. Infeksi tali pusat lokal atau terbatas: bila kemerahan dan bengkak terbatas
-pada daerah kurang dari 1cm di sekitar pangkal tali pusat.
+   pada daerah kurang dari 1cm di sekitar pangkal tali pusat.
 3. Infeksi tali pusat berat atau meluas: bila kemerahan atau bengkak pada tali
-pusat meluas melebihi area 1 cm atau kulit di sekitar tali pusat bayi
-mengeras dan memerah serta bayi mengalami pembengkakan perut.
+   pusat meluas melebihi area 1 cm atau kulit di sekitar tali pusat bayi
+   mengeras dan memerah serta bayi mengalami pembengkakan perut.
 4. Tanda sistemik: demam, takikardia, hipotensi, letargi, somnolen, ikterus
-Pemeriksaan Penunjang: Penegakan Diagnostik(Assessment)
-Diagnosis Klinis
+   Pemeriksaan Penunjang: Penegakan Diagnostik(Assessment)
+
+### Diagnosis klinis
+
 Diagnosis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik. Adanya
 tanda-tanda infeksi di sekitar umblikus seperti bengkak, kemerahan dan
 kekakuan. Pada keadaan tertentu ada lesi berbentuk impetigo bullosa.
-Diagnosis Banding
-1. Tali pusat normal dengan akumulasi cairan berbau busuk, tidak ada tanda
-tanda infeksi (pengobatan cukup dibersihkan dengan alkohol)
 
-40
+### Diagnosis banding
+
+1. Tali pusat normal dengan akumulasi cairan berbau busuk, tidak ada tanda
+   tanda infeksi (pengobatan cukup dibersihkan dengan alkohol)
 
 2. Granuloma-delayed epithelialization / Granuloma keterlambatan proses
-epitelisasi karena kauterisasi
-Komplikasi
+   epitelisasi karena kauterisasi
+
+### Komplikasi
+
 1. Necrotizing fasciitis dengan tanda-tanda: edema, kulit tampak seperti jeruk
-(peau d’orange appearance) di sekitar tempat infeksi, progresivitas cepat
-dan dapat menyebabkan kematian maka kemungkinan menderita
+   (peau d’orange appearance) di sekitar tempat infeksi, progresivitas cepat
+   dan dapat menyebabkan kematian maka kemungkinan menderita
 2. Peritonitis
 3. Trombosis vena porta
 4. Abses
-Penatalaksanaan Komprehensif (Plan)
-Penatalaksanaan
+
+## *Plan*
+
+### Penatalaksanaan
+
 1. Perawatan lokal
-a. Pembersihan tali pusat dengan menggunakan larutan antiseptik
-(Klorheksidin atau iodium povidon 2,5%) dengan kain kasa yang bersih
-delapan kali sehari sampai tidak ada nanah lagi pada tali pusat.
-b. Setelah dibersihkan, tali pusat dioleskan dengan salep antibiotik 3-4
-kali sehari.
+   * Pembersihan tali pusat dengan menggunakan larutan antiseptik (Klorheksidin
+     atau iodium povidon 2,5%) dengan kain kasa yang bersih delapan kali sehari
+     sampai tidak ada nanah lagi pada tali pusat.
+   * Setelah dibersihkan, tali pusat dioleskan dengan salep antibiotik 3-4 kali
+     sehari.
+
 2. Perawatan sistemik
+
 Bila tanpa gejala sistemik, pasien diberikan antibiotik seperti kloksasilin
-oral selama lima hari. Bila anak tampak sakit, harus dicek dahulu ada
-tidaknya tanda-tanda sepsis. Anak dapat diberikan antibiotik kombinasi
-dengan aminoglikosida. Bila tidak ada perbaikan, pertimbangkan
-kemungkinan Meticillin Resistance Staphylococcus aureus (MRSA).
-Kontrol kembali bila tidak ada perbaikan atau ada perluasan tanda-tanda
-infeksi dan komplikasi seperti bayi panas, rewel dan mulai tak mau makan.
-Rencana tindak lanjut: Kriteria Rujukan
+oral selama lima hari. Bila anak tampak sakit, harus dicek dahulu ada tidaknya
+tanda-tanda sepsis. Anak dapat diberikan antibiotik kombinasi dengan
+aminoglikosida. Bila tidak ada perbaikan, pertimbangkan kemungkinan Meticillin
+Resistance Staphylococcus aureus (MRSA). Kontrol kembali bila tidak ada
+perbaikan atau ada perluasan tanda-tanda infeksi dan komplikasi seperti bayi
+panas, rewel dan mulai tak mau makan.
+
+### Kriteria rujukan
+
 1. Bila intake tidak mencukupi dan anak mulai tampak tanda dehidrasi
 2. Terdapat tanda komplikasi sepsis
-Peralatan
+
+### Peralatan
+
 Tidak diperlukan peralatan khusus untuk mendiagnosis penyakit infeksi pada
 umbilikus.
-Prognosis
+
+## Prognosis
+
 Prognosis jika pasien tidak mengalami komplikasi umumnya dubia ad bonam.
 
-41
+## Referensi
 
-Referensi
 1. Ikatan Dokter Anak Indonesia. 2003. Infeksi Tali Pusat dalam Panduan
-Manajemen Masalah Bayi Baru Lahir. Jakarta. Departemen Kesehatan RI.
-(Ikatan Dokter Anak Indonesia, 2003)
+   Manajemen Masalah Bayi Baru Lahir. Jakarta. Departemen Kesehatan RI. (Ikatan
+   Dokter Anak Indonesia, 2003)
 2. Peadiatrics Clerkship University. The University of Chicago.
-

@@ -49,8 +49,8 @@ nafsu makan menurun, sakit perut, mual muntah, dan diare.
 #### Tanda patognomonis
 
 1. Pada periode demam:
-   * Kulit terlihat memerah, teraba panas, suhu tubuh meningkat dapat
-     sampai di atas 40 C dan kulit kering.
+   * Kulit terlihat memerah, teraba panas, suhu tubuh meningkat dapat sampai di
+     atas 40 C dan kulit kering.
    * Pasien dapat juga terlihat pucat.
    * Nadi teraba cepat
    * Pernapasan cepat (takipneu)
@@ -77,14 +77,14 @@ nafsu makan menurun, sakit perut, mual muntah, dan diare.
 
 ### Diagnosis klinis
 
-Diagnosis ditegakkan berdasarkan anamnesis (Trias Malaria: panas –
-menggigil – berkeringat), pemeriksaan fisik, dan ditemukannya parasit
-plasmodium pada pemeriksaan mikroskopis hapusan darah tebal/tipis.
+Diagnosis ditegakkan berdasarkan anamnesis (Trias Malaria: panas – menggigil –
+berkeringat), pemeriksaan fisik, dan ditemukannya parasit plasmodium pada
+pemeriksaan mikroskopis hapusan darah tebal/tipis.
 
 **Klasifikasi**
 
 1. Malaria falsiparum, ditemukan Plasmodium falsiparum.
-2. Malaria vivaks ditemukan Plasmodium vivax.
+2. Malaria vivaks, ditemukan Plasmodium vivax.
 3. Malaria ovale, ditemukan Plasmodium ovale.
 4. Malaria malariae, ditemukan Plasmodium malariae.
 5. Malaria knowlesi, ditemukan Plasmodium knowlesi.
@@ -199,9 +199,9 @@ tubuh menurun.
 
 ## Referensi
 
-1. Braunwald, E. Fauci, A.S. Kasper, D.L. Hauser, S.L. et al.Harrisson’s: th
-   Principle of Internal Medicine. 17 Ed. New York: McGraw-Hill Companies.
-   2009.
+1. Braunwald, E. Fauci, A.S. Kasper, D.L. Hauser, S.L. et al.Harrisson’s:
+   Principle of Internal Medicine. 17$$^{th}$$ Ed. New York: McGraw-Hill
+   Companies.  2009.
 2. Dirjen Pengendalian Penyakit dan Penyehatan Lingkungan. Pedoman
    Penatalaksanaan Kasus Malaria di Indonesia. Depkes RI. Jakarta. 2008.
    (Kementerian Kesehatan Republik Indonesia, 2008)

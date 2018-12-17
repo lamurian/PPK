@@ -1,7 +1,4 @@
-
 ---
-author: <++>
-title: <++>
 output:
   html_document:
     toc: true
@@ -16,131 +13,130 @@ output:
     highlight: tango
   slidy_presentation:
     highlight: tango
-bibliography: ref.bib
 csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
-<++>
-Filariasis
+No. ICPC-2 	: D96 *Worms/other parasites*  
+No. ICD-10	:
 
-No. ICPC-2
-No. ICD-10
+* B74 Filariasis
+* B74.0 *Filariasis due to Wuchereria bancrofti*
+* B74.1 *Filariasis due to Brugia malayi*
+* B74.2 *Filariasis due to Brugia timori*
 
-: D96 Woms/other parasites
-: B74 Filariasis
-B74.0 Filariasis due to Wuchereria bancrofti
-B74.1 Filariasis due to Brugia malayi
-B74.2 Filariasis due to Brugia timori
+**Kompetensi	: 4A**
 
-Tingkat Kemampuan
+## Masalah Kesehatan
 
-: 4A
-
-Masalah Kesehatan
-Filariasis (Penyakit Kaki Gajah) adalah penyakit menular yang disebabkan
-oleh cacing Filaria yang ditularkan oleh berbagai jenis nyamuk. Penyakit ini
+Filariasis (Penyakit Kaki Gajah) adalah penyakit menular yang disebabkan oleh
+cacing Filaria yang ditularkan oleh berbagai jenis nyamuk. Penyakit ini
 bersifat menahun (kronis) dan bila tidak mendapatkan pengobatan dapat
-menimbulkan cacat menetap berupa pembesaran kaki, lengan dan alat
-kelamin baik perempuan maupun laki-laki.
-WHO sudah menetapkan Kesepakatan Global untuk mengeliminasi filariasis
-pada tahun 2020 (The Global Goal of Elimination of Lymphatic Filariasis as a
-Public Health problem by The Year 2020). Program eliminasi dilaksanakan
-melalui pengobatan massal dengan DEC dan Albendazol setahun sekali
-selama 5 tahun di lokasi yang endemis serta perawatan kasus klinis baik yang
-akut maupun kronis untuk mencegah kecacatan dan mengurangi
-penderitaannya.
-Indonesia melaksanakan eliminasi penyakit kaki gajah secara bertahap yang
-telah dimulai sejak tahun 2002 di 5 kabupaten. Perluasan wilayah akan
-dilaksanakan setiap tahun.
-Penyakit kaki gajah disebabkan oleh tiga spesies cacing filaria, yaitu: Wucheria
-bancrofti, Brugia malayi dan Brugia timori. Vektor penular di Indonesia hingga
-saat ini telah diketahui ada 23 spesies nyamuk dari genus Anopheles, Culex,
-Mansonia, Aedes, dan Armigeres yang dapat berperan sebagai vektor penular
-penyakit kaki gajah.
+menimbulkan cacat menetap berupa pembesaran kaki, lengan dan alat kelamin baik
+perempuan maupun laki-laki.
 
-34
+WHO sudah menetapkan Kesepakatan Global untuk mengeliminasi filariasis pada
+tahun 2020 (The Global Goal of Elimination of Lymphatic Filariasis as a Public
+Health problem by The Year 2020). Program eliminasi dilaksanakan melalui
+pengobatan massal dengan DEC dan Albendazol setahun sekali selama 5 tahun di
+lokasi yang endemis serta perawatan kasus klinis baik yang akut maupun kronis
+untuk mencegah kecacatan dan mengurangi penderitaannya.
 
-Hasil Anamnesis (Subjective)
-Keluhan
+Indonesia melaksanakan eliminasi penyakit kaki gajah secara bertahap yang telah
+dimulai sejak tahun 2002 di 5 kabupaten. Perluasan wilayah akan dilaksanakan
+setiap tahun.
+
+Penyakit kaki gajah disebabkan oleh tiga spesies cacing filaria, yaitu:
+Wucheria bancrofti, Brugia malayi dan Brugia timori. Vektor penular di
+Indonesia hingga saat ini telah diketahui ada 23 spesies nyamuk dari genus
+Anopheles, Culex, Mansonia, Aedes, dan Armigeres yang dapat berperan sebagai
+vektor penular penyakit kaki gajah.
+
+## *Subjective*
+
+### Keluhan
+
 Gejala filariasis bancrofti sangat berbeda dari satu daerah endemik dengan
-daerah endemik lainnya. Hal ini mungkin disebabkan oleh perbedaan
-intensitas paparan terhadap vektor infektif di daerah endemik tersebut.
-Manifestasi akut, berupa:
-1. Demam berulang ulang selama 3-5 hari. Demam dapat hilang bila istirahat
-dan timbul lagi setelah bekerja berat.
-2. Pembengkakan kelenjar getah bening (tanpa ada luka) di daerah lipatan
-paha, ketiak (lymphadentitis) yang tampak kemerahan, panas, dan sakit.
-3. Radang saluran kelenjar getah bening yang terasa panas dan sakit
-menjalar dari pangkal kaki atau pangkal lengan ke arah ujung (retrograde
-lymphangitis).
+daerah endemik lainnya. Hal ini mungkin disebabkan oleh perbedaan intensitas
+paparan terhadap vektor infektif di daerah endemik tersebut.  Manifestasi akut,
+berupa:
+
+1. Demam berulang ulang selama 3-5 hari. Demam dapat hilang bila istirahat dan
+   timbul lagi setelah bekerja berat.
+2. Pembengkakan kelenjar getah bening (tanpa ada luka) di daerah lipatan paha,
+   ketiak (lymphadentitis) yang tampak kemerahan, panas, dan sakit.
+3. Radang saluran kelenjar getah bening yang terasa panas dan sakit menjalar
+   dari pangkal kaki atau pangkal lengan ke arah ujung (retrograde
+   lymphangitis).
 4. Filarial abses akibat seringnya menderita pembengkakan kelenjar getah
-bening, dapat pecah dan mengeluarkan nanah serta darah.
+   bening, dapat pecah dan mengeluarkan nanah serta darah.
 5. Pembesaran tungkai, lengan, buah dada, kantong zakar yang terlihat agak
-kemerahan dan terasa panas (Early Imphodema).
+   kemerahan dan terasa panas (Early Imphodema).
+
 Manifestasi kronik, disebabkan oleh berkurangnya fungsi saluran limfe terjadi
 beberapa bulan sampai bertahun-tahun dari episode akut. Gejala kronis
 filariasis berupa: pembesaran yang menetap (elephantiasis) pada tungkai,
 lengan, buah dada, buah zakar (elephantiasis skroti) yang disebabkan oleh
-adanya cacing dewasa pada sistem limfatik dan oleh reaksi hiperresponsif
-berupa occult filariasis.
+adanya cacing dewasa pada sistem limfatik dan oleh reaksi hiperresponsif berupa
+occult filariasis.
+
+### Perjalanan penyakit
+
 Perjalanan penyakit tidak jelas dari satu stadium ke stadium berikutnya tetapi
 bila diurut dari masa inkubasi maka dapat dibagi menjadi:
-1. Masa prepaten, yaitu masa antara masuknya larva infektif hingga
-terjadinya mikrofilaremia berkisar antara 37 bulan. Hanya sebagian saja
-dari penduduk di daerah endemik yang menjadi mikrofilaremik, dan dari
-kelompok mikrofilaremik ini pun tidak semua kemudian menunjukkan
-gejala klinis. Terlihat bahwa kelompok ini termasuk kelompok yang
-asimptomatik amikrofilaremik dan asimptomatik mikrofilaremik.
-2. Masa inkubasi, masa antara masuknya larva infektif sampai terjadinya
-gejala klinis berkisar antara 8 – 16 bulan.
+
+1. Masa prepaten, yaitu masa antara masuknya larva infektif hingga terjadinya
+   mikrofilaremia berkisar antara 37 bulan. Hanya sebagian saja dari penduduk
+   di daerah endemik yang menjadi mikrofilaremik, dan dari kelompok
+   mikrofilaremik ini pun tidak semua kemudian menunjukkan gejala klinis.
+   Terlihat bahwa kelompok ini termasuk kelompok yang asimptomatik
+   amikrofilaremik dan asimptomatik mikrofilaremik.
+2. Masa inkubasi, masa antara masuknya larva infektif sampai terjadinya gejala
+   klinis berkisar antara 8 – 16 bulan.
 3. Gejala klinik akut merupakan limfadenitis dan limfangitis disertai panas dan
-malaise. Kelenjar yang terkena biasanya unilateral. Penderita dengan
-gejala klinis akut dapat amikrofilaremik maupun mikrofilaremik.
+   malaise. Kelenjar yang terkena biasanya unilateral. Penderita dengan gejala
+   klinis akut dapat amikrofilaremik maupun mikrofilaremik.
 4. Gejala menahun, terjadi 10 – 15 tahun setelah serangan akut pertama.
-Mikrofilaria
-jarang
-ditemukan
-pada
-stadium
-ini,
-sedangkan
-adenolimfangitis masih dapat terjadi. Gejala menahun ini menyebabkan
-terjadinya cacat yang mengganggu aktivitas penderita serta membebani
-keluarganya.
+   Mikrofilaria jarang ditemukan pada stadium ini, sedangkan adenolimfangitis
+   masih dapat terjadi. Gejala menahun ini menyebabkan terjadinya cacat yang
+   mengganggu aktivitas penderita serta membebani keluarganya.
 
-35
+## *Objective*
 
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
-Pemeriksaan Fisik
-Pada manifestasi akut dapat ditemukan adanya limfangitis dan limfadenitis
-yang berlangsung 3 – 15 hari, dan dapat terjadi beberapa kali dalam setahun.
+### Pemeriksaan fisik
+
+Pada manifestasi akut dapat ditemukan adanya limfangitis dan limfadenitis yang
+berlangsung 3 – 15 hari, dan dapat terjadi beberapa kali dalam setahun.
 Limfangitis akan meluas kedaerah distal dari kelenjar yang terkena tempat
 cacing ini tinggal. Limfangitis dan limfadenitis berkembang lebih sering di
 ekstremitas bawah daripada atas. Selain pada tungkai, dapat mengenai alat
 kelamin, (tanda khas infeksi W.bancrofti) dan payudara.
+
 Manifestasi kronik, disebabkan oleh berkurangnya fungsi saluran limfe. Bentuk
 manifestasi ini dapat terjadi dalam beberapa bulan sampai bertahun-tahun dari
 episode akut. Tanda klinis utama yaitu hidrokel, limfedema, elefantiasis dan
 chyluria yang meningkat sesuai bertambahnya usia.
+
 Manifestasi genital di banyak daerah endemis, gambaran kronis yang terjadi
-adalah hidrokel. Selain itu dapat dijumpai epedidimitis kronis, funikulitis, edema
-karena penebalan kulit skrotum, sedangkan pada perempuan bisa dijumpai
-limfedema vulva. Limfedema dan elefantiasis ekstremitas, episode limfedema
-pada ekstremitas akan menyebabkan elefantiasis di daerah saluran limfe yang
-terkena dalam waktu bertahun-tahun. Lebih sering terkena ekstremitas bawah.
-Pada W.bancrofti, infeksi di daerah paha dan ekstremitas bawah sama
-seringnya, sedangkan B.malayi hanya mengenai ekstremitas bawah saja.
-Pada keadaan akut infeksi filariasis bancrofti, pembuluh limfe alat kelamin lakilaki sering terkena, disusul funikulitis, epididimitis, dan orkitis. Adenolimfangitis
-inguinal atau aksila, sering bersama dengan limfangitis retrograd yang
-umumnya sembuh sendiri dalam 3 –15 hari dan serangan terjadi beberapa kali
-dalam setahun. Pada filariasis brugia, limfadenitis paling sering mengenai
-kelenjar inguinal, sering terjadi setelah bekerja keras. Kadang-kadang disertai
-limfangitis retrograd. Pembuluh limfe menjadi keras dan nyeri dan sering terjadi
-limfedema pada pergelangan kaki dan kaki. Penderita tidak mampu bekerja
-selama beberapa hari. Serangan dapat terjadi 12 x/tahun sampai beberapa
-kali per bulan. Kelenjar limfe yang terkena dapat menjadi abses, memecah,
-membentuk ulkus dan meninggalkan parut yang khas, setelah 3 minggu
-sampai 3 bulan.
+adalah hidrokel. Selain itu dapat dijumpai epedidimitis kronis, funikulitis,
+edema karena penebalan kulit skrotum, sedangkan pada perempuan bisa dijumpai
+limfedema vulva. Limfedema dan elefantiasis ekstremitas, episode limfedema pada
+ekstremitas akan menyebabkan elefantiasis di daerah saluran limfe yang terkena
+dalam waktu bertahun-tahun. Lebih sering terkena ekstremitas bawah.
+
+Pada W.bancrofti, infeksi di daerah paha dan ekstremitas bawah sama seringnya,
+sedangkan B.malayi hanya mengenai ekstremitas bawah saja.  Pada keadaan akut
+infeksi filariasis bancrofti, pembuluh limfe alat kelamin lakilaki sering
+terkena, disusul funikulitis, epididimitis, dan orkitis. Adenolimfangitis
+inguinal atau aksila, sering bersama dengan limfangitis retrograd yang umumnya
+sembuh sendiri dalam 3 –15 hari dan serangan terjadi beberapa kali dalam
+setahun. Pada filariasis brugia, limfadenitis paling sering mengenai kelenjar
+inguinal, sering terjadi setelah bekerja keras. Kadang-kadang disertai
+limfangitis retrograd. Pembuluh limfe menjadi keras dan nyeri dan sering
+terjadi limfedema pada pergelangan kaki dan kaki. Penderita tidak mampu bekerja
+selama beberapa hari. Serangan dapat terjadi 12 x/tahun sampai beberapa kali
+per bulan. Kelenjar limfe yang terkena dapat menjadi abses, memecah, membentuk
+ulkus dan meninggalkan parut yang khas, setelah 3 minggu sampai 3 bulan.
+
 Pada kasus menahun filariasis bancrofti, hidrokel paling banyak ditemukan.
 Limfedema dan elefantiasis terjadi di seluruh tungkai atas, tungkai bawah,
 skrotum, vulva atau buah dada, dan ukuran pembesaran di tungkai dapat 3 kali
@@ -148,127 +144,134 @@ dari ukuran asalnya. Chyluria terjadi tanpa keluhan, tetapi pada beberapa
 penderita menyebabkan penurunan berat badan dan kelelahan. Filariasis
 brugia, elefantiasis terjadi di tungkai bawah di bawah lutut dan lengan bawah,
 dan ukuran pembesaran ektremitas tidak lebih dari 2 kali ukuran asalnya.
-Pemeriksaan Penunjang
+
+### Pemeriksaan penunjang
+
 1. Identifikasi mikrofilaria dari sediaan darah. Cacing filaria dapat ditemukan
-dengan pengambilan darah tebal atau tipis pada waktu malam hari antara
-jam 10 malam sampai jam 2 pagi yang dipulas dengan pewarnaan Giemsa
-
-36
-
-atau Wright. Mikrofilaria juga dapat ditemukan pada cairan hidrokel atau
-cairan tubuh lain (sangat jarang).
+   dengan pengambilan darah tebal atau tipis pada waktu malam hari antara jam
+   10 malam sampai jam 2 pagi yang dipulas dengan pewarnaan Giemsa atau Wright.
+   Mikrofilaria juga dapat ditemukan pada cairan hidrokel atau cairan tubuh
+   lain (sangat jarang).
 2. Pemeriksaan darah tepi terdapat leukositosis dengan eosinofilia sampai
-10-30% dengan pemeriksaan sediaan darah jari yang diambil mulai pukul
-20.00 waktu setempat.
-3. Bila sangat diperlukan dapat dilakukan Diethylcarbamazine provocative
-test.
+   10-30% dengan pemeriksaan sediaan darah jari yang diambil mulai pukul 20.00
+   waktu setempat.
+3. Bila sangat diperlukan dapat dilakukan Diethylcarbamazine provocative test.
 
-Gambar 1.3 Filariasis
-Penegakan Diagnostik (Assessment)
-Diagnosis Klinis
-Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik dan
-pemeriksaan penunjang identifikasi mikrofilaria.
-Di daerah endemis, bila ditemukan adanya limfedema di daerah ekstremitas
-disertai dengan kelainan genital laki-laki pada penderita dengan usia lebih dari
-15 tahun, bila tidak ada sebab lain seperti trauma atau gagal jantung kongestif
-kemungkinan filariasis sangat tinggi.
-Diagnosis Banding
+[Gambar 11.1 Filariasis](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/01_08_o_filariasis01.png?raw=true)
+
+## *Assessment*
+
+### Diagnosis klinis
+
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik dan pemeriksaan
+penunjang identifikasi mikrofilaria. Di daerah endemis, bila ditemukan adanya
+limfedema di daerah ekstremitas disertai dengan kelainan genital laki-laki pada
+penderita dengan usia lebih dari 15 tahun, bila tidak ada sebab lain seperti
+trauma atau gagal jantung kongestif kemungkinan filariasis sangat tinggi.
+
+### Diagnosis banding
+
 1. Infeksi bakteri, tromboflebitis atau trauma dapat mengacaukan
-adenolimfadenitis filariasis akut
+   adenolimfadenitis filariasis akut
 2. Tuberkulosis, lepra, sarkoidosis dan penyakit sistemik granulomatous
-lainnya.
-Komplikasi
-Pembesaran organ (kaki, tangan, skrotum atau bagian tubuh lainnya) akibat
-obstruksi saluran limfe.
-Penatalaksanaan Komprehensif (Plan)
-Penatalaksanaan
+   lainnya.  Komplikasi Pembesaran organ (kaki, tangan, skrotum atau bagian
+   tubuh lainnya) akibat obstruksi saluran limfe.
+
+## *Plan*
+
+### Penatalaksanaan
+
 Terapi filariasis bertujuan untuk mencegah atau memperbaiki perjalanan
 penyakit, antara lain dengan:
+
 1. Memelihara kebersihan kulit.
 2. Fisioterapi kadang diperlukan pada penderita limfedema kronis.
-
-37
-
 3. Obat antifilaria adalah Diethyl carbamazine citrate (DEC) dan Ivermektin
-(obat ini bermanfaat apabila diberikan pada fase akut yaitu ketika pasien
-mengalami limfangitis).
-4. DEC dapat membunuh mikrofilaria dan cacing dewasa. Ivermektin
-merupakan antimikrofilaria yang kuat, tetapi tidak memiliki efek
-makrofilarisida.
+   (obat ini bermanfaat apabila diberikan pada fase akut yaitu ketika pasien
+   mengalami limfangitis).
+4. DEC dapat membunuh mikrofilaria dan cacing dewasa. Ivermektin merupakan
+   antimikrofilaria yang kuat, tetapi tidak memiliki efek makrofilarisida.
 5. Dosis DEC 6 mg/kgBB, 3 dosis/hari setelah makan, selama 12 hari, pada
-Tropical Pulmonary Eosinophylia (TPE) pengobatan diberikan selama tiga
-minggu.
-6. Efek samping bisa terjadi sebagai reaksi terhadap DEC atau reaksi
-terhadap cacing dewasa yang mati. Reaksi tubuh terhadap protein yang
-dilepaskan pada saat cacing dewasa mati dapat terjadi beberapa jam
-setelah pengobatan, didapat 2 bentuk yang mungkin terjadi yaitu reaksi
-sistemik dan reaksi lokal:
-a. Reaksi sistemik berupa demam, sakit kepala, nyeri badan, pusing,
-anoreksia, malaise, dan muntah-muntah. Reaksi sistemik cenderung
-berhubungan dengan intensitas infeksi.
-b. Reaksi lokal berbentuk limfadenitis, abses, dan transien limfedema.
-Reaksi lokal terjadi lebih lambat namun berlangsung lebih lama dari
-reaksi sistemik.
-c. Efek samping DEC lebih berat pada penderita onchorcerciasis,
-sehingga obat tersebut tidak diberikan dalam program pengobatan
-masal di daerah endemis filariasis dengan ko-endemis Onchorcercia
-valvulus.
-7. Ivermektin diberikan dosis tunggal 150 ug/kgBB efektif terhadap
-penurunan derajat mikrofilaria W.bancrofti, namun pada filariasis oleh
-Brugia spp. penurunan tersebut bersifat gradual. Efek samping ivermektin
-sama dengan DEC, kontraindikasi ivermektin yaitu wanita hamil dan anak
-kurang dari 5 tahun. Karena tidak memiliki efek terhadap cacing dewasa,
-ivermektin harus diberikan setiap 6 bulan atau 12 bulan untuk menjaga
-agar derajat mikrofilaremia tetap rendah.
-8. Pemberian antibiotik dan/atau antijamur akan mengurangi serangan
-berulang, sehingga mencegah terjadinya limfedema kronis.
+   Tropical Pulmonary Eosinophylia (TPE) pengobatan diberikan selama tiga
+   minggu.
+6. Efek samping bisa terjadi sebagai reaksi terhadap DEC atau reaksi terhadap
+   cacing dewasa yang mati. Reaksi tubuh terhadap protein yang dilepaskan pada
+   saat cacing dewasa mati dapat terjadi beberapa jam setelah pengobatan,
+   didapat 2 bentuk yang mungkin terjadi yaitu reaksi sistemik dan reaksi
+   lokal:
+   * Reaksi sistemik berupa demam, sakit kepala, nyeri badan, pusing,
+     anoreksia, malaise, dan muntah-muntah. Reaksi sistemik cenderung
+     berhubungan dengan intensitas infeksi.
+   * Reaksi lokal berbentuk limfadenitis, abses, dan transien limfedema.
+     Reaksi lokal terjadi lebih lambat namun berlangsung lebih lama dari reaksi
+     sistemik.
+   * Efek samping DEC lebih berat pada penderita onchorcerciasis, sehingga obat
+     tersebut tidak diberikan dalam program pengobatan masal di daerah endemis
+     filariasis dengan ko-endemis Onchorcercia valvulus.
+
+7. Ivermektin diberikan dosis tunggal 150 ug/kgBB efektif terhadap penurunan
+   derajat mikrofilaria W.bancrofti, namun pada filariasis oleh Brugia spp.
+   penurunan tersebut bersifat gradual. Efek samping ivermektin sama dengan
+   DEC, kontraindikasi ivermektin yaitu wanita hamil dan anak kurang dari 5
+   tahun. Karena tidak memiliki efek terhadap cacing dewasa, ivermektin harus
+   diberikan setiap 6 bulan atau 12 bulan untuk menjaga agar derajat
+   mikrofilaremia tetap rendah.
+8. Pemberian antibiotik dan/atau antijamur akan mengurangi serangan berulang,
+   sehingga mencegah terjadinya limfedema kronis.
 9. Antihistamin dan kortikosteroid diperlukan untuk mengatasi efek samping
-pengobatan. Analgetik dapat diberikan bila diperlukan.
+   pengobatan. Analgetik dapat diberikan bila diperlukan.
 10. Pengobatan operatif, kadang-kadang hidrokel kronik memerlukan tindakan
-operatif, demikian pula pada chyluria yang tidak membaik dengan terapi
-konservatif.
-Konseling dan Edukasi
-Memberikan informasi kepada pasien dan keluarganya mengenai penyakit
-filariasis terutama dampak akibat penyakit dan cara penularannya. Pasien dan
-keluarga juga harus memahami pencegahan dan pengendalian penyakit
-menular ini melalui:
+    operatif, demikian pula pada chyluria yang tidak membaik dengan terapi
+    konservatif.
+
+### Konseling dan edukasi
+
+Memberikan informasi kepada pasien dan keluarganya mengenai penyakit filariasis
+terutama dampak akibat penyakit dan cara penularannya. Pasien dan keluarga juga
+harus memahami pencegahan dan pengendalian penyakit menular ini melalui:
+
 1. Pemberantasan nyamuk dewasa
 2. Pemberantasan jentik nyamuk
-
-38
-
 3. Mencegah gigitan nyamuk
-Rencana Tindak Lanjut
+
+### Rencana tindak lanjut
+
 Setelah pengobatan, dilakukan kontrol ulang terhadap gejala dan mikrofilaria,
 bila masih terdapat gejala dan mikrofilaria pada pemeriksaan darahnya,
 pengobatan dapat diulang 6 bulan kemudian.
-Kriteria rujukan
+
+### Kriteria rujukan
+
 Pasien dirujuk bila dibutuhkan pengobatan operatif atau bila gejala tidak
 membaik dengan pengobatan konservatif.
-Peralatan
+
+### Peralatan
+
 Peralatan laboratorium untuk pemeriksaan mikrofilaria.
-Prognosis
-Prognosis pada umumnya tidak mengancam jiwa. Quo ad fungsionam adalah
-dubia ad bonam, sedangkan quo ad sanationam adalah malam.
-Prognosis penyakit ini tergantung dari:
+
+## Prognosis
+
+Prognosis pada umumnya tidak mengancam jiwa. Quo ad fungsionam adalah dubia ad
+bonam, sedangkan quo ad sanationam adalah malam.  Prognosis penyakit ini
+tergantung dari:
+
 1. Jumlah cacing dewasa dan mikrofilaria dalam tubuh pasien.
 2. Potensi cacing untuk berkembang biak.
 3. Kesempatan untuk infeksi ulang.
 4. Aktivitas RES.
-Pada kasus-kasus dini dan sedang, prognosis baik terutama bila pasien
-pindah dari daerah endemik. Pengawasan daerah endemik tersebut dapat
-dilakukan dengan pemberian obat serta pemberantasan vektornya. Pada
-kasus-kasus lanjut terutama dengan edema pada tungkai, prognosis lebih
-buruk.
-Referensi
-1. Behrman, R.E. Jenson, H.B. Kliegman, R.M. Lymphatic Filariasis (Brugria
-Malayi, Brugria timori, Wuchereria Bancrofti) in Nelson Textbook of
-th
-Pediatric.18 Ed.2007: 1502-1503. (Behrman, et al., 2007)
-2. Rudolph Colin, D. Rudolph, A.M. Parasitic Disease in Rudolphs Pediatrics
-st
-Textbook of Pediatric. 21 Ed. 2007: 1106-1108. (Rudolph, et al., 2007)
-3. Soedarmo Sumarmo S.P.Garna, H. Sri Rezeki, S.H.Hindra Irawan S.
-FilariasisdalamBuku Ajar Infeksi & Pediatri Tropis. Ed-. Ikatan Dokter Anak
-Indonesia. Jakarta, 2010: 400-407. (Sumarmo, et al., 2010)
 
+Pada kasus-kasus dini dan sedang, prognosis baik terutama bila pasien pindah
+dari daerah endemik. Pengawasan daerah endemik tersebut dapat dilakukan dengan
+pemberian obat serta pemberantasan vektornya. Pada kasus-kasus lanjut terutama
+dengan edema pada tungkai, prognosis lebih buruk.
+
+## Referensi
+
+1. Behrman, R.E. Jenson, H.B. Kliegman, R.M. Lymphatic Filariasis (Brugria
+   Malayi, Brugria timori, Wuchereria Bancrofti) in Nelson Textbook of
+   Pediatric. 18$$^{th}$$ Ed.2007: 1502-1503. (Behrman, et al., 2007)
+2. Rudolph Colin, D. Rudolph, A.M. Parasitic Disease in Rudolphs Pediatrics
+   Textbook of Pediatric. 2$$^{st}$$ Ed. 2007: 1106-1108. (Rudolph, et al., 2007)
+3. Soedarmo Sumarmo S.P.Garna, H. Sri Rezeki, S.H.Hindra Irawan S.
+   FilariasisdalamBuku Ajar Infeksi & Pediatri Tropis. Ed-. Ikatan Dokter Anak
+   Indonesia. Jakarta, 2010: 400-407. (Sumarmo, et al., 2010)
