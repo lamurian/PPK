@@ -101,7 +101,7 @@ Berdasarkan American College of Rheumatology (ACR) tahun 1982, LES dapat
 ditegakkan bila didapatkan 4 dari 11 kriteria yang terjadi secara bersamaan
 atau dengan tenggang waktu.
 
-![Tabel 3.1 Kriteria diagnosis LES (ACR)]()<++> 
+![Tabel 3.1 Kriteria diagnosis LES (ACR)](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/02_03_o_SLE01.png?raw=true) 
 
 ### Diagnosis banding
 

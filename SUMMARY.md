@@ -21,6 +21,8 @@
 * [Darah dan Imun](02.darah/README.md)
 	* [Anemia Defisiensi Besi](02.darah/01.ADB.Rmd)
 	* [HIV/AIDS](02.darah/02.HIV.Rmd)
+	* [Lupus Sistemik Eritematosa](02.darah/03.SLE.Rmd)
+	* [Limfadenitis](02.darah/04.Limfadenitis.Rmd)
 * [Digestif](03.digestif/README.md)
 * [Mata](04.mata/README.md)
 * [Telinga](05.telinga/README.md)
