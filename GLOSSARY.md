@@ -67,3 +67,8 @@ Demam Berdarah Dengue, kasus Demam Dengue (DD) disertai dengan kebocoran plasma.
 Dengue Virus, penyebab Demam Dengue (DD) dan Demam Berdarah Dengue (DBD).
 Terdiri dari 5 serotipe.
 
+## SSP
+Sistem Syaraf Pusat, terdiri dari otak cerebrum, pons, medulla oblongata, cerebellum, dan corda spinalis.
+
+## ACR
+*American College of Rheumatology*
