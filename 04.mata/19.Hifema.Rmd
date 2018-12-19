@@ -30,14 +30,16 @@ Tingkat Kemampuan
 : H21.0Hyphaema
 : 3A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Hifema adalah terdapatnya akumulasi darah pada bilik mata depan. Hifema
 dapat terjadi akibat trauma atau terjadi spontan. Hifema dapat disertai dengan
 abrasi kornea, iritis, midriasis, atau gangguan struktur lain pada mata akibat
 trauma penyebabnya. Hifema spontan jarang ditemui. Hifema spontan dapat
 menjadi penanda terdapatnya rubeosis iridis, gangguan koagulasi, penyakit
 herpes, masalah pada lensa intraokular (IOL), retinoblastoma, serta leukemia.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 1. Nyeri pada mata
 2. Penglihatan terganggu (bila darah menutupi aksis visual)
@@ -49,7 +51,8 @@ Faktor Risiko
 1. Hifema akibat trauma sering ditemui pada laki-laki usia muda
 2. Hifema spontan disebabkan oleh neovaskularisasi iris (seperti pada pasien
 diabetes dan oklusi vena retina), koagulopati, dan pemakaian antikoagulan
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Visus umumnya turun
 2. Tampak darah di bilik mata depan. Darah dapat tertampung di bagian
@@ -58,7 +61,8 @@ inferior bilik mata depan atau dapat memenuhi seluruh bilik mata depan
 3. Perhatikan apakah ada trauma pada bagian mata yang lain
 Pemeriksaan Penunjang
 Pemeriksaan tekanan intraokular dengan Tonometer Schiotz
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Ditegakkan berdasarkan anamnesis dan pemeriksaan fisik
 1. Anamnesis untuk mengidentifikasi gejala, riwayat trauma, serta
@@ -79,7 +83,8 @@ trauma
 2. Glaukoma sekunder
 3. Atrofi saraf optik
 4. Corneal blood staining
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 1. Pembatasan aktivitas fisik
 2. Pelindung mata (protective shield)

@@ -31,10 +31,12 @@ Tingkat Kemampuan
 : H01.0 Blepharitis
 : 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Blefaritis adalah radang pada tepi kelopak mata (margo palpebra) yang dapat
 disertai terbentuknya ulkus dan dapat melibatkan folikel rambut.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 1. Gatal pada tepi kelopak mata
 2. Rasa panas pada tepi kelopak mata
@@ -47,7 +49,8 @@ kelopak mata sukar dibuka
 Faktor Risiko
 1. Kelainan kulit, misalnya dermatitis seboroik
 2. Higiene personal dan lingkungan yang kurang baik
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Skuama atau krusta pada tepi kelopak.
 2. Bulu mata rontok.
@@ -60,7 +63,8 @@ Tidak diperlukan
 
 171
 
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Penegakan diagnosis dilakukan berdasarkan anamnesis dan pemeriksaan
 fisik.
@@ -68,7 +72,8 @@ Komplikasi
 1. Blefarokonjungtivitis
 2. Madarosis
 3. Trikiasis
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 1. Non-medikamentosa
 a. Membersihkan kelopak mata dengan lidi kapas yang dibasahi air

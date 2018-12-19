@@ -30,11 +30,13 @@ Tingkat Kemampuan
 : H52.1 Myopia
 : 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Miopia ringan adalah kelainan refraksi dimana sinar sejajar yang masuk ke
 mata dalam keadaan istirahat (tanpa akomodasi) akan dibiaskan ke titik fokus
 di depan retina.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 Penglihatan kabur bila melihat jauh, mata cepat lelah, pusing dan mengantuk,
 cenderung memicingkan mata bila melihat jauh. Tidak terdapat riwayat
@@ -42,13 +44,16 @@ kelainan sistemik, seperti diabetes mellitus, hipertensi, serta buta senja.
 Faktor Risiko
 Genetik dan faktor lingkungan meliputi kebiasaan melihat/membaca dekat,
 kurangnya aktivitas luar rumah, dan tingkat pendidikan yang lebih tinggi.
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 Pemeriksaan visus dengan Snellen Chart
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Penegakan diagnosis berdasarkan anamnesis dan pemeriksaan refraksi.
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 Koreksi dengan kacamata lensa sferis negatif terlemah yang menghasilkan
 tajam penglihatan terbaik

@@ -30,7 +30,8 @@ Tingkat Kemampuan
 : B26. Mumps
 : 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Parotitis adalah peradangan pada kelenjar parotis. Parotitis dapat disebabkan
 oleh infeksi virus, infeksi bakteri, atau kelainan autoimun, dengan derajat
 kelainan yang bervariasi dari ringan hingga berat. Salah satu infeksi virus pada
@@ -39,7 +40,8 @@ layanan primer dan berpotensi menimbulkan epidemi di komunitas. Dokter di
 pelayanan kesehatan primer dapat berperan menanggulangi parotitis mumps
 dengan melakukan diagnosis dan tatalaksana yang adekuat serta
 meningkatkan kesadaran masyarakat terhadap imunisasi, khususnya MMR.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 1. Parotitis mumps
 a. Pembengkakan pada area di depan telinga hingga rahang bawah
@@ -80,7 +82,8 @@ parotitis mumps
 3. Pada kasus parotitis mumps, terdapat riwayat adanya penderita yang
 sama sebelumnya di sekitar pasien
 4. Kondisi imunodefisiensi
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Keadaan umum dapat bervariasi dari tampak sakit ringan hingga berat
 2. Suhu meningkat pada kasus parotitis infeksi
@@ -103,7 +106,8 @@ Pada kebanyakan kasus parotitis, pemeriksaan penunjang biasanya tidak
 diperlukan. Pemeriksaan penunjang dapat dilakukan untuk menentukan
 etiologi pada kasus parotitis bakterial atau parotitis akibat penyakit sistemik
 tertentu, misalnya HIV, Sjogren syndrome, tuberkulosis.
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Diagnosis parotitis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik.
 Komplikasi
@@ -114,7 +118,8 @@ ketulian, Miokarditis, Tiroiditis, Pankreatitis, Ensefalitis, Neuritis
 fungsi sekresi saliva dan selanjutnya meningkatkan risiko terjadinya infeksi
 dan karies gigi.
 3. Parotitis autoimun berhubungan dengan peningkatan insiden limfoma.
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 1. Parotitis mumps
 a. Nonmedikamentosa
@@ -140,7 +145,8 @@ Konseling dan Edukasi
 1. Penjelasan mengenai diagnosis, penyebab, dan rencana tatalaksana.
 2. Penjelasan mengenai pentingnya menjaga kecukupan hidrasi dan higiene
 oral.
-3. Masyarakat perlu mendapatkan informasi yang adekuat mengenai
+## 3. Masyarakat perlu mendapatkan informasi yan
+g adekuat mengenai
 pentingnya imunisasi MMR untuk mencegah epidemi parotitis mumps.
 Kriteria Rujukan
 1. Parotitis dengan komplikasi

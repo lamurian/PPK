@@ -30,7 +30,8 @@ Tingkat Kemampuan
 : H40.2 Primary angle-closure glaucoma
 : 3B
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Glaukoma adalah kelompok penyakit mata yang umumnya ditandai kerusakan
 saraf optik dan kehilangan lapang pandang yang bersifat progresif serta
 berhubungan dengan berbagai faktor risiko terutama tekanan intraokular (TIO)
@@ -40,7 +41,8 @@ pada kebanyakan kasus glaukoma dapat dikendalikan. Umumnya penderita
 glaukoma telah berusia lanjut, terutama bagi yang memiliki risiko. Hampir
 separuh penderita glaukoma tidak menyadari bahwa mereka menderita
 penyakit tersebut.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 Pasien datang dengan keluhan yang bervariasi dan berbeda tergantung jenis
 glaukoma.
@@ -65,7 +67,8 @@ Faktor Risiko
 vasospasme, diabetes mellitus, dan migrain
 4. Pada glaukoma sekunder, dapat ditemukan riwayat pemakaian obat
 steroid secara rutin, atau riwayat trauma pada mata.
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Glaukoma adalah penyakit mata yang ditandai oleh trias glaukoma, yang terdiri
 dari:
 1. Peningkatan tekanan intraokular
@@ -80,7 +83,8 @@ Pemeriksaan Oftalmologis
 Gambar 4. 4. Kelainan diskus optik akibat komplikasi glaukoma
 Pemeriksaan Penunjang
 Tidak dilakukan pada pelayanan primer.
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Penegakan diagnosis dilakukan berdasarkan anamnesis dan pemeriksaan
 oftalmologis.
@@ -92,7 +96,8 @@ Diagnosis Banding:
 2. Kelainan refraksi
 3. Retinopati diabetes / hipertensi
 4. Retinitis pigmentosa
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 Penatalaksanaan kasus glaukoma pada layanan primer bertujuan
 mengendalikan tekanan intra okuler dan merujuk ke dokter spesialis mata di

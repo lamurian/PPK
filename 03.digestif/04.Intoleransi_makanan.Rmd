@@ -1,7 +1,4 @@
-
 ---
-author: <++>
-title: <++>
 output:
   html_document:
     toc: true
@@ -20,68 +17,88 @@ bibliography: ref.bib
 csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
-<++>
-Intoleransi Makanan
+No. ICPC-2	: D29 *Digestive syndrome/complaint other*  
+No. ICD-10	: K90.4 *Malabsorption due to intolerance*  
+**Kompetensi	: 4A**
 
-No. ICPC-2
-: D29 Digestive syndrome/complaint other
-No. ICD-10
-: K90.4 Malabsorption due to intolerance
-Tingkat Kemampuan: 4A
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Intoleransi makanan adalah gejala-gejala yang terjadi akibat reaksi tubuh
-terhadap makanan tertentu. Intoleransi bukan merupakan alergi makanan. Hal
-ini terjadi akibat kekurangan enzim yang diperlukan untuk mencerna makanan
-tertentu. Intoleransi terhadap laktosa gula susu, penyedap Monosodium
-Glutamat (MSG), atau terhadap antihistamin yang ditemukan di keju lama,
-anggur, bir, dan daging olahan. Gejala intoleransi makanan kadang-kadang
-mirip dengan gejala yang ditemukan pada alergi makanan.
-Hasil Anamnesis
+terhadap makanan tertentu. Intoleransi bukan merupakan alergi makanan. Hal ini
+terjadi akibat kekurangan enzim yang diperlukan untuk mencerna makanan
+tertentu. Intoleransi terhadap laktosa gula susu, penyedap Monosodium Glutamat
+(MSG), atau terhadap antihistamin yang ditemukan di keju lama, anggur, bir, dan
+daging olahan. Gejala intoleransi makanan kadang-kadang mirip dengan gejala
+yang ditemukan pada alergi makanan.
+
+### Keluhan
+
 Gejala-gejala yang mungkin terjadi adalah tenggorokan terasa gatal, nyeri
 perut, perut kembung, diare, mual, muntah, atau dapat disertai kram perut.
 Faktor predisposisi
+
 Makanan yang sering menyebabkan intoleransi, seperti:
+
 1. Terigu dan gandum lainnya yang mengandung gluten
 2. Protein susu sapi
 3. Hasil olahan jagung
 4. MSG
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
+## *Objective*
+
 Pada pemeriksaan fisik dapat ditemukan nyeri tekan abdomen, bising usus
 meningkat dan mungkin terdapat tanda-tanda dehidrasi.
-Pemeriksaan Penunjang : Penegakan Diagnostik (Assessment)
-Diagnosis Klinis
+
+## *Assessment*
+
+### Diagnosis klinis
+
 Diagnosis ditegakkan berdasar anamnesis dan pemeriksaan fisik.
-Diagnosis Banding
-Pankreatitis, Penyakit Chrons pada illeum terminalis, Sprue Celiac, Penyakit
+
+### Diagnosis banding
+
+Pankreatitis, Penyakit Crohn's pada illeum terminalis, Sprue Celiac, Penyakit
 whipple, Amiloidosis, Defisiensi laktase, Sindrom Zollinger-Ellison, Gangguan
 paska gasterektomi, reseksi usus halus atau kolon
-Komplikasi
+
+### Komplikasi
+
 Dehidrasi
 
-101
+## *Plan*
 
-Penatalaksanaan Komprehensif (Plan)
 Penatalaksanaan dapat berupa
+
 1. Pembatasan nutrisi tertentu
 2. Suplemen vitamin dan mineral
 3. Suplemen enzim pencernaan
-Rencana Tindak Lanjut
+
+### Rencana tindak lanjut
+
 Setelah gejala menghilang, makanan yang dicurigai diberikan kembali untuk
 melihat reaksi yang terjadi. Hal ini bertujuan untuk memperoleh penyebab
 intoleransi.
-Konseling dan Edukasi
-Memberi edukasi ke keluarga untuk ikut membantu dalam hal pembatasan
-nutrisi tertentu pada pasien dan mengamati keadaaan pasien selama
-pengobatan.
-Kriteria Rujukan
+
+### Konseling dan edukasi
+
+Memberi edukasi ke keluarga untuk ikut membantu dalam hal pembatasan nutrisi
+tertentu pada pasien dan mengamati keadaaan pasien selama pengobatan.
+
+### Kriteria rujukan
+
 Perlu dilakukan konsultasi ke layanan sekunder bila keluhan tidak menghilang
 walaupun tanpa terpapar.
-Peralatan
+
+### Peralatan
+
 Laboratorium rutin
-Prognosis
+
+## Prognosis
+
 Pada umumnya, prognosis tidak mengancam jiwa, namun fungsionam dan
-sanasionamnya adalah dubia ad bonam karena tergantung pada paparan
-terhadap makanan penyebab.
-Referensi
+sanasionamnya adalah dubia ad bonam karena tergantung pada paparan terhadap
+makanan penyebab.
+
+## Referensi
 1. Syam, Ari Fachrial. Buku Ajar Ilmu Penyakit Dalam. Jilid III. Edisi ke 4.
-Jakarta: FK UI. 2006. Hal 312-3. (Sudoyo, et al., 2006)
+   Jakarta: FK UI. 2006. Hal 312-3. (Sudoyo, et al., 2006)

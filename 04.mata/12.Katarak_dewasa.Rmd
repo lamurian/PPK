@@ -30,7 +30,8 @@ Tingkat Kemampuan
 : H26.9 Cataract, unspecified
 :2
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Katarak adalah kekeruhan pada lensa yang menyebabkan penurunan tajam
 penglihatan (visus). Katarak paling sering berkaitan dengan proses degenerasi
 lensa pada pasien usia di atas 40 tahun (katarak senilis). Selain katarak
@@ -41,7 +42,8 @@ senilis, katarak juga dapat terjadi akibat komplikasi glaukoma, uveitis, trauma
 mata, serta kelainan sistemik seperti diabetes mellitus, riwayat pemakaian obat
 steroid, dan lain-lain. Katarak biasanya terjadi bilateral, namun dapat juga
 pada satu mata (monokular).
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 Pasien datang dengan keluhan penglihatan menurun secara perlahan seperti
 tertutup asap/kabut. Keluhan disertai ukuran kacamata semakin bertambah,
@@ -51,7 +53,8 @@ Faktor Risiko
 2. Riwayat penyakit sistemik, seperti diabetes mellitus
 3. Pemakaian tetes mata steroid secara rutin
 4. Kebiasaan merokok dan pajanan sinar matahari
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Visus menurun yang tidak membaik dengan pemberian pinhole
 2. Pemeriksaan shadow test positif
@@ -62,13 +65,15 @@ dilakukan setelah dilakukan dilatasi pupil dengan tetes mata Tropikamid
 0.5% atau dengan cara memeriksa pasien pada ruang gelap.
 Pemeriksaan Penunjang
 Tidak diperlukan.
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Penegakan diagnosis dilakukan berdasarkan anamnesis dan pemeriksaan
 visus dan pemeriksaan lensa
 Komplikasi
 Glaukoma dan uveitis
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 Pasien dengan katarak yang telah menimbulkan gangguan penglihatan yang
 signifikan dirujuk ke layanan sekunder yang memiliki dokter spesialis mata

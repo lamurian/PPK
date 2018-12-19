@@ -33,13 +33,15 @@ Tingkat Kemampuan
 : S01.1Open wound of eyelid and periocular area
 : 3B
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Laserasi kelopak adalah terpotongnya jaringan pada kelopak mata. Penyebab
 laserasi kelopak dapat berupa sayatan benda tajam, trauma tumpul
 (kecelakaan lalu lintas atau olahraga), maupun gigitan hewan. Laserasi pada
 kelopak perlu ditangani segera agar fungsi dan kosmetik kelopak dapat
 dipertahankan.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 1. Terdapat rasa nyeri periorbita
 2. Perdarahan dan bengkak pada kelopak
@@ -51,7 +53,8 @@ Keluhan
 bola mata
 Faktor Risiko
 Terdapat riwayat trauma tajam maupun tumpul
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Pemeriksaan refleks pupil dan tajam penglihatan
 2. Pemeriksaan mata dengan lup dan senter untuk mengidentifikasi:
@@ -62,14 +65,16 @@ b. Adanya benda asing
 c. Keterlibatan bola mata
 Pemeriksaan Penunjang
 Tidak diperlukan
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Diagnosis ditegakkan melalui anamnesis dan pemeriksaan fisik.
 Diagnosis banding
 Tidak ada
 Komplikasi
 Trauma pada sistem lakrimal
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 1. Bersihkan luka apabila diyakini bola mata intak
 2. Pertimbangkan pemberian profilaksis tetanus

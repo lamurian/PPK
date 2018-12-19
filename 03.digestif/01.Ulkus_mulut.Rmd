@@ -1,7 +1,4 @@
-
 ---
-author: <++>
-title: <++>
 output:
   html_document:
     toc: true
@@ -16,290 +13,240 @@ output:
     highlight: tango
   slidy_presentation:
     highlight: tango
-bibliography: ref.bib
 csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
-<++>
-Ulkus Mulut (Aftosa, Herpes)
+No ICPC-2	: D83. *Mouth / tongue / lip disease*  
+No ICD-10	: 
 
-No ICPC-2
-No ICD-10
+* K12. *Stomatitis and related lesions*  
+* K12.0. *Recurrent oral aphtae*  
+* K12.1. *Other form of stomatitis*  
 
-Tingkat Kemampuan
+**Kompetensi 	: 4A**
 
-: D83. Mouth / tongue / lip disease
-: K12. Stomatitis and related lesions
-K12.0. Recurrent oral aphtae
-K12.1. Other form of stomatitis
-: 4A
+## Masalah Kesehatan
 
-Masalah Kesehatan
-Aftosa / Stomatitis Aftosa Rekurens (SAR)
-Stomatitis aftosa rekurens (SAR) merupakan penyakit mukosa mulut tersering
-dan memiliki prevalensi sekitar 10 – 25% pada populasi. Sebagian besar
-kasus bersifat ringan, self-limiting, dan seringkali diabaikan oleh pasien.
-Namun, SAR juga dapat merupakan gejala dari penyakit-penyakit sistemik,
-seperti penyakit Crohn, penyakit Coeliac, malabsorbsi, anemia defisiensi besi
-atau asam folat, defisiensi vitamin B12, atau HIV. Oleh karenanya, peran
-dokter di pelayanan kesehatan primer dalam mendiagnosis dan
-menatalaksana SAR sangat penting.
-Stomatitis Herpes
+### Aftosa / Stomatitis Aftosa Rekurens (SAR)
+
+Stomatitis aftosa rekurens (SAR) merupakan penyakit mukosa mulut tersering dan
+memiliki prevalensi sekitar 10 – 25% pada populasi. Sebagian besar kasus
+bersifat ringan, self-limiting, dan seringkali diabaikan oleh pasien. Namun,
+SAR juga dapat merupakan gejala dari penyakit-penyakit sistemik, seperti
+penyakit Crohn, penyakit Coeliac, malabsorbsi, anemia defisiensi besi atau asam
+folat, defisiensi vitamin B12, atau HIV. Oleh karenanya, peran dokter di
+pelayanan kesehatan primer dalam mendiagnosis dan menatalaksana SAR sangat
+penting.
+
+### Stomatitis herpes
+
 Stomatitis herpes merupakan inflamasi pada mukosa mulut akibat infeksi virus
 Herpes simpleks tipe 1 (HSV 1). Penyakit ini cukup sering ditemukan pada
-praktik layanan primer sehari-hari. Beberapa diantaranya merupakan
-manifestasi dari kelainan imunodefisiensi yang berat, misalnya HIV. Amat
-penting bagi para dokter di pelayanan kesehatan primer untuk dapat
-mendiagnosis dan memberikan tatalaksana yang tepat dalam kasus stomatitis
-herpes.
-Hasil Anamnesis (Subjective)
-Keluhan
-Aftosa / Stomatitis Aftosa Rekurens (SAR)
+praktik layanan primer sehari-hari. Beberapa diantaranya merupakan manifestasi
+dari kelainan imunodefisiensi yang berat, misalnya HIV. Amat penting bagi para
+dokter di pelayanan kesehatan primer untuk dapat mendiagnosis dan memberikan
+tatalaksana yang tepat dalam kasus stomatitis herpes.
+
+## *Subjective*
+
+### Keluhan
+
+#### SAR
+
 1. Luka yang terasa nyeri pada mukosa bukal, bibir bagian dalam, atau sisi
-lateral dan anterior lidah.
-2. Onset penyakit biasanya dimulai pada usia kanak-kanak, paling sering
-pada usia remaja atau dewasa muda, dan jarang pada usia lanjut.
+   lateral dan anterior lidah.
+2. Onset penyakit biasanya dimulai pada usia kanak-kanak, paling sering pada
+   usia remaja atau dewasa muda, dan jarang pada usia lanjut.
 3. Frekuensi rekurensi bervariasi, namun seringkali dalam interval yang
-cenderung reguler.
+   cenderung reguler.
 4. Episode SAR yang sebelumnya biasanya bersifat self-limiting.
 5. Pasien biasanya bukan perokok atau tidak pernah merokok.
 6. Biasanya terdapat riwayat penyakit yang sama di dalam keluarga.
-7. Pasien biasanya secara umum sehat. Namun, dapat pula ditemukan
-gejala-gejala seperti diare, konstipasi, tinja berdarah, sakit perut berulang,
-lemas, atau pucat, yang berkaitan dengan penyakit yang mendasari.
-
-91
-
+7. Pasien biasanya secara umum sehat. Namun, dapat pula ditemukan gejala-gejala
+   seperti diare, konstipasi, tinja berdarah, sakit perut berulang, lemas, atau
+   pucat, yang berkaitan dengan penyakit yang mendasari.
 8. Pada wanita, dapat timbul saat menstruasi.
-Stomatitis Herpes
+
+#### Stomatitis herpes
+
 1. Luka pada bibir, lidah, gusi, langit-langit, atau bukal, yang terasa nyeri.
 2. Kadang timbul bau mulut.
-3. Dapat disertai rasa lemas (malaise), demam, dan benjolan pada kelenjar
-limfe leher.
+3. Dapat disertai rasa lemas (malaise), demam, dan benjolan pada kelenjar limfe
+   leher.
 4. Sering terjadi pada usia remaja atau dewasa.
 5. Terdapat dua jenis stomatitis herpes, yaitu:
-a. Stomatitis herpes primer,yang merupakan episode tunggal.
-b. Stomatitis herpes rekurens, bila pasien telah mengalami beberapa kali
-penyakit serupa sebelumnya.
-6. Rekurensi dapat dipicu oleh beberapa faktor, seperti: demam, paparan
-sinar matahari, trauma, dan kondisi imunosupresi seperti HIV, penggunaan
-kortikosteroid sistemik, dan keganasan.
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
-Aftosa/Stomatitis Aftosa Rekurens (SAR)
+   * Stomatitis herpes primer,yang merupakan episode tunggal.
+   * Stomatitis herpes rekurens, bila pasien telah mengalami beberapa kali
+     penyakit serupa sebelumnya.
+6. Rekurensi dapat dipicu oleh beberapa faktor, seperti: demam, paparan sinar
+   matahari, trauma, dan kondisi imunosupresi seperti HIV, penggunaan
+   kortikosteroid sistemik, dan keganasan.
+
+## *Objective*
+
+### SAR
+
 Terdapat 3 tipe SAR, yaitu: minor, mayor, dan herpetiform.
-Tabel 3.1 Tampilan klinis ketiga tipe SAR
-Aftosa minor
-Aftosa mayor
 
-Aftosa herpetiform
+![Tabel 3.1 Tampilan klinis ketiga tipe SAR](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/03_01_o_ulkus01.png?raw=true)
 
-Paling sering
-Mukosa non-keratin
-(bukal, sisi dalam bibir,
-sisi lateral dan anterior
-lidah)
-
-Jarang
-Mukosa non-keratin dan
-mukosa mastikatorik (gingiva
-dan sisi dorsum lidah)
-
-Jarang
-Mukosa non-keratin
-
-Satu atau beberapa
-
-Satu atau beberapa
-
-Banyak, bahkan
-hingga ratusan
-
-Dangkal
-
-Lebih dalam dari tipe minor
-
-Dangkal
-
-Bulat, berbatas tegas
-
-Bulat, berbatas tegas
-
-Bulat, namun dapat
-berkonfluensi satu
-sama lain
-membentuk
-tampilan ireguler,
-berbatas tegas
-
-Diameter 5 – 7 mm
-
-Diameter lebih besar dari tipe
-minor
-
-Diameter 1 – 2 mm
-
-Tepi eritematosa
-
-Kadang menyerupai
-keganasan
-
-Mukosa sekitar
-eritematosa
-
-Bagian tengah berwarna
-putih kekuningan
-
-Dapat bertahan beberapa
-minggu hingga bulan
-Dapat temukan skar
-
-92
-
-Pemeriksaan fisik
+#### Pemeriksaan fisik
 1. Tanda anemia (warna kulit, mukosa konjungtiva)
 2. Pemeriksaan abdomen (distensi, hipertimpani, nyeri tekan)
 3. Tanda dehidrasi akibat diare berulang
-Pemeriksaan penunjang yang dapat dilakukan, antara lain:
+
+#### Pemeriksaan penunjang:
+
 1. Darah perifer lengkap
 2. MCV, MCH, dan MCHC
-Stomatitis Herpes
-Pada pemeriksaan fisik, dapat ditemukan:
-1. Lesi berupa vesikel, berbentuk seperti kubah, berbatas tegas, berukuran
-2 – 3 mm, biasanya multipel, dan beberapa lesi dapat bergabung satu
-sama lain.
+
+### Stomatitis herpes
+
+#### Pemeriksaan fisik
+
+1. Lesi berupa vesikel, berbentuk seperti kubah, berbatas tegas, berukuran 2 –
+   3 mm, biasanya multipel, dan beberapa lesi dapat bergabung satu sama lain.
 2. Lokasi lesi dapat di bibir (herpes labialis) sisi luar dan dalam, lidah,
-gingiva, palatum, atau bukal.
+   gingiva, palatum, atau bukal.
 3. Mukosa sekitar lesi edematosa dan hiperemis.
 4. Demam
 5. Pembesaran kelenjar limfe servikal
 6. Tanda-tanda penyakit imunodefisiensi yang mendasari
-Pemeriksaan penunjang
+
+#### Pemeriksaan penunjang
+
 Tidak mutlak dan tidak rutin dilakukan.
-Penegakan Diagnosis (Assessment)
-Aftosa / Stomatitis Aftosa Rekurens (SAR)
-Diagnosis SAR dapat ditegakkan melalui anamnesis dan pemeriksaan fisis.
-Dokter perlu mempertimbangkan kemungkinan adanya penyakit sistemik yang
-mendasari.
-Diagnosis Banding
+
+## *Assessment*
+
+### SAR
+
+Diagnosis SAR dapat ditegakkan melalui anamnesis dan pemeriksaan fisis. Dokter
+perlu mempertimbangkan kemungkinan adanya penyakit sistemik yang mendasari.
+
+#### Diagnosis banding
+
 1. Herpes simpleks
 2. Sindrom Behcet
 3. Hand, foot, and mouth disease
 4. Liken planus
 5. Manifestasi oral dari penyakit autoimun (pemfigus, SLE, Crohn)
 6. Kanker mulut
-Stomatitis Herpes
-Diagnosis stomatitis herpes dapat ditegakkan melalui anamnesis dan
-pemeriksaan fisis.
-Diagnosis banding:
+
+### Stomatitis herpes
+
+Diagnosis stomatitis herpes dapat ditegakkan melalui anamnesis dan pemeriksaan
+fisis.
+
+#### Diagnosis banding:
+
 1. SAR tipe herpetiform
 2. SAR minor multipel
 3. Herpes zoster
 4. Sindrom Behcet
-
-93
-
 5. Hand, foot, and mouth disease
 6. Manifestasi oral dari penyakit autoimun (pemfigus, SLE, Crohn)
-Penatalaksanaan Komprehensif (Plan)
-Aftosa / Stomatitis Aftosa Rekurens (SAR)
+
+## *Plan*
+
+### SAR
+
 Pengobatan yang dapat diberikan untuk mengatasi SAR adalah:
-1. Larutan kumur chlorhexidine 0,2% untuk membersihkan rongga mulut.
-Penggunaan sebanyak 3 kali setelah makan, masing-masing selama 1
-menit.
+
+1. Larutan kumur chlorhexidine 0,2% untuk membersihkan rongga mulut. Penggunaan
+   sebanyak 3 kali setelah makan, masing-masing selama 1 menit.
 2. Kortikosteroid topikal, seperti krim triamcinolone acetonide 0,1% in ora
-base sebanyak 2 kali sehari setelah makan dan membersihkan rongga
-mulut.
-Konseling dan Edukasi
-Pasien perlu menghindari trauma pada mukosa mulut dan makanan atau zat
-dalam makanan yang berpotensi menimbulkan SAR, misalnya: kripik, susu
-sapi, gluten, asam benzoat, dan cuka.
-Kriteria Rujukan
+   base sebanyak 2 kali sehari setelah makan dan membersihkan rongga mulut.
+
+#### Konseling dan edukasi
+
+Pasien perlu menghindari trauma pada mukosa mulut dan makanan atau zat dalam
+makanan yang berpotensi menimbulkan SAR, misalnya: kripik, susu sapi, gluten,
+asam benzoat, dan cuka.
+
+#### Kriteria rujukan
+
 Dokter di pelayanan kesehatan primer perlu merujuk ke layanan sekunder, bila
 ditemukan:
+
 1. Gejala-gejala ekstraoral yang mungkin terkait penyakit sistemik yang
-mendasari, seperti:
-a. Lesi genital, kulit, atau mata
-b. Gangguan gastrointestinal
-c. Penurunan berat badan
-d. Rasa lemah
-e. Batuk kronik
-f. Demam
-g. Limfadenopati, Hepatomegali, Splenomegali
+   mendasari, seperti:
+   * Lesi genital, kulit, atau mata
+   * Gangguan gastrointestinal
+   * Penurunan berat badan
+   * Rasa lemah
+   * Batuk kronik
+   * Demam
+   * Limfadenopati, Hepatomegali, Splenomegali
 2. Gejala dan tanda yang tidak khas, misalnya:
-a. Onset pada usia dewasa akhir atau lanjut
-b. Perburukan dari aftosa
-c. Lesi yang amat parah
-d. Tidak adanya perbaikan dengan tatalaksana kortikosteroid topikal
+   * Onset pada usia dewasa akhir atau lanjut
+   * Perburukan dari aftosa
+   * Lesi yang amat parah
+   * Tidak adanya perbaikan dengan tatalaksana kortikosteroid topikal
 3. Adanya lesi lain pada rongga mulut, seperti:
-a. Kandidiasis
-b. Glositis
-c. Perdarahan, bengkak, atau nekrosis pada gingiva
-d. Leukoplakia
-e. Sarkoma Kaposi
-Stomatitis Herpes
+   * Kandidiasis
+   * Glositis
+   * Perdarahan, bengkak, atau nekrosis pada gingiva
+   * Leukoplakia
+   * Sarkoma Kaposi
+
+### Stomatitis herpes
+
 Penatalaksanaan yang dapat dilakukan yaitu:
-1. Untuk mengurangi rasa nyeri, dapat diberikan analgetik seperti
-Parasetamol atau Ibuprofen. Larutan kumur chlorhexidine 0,2% juga
-memberi efek anestetik sehingga dapat membantu.
 
-94
-
+1. Untuk mengurangi rasa nyeri, dapat diberikan analgetik seperti Parasetamol
+   atau Ibuprofen. Larutan kumur chlorhexidine 0,2% juga memberi efek anestetik
+   sehingga dapat membantu.
 2. Pilihan antivirus yang dapat diberikan, antara lain:
-a. Acyclovir, diberikan per oral, dengan dosis:
- dewasa: 5 kali 200 – 400 mg per hari, selama 7 hari
- anak: 20 mg/kgBB/hari, dibagi menjadi 5 kali pemberian, selama 7
-hari
-b. Valacyclovir, diberikan per oral, dengan dosis:
- dewasa: 2 kali 1 – 2 g per hari, selama 1 hari
- anak : 20 mg/kgBB/hari, dibagi menjadi 5 kali pemberian, selama 7
-hari
-c. Famcyclovir, diberikan per oral, dengan dosis:
- dewasa: 3 kali 250 mg per hari, selama 7 – 10 hari untuk episode
-tunggal 3 kali 500 mg per hari, selama 7 – 10 hari untuk tipe
-rekurens
- anak : Belum ada data mengenai keamanan dan efektifitas
-pemberiannya pada anak-anak
-Dokter perlu memperhatikan fungsi ginjal pasien sebelum memberikan obatobat di atas. Dosis perlu disesuaikan pada pasien dengan penurunan fungsi
-ginjal. Pada kasus stomatitis herpes akibat penyakit sistemik, harus dilakukan
-tatalaksana definitif sesuai penyakit yang mendasari.
-Pencegahan rekurensi pada stomatitis herpes rekurens
-Pencegahan rekurensi dimulai dengan mengidentifikasi faktor-faktor pencetus
-dan selanjutnya melakukan penghindaran. Faktor-faktor yang biasanya
-memicu stomatitis herpes rekurens, antara lain trauma dan paparan sinar
-matahari.
-Peralatan
+	 * Acyclovir, diberikan per oral, dengan dosis:
+	   * dewasa: 5 kali 200 – 400 mg per hari, selama 7 hari
+	   * anak: 20 mg/kgBB/hari, dibagi menjadi 5 kali pemberian, selama 7
+	   hari
+	 * Valacyclovir, diberikan per oral, dengan dosis:
+	 	* dewasa: 2 kali 1 – 2 g per hari, selama 1 hari
+	 	* anak : 20 mg/kgBB/hari, dibagi menjadi 5 kali pemberian, selama 7 hari
+	 * Famcyclovir, diberikan per oral, dengan dosis:
+	 	* dewasa: 3 kali 250 mg per hari, selama 7 – 10 hari untuk episode tunggal 3
+	 		kali 500 mg per hari, selama 7 – 10 hari untuk tipe rekurens
+	 	* anak : Belum ada data mengenai keamanan dan efektifitas pemberiannya pada
+	 		anak-anak
+
+Dokter perlu memperhatikan fungsi ginjal pasien sebelum memberikan obatobat di
+atas. Dosis perlu disesuaikan pada pasien dengan penurunan fungsi ginjal. Pada
+kasus stomatitis herpes akibat penyakit sistemik, harus dilakukan tatalaksana
+definitif sesuai penyakit yang mendasari.
+
+#### Pencegahan rekurensi
+
+Pencegahan rekurensi dimulai dengan mengidentifikasi faktor-faktor pencetus dan
+selanjutnya melakukan penghindaran. Faktor-faktor yang biasanya memicu
+stomatitis herpes rekurens, antara lain trauma dan paparan sinar matahari.
+
+### Peralatan
 1. Kaca mulut
 2. Lampu senter
-Prognosis
-Aftosa / Stomatitis Aftosa Rekurens (SAR)
-1. Ad vitam
-: Bonam
-2. Ad functionam
-: Bonam
-3. Ad sanationam
-: Dubia
-Stomatitis Herpes
-1. Ad vitam
-2. Ad functionam
-3. Ad sanationam
 
-: Bonam
-: Bonam
-: Dubia
+## Prognosis
 
-Referensi
+### SAR
+1. Ad vitam: Bonam
+2. Ad functionam: Bonam
+3. Ad sanationam: Dubia
+
+### Stomatitis herpes
+1. Ad vitam: Bonam
+2. Ad functionam: Bonam
+3. Ad sanationam: Dubia
+
+## Referensi
 1. Cawson, R. & Odell, E., 2002. Diseases of the Oral Mucosa: Non-Infective
-Stomatitis. In Cawson’s Essentials of Oral Pathology and Oral Medicine.
-Spain: Elsevier Science Limited, pp. 192–195. (Cawson & Odell, 2002)
-
-95
-
-2. Scully, C., 1999. Mucosal Disorders. In Handbook of Oral Disease:
-Diagnosis and Management. London: Martin Dunitz Limited, pp. 73–82.
-(Scully, 1999)
-3. Woo, SB & Sonis, S., 1996. Recurrent Aphtous Ulcers: A Review of
-Diagnosis and Treatment. Journal of The American Dental Association,
-127, pp.1202–1213. (Woo & Sonis, 1996)
+	 Stomatitis. In Cawson’s Essentials of Oral Pathology and Oral Medicine.
+	 Spain: Elsevier Science Limited, pp. 192–195. (Cawson & Odell, 2002)
+2. Scully, C., 1999. Mucosal Disorders. In Handbook of Oral Disease: Diagnosis
+	 and Management. London: Martin Dunitz Limited, pp. 73–82. (Scully, 1999)
+3. Woo, SB & Sonis, S., 1996. Recurrent Aphtous Ulcers: A Review of Diagnosis
+	 and Treatment. Journal of The American Dental Association, 127,
+	 pp.1202–1213. (Woo & Sonis, 1996)
 4. Woo, Sook Bin & Greenberg, M., 2008. Ulcerative, Vesicular, and Bullous
-Lesions. In M. Greenberg, M. Glick, & J. A. Ship, eds. Burket’s Oral
-Medicine. Ontario: BC Decker, p. 41. (Woo & Greenberg, 2008)
+	 Lesions. In M. Greenberg, M. Glick, & J. A. Ship, eds. Burket’s Oral
+	 Medicine. Ontario: BC Decker, p. 41. (Woo & Greenberg, 2008)

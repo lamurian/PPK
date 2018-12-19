@@ -30,7 +30,8 @@ Tingkat Kemampuan
 : B16 Acute Hepatitis B
 : 3A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Hepatitis B adalah virus yang menyerang hati, masuk melalui darah ataupun
 cairan tubuh dari seseorang yang terinfeksi. Virus ini tersebar luas di seluruh
 dunia dengan angka kejadian yang berbeda-beda. Tingkat prevalensi hepatitis
@@ -45,7 +46,8 @@ berlangsung kurang dari 6 bulan. Apabila perjalanan penyakit berlangsung
 lebih dari 6 bulan maka kita sebut sebagai hepatitis kronik (5%). Hepatitis B
 kronik dapat berkembang menjadi sirosis hepatis, 10% dari penderita sirosis
 hepatis akan berkembang menjadi hepatoma.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 1. Umumnya tidak menimbulkan gejala terutama pada anak-anak.
 2. Gejala timbul apabila seseorang telah terinfeksi selama 6 minggu, antara
@@ -79,7 +81,8 @@ manusia.
 pemilahan terhadap donor.
 6. Penderita gagal ginjal yang menjalani hemodialisis.
 7. Anak yang dilahirkan oleh ibu yang menderita hepatitis B.
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Konjungtiva ikterik
 2. Pembesaran dan sedikit nyeri tekan pada hati
@@ -93,7 +96,8 @@ Pemeriksaan Penunjang
 SGOT dan SGPT ≥ 2x nilai normal tertinggi, dilakukan pada fasilitas
 primer yang lebih lengkap.
 3. HBsAg (di pelayanan kesehatan sekunder)
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan
 pemeriksaan penunjang.
@@ -102,7 +106,8 @@ Perlemakan hati, penyakit hati oleh karena obat atau toksin, hepatitis
 autoimun, hepatitis alkoholik, obstruksi akut traktus biliaris
 Komplikasi
 Sirosis hepar, Hepatoma
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 1. Asupan kalori dan cairan yang adekuat
 2. Tirah baring

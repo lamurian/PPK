@@ -31,11 +31,13 @@ Tingkat Kemampuan
 : H52.2 Astigmatisme
 : 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Astigmatisme adalah keadaan di mana sinar sejajar tidak dibiaskan pada satu
 titik fokus yang sama pada semua meridian. Hal ini disebabkan oleh
 kelengkungan kornea atau lensa yang tidak sama pada berbagai meridian.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 Pasien biasanya datang dengan keluhan penglihatan kabur dan sedikit distorsi
 yang kadang juga menimbulkan sakit kepala. Pasien memicingkan mata, atau
@@ -43,20 +45,23 @@ head tilt untuk dapat melihat lebih jelas.
 
 177
 
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 Keadaan umum biasanya baik.
 Pemeriksaan visus dengan Snellen Chart akan menunjukkan tajam
 penglihatan tidak maksimal dan akan bertambah baik dengan pemberian
 pinhole.
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Penegakan diagnosis dilakukan berdasarkan anamnesis dan pemeriksaan
 refraksi. Tajam penglihatan akan mencapai maksimal dengan pemberian lensa
 silindris.
 Diagnosis Banding
 Kelainan refraksi lainnya.
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 Penggunaan kacamata lensa silindris dengan koreksi yang sesuai.
 Pemeriksaan Penunjang Lanjutan

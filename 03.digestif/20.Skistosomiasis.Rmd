@@ -31,7 +31,8 @@ Tingkat Kemampuan
 B65.2 Schistomiasis due to S. japonicum
 : 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Skistosoma adalah salah satu penyakit infeksi parasit yang disebabkan oleh
 cacing trematoda dari genus schistosoma (blood fluke). Terdapat tiga spesies
 cacing trematoda utama yang menjadi penyebab skistosomiasis yaitu
@@ -45,7 +46,8 @@ melalui serkaria yang berkembang dari host dan menembus kulit pasien dalam
 air. Skistosomiasis terjadi karena reaksi imunologis terhadap telur cacing yang
 terperangkap dalam jaringan. Prevalensi Schistosomiasis di lembah Napu dan
 danau Lindu berkisar 17% hingga 37%.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 1. Pada fase akut, pasien biasanya datang dengan keluhan demam, nyeri
 kepala, nyeri tungkai, urtikaria, bronkitis, nyeri abdominal. Biasanya
@@ -69,7 +71,8 @@ terpajan dengan air, baik di sawah maupun danau di wilayah tersebut.
 
 154
 
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Pada skistosomiasis akut dapat ditemukan:
 a. Limfadenopati
@@ -86,14 +89,16 @@ d. Intestinal polyposis
 e. Ikterus
 Pemeriksaan Penunjang
 Penemuan telur cacing pada spesimen tinja dan pada sedimen urin.
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Diagnosis ditegakkan dari anamnesis, pemeriksaan fisis dan juga penemuan
 telur cacing pada pemeriksaan tinja dan juga sedimen urin.
 Diagnosis Banding: Komplikasi:
 1. Gagal ginjal
 2. Gagal jantung
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 1. Pengobatan diberikan dengan dua tujuan yakni untuk menyembuhkan
 pasien atau meminimalkan morbiditas dan mengurangi penyebaran

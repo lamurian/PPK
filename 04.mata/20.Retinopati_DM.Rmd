@@ -30,7 +30,8 @@ Tingkat Kemampuan
 : H36.0 Diabetic retinopathy
 :2
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Retinopati diabetik adalah suatu mikroangiopati yang mengenai prekapiler
 retina, kapiler dan venula, sehingga menyebabkan oklusi mikrovaskuler dan
 kebocoran vaskuler, akibat kadar gula darah yang tinggi dan lama. Retinopati
@@ -49,7 +50,8 @@ gangguan penglihatan berat. Setelah 20 tahun, retinopati diabetik dapat
 ditemukan pada 75% lebih penyandang diabetes.
 Terdapat dua tahap retinopati diabetik yaitu non-proliferative diabetic
 retinopathy (NPDR) dan proliferative diabetic retinopathy (PDR).
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 1. Tidak ada keluhan penglihatan
 2. Penglihatan buram terjadi terutama bila terjadi edema makula
@@ -62,7 +64,8 @@ Faktor Risiko
 1. Kadar glukosa darah yang tidak terkontrol dengan baik
 2. Hipertensi yang tidak terkontrol dengan baik
 3. Hiperlipidemia
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Riwayat diabetes mellitus (tipe I / tipe II).
 2. Mata tenang dengan atau tanpa penurunan visus.
@@ -76,7 +79,8 @@ ditemukan RAPD (Relative Aferent Pupilary Defect), serta penurunan
 refleks pupil pada cahaya langsung dan tak langsung normal.
 Pemeriksaan Penunjang
 Tidak ada
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Diagnosis ditegakkan melalui anamnesis dan pemeriksaan fisik, teruttama
 funduskopi.
@@ -91,7 +95,8 @@ Komplikasi
 2. Edema makula diabetik
 3. Ablasio retina traksional
 4. Glaukoma neovaskular
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 1. Setiap pasien yang terdiagnosis diabetes melitus perlu segera dilakukan
 pemeriksaan mata, sekalipun belum ada keluhan mata.
@@ -129,7 +134,8 @@ Referensi
 1. Vaughan, D.G. Oftalmologi Umum. Ed 14. Cetakan I. Jakarta: Widya
 Medika. 2000.
 2. World Health Organization. Global initiative for the elimination of avoidable
-blindness. Action Plan 2006–2011 (World Health Organization, 2012)
+## blindness. Action Plan 
+2006–2011 (World Health Organization, 2012)
 
 205
 

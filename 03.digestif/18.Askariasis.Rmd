@@ -30,7 +30,8 @@ Tingkat Kemampuan
 : B77.9 Ascariaris unspecified
 : 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Askariasis adalah suatu penyakit yang disebabkan oleh infestasi parasit
 Ascaris lumbricoides.
 Di Indonesia prevalensi askariasis tinggi, terutama pada anak. Frekuensinya
@@ -39,7 +40,8 @@ Ascaris lumbricoides.
 
 147
 
-Hasil Anamnesis(Subjective)
+## Hasil Anamnesis(Subjective)
+
 Keluhan
 Nafsu makan menurun, perut membuncit, lemah, pucat, berat badan menurun,
 mual, muntah.
@@ -85,7 +87,8 @@ membawa telur cacing
 
 148
 
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Pemeriksaan tanda vital
 2. Pemeriksaan generalis tubuh: konjungtiva anemis, terdapat tanda-tanda
@@ -94,19 +97,22 @@ Pemeriksaan Penunjang
 Pemeriksaan penunjang untuk penyakit ini adalah dengan melakukan
 pemeriksaan tinja secara langsung. Adanya telur dalam tinja memastikan
 diagnosis Askariasis.
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Penegakan diagnosis dilakukan dengan anamnesis, pemeriksaan fisik dan
 ditemukannya larva atau cacing dalam tinja.
 Diagnosis Banding: jenis kecacingan lainnya
 Komplikasi: anemia defisiensi besi
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 1. Memberi pengetahuan kepada masyarakat akan pentingnya kebersihan
 diri dan lingkungan, antara lain:
 a. Kebiasaan mencuci tangan dengan sabun dan air mengalir
 b. Menutup makanan
-c. Masing-masing keluarga memiliki jamban keluarga
+## c. Masing-masing keluarga memiliki jamban
+ keluarga
 d. Tidak menggunakan tinja sebagai pupuk
 e. Kondisi rumah dan lingkungan dijaga agar tetap bersih dan tidak
 lembab.
@@ -131,7 +137,8 @@ cacing
 Konseling dan Edukasi
 Memberikan informasi kepada pasien dan keluarga mengenai pentingnya
 menjaga kebersihan diri dan lingkungan, yaitu antara lain:
-1. Masing-masing keluarga memiliki jamban keluarga. Sehingga kotoran
+## 1. Masing-masing keluarga memiliki jamban keluarga. Sehingga kotoran
+
 manusia tidak menimbulkan pencemaran pada tanah disekitar lingkungan
 tempat tinggal kita.
 2. Tidak menggunakan tinja sebagai pupuk.

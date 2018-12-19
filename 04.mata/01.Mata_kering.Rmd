@@ -33,7 +33,8 @@ Tingkat Kemampuan
 : H04.1Otherdisorders of lacrimal gland
 : 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Mata kering adalah suatu keadaan keringnya permukaan kornea dan
 konjungtiva yang diakibatkan berkurangnya produksi komponen air mata
 (musin, akueous, dan lipid). Mata kering merupakan salah satu gangguan yang
@@ -41,7 +42,8 @@ sering pada mata dengan insiden sekitar 10-30% dari populasi dan terutama
 dialami oleh wanita berusia lebih dari 40 tahun. Penyebab lain adalah
 meningkatnya evaporasi air mata akibat faktor lingkungan rumah, kantor atau
 akibat lagoftalmus.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 Pasien datang dengan keluhan mata terasa gatal dan seperti berpasir.
 Keluhan dapat disertai sensasi terbakar, merah, perih dan silau. Pasien
@@ -54,7 +56,8 @@ Faktor Risiko
 sarkoidosis, leukemia, limfoma, amiloidosis, dan hemokromatosis
 4. Penggunaan lensa kontak
 5. Penggunaan komputer dalam waktu lama
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Visus normal
 2. Terdapat foamy tears pada konjungtiva forniks
@@ -64,7 +67,8 @@ mm (nilai normal ≥20 mm).
 162
 
 Gambar 4.1. Tes Schirmer
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Diagnosis ditegakkan berdasarkan:
 1. Anamnesis dan pemeriksaan fisik
@@ -74,7 +78,8 @@ Komplikasi
 2. Penipisan kornea
 3. Infeksi sekunder oleh bakteri
 4. Neovaskularisasi kornea
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 Pemberian air mata buatan, yaitu tetes mata karboksimetilselulosa atau
 sodium hialuronat.

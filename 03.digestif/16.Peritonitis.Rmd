@@ -30,13 +30,15 @@ Tingkat Kemampuan
 : K65.9 Peritonitis, unspecified
 : 3B
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Peritonitis adalah inflamasi dari peritoneum. Peritonitis dapat disebabkan oleh
 kelainan di dalam abdomen berupa inflamasi dan penyulitnya misalnya
 perforasi apendisitis, perforasi tukak lambung, perforasi tifus abdominalis. Ileus
 obstruktif dan perdarahan oleh karena perforasi organ berongga karena
 trauma abdomen.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 1. Nyeri hebat pada abdomen yang dirasakan terus-menerus selama
 beberapa jam, dapat hanya di satu tempat ataupun tersebar di seluruh
@@ -48,7 +50,8 @@ terjadi takikardia, hipotensi dan penderita tampak letargik dan syok.
 atau akibat iritasiperitoneum.
 4. Kesulitan bernafas disebabkan oleh adanya cairan dalam abdomen, yang
 dapat mendorong diafragma.
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Pasien tampak letargik dan kesakitan
 2. Dapat ditemukan demam
@@ -74,13 +77,15 @@ muskulus sfingter ani menurun dan ampula rekti berisi udara.
 Pemeriksaan Penunjang
 Pemeriksaan penunjang tidak dilakukan di layanan primer untuk menghindari
 keterlambatan dalam melakukan rujukan.
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Diagnosis ditegakkan berdasar anamnesis dan pemeriksaan fisik dari tandatanda khas yang ditemukan pada pasien.
 Diagnosis Banding: Komplikasi
 1. Septikemia
 2. Syok
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 Pasien segera dirujuk setelah penegakan diagnosis dan penatalaksanaan awal
 seperti berikut:

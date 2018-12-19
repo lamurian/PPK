@@ -30,13 +30,15 @@ Tingkat Kemampuan
 : B15 Acute Hepatitis A
 : 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Hepatitis A adalah infeksi akut di liver yang disebabkan oleh hepatitis A virus
 (HAV), sebuah virus RNA yang disebarkan melalui rute fekal oral. Lebih dari
 75% orang dewasa simtomatik, sedangkan pada anak < 6 tahun 70%
 asimtomatik. Kurang dari 1% penderita hepatitis A dewasa berkembang
 menjadi hepatitis A fulminan.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 1. Demam
 2. Mata dan kulit kuning
@@ -53,7 +55,8 @@ sanitasinya.
 131
 
 2. Menggunakan alat makan dan minum dari penderita hepatitis.
-Hasil pemeriksaan fisik dan penunjang sederhana (Objective)
+## Hasil pemeriksaan fisik dan penunjang sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Febris
 2. Sklera ikterik
@@ -65,7 +68,8 @@ Pemeriksaan Penunjang
 SGOT dan SGPT ≥ 2x nilai normal tertinggi, dilakukan pada fasilitas
 primer yang lebih lengkap.
 3. IgM anti HAV (di layanan sekunder)
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan
 pemeriksaan penunjang.
@@ -73,7 +77,8 @@ Diagnosis Banding
 Ikterus obstruktif, Hepatitis B dan C akut, Sirosis hepatis
 Komplikasi
 Hepatitis A fulminan, Ensefalopati hepatikum, Koagulopati
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 1. Asupan kalori dan cairan yang adekuat
 2. Tirah baring

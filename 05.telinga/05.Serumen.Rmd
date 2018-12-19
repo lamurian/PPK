@@ -31,12 +31,14 @@ Tingkat Kemampuan
 : H61.2 Impacted cerumen
 : 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Serumen adalah sekret kelenjar sebasea, kelenjar seruminosa, epitel kulit
 yang terlepas, dan partikel debu yang terdapat pada bagian kartilaginosa liang
 telinga. Bila serumen ini berlebihan maka dapat membentuk gumpalan yang
 menumpuk di liang telinga, dikenal dengan serumen prop.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 1. Rasa penuh pada telinga
 2. Pendengaran berkurang
@@ -52,14 +54,16 @@ Faktor Risiko
 2. Liang telinga sempit
 3. Produksi serumen banyak dan kering
 4. Kebiasaan mengorek telinga
-Hasil Pemeriksaan Fisik dan penunjang sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan penunjang sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Otoskopi: obstruksi liang telinga luar oleh material berwarna kuning
 kecoklatan atau kehitaman. Konsistensi dari serumen dapat bervariasi.
 2. Tes penala: normal atau tuli konduktif
 Pemeriksaan Penunjang
 Tidak diperlukan pemeriksaan penunjang
-Penegakan diagnostik (Assessment)
+## Penegakan diagnostik (Assessment)
+
 Diagnosis Klinis
 Diagnosis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik.
 Diagnosis Banding
@@ -68,7 +72,8 @@ Komplikasi
 1. Otitis eksterna
 2. Trauma pada liang telinga dan atau membran timpani saat mengeluarkan
 serumen
-Penatalaksanaan komprehensif (Plan)
+## Penatalaksanaan komprehensif (Plan)
+
 Penatalaksanaan
 1. Non-medikamentosa: Evakuasi serumen
 a. Bila serumen lunak, dibersihkan dengan kapas yang dililitkan pada

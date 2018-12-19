@@ -34,11 +34,13 @@ H65.1. Other acure nonsuppurative otitis media
 H66.0 Acute suppurative otitis media
 : 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Otitis media akut (OMA) adalah peradangan sebagian atau seluruh mukosa
 telinga tengah, tuba eustachius, antrum mastoid, dan sel-sel mastoid yang
 terjadi dalam waktu kurang dari 3 minggu.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan (tergantung stadium OMA yang sedang dialami)
 1. Stadium oklusi tuba
 Telinga terasa penuh atau nyeri, pendengaran dapat berkurang.
@@ -62,7 +64,8 @@ Faktor Risiko
 5. Paparan asap rokok
 6. Alergi
 7. Tingkat sosio-ekonomi yang rendah
-Hasil Pemeriksaan Fisik dan penunjang sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan penunjang sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Suhu dapat meningkat
 2. Otoskopi
@@ -99,7 +102,8 @@ memendek pada telinga yang sakit, tes Weber terjadi lateralisasi ke telinga
 yang sakit.
 Pemeriksaan Penunjang
 Audiometri nada murni, bila fasilitas tersedia
-Penegakan Diagnostik(Assessment)
+## Penegakan Diagnostik(Assessment)
+
 Diagnosis Klinis
 Diagnosis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik.
 Diagnosis Banding
@@ -110,7 +114,8 @@ Hidrosefalus otik
 2. Komplikasi ekstra-temporal / intrakranial: Abses subperiosteal, Abses
 epidura, Abses perisinus, Abses subdura, Abses otak, Meningitis,
 Trombosis sinus lateral, Sereberitis
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 1. Medikamentosa
 a. Topikal

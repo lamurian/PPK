@@ -31,7 +31,8 @@ Tingkat Kemampuan
 : T16. Foreign body in ear
 : 3A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Meatus akustikus eksternus (MAE) merupakan salah satu bagian tubuh yang
 sering dimasuki benda asing, yang dapat berupa:
 1. Benda asing reaktif, misal: batere, potongan besi. Benda asing reaktif
@@ -43,7 +44,8 @@ epitel dan tetap ada di dalam MAE tanpa menimbulkan gejala hingga
 terjadi infeksi.
 3. Benda asing serangga, yang dapat menyebabkan iritasi dan nyeri akibat
 pergerakannya.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 1. Riwayat jelas benda asing masuk ke telinga secara sengaja maupun tidak
 2. Telinga terasa tersumbat atau penuh
@@ -57,18 +59,21 @@ Keluhan
 Faktor Risiko
 1. Anak-anak
 2. Retardasi mental
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 Pemeriksaan MAE dengan senter / lampu kepala / otoskop menunjukkan
 adanya benda asing, edema dan hiperemia liang telinga luar, serta dapat
 disertai sekret.
-Penegakan Diagnosis (Assessment)
+## Penegakan Diagnosis (Assessment)
+
 Diagnosis Klinis
 Diagnosis klinis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik.
 Komplikasi
 Ruptur membran timpani, perdarahan liang telinga, otitis eksterna, tuli
 konduktif
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 1. Non-medikamentosa: Ekstraksi benda asing
 a. Pada kasus benda asing yang baru, ekstraksi dilakukan dalam
 anestesi lokal.

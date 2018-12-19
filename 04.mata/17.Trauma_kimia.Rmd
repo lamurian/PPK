@@ -30,7 +30,8 @@ Tingkat Kemampuan
 : T26Burn and corrosion confined to eye and adnexa
 : 3A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Trauma kimia mata adalah salah satu kasus kedaruratan mata, umumnya
 terjadi karena masuknya zat-zat kimia ke jaringan mata dan adneksa di
 sekitarnya. Keadaan ini memerlukan penanganan cepat dan segera oleh
@@ -40,7 +41,8 @@ Trauma basa terjadi dua kali lebih sering dibandingkan trauma asam dan
 umumnya menyebabkan kerusakan yang lebih berat pada mata. Selain itu,
 beratnya kerusakan akibat trauma kimia juga ditentukan oleh besarnya area
 yang terkena zat kimia serta lamanya pajanan.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 1. Mata merah, bengkak dan iritasi
 2. Rasa sakit pada mata
@@ -57,7 +59,8 @@ kimia penyebab trauma, lama kontak dengan zat kimia, tempat dan kronologis
 
 kejadian, adanya kemungkinan kejadian kecelakaan di tempat kerja atau
 tindak kriminal, serta penanganan yang sudah dilakukan sebelumnya.
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 Dengan bantuan senter dan lup, dapat ditemukan kelainan berikut ini:
 1. Hiperemia konjungtiva
@@ -71,7 +74,8 @@ kimia penyebab
 2. Bila kertas lakmus terwarnai biru, maka zat penyebab bersifat basa
 Pemeriksaan Penunjang
 Tidak diperlukan
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Diagnosis ditegakkan melalui anamnesis dan pemeriksaan fisis.
 Komplikasi
@@ -81,7 +85,8 @@ Komplikasi
 4. Entropion
 5. Katarak
 6. Neovaskularisasi kornea
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 1. Segera lakukan irigasi mata yang terkena zat kimia dengan cairan
 mengalir sebanyak mungkin dan nilai kembali dengan kertas lakmus.

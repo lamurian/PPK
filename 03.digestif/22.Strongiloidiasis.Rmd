@@ -30,7 +30,8 @@ Tingkat Kemampuan
 : B78.9 Strongyloidiasis
 : 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Strongiloidiasis adalah penyakit kecacingan yang disebabkan oleh
 Strongyloides stercoralis, cacing yang biasanya hidup di kawasan tropik dan
 subtropik. Sekitar 100 juta orang diperkirakan terkena penyakit ini di seluruh
@@ -38,7 +39,8 @@ dunia. Infeksi cacing ini bisa menjadi sangat berat dan berbahaya pada
 mereka yang dengan status imun menurun seperti pada pasien HIV/AIDS,
 transplantasi organ serta pada pasien yang mendapatkan pengobatan
 kortikosteroid jangka panjang.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 Pada infestasi ringan Strongyloides pada umumnya tidak menimbulkan gejala
 khas.
@@ -57,7 +59,8 @@ Faktor Risiko
 Strongyloides stercoralis.
 3. Penggunaan tinja sebagai pupuk.
 4. Tidak menggunakan alas kaki saat bersentuhan dengan tanah.
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Timbul kelainan pada kulit “creeping eruption” berupa papul eritema yang
 menjalar dan tersusun linear atau berkelok-kelok meyerupai benang
@@ -77,11 +80,13 @@ menemukan cacing dewasa Strongyloides
 darah: dapat ditemukan eosinofilia atau
 pada banyak kasus jumlah sel eosinofilia
 
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Penegakan diagnosis dilakukan dengan anamnesis, pemeriksaan fisik dan
 ditemukannya larva atau cacing dalam tinja.
-Diagnosis Banding: Komplikasi: Penatalaksanaan Komprehensif (Plan)
+## Diagnosis Banding: Komplikasi: Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 1. Menjaga kebersihan diri dan lingkungan, antara lain:
 a. Menggunakan jamban keluarga.

@@ -39,7 +39,8 @@ K62.5 Haemorrhage of anus and rectum
 
 Perdarahan Saluran Cerna Bagian Atas
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Manifestasi perdarahan saluran cerna bervariasi mulai dengan perdarahan
 masif yang mengancam jiwa hingga perdarahan samar yang tidak dirasakan.
 Hematemesis menunjukkan perdarahan dari saluran cerna bagian atas,
@@ -55,7 +56,8 @@ peptik sekitar 10-15% dan karena sebab lainnya <5%. Mortalitas secara
 keseluruhan masih tinggi yaitu sekitar 25%, kematian pada penderita ruptur
 varises bisa mencapai 60% sedangkan kematian pada perdarahan non varises
 sekitar 9-12%.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 Pasien dapat datang dengan keluhan muntah darah berwarna hitam seperti
 bubuk kopi (hematemesis) atau buang air besar berwarna hitam seperti ter
@@ -71,7 +73,8 @@ Faktor Risiko
 Konsumsi obat-obat NSAID
 Faktor Predisposisi
 Riwayat sirosis hepatis
-Hasil pemeriksaan fisik dan penunjang sederhana (Objective)
+## Hasil pemeriksaan fisik dan penunjang sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Penilaian hemodinamik (keadaan sirkulasi)
 2. Evaluasi jumlah perdarahan.
@@ -90,7 +93,8 @@ Pemeriksaan Penunjang di pelayanan kesehatan primer
 
 124
 
-Penegakan diagnostik (Assessment)
+## Penegakan diagnostik (Assessment)
+
 Diagnosis Klinis
 Diagnosis ditegakkan berdasar anamnesis, pemeriksaan fisik dan penunjang.
 Diagnosis Banding
@@ -98,7 +102,8 @@ Hemoptisis, Hematokezia
 Komplikasi
 Syok hipovolemia, Aspirasi pneumonia, Gagal ginjal akut, Anemia karena
 perdarahan
-Penatalaksanaan komprehensif (Plan)
+## Penatalaksanaan komprehensif (Plan)
+
 Penatalaksanaan
 1. Stabilkan hemodinamik.
 a. Pemasangan IV line

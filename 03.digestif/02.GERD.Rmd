@@ -1,7 +1,4 @@
-
 ---
-author: <++>
-title: <++>
 output:
   html_document:
     toc: true
@@ -16,122 +13,113 @@ output:
     highlight: tango
   slidy_presentation:
     highlight: tango
-bibliography: ref.bib
 csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
-<++>
-Refluks Gastroesofageal
+No ICPC-2	: D84 *Oesphagus disease*  
+No ICD-10	: K21.9 *Gastro-oesophageal reflux disease without oesophagitis*  
+**Kompetensi 	: 4A**
 
-No ICPC-2
-No ICD-10
-Tingkat Kemampuan
+## Masalah Kesehatan
 
-: D84 Oesphagus disease
-: K21.9Gastro-oesophageal reflux disease without
-oesophagitis
-: 4A
-
-Masalah Kesehatan
 Gastroesophageal Reflux Disease (GERD) adalah mekanisme refluks melalui
 sfingter esofagus.
-Hasil Anamnesis (Subjective)
-Keluhan
+
+## *Subjective*
+
+### Keluhan
+
 Rasa panas dan terbakar di retrosternal atau epigastrik dan dapat menjalar ke
 leher disertai muntah, atau timbul rasa asam di mulut. Hal ini terjadi terutama
-setelah makan dengan volume besar dan berlemak. Keluhan ini diperberat
-dengan posisi berbaring terlentang. Keluhan ini juga dapat timbul oleh karena
-makanan berupa saos tomat, peppermint, coklat, kopi, dan alkohol. Keluhan
-sering muncul pada malam hari.
-Faktor risiko
+setelah makan dengan volume besar dan berlemak. Keluhan ini diperberat dengan
+posisi berbaring terlentang. Keluhan ini juga dapat timbul oleh karena makanan
+berupa saos tomat, peppermint, coklat, kopi, dan alkohol. Keluhan sering muncul
+pada malam hari.
+
+### Faktor risiko
+
 Usia > 40 tahun, obesitas, kehamilan, merokok, konsumsi kopi, alkohol, coklat,
 makan berlemak, beberapa obat di antaranya nitrat, teofilin dan verapamil,
 pakaian yang ketat, atau pekerja yang sering mengangkat beban berat.
-Hasil Pemeriksaan Fisik dan penunjang sederhana (Objective)
-Pemeriksaan Fisik
-Tidak terdapat tanda spesifik untuk GERD. Tindakan untuk pemeriksaan
-adalah dengan pengisian kuesioner GERD. Bila hasilnya positif, maka
-dilakukan tes dengan pengobatan PPI (Proton Pump Inhibitor).
 
-96
+## *Objective*
 
-Penegakan Diagnostik (Assessment)
-Diagnosis Klinis
-Diagnosis ditegakkan berdasarkan anamnesis yang cermat. Kemudian untuk
-di pelayanan primer, pasien diterapi dengan PPI test, bila memberikan respon
+### Pemeriksaan fisik
+
+Tidak terdapat tanda spesifik untuk GERD. Tindakan untuk pemeriksaan adalah
+dengan pengisian kuesioner GERD. Bila hasilnya positif, maka dilakukan tes
+dengan pengobatan PPI (Proton Pump Inhibitor).
+
+## *Assessment*
+
+### Diagnosis klinis
+
+Diagnosis ditegakkan berdasarkan anamnesis yang cermat. Kemudian untuk di
+pelayanan primer, pasien diterapi dengan PPI test, bila memberikan respon
 positif terhadap terapi, maka diagnosis definitif GERD dapat disimpulkan.
-Standar baku untuk diagnosis definitif GERD adalah dengan endoskopi
-saluran cerna bagian atas yaitu ditemukannya mucosal break di esophagus
-namun tindakan ini hanya dapat dilakukan oleh dokter spesialis yang memiliki
-kompetensi tersebut.
-Diagnosis Banding
+Standar baku untuk diagnosis definitif GERD adalah dengan endoskopi saluran
+cerna bagian atas yaitu ditemukannya mucosal break di esophagus namun tindakan
+ini hanya dapat dilakukan oleh dokter spesialis yang memiliki kompetensi
+tersebut.
+
+### Diagnosis banding
+
 Angina pektoris, Akhalasia, Dispepsia, Ulkus peptik, Ulkus duodenum,
 Pankreatitis
-Komplikasi
-Esofagitis, Ulkus esophagus, Perdarahan esofagus, Striktur esophagus,
-Barret’s esophagus, Adenokarsinoma, Batuk dan asma, Inflamasi faring dan
-laring, Aspirasi paru.
-Penatalaksanaan komprehensif (Plan)
-Penatalaksanaan
-1. Terapi dengan medikamentosa dengan cara memberikan Proton Pump
-Inhibitor (PPI) dosis tinggi selama 7-14 hari. Bila terdapat perbaikan gejala
-yang signifikan (50-75%) maka diagnosis dapat ditegakkan sebagai
-GERD. PPI dosis tinggi berupa omeprazol 2x20 mg/hari dan lansoprazol
-2x 30 mg/hari.
-2. Setelah ditegakkan diagnosis GERD, obat dapat diteruskan sampai 4
-minggu dan boleh ditambah dengan prokinetik seperti domperidon 3x10
-mg.
+
+### Komplikasi
+
+Esofagitis, Ulkus esophagus, Perdarahan esofagus, Striktur esophagus, Barret’s
+esophagus, Adenokarsinoma, Batuk dan asma, Inflamasi faring dan laring,
+Aspirasi paru.
+
+## *Plan*
+
+### Penatalaksanaan
+
+1. Terapi dengan medikamentosa dengan cara memberikan Proton Pump Inhibitor
+   (PPI) dosis tinggi selama 7-14 hari. Bila terdapat perbaikan gejala yang
+   signifikan (50-75%) maka diagnosis dapat ditegakkan sebagai GERD. PPI dosis
+   tinggi berupa omeprazol 2x20 mg/hari dan lansoprazol 2x 30 mg/hari.
+2. Setelah ditegakkan diagnosis GERD, obat dapat diteruskan sampai 4 minggu dan
+   boleh ditambah dengan prokinetik seperti domperidon 3x10 mg.
 3. Pada kondisi tidak tersedianya PPI, maka penggunaan H2 Blocker 2x/hari:
-simetidin 400-800 mg atau ranitidin 150 mg atau famotidin 20 mg.
-ALGORITME TATA LAKSANA GERD PADA
-PELAYANAN KESEHATAN LINI PERTAMA
+   simetidin 400-800 mg atau ranitidin 150 mg atau famotidin 20 mg.
 
-GEJALA KHAS GERD
+![Gambar 3.1 Algoritme tatalaksana GERD (Refluks esofageal)](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/03_02_p_gerd01.png?raw=true)
 
-Gejala alarm
-Umur > 40 th
+Pemeriksaan penunjang dilakukan pada fasilitas layanan sekunder (rujukan) untuk
+endoskopi dan bila perlu biopsi
 
-Tanpa gejala alarm
-Terapi empirik
-Tes PPI
-Respon menetap
+### Konseling dan edukasi
 
-Respon baik
+Edukasi untuk melakukan modifikasi gaya hidup yaitu dengan mengurangi berat
+badan, berhenti merokok, tidak mengkonsumsi zat yang mengiritasi lambung
+seperti kafein, aspirin, dan alkohol. Posisi tidur sebaiknya dengan kepala yang
+lebih tinggi. Tidur minimal setelah 2 sampai 4 jam setelah makanan, makan
+dengan porsi kecil dan kurangi makanan yang berlemak.
 
-Endoskopi
-Terapi min-4 minggu
+### Kriteria rujukan
 
-kambuh
-Konsensus Gerd ,2004
-
-On demand therapy
-
-Gambar 3.1 Algoritme tatalaksana GERD (Refluks esofageal)
-
-97
-
-Pemeriksaan penunjang dilakukan pada fasilitas layanan sekunder (rujukan)
-untuk endoskopi dan bila perlu biopsi
-Konseling dan Edukasi
-Edukasi untuk melakukan modifikasi gaya hidup yaitu dengan mengurangi
-berat badan, berhenti merokok, tidak mengkonsumsi zat yang mengiritasi
-lambung seperti kafein, aspirin, dan alkohol. Posisi tidur sebaiknya dengan
-kepala yang lebih tinggi. Tidur minimal setelah 2 sampai 4 jam setelah
-makanan, makan dengan porsi kecil dan kurangi makanan yang berlemak.
-Kriteria Rujukan
 1. Pengobatan empirik tidak menunjukkan hasil
 2. Pengobatan empirik menunjukkan hasil namun kambuh kembali
 3. Adanya alarm symptom:
-a. Berat badan menurun
-b. Hematemesis melena
-c. Disfagia (sulit menelan)
-d. Odinofagia (sakit menelan)
-e. Anemia
-Peralatan
+   * Berat badan menurun
+   * Hematemesis melena
+   * Disfagia (sulit menelan)
+   * Odinofagia (sakit menelan)
+   * Anemia
+
+### Peralatan
+
 Kuesioner GERD
-Prognosis
+
+## Prognosis
+
 Prognosis umumnya bonam tetapi sangat tergantung dari kondisi pasien saat
 datang dan pengobatannya.
-Referensi
+
+## Referensi
+
 Konsensus Nasional Penatalaksanaan Penyakit Refluks Gastroesofageal
 (Gastroesofageal Reflux Disease/GERD) Indonesia. 2004.

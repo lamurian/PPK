@@ -31,7 +31,8 @@ Tingkat Kemampuan
 B76.1 Necatoriasis
 : 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Penyakit cacing tambang adalah suatu penyakit yang disebabkan oleh
 infestasi parasit Necator americanus dan Ancylostoma duodenale. Di
 Indonesia infeksi oleh N. americanus lebih sering dijumpai dibandingkan
@@ -44,7 +45,8 @@ tanah, mendapat infeksi lebih dari 70%. Dari suatu penelitian diperoleh bahwa
 separuh dari anak-anak yang telah terinfeksi sebelum usia 5 tahun, 90%
 terinfeksi pada usia 9 tahun. Intensitas infeksi meningkat sampai usia 6-7
 tahun dan kemudian stabil.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 Migrasi larva
 1. Sewaktu menembus kulit, bakteri piogenik dapat terikut masuk pada saat
@@ -82,7 +84,8 @@ Faktor Risiko
 2. Kebiasaan menggunakan tinja sebagai pupuk
 3. Tidak menggunakan alas kaki saat bersentuhan dengan tanah
 4. Perilaku hidup bersih dan sehat yang kurang.
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Gejala dan tanda klinis infestasi cacing tambang bergantung pada jenis
 spesies cacing, jumlah cacing, dan keadaan gizi penderita.
 Pemeriksaan Fisik
@@ -92,7 +95,8 @@ kulit, disebut sebagai ground itch.
 Pemeriksaan Penunjang
 Pemeriksaan mikroskopik pada tinja segar ditemukan telur atau larva atau
 cacing dewasa.
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan
 pemeriksaan penunjang.
@@ -100,11 +104,13 @@ Klasifikasi:
 1. Nekatoriasis
 2. Ankilostomiasis
 Diagnosis Banding: Komplikasi: anemia, jika menimbulkan perdarahan.
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 1. Memberi pengetahuan kepada masyarakat akan pentingnya kebersihan
 diri dan lingkungan, antara lain:
-a. Masing-masing keluarga memiliki jamban keluarga.
+## a. Masing-masing keluarga memiliki jamban
+ keluarga.
 b. Tidak menggunakan tinja sebagai pupuk
 c. Menggunakan alas kaki, terutama saat berkontak dengan tanah.
 

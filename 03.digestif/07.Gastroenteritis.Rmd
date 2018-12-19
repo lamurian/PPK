@@ -32,7 +32,8 @@ Tingkat Kemampuan
 infection origin
 : 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Gastroenteritis (GE) adalah peradangan mukosa lambung dan usus halus
 yang ditandai dengan diare dengan frekuensi 3 kali atau lebih dalam waktu 24
 jam. Apabila diare > 30 hari disebut kronis. WHO (World Health Organization)
@@ -50,7 +51,8 @@ alergi makanan dan psikologis penderita.
 Infeksi yang menyebabkan GE akibat Entamoeba histolytica disebut disentri,
 bila disebabkan oleh Giardia lamblia disebut giardiasis, sedangkan bila
 disebabkan oleh Vibrio cholera disebut kolera.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 Pasien datang ke dokter karena buang air besar (BAB) lembek atau cair, dapat
 bercampur darah atau lendir, dengan frekuensi 3 kali atau lebih dalam waktu
@@ -86,7 +88,8 @@ Faktor Risiko
 1. Higiene pribadi dan sanitasi lingkungan yang kurang.
 2. Riwayat intoleransi laktosa, riwayat alergi obat.
 3. Infeksi HIV atau infeksi menular seksual.
-Hasil Pemeriksaan Fisik dan penunjang sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan penunjang sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Pada pemeriksaan fisik perlu diperiksa: berat badan, suhu tubuh, frekuensi
 denyut jantung dan pernapasan serta tekanan darah.
@@ -312,7 +315,8 @@ lebih tanda lain
 Rencana Terapi C
 
 Rencana terapi A, B, dan C dapat dilihat pada lampiran 6, 7, 8
-Penegakan Diagnosis (Assessment)
+## Penegakan Diagnosis (Assessment)
+
 Diagnosis Klinis
 Diagnosis ditegakkan berdasarkan anamnesis (BAB cair lebih dari 3 kali
 sehari) dan pemeriksaan fisik (ditemukan tanda-tanda hipovolemik dan
@@ -321,7 +325,8 @@ pemeriksaan penunjang.
 Diagnosis Banding
 Demam tifoid, Kriptosporidia (pada penderita HIV), Kolitis pseudomembran
 Komplikasi: Syok hipovolemik
-Penatalaksanaan komprehensif (Plan)
+## Penatalaksanaan komprehensif (Plan)
+
 Penatalaksanaan pada Pasien Dewasa
 Pada umumnya diare akut bersifat ringan dan sembuh cepat dengan
 sendirinya melalui rehidrasi dan obat antidiare, sehingga jarang diperlukan

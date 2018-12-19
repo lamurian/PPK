@@ -34,7 +34,8 @@ H66.2. Chronic atticoantral suppurative otitis media
 H66.3. Other chronic suppurative otitis media
 : 3A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Survei Nasional Kesehatan Indra Penglihatan dan Pendengaran (1993-1996)
 di 8 provinsi Indonesia menunjukkan angka morbiditas THT sebesar 38,6%.
 Otitis media supuratif kronik merupakan penyebab utama gangguan
@@ -49,7 +50,8 @@ kolesteatoma).
 
 213
 
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 1. Keluar cairan dari liang telinga secara terus menerus atau hilang timbul
 lebih dari 2 bulan
@@ -60,7 +62,8 @@ jernih / berbau
 Faktor Risiko
 Higienitas kurang dan gizi buruk, infeksi saluran nafas atas berulang, daya
 tahan tubuh yang rendah, dan penyelam.
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 Otoskopi:
 1. OMSK tipe aman (tubotimpani)
@@ -78,7 +81,8 @@ Pemeriksaan Penunjang
 dialami pasien
 2. Audiometri nada murni
 3. Foto mastoid (bila tersedia)
-Penegakan Diagnosis (Assessment)
+## Penegakan Diagnosis (Assessment)
+
 Diagnosis Klinis
 Diagnosis ditegakkan berdasarkan anamnesis dan pemeriksaan fisis.
 Komplikasi
@@ -89,7 +93,8 @@ otak), Trombosis sinus lateralis, Sereberitis
 
 214
 
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 1. Non-Medikamentos
 Membersihkan dan mengeringkan saluran telinga dengan kapas lidi atau
 cotton bud. Obat cuci telinga dapat berupa NaCl 0,9%, Asam Asetat 2%,

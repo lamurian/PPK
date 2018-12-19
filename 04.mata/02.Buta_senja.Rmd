@@ -31,14 +31,16 @@ Tingkat Kemampuan
 : H53.6 Night blindness
 : 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Buta senja atau rabun senja, disebut juga nyctalopia atau hemarolopia, adalah
 ketidakmampuan untuk melihat dengan baik pada malam hari atau pada
 keadaan gelap. Kondisi ini lebih merupakan tanda dari suatu kelainan yang
 mendasari. Hal ini terjadi akibat kelainan pada sel batang retina yang berperan
 pada penglihatan gelap. Penyebab buta senja adalah defisiensi vitamin A dan
 retinitis pigmentosa.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 Penglihatan menurun pada malam hari atau pada keadaan gelap, sulit
 beradaptasi pada cahaya yang redup. Pada defisiensi vitamin A, buta senja
@@ -46,7 +48,8 @@ merupakan keluhan paling awal.
 
 164
 
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 Dapat ditemukan tanda-tanda lain defisiensi vitamin A:
 1. Kekeringan (xerosis) konjungtiva bilateral
@@ -57,10 +60,12 @@ Dapat ditemukan tanda-tanda lain defisiensi vitamin A:
 6. Nekrosis kornea difus atau keratomalasia
 Pemeriksaan Penunjang
 Tidak diperlukan.
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Diagnosis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik.
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 1. Pada defisiensi vitamin A, diberikan vitamin A dosis tinggi.
 2. Lubrikasi kornea.

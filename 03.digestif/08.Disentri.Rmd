@@ -31,12 +31,14 @@ Tingkat Kemampuan
 : A06.0 Acute amoebic dysentery
 : 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Disentri merupakan tipe diare yang berbahaya dan seringkali menyebabkan
 kematian dibandingkan dengan tipe diare akut yang lain.
 Penyakit ini dapat disebabkan oleh bakteri disentri basiler yang disebabkan
 oleh shigellosis dan amoeba (disentri amoeba).
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 1. Sakit perut terutama sebelah kiri dan buang air besar encer secara terus
 menerus bercampur lendir dan darah
@@ -47,7 +49,8 @@ dysentriae dengan gejalanya timbul mendadak dan berat, dan dapat
 meninggal bila tidak cepat ditolong.
 Faktor Risiko
 Higiene pribadi dan sanitasi lingkungan yang kurang.
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 Pada pemeriksaan fisik dapat ditemukan:
 1. Febris
@@ -56,7 +59,8 @@ Pada pemeriksaan fisik dapat ditemukan:
 4. Tenesmus
 Pemeriksaan Penunjang
 Pemeriksaan tinja secara langsung terhadap kuman penyebab.
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan
 pemeriksaan penunjang.
@@ -73,7 +77,8 @@ Komplikasi
 3. Hipoglikemia berat
 4. Komplikasi intestinal seperti toksik megakolon, prolaps rektal, peritonitis
 dan perforasi
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 1. Mencegah terjadinya dehidrasi
 2. Tirah baring

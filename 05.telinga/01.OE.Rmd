@@ -31,7 +31,8 @@ Tingkat Kemampuan
 : H60.9.Otitis externa, unspecified
 : 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Otitis eksterna adalah radang pada liang telinga luar. Penyakit ini banyak
 ditemukan di layanan kesehatan primer sehingga dokter di pelayanan
 kesehatan primer harus memiliki kemampuan mendiagnosis dan
@@ -45,7 +46,8 @@ furunkel di liang telinga luar.
 3. OE ekzematoid, yang merupakan manifestasi dari kelainan dermatologis,
 seperti dermatitis atopik, psoriasis, atau SLE.
 4. OE nekrotikans
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 1. Rasa sakit pada telinga (otalgia), yang bervariasi dari ringan hingga hebat,
 terutama saat daun telinga disentuh dan mengunyah
@@ -67,7 +69,8 @@ atopik, SLE, HIV.
 
 207
 
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Nyeri tekan pada tragus
 2. Nyeri tarik daun telinga
@@ -79,7 +82,8 @@ b. OE akut sirkumskripta: furunkel pada liang telinga luar
 4. Tes garputala: Normal atau tuli konduktif
 Pemeriksaan Penunjang
 Tidak diperlukan
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Diagnosis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik.
 Diagnosis Banding
@@ -87,7 +91,8 @@ Perikondritis yang berulang, Kondritis, Otomikosis
 Komplikasi
 Jika pengobatan tidak adekuat, dapat timbul abses, infeksi kronik liang telinga,
 jaringan parut, dan stenosis liang telinga.
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 1. Non-medikamentosa:
 a. Membersihkan liang telinga secara hati-hati dengan pengisap atau

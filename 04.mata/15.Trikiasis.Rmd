@@ -30,7 +30,8 @@ Tingkat Kemampuan
 : H02. Entropion and trichiasis of eyelid
 : 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Trikiasis adalah kondisi di mana bulu mata tumbuh mengarah ke dalam, yaitu
 ke arah permukaan bola mata, sehingga dapat menggores kornea atau
 konjungtiva dan menyebabkan berbagai komplikasi, seperti nyeri, erosi, infeksi,
@@ -39,7 +40,8 @@ tidak ada. Dokter di pelayanan kesehatan primer harus memiliki kompetensi
 menangani kasus trikiasis karena pasien-pasien yang mengalami tanda
 maupun komplikasi dari trikiasis sangat mungkin mencari pertolongan di
 layanan primer terlebih dahulu.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 1. Keluhan pasien dapat bermacam-macam, misalnya: mata berair, rasa
 mengganjal, silau bila terpapar cahaya, atau kelilipan. Penglihatan dapat
@@ -51,7 +53,8 @@ misalnya: blefaritis, trakoma, trauma mekanik atau kimiawi, herpes zoster
 oftalmik, dan berbagai kelainan yang menyebabkan timbulnya sikatriks dan
 entropion.
 5. Keluhan dapat dialami oleh pasien dari semua kelompok usia.
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 1. Beberapa atau seluruh bulu mata berkontak dengan permukaan bola
 mata.
 2. Dapat ditemukan entropion, yaitu terlipatnya margo palpebra ke arah
@@ -67,12 +70,14 @@ kornea.
 6. Bila terdapat ulkus pada kornea, uji fluoresein akan memberi hasil positif.
 7. Pemeriksaan harus dilakukan pada kedua mata, terlepas dari ada tidaknya
 keluhan.
-Penegakan Diagnosis (Assessment)
+## Penegakan Diagnosis (Assessment)
+
 Diagnosis trikiasis ditegakkan melalui anamnesis dan pemeriksaan fisis
 sebagaimana disebutkan sebelumnya. Tes fluoresens dapat menunjukkan
 erosi atau ulkus kornea.
 Diagnosis banding: Penyebab inflamasi lain pada mata
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 1. Non-medikamentosa
 Epilasi, yaitu pencabutan bulu mata dengan pinset. Hal ini bertujuan

@@ -30,7 +30,8 @@ Tingkat Kemampuan
 : H52.4 Presbyopia
 : 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Presbiopia adalah suatu kondisi yang berhubungan dengan usia dimana
 penglihatan kabur ketika melihat objek berjarak dekat. Presbiopia merupakan
 proses degeneratif mata yang pada umumnya dimulai sekitar usia 40 tahun.
@@ -39,7 +40,8 @@ kemampuan untuk berubah bentuk.
 
 182
 
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 1. Penglihatan kabur ketika melihat dekat.
 2. Gejala lainnya, setelah membaca mata terasa lelah, berair, dan sering
@@ -49,7 +51,8 @@ terasa perih.
 lebih terang untuk membaca.
 Faktor Risiko
 Usia lanjut umumnya lebih dari 40 tahun.
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Pemeriksaan refraksi untuk penglihatan jarak jauh dengan menggunakan
 Snellen Chart dilakukan terlebih dahulu.
@@ -60,10 +63,12 @@ menyebutkan kalimat hingga kalimat terkecil yang terbaca pada kartu.
 Target koreksi sebesar 20/30.
 Pemeriksaan Penunjang
 Tidak diperlukan
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Penegakan diagnosis berdasarkan anamnesis dan pemeriksaan fisik.
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 Koreksi kacamata lensa positif
 Tabel 4.1 Koreksi lensa positif disesuaikan usia

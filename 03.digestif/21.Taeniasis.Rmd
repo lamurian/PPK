@@ -30,7 +30,8 @@ Tingkat Kemampuan
 : B68.9 Taeniasis
 : 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Taeniasis adalah penyakit zoonosis parasiter yang disebabkan oleh cacing pita
 yang tergolong dalam genus Taenia (Taenia saginata, Taenia solium, dan
 Taenia asiatica) pada manusia.
@@ -44,7 +45,8 @@ berperan penting dalam penularan cacing Taenia solium. Untuk T. solium
 terdapat komplikasi berbahaya yakni sistiserkosis. Sistiserkosis adalah kista
 T.solium yang bisa ditemukan di seluruh organ, namun yang paling berbahaya
 jika terjadi di otak.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 Gejala klinis taeniasis sangat bervariasi dan tidak khas. Sebagian kasus tidak
 menunjukkan gejala (asimptomatis). Gejala klinis dapat timbul sebagai akibat
@@ -68,7 +70,8 @@ Faktor Risiko
 mengandung larva sistiserkosis.
 2. Higiene yang rendah dalam pengolahan makanan bersumber daging.
 3. Ternak yang tidak dijaga kebersihan kandang dan makanannya.
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Pemeriksaan tanda vital.
 2. Pemeriksaan generalis: nyeri ulu hati, ileus juga dapat terjadi jika cacing
@@ -79,12 +82,14 @@ spesimen tinja segar.
 2. Secara makroskopik dengan menemukan proglotid pada tinja.
 3. Pemeriksaan laboratorium darah tepi: dapat ditemukan eosinofilia,
 leukositosis, LED meningkat.
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan
 pemeriksaan penunjang.
 Diagnosis Banding:Komplikasi: Sistiserkosis
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 1. Menjaga kebersihan diri dan lingkungan, antara lain:
 a. Mengolah daging sampai matang dan menjaga kebersihan hewan

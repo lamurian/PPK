@@ -30,14 +30,16 @@ Tingkat Kemampuan
 : K81.9 Cholecystitis, unspecified
 : 3B
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Kolesistitis adalah reaksi inflamasi akut atau kronis dinding kandung empedu.
 Faktor yang mempengaruhi timbulnya serangan kolesistitis adalah stasis
 cairan empedu, infeksi kuman dan
 iskemia dinding kandung empedu.
 Penyebab utama kolesistitis akut adalah batu kandung empedu (90%) yang
 terletak di duktus sistikus yang menyebabkan stasis cairan empedu.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 Kolesistitis akut:
 1. Demam
@@ -61,14 +63,16 @@ Faktor Risiko
 2. Usia >40 tahun
 3. Sering mengkonsumsi makanan berlemak
 4. Adanya riwayat kolesistitis akut sebelumnya.
-Hasil Pemeriksaan dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Ikterik bila penyebab adanya batu di saluran empedu ekstrahepatik
 2. Teraba massa kandung empedu
 3. Nyeri tekan disertai tanda-tanda peritonitis lokal, tanda Murphy positif
 Pemeriksaan Penunjang
 Laboratorium darah menunjukkan adanya leukositosis
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan
 pemeriksaan laboratorium.
@@ -77,7 +81,8 @@ Angina pektoris, Apendisitis akut, Ulkus peptikum perforasi, Pankreatitis akut
 Komplikasi
 Gangren atau empiema kandung empedu, Perforasi kandung empedu,
 Peritonitis umum, Abses hepar
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 1. Tirah baring
 2. Puasa

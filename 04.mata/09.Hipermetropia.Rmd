@@ -31,12 +31,14 @@ Tingkat Kemampuan
 : H52.0 Hypermetropia
 : Hipermetropia ringan 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Hipermetropia (rabun dekat) merupakan keadaan gangguan kekuatan
 pembiasan mata dimana sinar sejajar jauh tidak cukup kuat dibiaskan
 sehingga titik fokusnya terletak di belakang retina. Kelainan ini menyebar
 merata di berbagai geografis, etnis, usia dan jenis kelamin.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 1. Penglihatan kurang jelas untuk objek yang dekat.
 2. Sakit kepala terutama daerah frontal dan makin kuat pada penggunaan
@@ -48,7 +50,8 @@ menonton TV dan lain-lain.
 4. Spasme akomodasi yang dapat menimbulkan pseudomiopia. Mata juling
 dapat terjadi karena akomodasi yang berlebihan akan diikuti konvergensi
 yang berlebihan pula.
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 Pemeriksaan visus dengan Snellen Chart
 Pemeriksaan refraksi dengan trial lens dan trial frame
@@ -57,7 +60,8 @@ Pemeriksaan refraksi dengan trial lens dan trial frame
 
 Pemeriksaan Penunjang
 Tidak diperlukan
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Penegakan diagnosis dengan anamnesis dan pemeriksaan refraksi.
 Komplikasi
@@ -66,7 +70,8 @@ akomodasi
 2. Glaukoma sekunder terjadi akibat hipertrofi otot siliar pada badan siliar
 yang akan mempersempit sudut bilik mata
 3. Ambliopia
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 Koreksi dengan lensa sferis positif terkuat yang menghasilkan tajam
 penglihatan terbaik.

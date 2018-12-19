@@ -30,7 +30,8 @@ Tingkat Kemampuan
 : K.35.9 (Acute appendicitis)
 : 3B
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Apendisitis akut adalah radang yang timbul secara mendadak pada apendik,
 merupakan salah satu kasus akut abdomen yang paling sering ditemui, dan
 jika tidak ditangani segera dapat menyebabkan perforasi.
@@ -41,7 +42,8 @@ Penyebab:
 
 2. Erosi mukosa usus karena parasit Entamoeba hystolitica dan benda asing
 lainnya
-Hasil Anamnesis(Subjective)
+## Hasil Anamnesis(Subjective)
+
 Keluhan
 Nyeri perut kanan bawah, mula-mula daerah epigastrium kemudian menjalar
 ke Mc Burney. Apa bila telah terjadi inflamasi (>6 jam) penderita dapat
@@ -66,7 +68,8 @@ daerah tersebut, apendiks retrosekal akan menyebabkan nyeri flank atau
 punggung, apendiks pelvikal akan menyebabkan nyeri pada supra pubik
 dan apendiks retroileal bisa menyebabkan nyeri testikuler, mungkin karena
 iritasi pada arteri spermatika dan ureter.
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 Inspeksi
 1. Penderita berjalan membungkuk sambil memegangi perutnya yang sakit
@@ -139,7 +142,8 @@ g. Foto polos abdomen supine pada abses appendik kadang-kadang
 memberi pola bercak udara dan air fluid level pada posisi berdiri/LLD
 (dekubitus), kalsifikasi bercak rim-like (melingkar) sekitar perifer
 mukokel yang asalnya dari appendik.
-Penegakan Diagnostik(Assessment)
+## Penegakan Diagnostik(Assessment)
+
 Diagnosis Klinis
 Riwayat penyakit dan pemeriksaan fisik masih merupakan dasar diagnosis
 apendisitis akut.
@@ -152,7 +156,8 @@ Diagnosis Banding
 6. Cystitis
 7. Kehamilan Ektopik Terganggu (KET)
 8. Salpingitis akut
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Pasien yang telah terdiagnosis apendisitis akut harus segera dirujuk ke
 layanan sekunder untuk dilakukan operasi cito.
 Penatalaksanaan di pelayanan kesehatan primer sebelum dirujuk:

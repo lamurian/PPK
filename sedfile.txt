@@ -1,0 +1,10 @@
+/Mas.*an/s/^/## /
+s/Mas.*an/&\n/
+/Subj.*/s/^/## /
+s/Subj.*/&\n/
+/Obj.*/s/^/## /
+s/Obj.*/&\n/
+/Ass.*nt/s/^/## /
+s/Ass.*nt)/&\n/
+/Plan/s/^/## /
+s/Plan./&\n/

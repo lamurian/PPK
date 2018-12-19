@@ -31,7 +31,8 @@ Tingkat Kemampuan
 : A01.0 Typhoid fever
 : 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Demam tifoid banyak ditemukan di masyarakat perkotaan maupun di
 pedesaan. Penyakit ini erat kaitannya dengan kualitas higiene pribadi dan
 
@@ -45,7 +46,8 @@ penduduk dan angka kematian antara 0.6–5% (KMK, 2006). Selain tingkat
 insiden yang tinggi, demam tifoid terkait dengan berbagai aspek permasalahan
 lain, misalnya: akurasi diagnosis, resistensi antibiotik dan masih rendahnya
 cakupan vaksinasi demam tifoid.
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 1. Demam turun naik terutama sore dan malam hari dengan pola intermiten
 dan kenaikan suhu step-ladder. Demam tinggi dapat terjadi terus menerus
@@ -67,7 +69,8 @@ lalat.
 4. Adanya outbreak demam tifoid di sekitar tempat tinggal sehari-hari.
 5. Adanya carrier tifoid di sekitar pasien.
 6. Kondisi imunodefisiensi.
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Keadaan umum biasanya tampak sakit sedang atau sakit berat.
 2. Kesadaran: dapat compos mentis atau penurunan kesadaran (mulai dari
@@ -145,7 +148,8 @@ kadar lipase dan amilase
 
 106
 
-Penegakan Diagnosis (Assessment)
+## Penegakan Diagnosis (Assessment)
+
 Suspek demam tifoid (Suspect case)
 Dari anamnesis dan pemeriksaan fisik didapatkan gejala demam, gangguan
 saluran cerna dan petanda gangguan kesadaran. Diagnosis suspek tifoid
@@ -183,7 +187,8 @@ amilase. Tanda ini dapat dibantu dengan USG atau CT Scan.
 6. Pneumonia
 Didapatkan tanda pneumonia yang diagnosisnya dibantu dengan foto
 polos toraks
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 1. Terapi suportif dapat dilakukan dengan:
 a. Istirahat tirah baring dan mengatur tahapan mobilisasi

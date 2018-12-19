@@ -30,7 +30,8 @@ Tingkat Kemampuan
 : H15.1. Episcleritis
 : 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Episkleritis merupakan reaksi radang pada episklera, yaitu jaringan ikat
 vaskular yang terletak di antara konjungtiva dan permukaan sklera. Penyakit
 ini termasuk dalam kelompok “mata merah dengan penglihatan normal”. Tidak
@@ -39,7 +40,8 @@ Episkleritis umumnya terjadi pada usia 20-50 tahun dan membaik dalam
 beberapa hari sampai beberapa minggu. Umumnya, episkleritis bersifat ringan,
 namun dapat pula merupakan tanda adanya penyakit sistemik, seperti
 tuberkulosis, reumatoid artritis, dan systemic lupus erythematosus (SLE).
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 1. Mata merah merupakan gejala utama atau satu-satunya
 2. Tidak ada gangguan dalam ketajaman penglihatan
@@ -57,7 +59,8 @@ minggu hingga beberapa bulan
 6. Dapat ditemukan gejala-gejala terkait penyakit dasar, di antaranya:
 tuberkulosis, reumatoid artritis, SLE, alergi (misal: eritema nodosum), atau
 dermatitis kontak
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Episkleritis terbagi menjadi dua tipe, yaitu nodular dan simpel. Secara umum,
 tanda dari episkleritis adalah:
 1. Kemerahan hanya melibatkan satu bagian dari area episklera. Pada
@@ -85,7 +88,8 @@ nodular daripada simpel.
 (b)
 
 Gambar 4.5 Tampilan episkleritis simpel (a) dan nodular (b)
-Penegakan Diagnosis (Assessment)
+## Penegakan Diagnosis (Assessment)
+
 Diagnosis dapat ditegakkan dengan anamnesis dan pemeriksaan fisis
 sebagaimana dijelaskan dalam bagian sebelumnya.
 
@@ -99,7 +103,8 @@ Fenil Efrin 2,5% (tetes mata), yang merupakan vasokonstriktor. Pada
 episkleritis, penetesan Fenil Efrin 2,5% akan mengecilkan kongesti dan
 mengurangi kemerahan (blanching / memucat); sedangkan pada skleritis
 kemerahan menetap.
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan
 1. Non-medikamentosa
 a. Bila terdapat riwayat yang jelas mengenai paparan zat eksogen,

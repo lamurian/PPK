@@ -1,7 +1,4 @@
-
 ---
-author: <++>
-title: <++>
 output:
   html_document:
     toc: true
@@ -20,33 +17,28 @@ bibliography: ref.bib
 csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
-<++>
-Gastritis
+No ICPC-2	: D07 *Dyspepsia/indigestion*  
+No ICD-10	: K29.7 *Gastritis, unspecified*  
+**Kompetensi	: 4A**
 
-No ICPC-2
-No ICD-10
-Tingkat Kemampuan
+## Masalah Kesehatan
 
-: D07 Dyspepsia/indigestion
-: K29.7 Gastritis, unspecified
-: 4A
+Gastritis adalah proses inflamasi pada lapisan mukosa dan submukosa lambung
+sebagai mekanisme proteksi mukosa apabila terdapat akumulasi bakteri atau bahan
+iritan lain. Proses inflamasi dapat bersifat akut, kronis, difus, atau lokal.
 
-Masalah Kesehatan
-Gastritis adalah proses inflamasi pada lapisan mukosa dan submukosa
-lambung sebagai mekanisme proteksi mukosa apabila terdapat akumulasi
-bakteri atau bahan iritan lain. Proses inflamasi dapat bersifat akut, kronis,
-difus, atau lokal.
+## *Subjective*
 
-98
+### Keluhan
 
-Hasil Anamnesis (Subjective)
-Keluhan
-Pasien datang ke dokter karena rasa nyeri dan panas seperti terbakar pada
-perut bagian atas. Keluhan mereda atau memburuk bila diikuti dengan makan,
-mual, muntah dan kembung.
-Faktor Risiko
-1. Pola makan yang tidak baik: waktu makan terlambat, jenis makanan
-pedas, porsi makan yang besar
+Pasien datang ke dokter karena rasa nyeri dan panas seperti terbakar pada perut
+bagian atas. Keluhan mereda atau memburuk bila diikuti dengan makan, mual,
+muntah dan kembung.
+
+### Faktor risiko
+
+1. Pola makan yang tidak baik: waktu makan terlambat, jenis makanan pedas,
+   porsi makan yang besar
 2. Sering minum kopi dan teh
 3. Infeksi bakteri atau parasit
 4. Pengunaan obat analgetik dan steroid
@@ -54,62 +46,83 @@ pedas, porsi makan yang besar
 6. Alkoholisme
 7. Stress
 8. Penyakit lainnya, seperti: penyakit refluks empedu, penyakit autoimun,
-HIV/AIDS, Chron disease
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
-Pemeriksaan Fisik Patognomonis
+   HIV/AIDS, Chron disease
+
+## *Objective*
+
+### Pemeriksaan fisik
+
 1. Nyeri tekan epigastrium dan bising usus meningkat.
 2. Bila terjadi proses inflamasi berat, dapat ditemukan pendarahan saluran
-cerna berupa hematemesis dan melena.
+   cerna berupa hematemesis dan melena.
 3. Biasanya pada pasien dengan gastritis kronis, konjungtiva tampak anemis.
-Pemeriksaan Penunjang
-Tidak diperlukan, kecuali pada gastritis kronis dengan melakukan
-pemeriksaan:
+
+### Pemeriksaan penunjang
+
+Tidak diperlukan, kecuali pada gastritis kronis dengan melakukan pemeriksaan:
+
 1. Darah rutin.
-2. Untuk mengetahui infeksi Helicobacter pylori: pemeriksaan Urea breath
-test dan feses.
+2. Untuk mengetahui infeksi Helicobacter pylori: pemeriksaan Urea breath test
+   dan feses.
 3. Rontgen dengan barium enema.
 4. Endoskopi
-Penegakan Diagnosis (Assessment)
-Diagnosis Klinis
+
+## *Assessment*
+
+### Diagnosis klinis
+
 Diagnosis ditegakkan berdasarkan anamnesis dan pemeriksaan fisik. Untuk
 diagnosis definitif dilakukan pemeriksaan penunjang.
-Diagnosis Banding
+
+### Diagnosis banding
+
 1. Kolesistitis
 2. Kolelitiasis
-3. Chron disease
+3. Crohn's disease
 4. Kanker lambung
 5. Gastroenteritis
 6. Limfoma
-
-99
-
 7. Ulkus peptikum
 8. Sarkoidosis
 9. GERD
-Komplikasi
+
+### Komplikasi
+
 1. Pendarahan saluran cerna bagian atas
 2. Ulkus peptikum
 3. Perforasi lambung
 4. Anemia
-Penatalaksanaan komprehensif (Plan)
-Penatalaksanaan
-Terapi diberikan per oral dengan obat, antara lain: H2 Bloker 2x/hari (Ranitidin
-150 mg/kali, Famotidin 20 mg/kali, Simetidin 400-800 mg/kali), PPI 2x/hari
-(Omeprazol 20 mg/kali, Lansoprazol 30 mg/kali), serta Antasida dosis 3 x 5001000 mg/hari.
-Konseling dan Edukasi
-Menginformasikan kepada pasien untuk menghindari pemicu terjadinya
-keluhan, antara lain dengan makan tepat waktu, makan sering dengan porsi
-kecil dan hindari dari makanan yang meningkatkan asam lambung atau perut
-kembung seperti kopi, teh, makanan pedas dan kol.
-Kriteria rujukan
+
+## *Plan*
+
+### Penatalaksanaan
+
+Terapi diberikan per oral dengan obat, antara lain: H2 Bloker 2x/hari
+(Ranitidin 150 mg/kali, Famotidin 20 mg/kali, Simetidin 400-800 mg/kali), PPI
+2x/hari (Omeprazol 20 mg/kali, Lansoprazol 30 mg/kali), serta Antasida dosis 3
+x 5001000 mg/hari.
+
+### Konseling dan edukasi
+
+Menginformasikan kepada pasien untuk menghindari pemicu terjadinya keluhan,
+antara lain dengan makan tepat waktu, makan sering dengan porsi kecil dan
+hindari dari makanan yang meningkatkan asam lambung atau perut kembung seperti
+kopi, teh, makanan pedas dan kol.
+
+### Kriteria rujukan
+
 1. Bila 5 hari pengobatan belum ada perbaikan.
 2. Terjadi komplikasi.
 3. terdapat alarm symptoms
-Peralatan : Prognosis
+
+## Prognosis
+
 Prognosis sangat tergantung pada kondisi pasien saat datang, komplikasi, dan
-pengobatannya. Umumnya prognosis gastritis adalah bonam, namun dapat
-terjadi berulang bila pola hidup tidak berubah.
-Referensi
+pengobatannya. Umumnya prognosis gastritis adalah bonam, namun dapat terjadi
+berulang bila pola hidup tidak berubah.
+
+## Referensi
+
 1. Sudoyo, A.W. Setiyohadi, B. Alwi, I. Simadibrata, M. Setiati, S. eds. Buku
-ajar ilmu penyakit dalam. 4 ed. Vol. III. Jakarta: Pusat Penerbitan
-Departemen Ilmu Penyakit Dalam FKUI. 2006. (Sudoyo, et al., 2006)
+   ajar ilmu penyakit dalam. 4 ed. Vol. III. Jakarta: Pusat Penerbitan
+   Departemen Ilmu Penyakit Dalam FKUI. 2006. (Sudoyo, et al., 2006)

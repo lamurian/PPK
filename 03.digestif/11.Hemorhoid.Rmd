@@ -30,12 +30,14 @@ Tingkat Kemampuan
 : I84 Haemorrhoids
 : 4A
 
-Masalah Kesehatan
+## Masalah Kesehatan
+
 Hemoroid adalah pelebaran vena-vena di dalam pleksus hemoroidalis.
 
 128
 
-Hasil Anamnesis (Subjective)
+## Hasil Anamnesis (Subjective)
+
 Keluhan
 1. Perdarahan pada waktu defekasi, darah berwarna merah segar. Darah
 dapat menetes keluar dari anus beberapa saat setelah defekasi.
@@ -56,7 +58,8 @@ Faktor Risiko
 8. Sering mengedan
 9. Penggunaan toilet yang berlama-lama (misal : duduk dalam waktu yang
 lama di toilet)
-Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+
 Pemeriksaan Fisik
 1. Periksa tanda-tanda anemia
 2. Pemeriksaan status lokalis
@@ -83,7 +86,8 @@ jari tangan meraba sekitar rektum bagian bawah.
 Pemeriksaan Penunjang
 Pemeriksaan darah rutin, bertujuan untuk mengetahui adanya anemia dan
 infeksi.
-Penegakan Diagnostik (Assessment)
+## Penegakan Diagnostik (Assessment)
+
 Diagnosis Klinis
 Diagnosis ditegakkan berdasarkan
 pemeriksaan penunjang.
@@ -114,7 +118,8 @@ Diagnosis Banding
 Kondiloma Akuminata, Proktitis , Rektal prolaps
 Komplikasi
 Anemia
-Penatalaksanaan Komprehensif (Plan)
+## Penatalaksanaan Komprehensif (Plan)
+
 Penatalaksanaan Hemoroid di layanan primer hanya untuk hemoroid grade 1
 dengan terapi konservatif medis dan menghindari obat-obat anti-inflamasi nonsteroid, serta makanan pedas atau berlemak.
 Hal lain yang dapat dilakukan adalah mengurangi rasa nyeri dan konstipasi
