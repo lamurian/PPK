@@ -182,10 +182,10 @@ antijamur tergantung penyebabnya.
       cairan inisial yang dibutuhkan adalah:  
       BJ plasma dengan rumus:   
 $$
-Defisit cairan = \frac{BJ plasma - 1,025}{0.001} \times BB \times 4 mL
+Defisit\ cairan = \frac{BJ\ plasma - 1,025}{0.001} \times BB \times 4 mL
 $$
 $$
-Kebutuhan cairan = \frac{Skor}{15} \times 10\% \times BB \times 1 L
+Kebutuhan\ cairan = \frac{Skor}{15} \times 10\% \times BB \times 1 L
 $$
    3. Menentukan jadwal pemberian cairan:
       * Dua jam pertama (tahap rehidrasi inisial): jumlah total kebutuhan cairan

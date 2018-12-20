@@ -75,3 +75,6 @@ Sistem Syaraf Pusat, terdiri dari otak cerebrum, pons, medulla oblongata, cerebe
 
 ## GERD
 *Gastroesophageal Reflux Disease*
+
+## BJ
+Berat Jenis, dapat berupa hasil analisa cairan plasma maupun cairan urin.
