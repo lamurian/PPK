@@ -88,7 +88,7 @@ tatalaksana yang tepat dalam kasus stomatitis herpes.
 
 Terdapat 3 tipe SAR, yaitu: minor, mayor, dan herpetiform.
 
-![Tabel 3.1 Tampilan klinis ketiga tipe SAR](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/03_01_o_ulkus01.png?raw=true)
+![Tabel 1.1 Tampilan klinis ketiga tipe SAR](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/03_01_o_ulkus01.png?raw=true)
 
 #### Pemeriksaan fisik
 1. Tanda anemia (warna kulit, mukosa konjungtiva)
@@ -206,10 +206,11 @@ Penatalaksanaan yang dapat dilakukan yaitu:
 	 	* dewasa: 2 kali 1 – 2 g per hari, selama 1 hari
 	 	* anak : 20 mg/kgBB/hari, dibagi menjadi 5 kali pemberian, selama 7 hari
 	 * Famcyclovir, diberikan per oral, dengan dosis:
-	 	* dewasa: 3 kali 250 mg per hari, selama 7 – 10 hari untuk episode tunggal 3
-	 		kali 500 mg per hari, selama 7 – 10 hari untuk tipe rekurens
-	 	* anak : Belum ada data mengenai keamanan dan efektifitas pemberiannya pada
-	 		anak-anak
+		* dewasa: 3 kali 250 mg per hari, selama 7 – 10 hari untuk
+		  episode tunggal 3 kali 500 mg per hari, selama 7 – 10 hari
+		  untuk tipe rekurens
+		* anak : Belum ada data mengenai keamanan dan efektifitas
+		  pemberiannya pada anak-anak
 
 Dokter perlu memperhatikan fungsi ginjal pasien sebelum memberikan obatobat di
 atas. Dosis perlu disesuaikan pada pasien dengan penurunan fungsi ginjal. Pada

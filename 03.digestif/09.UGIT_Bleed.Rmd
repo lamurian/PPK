@@ -1,7 +1,4 @@
-
 ---
-author: <++>
-title: <++>
 output:
   html_document:
     toc: true
@@ -16,155 +13,158 @@ output:
     highlight: tango
   slidy_presentation:
     highlight: tango
-bibliography: ref.bib
 csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
-<++>
-Perdarahan Gastrointestinal
+No. ICPC-2:
 
-No. ICPC-2
+* D14 *Haematemesis/vomiting blood*
+* D15 *Melaena*
 
-No. ICD-10
-Tingkat Kemampuan
+No. ICD-10:
 
-a.
+* K92.2 *Gastrointestinal haemorrhage, unspecified*
 
-: D14 Haematemesis/vomiting blood
-D15 Melaena
-D16 Rectal Bleeling
-: K92.2 Gastrointestinal haemorrhage, unspecified
-K62.5 Haemorrhage of anus and rectum
-: 3B
-
-Perdarahan Saluran Cerna Bagian Atas
+**Kompetensi 	: 3B**
 
 ## Masalah Kesehatan
 
-Manifestasi perdarahan saluran cerna bervariasi mulai dengan perdarahan
-masif yang mengancam jiwa hingga perdarahan samar yang tidak dirasakan.
-Hematemesis menunjukkan perdarahan dari saluran cerna bagian atas,
-proksimal dari ligamentum Treitz. Melena biasanya akibat perdarahan saluran
-cerna bagian atas, meskipun demikian perdarahan dari usus halus atau kolon
-bagian kanan, juga dapat menimbulkan melena.
+Manifestasi perdarahan saluran cerna bervariasi mulai dengan perdarahan masif
+yang mengancam jiwa hingga perdarahan samar yang tidak dirasakan. Hematemesis
+menunjukkan perdarahan dari saluran cerna bagian atas, proksimal dari
+ligamentum Treitz. Melena biasanya akibat perdarahan saluran cerna bagian atas,
+meskipun demikian perdarahan dari usus halus atau kolon bagian kanan, juga
+dapat menimbulkan melena.
 
-123
+Di Indonesia perdarahan karena ruptur varises gastroesofagus merupakan penyebab
+tersering yaitu sekitar 50-60%, gastritis erosif sekitar 25-30%, tukak peptik
+sekitar 10-15% dan karena sebab lainnya <5%. Mortalitas secara keseluruhan
+masih tinggi yaitu sekitar 25%, kematian pada penderita ruptur varises bisa
+mencapai 60% sedangkan kematian pada perdarahan non varises sekitar 9-12%.
 
-Di Indonesia perdarahan karena ruptur varises gastroesofagus merupakan
-penyebab tersering yaitu sekitar 50-60%, gastritis erosif sekitar 25-30%, tukak
-peptik sekitar 10-15% dan karena sebab lainnya <5%. Mortalitas secara
-keseluruhan masih tinggi yaitu sekitar 25%, kematian pada penderita ruptur
-varises bisa mencapai 60% sedangkan kematian pada perdarahan non varises
-sekitar 9-12%.
-## Hasil Anamnesis (Subjective)
+## *Subjective*
 
-Keluhan
-Pasien dapat datang dengan keluhan muntah darah berwarna hitam seperti
-bubuk kopi (hematemesis) atau buang air besar berwarna hitam seperti ter
-atau aspal (melena),
-Gejala klinis lainya sesuai dengan komorbid, seperti penyakit hati kronis,
-penyakit paru, penyakit jantung, penyakit ginjal dsb.
+### Keluhan
+
+Pasien dapat datang dengan keluhan muntah darah berwarna hitam seperti bubuk
+kopi (hematemesis) atau buang air besar berwarna hitam seperti ter atau aspal
+(melena), Gejala klinis lainya sesuai dengan komorbid, seperti penyakit hati
+kronis, penyakit paru, penyakit jantung, penyakit ginjal dsb.
+
 Pada anamnesis yang perlu ditanyakan adalah riwayat penyakit hati kronis,
-riwayat dispepsia, riwayat mengkonsumsi NSAID, obat rematik, alkohol, jamujamuan, obat untuk penyakit jantung, obat stroke, riwayat penyakit ginjal,
+riwayat dispepsia, riwayat mengkonsumsi NSAID, obat rematik, alkohol,
+jamujamuan, obat untuk penyakit jantung, obat stroke, riwayat penyakit ginjal,
 riwayat penyakit paru dan adanya perdarahan ditempat lainnya. Riwayat
-muntah-muntah sebelum terjadinya hematemesis sangat mendukung
-kemungkinan adanya sindroma Mallory Weiss.
-Faktor Risiko
-Konsumsi obat-obat NSAID
-Faktor Predisposisi
-Riwayat sirosis hepatis
-## Hasil pemeriksaan fisik dan penunjang sederhana (Objective)
+muntah-muntah sebelum terjadinya hematemesis sangat mendukung kemungkinan
+adanya sindroma Mallory Weiss.
 
-Pemeriksaan Fisik
+### Faktor risiko
+
+* Konsumsi obat-obat NSAID
+* Faktor Predisposisi
+* Riwayat sirosis hepatis
+
+## *Objective*
+
+### Pemeriksaan fisik
+
 1. Penilaian hemodinamik (keadaan sirkulasi)
 2. Evaluasi jumlah perdarahan.
 3. Pemeriksaan fisik lainnya yaitu mencari stigmata penyakit hati kronis
-(ikterus, spider nevi, asites, splenomegali, eritema palmaris, edema
-tungkai), massa abdomen, nyeri abdomen, rangsangan peritoneum,
-penyakit paru, penyakit jantung, penyakit rematik dll.
+   (ikterus, spider nevi, asites, splenomegali, eritema palmaris, edema
+   tungkai), massa abdomen, nyeri abdomen, rangsangan peritoneum, penyakit
+   paru, penyakit jantung, penyakit rematik dll.
 4. Rectal toucher
-5. Dalam prosedur diagnosis ini penting melihat aspirat dari Naso Gastric
-Tube (NGT). Aspirat berwarna putih keruh menandakan perdarahan tidak
-aktif, aspirat berwarna merah marun menandakan perdarahan masif
-sangat mungkin perdarahan arteri.
-Pemeriksaan Penunjang di pelayanan kesehatan primer
+5. Dalam prosedur diagnosis ini penting melihat aspirat dari Naso Gastric Tube
+   (NGT). Aspirat berwarna putih keruh menandakan perdarahan tidak aktif,
+   aspirat berwarna merah marun menandakan perdarahan masif sangat mungkin
+   perdarahan arteri.
+
+### Pemeriksaan penunjang
+
 1. Laboratorium darah lengkap
 2. X ray thoraks
 
-124
+## *Assessment*
 
-## Penegakan diagnostik (Assessment)
+### Diagnosis klinis
 
-Diagnosis Klinis
 Diagnosis ditegakkan berdasar anamnesis, pemeriksaan fisik dan penunjang.
-Diagnosis Banding
+
+### Diagnosis banding
+
 Hemoptisis, Hematokezia
-Komplikasi
+
+### Komplikasi
+
 Syok hipovolemia, Aspirasi pneumonia, Gagal ginjal akut, Anemia karena
 perdarahan
-## Penatalaksanaan komprehensif (Plan)
 
-Penatalaksanaan
+## *Plan*
+
+### Penatalaksanaan
+
 1. Stabilkan hemodinamik.
-a. Pemasangan IV line
-b. Oksigen sungkup/kanula
-c. Mencatat intake output, harus dipasang kateter urin
-d. Memonitor tekanan darah, nadi, saturasi oksigen dan keadaan lainnya
-sesuai dengan komorbid yang ada.
-2. Pemasangan NGT (nasogatric tube)
-Melakukan bilas lambung agar mempermudah dalam tindakan endoskopi.
+   * Pemasangan IV line
+   * Oksigen sungkup/kanula
+   * Mencatat intake output, harus dipasang kateter urin
+   * Memonitor tekanan darah, nadi, saturasi oksigen dan keadaan lainnya sesuai
+     dengan komorbid yang ada.
+2. Pemasangan NGT (nasogatric tube) untuk membilas lambung agar mempermudah
+   dalam tindakan endoskopi.
 3. Tirah baring
 4. Puasa/diet hati/lambung
-a. Injeksi antagonis reseptor H2 atau penghambat pompa proton (PPI)
-b. Sitoprotektor: sukralfat 3-4x1 gram
-c. Antasida
-d. Injeksi vitamin K untuk pasien dengan penyakit hati kronis
-Rencana Tindak Lanjut
-Walaupun sudah dilakukan terapi endoskopi pasien dapat mengalami
-perdarahan ulang. Oleh karena itu perlu dilakukan asesmen yang lebih akurat
-untuk memprediksi perdarahan ulang dan mortalitas.
-Konseling dan Edukasi
+   * Injeksi antagonis reseptor H2 atau penghambat pompa proton (PPI)
+   * Sitoprotektor: sukralfat 3-4x1 gram
+   * Antasida
+   * Injeksi vitamin K untuk pasien dengan penyakit hati kronis
+
+### Rencana tindak lanjut
+
+Walaupun sudah dilakukan terapi endoskopi pasien dapat mengalami perdarahan
+ulang. Oleh karena itu perlu dilakukan asesmen yang lebih akurat untuk
+memprediksi perdarahan ulang dan mortalitas.
+
+### Konseling dan edukasi
+
 Keluarga ikut mendukung untuk menjaga diet dan pengobatan pasien.
-Kriteria Rujukan
-1. Terhadap pasien yang diduga kuat karena ruptura varises esophagus di
-rujuk ke pelayanan kesehatan sekunder
+
+### Kriteria rujukan
+
+1. Terhadap pasien yang diduga kuat karena ruptura varises esophagus di rujuk
+   ke pelayanan kesehatan sekunder
 2. Bila perdarahan tidak berhenti dengan penanganan awal di layanan primer
 3. Bila terjadi anemia berat
-Peralatan
-1.
-2.
-3.
-4.
 
-Kanula satu sungkup oksigen
-Naso Gastric Tube (NGT)
-Sarung tangan
-EKG
+### Peralatan
 
-125
-
+1. Kanula satu sungkup oksigen
+1. Naso Gastric Tube (NGT)
+1. Sarung tangan
+1. EKG
 5. Laboratorium untuk pemeriksaan darah lengkap, fungsi hati, dan fungsi
-ginjal.
-Prognosis
-Prognosis untuk kondisi ini adalah dubia, mungkin tidak sampai mengancam
-jiwa, namun ad fungsionam dan sanationam umumnya dubia ad malam.
-Referensi
+   ginjal.
+
+### Prognosis
+
+Prognosis untuk kondisi ini adalah dubia, mungkin tidak sampai mengancam jiwa,
+namun ad fungsionam dan sanationam umumnya dubia ad malam.
+
+## Referensi
 1. Soewondo. Pradana. Buku Ajar Ilmu Penyakit Dalam. Jilid III. Edisi ke 4.
-Jakarta: FK UI. 2006: Hal 291-4.
-2. Panduan Pelayanan Medik Ilmu Penyakit Dalam. Jakarta: Departemen
-Ilmu Penyakit Dalam FKUI/RSCM. 2004:Hal 229. (Departemen Ilmu
-Penyakit Dalam FKUI RSCM, 2004)
+   Jakarta: FK UI. 2006: Hal 291-4.
+2. Panduan Pelayanan Medik Ilmu Penyakit Dalam. Jakarta: Departemen Ilmu
+   Penyakit Dalam FKUI/RSCM. 2004:Hal 229. (Departemen Ilmu Penyakit Dalam FKUI
+   RSCM, 2004)
 3. Galley, H.F. Webster, N.R. Lawler, P.G.P. Soni, N. Singer, M,Critical Care.
-Focus 9 Gut. London: BMJ Publishing Group. 2002. (Galley, et al., 2002)
+   Focus 9 Gut. London: BMJ Publishing Group. 2002. (Galley, et al., 2002)
 4. Elta, G.H.Approach to the patient with gross gastrointestinal bleeding in
-Yamada, T.Alpers, D.H. Kaplowitz, N. Laine, L. Owyang, C. Powell,
-t
-D.W.Eds. Text Book of Gastroenetrology. 4 Ed. Philadelphia: Lippincot
-William & Wilkins. 2003. (Elta, 2003)
+   Yamada, T.Alpers, D.H. Kaplowitz, N. Laine, L. Owyang, C. Powell, D.W.Eds.
+   Text Book of Gastroenetrology. 4$$^{th}$$ Ed. Philadelphia: Lippincot William &
+   Wilkins. 2003. (Elta, 2003)
 5. Rockey, D.C.Gastrointestinal bleeding in Feldman, M. Friedman, L.S.
-Sleisenger, M.H.Eds.Sleisenger & Fordtran’s Gastrointestinal and Liver
-th
-Disease. 7 Ed. Philadelphia: W.B. Sauders.2002. (Rockey, 2002)
+   Sleisenger, M.H.Eds.Sleisenger & Fordtran’s Gastrointestinal and Liver
+   Disease. 7$$^{th}$$ Ed. Philadelphia: W.B. Sauders.2002. (Rockey, 2002)
 6. Gilbert, D.A. Silverstein, F.E.Acute upper gastrointestinal bleeding in
-Sivak, M.V.Ed.Gastroenterologic endoscopy. Philadelphia: WB Sauders.
-2000. (Gilbert & Silverstein, 2000)
+   Sivak, M.V.Ed.Gastroenterologic endoscopy. Philadelphia: WB Sauders. 2000.
+   (Gilbert & Silverstein, 2000)

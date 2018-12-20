@@ -1,5 +1,10 @@
 # Struktur Penulisan Panduan Praktik Klinis
 
+Penulisan Tentir Kedokteran ini dibuat berdasarkan [PERMENKES No. 5 Tahun
+2014](https://peraturan.bkpm.go.id/jdih/userfiles/batang/Permenkes_5_2014.pdf),
+menggunakan struktur penulisan yang disesuaikan dengan Panduan Praktik Klinis
+2014 oleh Ikatan Dokter Indonesia (IDI).
+
 Panduan ini memuat pengelolaan penyakit mulai dari penjelasan hingga
 penatalaksanaan penyakit tersebut. Panduan Praktik Klinis (PPK) Dokter
 Pelayanan Primer disusun berdasarkan pedoman yang berlaku secara global yang

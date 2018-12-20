@@ -1,7 +1,4 @@
-
 ---
-author: <++>
-title: <++>
 output:
   html_document:
     toc: true
@@ -16,407 +13,280 @@ output:
     highlight: tango
   slidy_presentation:
     highlight: tango
-bibliography: ref.bib
 csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
-<++>
-Demam Tifoid
-
-No ICPC-2
-No ICD-10
-Tingkat Kemampuan
-
-: D70 Gastrointestinal infection
-: A01.0 Typhoid fever
-: 4A
+No ICPC-2	: D70 *Gastrointestinal infection*  
+No ICD-10	: A01.0 *Typhoid fever*  
+**Kompetensi	: 4A**
 
 ## Masalah Kesehatan
 
-Demam tifoid banyak ditemukan di masyarakat perkotaan maupun di
-pedesaan. Penyakit ini erat kaitannya dengan kualitas higiene pribadi dan
+Demam tifoid banyak ditemukan di masyarakat perkotaan maupun di pedesaan.
+Penyakit ini erat kaitannya dengan kualitas higiene pribadi dan sanitasi
+lingkungan yang kurang baik. Di Indonesia bersifat endemik dan merupakan
+masalah kesehatan masyarakat. Dari telaah kasus di rumah sakit besar di
+Indonesia, tersangka demam tifoid menunjukkan kecenderungan meningkat dari
+tahun ke tahun dengan rata-rata kesakitan 500/100.000 penduduk dan angka
+kematian antara 0.6–5% (KMK, 2006). Selain tingkat insiden yang tinggi, demam
+tifoid terkait dengan berbagai aspek permasalahan lain, misalnya: akurasi
+diagnosis, resistensi antibiotik dan masih rendahnya cakupan vaksinasi demam
+tifoid.
 
-104
+## *Subjective*
 
-sanitasi lingkungan yang kurang baik. Di Indonesia bersifat endemik dan
-merupakan masalah kesehatan masyarakat. Dari telaah kasus di rumah sakit
-besar di Indonesia, tersangka demam tifoid menunjukkan kecenderungan
-meningkat dari tahun ke tahun dengan rata-rata kesakitan 500/100.000
-penduduk dan angka kematian antara 0.6–5% (KMK, 2006). Selain tingkat
-insiden yang tinggi, demam tifoid terkait dengan berbagai aspek permasalahan
-lain, misalnya: akurasi diagnosis, resistensi antibiotik dan masih rendahnya
-cakupan vaksinasi demam tifoid.
-## Hasil Anamnesis (Subjective)
+### Keluhan
 
-Keluhan
-1. Demam turun naik terutama sore dan malam hari dengan pola intermiten
-dan kenaikan suhu step-ladder. Demam tinggi dapat terjadi terus menerus
-(demam kontinu) hingga minggu kedua.
+1. Demam turun naik terutama sore dan malam hari dengan pola intermiten dan
+   kenaikan suhu step-ladder. Demam tinggi dapat terjadi terus menerus (demam
+   kontinu) hingga minggu kedua.
 2. Sakit kepala (pusing-pusing) yang sering dirasakan di area frontal
 3. Gangguan gastrointestinal berupa konstipasi dan meteorismus atau diare,
-mual, muntah, nyeri abdomen dan BAB berdarah
+   mual, muntah, nyeri abdomen dan BAB berdarah
 4. Gejala penyerta lain, seperti nyeri otot dan pegal-pegal, batuk, anoreksia,
-insomnia
-5. Pada demam tifoid berat, dapat dijumpai penurunan kesadaran atau
-kejang.
-Faktor Risiko
+   insomnia
+5. Pada demam tifoid berat, dapat dijumpai penurunan kesadaran atau kejang.
+
+### Faktor risiko
+
 1. Higiene personal yang kurang baik, terutama jarang mencuci tangan.
-2. Higiene makanan dan minuman yang kurang baik, misalnya makanan
-yang dicuci dengan air yang terkontaminasi, sayuran yang dipupuk dengan
-tinja manusia, makanan yang tercemar debu atau sampah atau dihinggapi
-lalat.
+2. Higiene makanan dan minuman yang kurang baik, misalnya makanan yang dicuci
+   dengan air yang terkontaminasi, sayuran yang dipupuk dengan tinja manusia,
+   makanan yang tercemar debu atau sampah atau dihinggapi lalat.
 3. Sanitasi lingkungan yang kurang baik.
 4. Adanya outbreak demam tifoid di sekitar tempat tinggal sehari-hari.
 5. Adanya carrier tifoid di sekitar pasien.
 6. Kondisi imunodefisiensi.
-## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
 
-Pemeriksaan Fisik
+## *Objective*
+
+### Pemeriksaan fisik
+
 1. Keadaan umum biasanya tampak sakit sedang atau sakit berat.
-2. Kesadaran: dapat compos mentis atau penurunan kesadaran (mulai dari
-yang ringan, seperti apatis, somnolen, hingga yang berat misalnya delirium
-atau koma)
-o
+2. Kesadaran: dapat compos mentis atau penurunan kesadaran (mulai dari yang
+   ringan, seperti apatis, somnolen, hingga yang berat misalnya delirium atau
+   koma)
 3. Demam, suhu > 37,5 C.
-4. Dapat ditemukan bradikardia relatif, yaitu penurunan frekuensi nadi
-o
-sebanyak 8 denyut per menit setiap kenaikan suhu 1 C.
+4. Dapat ditemukan bradikardia relatif, yaitu penurunan frekuensi nadi sebanyak
+   8 denyut per menit setiap kenaikan suhu 1 C.
 5. Ikterus
 6. Pemeriksaan mulut: typhoid tongue, tremor lidah, halitosis
-7. Pemeriksaan
-abdomen:
-nyeri
-(terutama
-regio
-epigastrik),
-hepatosplenomegali
-
-105
-
+7. Pemeriksaan abdomen: nyeri (terutama regio epigastrik), hepatosplenomegali
 8. Delirium pada kasus yang berat
-Pemeriksaan fisik pada keadaan lanjut
-1. Penurunan kesadaran ringan sering terjadi berupa apatis dengan
-kesadaran seperti berkabut. Bila klinis berat, pasien dapat menjadi
-somnolen dan koma atau dengan gejala-gejala psikosis (organic brain
-syndrome).
+
+### Pemeriksaan fisik pada keadaan lanjut
+
+1. Penurunan kesadaran ringan sering terjadi berupa apatis dengan kesadaran
+   seperti berkabut. Bila klinis berat, pasien dapat menjadi somnolen dan koma
+   atau dengan gejala-gejala psikosis (organic brain syndrome).
 2. Pada penderita dengan toksik, gejala delirium lebih menonjol.
 3. Nyeri perut dengan tanda-tanda akut abdomen
-Pemeriksaan Penunjang
-1. Darah perifer lengkap beserta hitung jenis leukosis
-Dapat menunjukkan: leukopenia / leukositosis / jumlah leukosit normal,
-limfositosis relatif, monositosis, trombositopenia (biasanya ringan),
-anemia.
+
+### Pemeriksaan penunjang
+
+1. Darah perifer lengkap beserta hitung jenis leukosis Dapat menunjukkan:
+   leukopenia / leukositosis / jumlah leukosit normal, limfositosis relatif,
+   monositosis, trombositopenia (biasanya ringan), anemia.
 2. Serologi
-®
-a. IgM antigen O9 Salmonella thypi (Tubex-TF)
- Hanya dapat mendeteksi antibody IgM Salmonella typhi
- Dapat dilakukan pada 4-5 hari pertama demam
-®
-b. Enzyme Immunoassay test (Typhidot )
-1. Dapat mendeteksi IgM dan IgG Salmonella typhi
-2. Dapat dilakukan pada 4-5 hari pertama demam
-c. Tes Widal tidak direkomendasi
- Dilakukan setelah demam berlangsung 7 hari.
- Interpretasi hasil positif bila titer aglutinin O minimal 1/320 atau
-terdapat kenaikan titer hingga 4 kali lipat pada pemeriksaan ulang
-dengan interval 5 – 7 hari.
- Hasil pemeriksaan Widal positif palsu sering terjadi oleh karena
-reaksi
-silang
-dengan
-non-typhoidal
-Salmonella,
-enterobacteriaceae, daerah endemis infeksi dengue dan malaria,
-riwayat imunisasi tifoid dan preparat antigen komersial yang
-bervariasi dan standaridisasi kurang baik. Oleh karena itu,
-pemeriksaan Widal tidak direkomendasi jika hanya dari 1 kali
-pemeriksaan serum akut karena terjadinya positif palsu tinggi yang
-dapat mengakibatkan over-diagnosis dan over-treatment.
-3. Kultur Salmonella typhi (gold standard)
+   * IgM antigen O9 Salmonella thypi (Tubex-TF) Hanya dapat mendeteksi antibody
+     IgM Salmonella typhi Dapat dilakukan pada 4-5 hari pertama demam
+   * Enzyme Immunoassay test (Typhidot )
+     1. Dapat mendeteksi IgM dan IgG Salmonella typhi
+     2. Dapat dilakukan pada 4-5 hari pertama demam
+   * Tes Widal tidak direkomendasi Dilakukan setelah demam berlangsung 7 hari.  
+     Interpretasi hasil positif bila titer aglutinin O minimal 1/320 atau
+     terdapat kenaikan titer hingga 4 kali lipat pada pemeriksaan ulang dengan
+     interval 5 – 7 hari.  
+     Hasil pemeriksaan Widal positif palsu sering terjadi
+     oleh karena reaksi silang dengan non-typhoidal Salmonella,
+     enterobacteriaceae, daerah endemis infeksi dengue dan malaria, riwayat
+     imunisasi tifoid dan preparat antigen komersial yang bervariasi dan
+     standaridisasi kurang baik. Oleh karena itu, pemeriksaan Widal tidak
+     direkomendasi jika hanya dari 1 kali pemeriksaan serum akut karena
+     terjadinya positif palsu tinggi yang dapat mengakibatkan over-diagnosis
+     dan over-treatment.
+3. Kultur *Salmonella typhii* (baku emas)  
 Dapat dilakukan pada spesimen:
-a. Darah
-: Pada minggu pertama sampai akhir minggu ke-2
-sakit, saat demam tinggi
-b. Feses
-: Pada minggu kedua sakit
-c. Urin
-: Pada minggu kedua atau ketiga sakit
-d. Cairan empedu : Pada stadium lanjut penyakit, untuk mendeteksi
-carrier typhoid
+   a. *Darah:* Pada minggu pertama sampai akhir minggu ke-2 sakit, saat demam
+   tinggi
+   b. **Feses:** Pada minggu kedua sakit
+   c. **Urin:** Pada minggu kedua atau ketiga sakit
+   d. **Cairan empedu:** Pada stadium lanjut penyakit, untuk mendeteksi carrier
+   typhoid
 4. Pemeriksaan penunjang lain sesuai indikasi klinis, misalnya: SGOT/SGPT,
-kadar lipase dan amilase
+   kadar lipase dan amilase
 
-106
+## *Assessment*
 
-## Penegakan Diagnosis (Assessment)
+### Suspek demam tifoid (*Suspect case*)
 
-Suspek demam tifoid (Suspect case)
-Dari anamnesis dan pemeriksaan fisik didapatkan gejala demam, gangguan
-saluran cerna dan petanda gangguan kesadaran. Diagnosis suspek tifoid
-hanya dibuat pada pelayanan kesehatan primer.
-Demam tifoid klinis (Probable case)
-Suspek demam tifoid didukung dengan gambaran laboratorium yang
-menunjukkan tifoid.
-Diagnosis Banding
-Demam berdarah dengue, Malaria, Leptospirosis, infeksi saluran kemih,
-Hepatitis A, sepsis, Tuberkulosis milier, endokarditis infektif, demam rematik
-akut, abses dalam, demam yang berhubungan dengan infeksi HIV.
-Komplikasi
-Biasanya terjadi pada minggu kedua dan ketiga demam. Komplikasi antara
-lain perdarahan, perforasi usus, sepsis, ensefalopati, dan infeksi organ lain.
-1. Tifoid toksik (Tifoid ensefalopati)
-Penderita dengan sindrom demam tifoid dengan panas tinggi yang disertai
-dengan kekacauan mental hebat, kesadaran menurun, mulai dari delirium
-sampai koma.
-2. Syok septik
-Penderita dengan demam tifoid, panas tinggi serta gejala-gejala toksemia
-yang berat. Selain itu, terdapat gejala gangguan hemodinamik seperti
-tekanan darah turun, nadi halus dan cepat, keringat dingin dan akral
-dingin.
-3. Perdarahan dan perforasi intestinal (peritonitis)
-Komplikasi perdarahan ditandai dengan hematoschezia. Dapat juga
-diketahui dengan pemeriksaan feses (occult blood test). Komplikasi ini
-ditandai dengan gejala akut abdomen dan peritonitis. Pada foto polos
-abdomen 3 posisi dan pemeriksaan klinis bedah didapatkan gas bebas
-dalam rongga perut.
-4. Hepatitis tifosa
-Kelainan berupa ikterus, hepatomegali, dan kelainan tes fungsi hati.
-5. Pankreatitis tifosa
-Terdapat tanda pankreatitis akut dengan peningkatan enzim lipase dan
-amilase. Tanda ini dapat dibantu dengan USG atau CT Scan.
-6. Pneumonia
-Didapatkan tanda pneumonia yang diagnosisnya dibantu dengan foto
-polos toraks
-## Penatalaksanaan Komprehensif (Plan)
+Dari anamnesis dan pemeriksaan fisik didapatkan gejala demam, gangguan saluran
+cerna dan petanda gangguan kesadaran. Diagnosis suspek tifoid hanya dibuat pada
+pelayanan kesehatan primer.
+
+### Demam tifoid klinis (*Probable case*)
+Suspek demam tifoid didukung dengan gambaran laboratorium yang menunjukkan
+tifoid.
+
+### Diagnosis banding
+
+Demam berdarah dengue, Malaria, Leptospirosis, infeksi saluran kemih, Hepatitis
+A, sepsis, Tuberkulosis milier, endokarditis infektif, demam rematik akut,
+abses dalam, demam yang berhubungan dengan infeksi HIV.
+
+### Komplikasi
+
+Biasanya terjadi pada minggu kedua dan ketiga demam. Komplikasi antara lain
+perdarahan, perforasi usus, sepsis, ensefalopati, dan infeksi organ lain.
+
+1. Tifoid toksik (Tifoid ensefalopati)   
+   Penderita dengan sindrom demam tifoid
+   dengan panas tinggi yang disertai dengan kekacauan mental hebat, kesadaran
+   menurun, mulai dari delirium sampai koma.
+2. Syok septik  
+   Penderita dengan demam tifoid, panas tinggi serta gejala-gejala
+   toksemia yang berat. Selain itu, terdapat gejala gangguan hemodinamik
+   seperti tekanan darah turun, nadi halus dan cepat, keringat dingin dan akral
+   dingin.
+3. Perdarahan dan perforasi intestinal (peritonitis)   
+   Komplikasi perdarahan ditandai dengan hematoschezia. Dapat juga diketahui
+   dengan pemeriksaan feses (occult blood test). Komplikasi ini ditandai dengan
+   gejala akut abdomen dan peritonitis. Pada foto polos abdomen 3 posisi dan
+   pemeriksaan klinis bedah didapatkan gas bebas dalam rongga perut.
+4. Hepatitis tifosa   
+   Kelainan berupa ikterus, hepatomegali, dan kelainan tes fungsi hati.
+5. Pankreatitis tifosa   
+   Terdapat tanda pankreatitis akut dengan peningkatan
+   enzim lipase dan amilase. Tanda ini dapat dibantu dengan USG atau CT Scan.
+6. Pneumonia   
+   Didapatkan tanda pneumonia yang diagnosisnya dibantu dengan foto
+   polos toraks
+
+## *Plan*
 
 Penatalaksanaan
+
 1. Terapi suportif dapat dilakukan dengan:
-a. Istirahat tirah baring dan mengatur tahapan mobilisasi
-
-107
-
-b. Menjaga kecukupan asupan cairan, yang dapat diberikan secara oral
-maupun parenteral.
-c. Diet bergizi seimbang, konsistensi lunak, cukup kalori dan protein,
-rendah serat.
-d. Konsumsi obat-obatan secara rutin dan tuntas
-e. Kontrol dan monitor tanda vital (tekanan darah, nadi, suhu,
-kesadaran), kemudian dicatat dengan baik di rekam medik pasien
-2. Terapi simptomatik untuk menurunkan demam (antipiretik) dan
-mengurangi keluhan gastrointestinal.
+   * Istirahat tirah baring dan mengatur tahapan mobilisasi
+   * Menjaga kecukupan asupan cairan, yang dapat diberikan secara oral maupun
+     parenteral.
+   * Diet bergizi seimbang, konsistensi lunak, cukup kalori dan protein, rendah
+     serat.
+   * Konsumsi obat-obatan secara rutin dan tuntas
+   * Kontrol dan monitor tanda vital (tekanan darah, nadi, suhu, kesadaran),
+     kemudian dicatat dengan baik di rekam medik pasien
+2. Terapi simptomatik untuk menurunkan demam (antipiretik) dan mengurangi
+   keluhan gastrointestinal.
 3. Terapi definitif dengan pemberian antibiotik. Antibiotik lini pertama untuk
-demam tifoid adalah Kloramfenikol, Ampisilin atau Amoksisilin (aman
-untuk penderita yang sedang hamil), atau Trimetroprim-sulfametoxazole
-(Kotrimoksazol).
-4. Bila pemberian salah satu antibiotik lini pertama dinilai tidak efektif, dapat
-diganti dengan antibiotik lain atau dipilih antibiotik lini kedua yaitu
-Seftriakson, Sefiksim, Kuinolon (tidak dianjurkan untuk anak <18 tahun
-karena dinilai mengganggu pertumbuhan tulang).
+   demam tifoid adalah Kloramfenikol, Ampisilin atau Amoksisilin (aman untuk
+   penderita yang sedang hamil), atau Trimetroprim-sulfametoxazole
+   (**Kotrimoksazol**).
+4. Bila pemberian salah satu antibiotik lini pertama dinilai tidak efektif,
+   dapat diganti dengan antibiotik lain atau dipilih antibiotik lini kedua
+   yaitu Seftriakson, Sefiksim, Kuinolon (tidak dianjurkan untuk anak <18 tahun
+   karena dinilai mengganggu pertumbuhan tulang).
 
-108
+![Tabel 6.1 Antibiotik dan dosis penggunan untuk tifoid](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/03_06_p_tifoid01.png?raw=true)
 
-Tabel 3.2 Antibiotik dan dosis penggunan untuk tifoid
-ANTIBIOTIKA
+### Rencana tindak lanjut
 
-DOSIS
-
-Kloramfenikol
-
-Dewasa: 4x500 mg
-selama 10 hari
-
-KETERANGAN
-
-Anak 100 mg/kgBB/har,
-per oral atau intravena,
-dibagi 4 dosis, selama
-10-14 hari
-
-Merupakan obat yang sering
-digunakan dan telah lama
-dikenal efektif untuk tifoid
-Murah dan dapat diberikan
-peroral serta sensitivitas masih
-tinggi
-Pemberian PO/IV
-
-Seftriakson
-
-Ampisilin &
-Amoksisilin
-
-Kotrimoksazole
-(TMP-SMX)
-
-Kuinolon
-
-Dewasa: 2-4gr/hari
-selama 3-5 hari
-Anak: 80 mg/kgBB/hari,
-IM atau IV, dosis tunggal
-selama 5 hari
-Dewasa: (1.5-2) gr/hr
-selama 7-10 hari
-Anak: 100 mg/kgbb/hari
-per oral atau intravena,
-dibagi 3 dosis, selama 10
-hari.
-Dewasa: 2x(160-800)
-selama 7-10 hari
-Anak: Kotrimoksazol 4-6
-mg/kgBB/hari, per oral,
-dibagi 2 dosis, selama 10
-hari.
-Ciprofloxacin 2x500 mg
-selama 1 minggu
-Ofloxacin 2x(200-400)
-selama 1 minggu
-
-Sefiksim
-
-Anak: 20 mg/kgBB/hari, per
-oral, dibagi menjadi 2 dosis,
-selama 10 hari
-
-Thiamfeni
-kol
-
-Dewasa: 4x500 mg/hari
-Anak: 50 mg/kgbb/hari
-selama 5-7 hari bebas panas
-
-109
-
-Tidak diberikan bila lekosit
-<2000/mm3
-Cepat menurunkan suhu, lama
-pemberian pendek dan dapat
-dosis tunggal serta cukup aman
-untuk anak.
-Pemberian PO/IV
-Aman untuk penderita hamil
-Sering dikombinasi dengan
-kloramfenikol pada pasien kritis
-Tidak mahal
-Pemberian PO/IV
-Tidak mahal
-Pemberian per oral
-
-Pefloxacin dan Fleroxacin lebih
-cepat menurunkan suhu
-Efektif mencegah relaps dan
-kanker
-Pemberian peroral
-Pemberian pada anak tidak
-dianjurkan karena efek samping
-pada pertumbuhan tulang
-Aman untuk anak
-Efektif
-Pemberian per oral
-Dapat dipakai untuk anak
-dan dewasa
-Dilaporkan cukup sensitif
-pada beberapa daerah
-
-Rencana Tindak Lanjut
-1. Bila pasien dirawat di rumah, dokter atau perawat dapat melakukan
-kunjungan follow up setiap hari setelah dimulainya tatalaksana.
+1. Bila pasien dirawat di rumah, dokter atau perawat dapat melakukan kunjungan
+   follow up setiap hari setelah dimulainya tatalaksana.
 2. Respon klinis terhadap antibiotik dinilai setelah penggunaannya selama 1
-minggu.
-Indikasi Perawatan di Rumah
+   minggu.
+
+### Indikasi perawatan di rumah
+
 1. Persyaratan untuk pasien
-a. Gejala klinis ringan, tidak ada tanda-tanda komplikasi atau komorbid
-yang membahayakan.
-b. Kesadaran baik.
-c. Dapat makan serta minum dengan baik.
-d. Keluarga cukup mengerti cara-cara merawat dan tanda-tanda bahaya
-yang akan timbul dari tifoid.
-e. Rumah tangga pasien memiliki dan melaksanakan sistem
-pembuangan eksreta (feses, urin, cairan muntah) yang memenuhi
-persyaratan kesehatan.
-f. Keluarga pasien mampu menjalani rencana tatalaksana dengan baik.
+   * Gejala klinis ringan, tidak ada tanda-tanda komplikasi atau komorbid yang
+     membahayakan.
+   * Kesadaran baik.
+   * Dapat makan serta minum dengan baik.
+   * Keluarga cukup mengerti cara-cara merawat dan tanda-tanda bahaya yang akan
+     timbul dari tifoid.
+   * Rumah tangga pasien memiliki dan melaksanakan sistem pembuangan eksreta
+     (feses, urin, cairan muntah) yang memenuhi persyaratan kesehatan.
+   * Keluarga pasien mampu menjalani rencana tatalaksana dengan baik.
 2. Persyaratan untuk tenaga kesehatan
-a. Adanya 1 dokter dan perawat tetap yang bertanggung jawab penuh
-terhadap tatalaksana pasien.
-b. Dokter mengkonfirmasi bahwa penderita tidak memiliki tanda-tanda
-yang berpotensi menimbulkan komplikasi.
-c. Semua kegiatan tata laksana (diet, cairan, bed rest, pengobatan)
-dapat dilaksanakan secara baik di rumah.
-d. Dokter dan/atau perawat mem-follow up pasien setiap hari.
-e. Dokter dan/atau perawat dapat berkomunikasi secara lancar dengan
-keluarga pasien di sepanjang masa tatalaksana.
-Konseling dan Edukasi
+   * Adanya 1 dokter dan perawat tetap yang bertanggung jawab penuh terhadap
+     tatalaksana pasien.
+   * Dokter mengkonfirmasi bahwa penderita tidak memiliki tanda-tanda yang
+     berpotensi menimbulkan komplikasi.
+   * Semua kegiatan tata laksana (diet, cairan, bed rest, pengobatan) dapat
+     dilaksanakan secara baik di rumah.
+   * Dokter dan/atau perawat mem-follow up pasien setiap hari.
+   * Dokter dan/atau perawat dapat berkomunikasi secara lancar dengan keluarga
+     pasien di sepanjang masa tatalaksana.
+
+### Konseling dan edukasi
+
 Edukasi pasien tentang tata cara:
+
 1. Pengobatan dan perawatan serta aspek lain dari demam tifoid yang harus
-diketahui pasien dan keluarganya.
+   diketahui pasien dan keluarganya.
 2. Diet, jumlah cairan yang dibutuhkan, pentahapan mobilisasi, dan konsumsi
-obat sebaiknya diperhatikan atau dilihat langsung oleh dokter, dan
-keluarga pasien telah memahami serta mampu melaksanakan.
-3. Tanda-tanda kegawatan harus diberitahu kepada pasien dan keluarga
-supaya bisa segera dibawa ke rumah sakit terdekat untuk perawatan.
-Pendekatan Community Oriented
-Melakukan konseling atau edukasi pada masyarakat
-pencegahan dan pengendalian demam tifoid, melalui:
+   obat sebaiknya diperhatikan atau dilihat langsung oleh dokter, dan keluarga
+   pasien telah memahami serta mampu melaksanakan.
+3. Tanda-tanda kegawatan harus diberitahu kepada pasien dan keluarga supaya
+   bisa segera dibawa ke rumah sakit terdekat untuk perawatan.
+
+### Pendekatan *community oriented*
+
+Melakukan konseling atau edukasi pada masyarakat pencegahan dan pengendalian
+demam tifoid, melalui:
+
 1. Perbaikan sanitasi lingkungan
 2. Peningkatan higiene makanan dan minuman
 3. Peningkatan higiene perorangan
 4. Pencegahan dengan imunisasi
 
-110
+### Kriteria rujukan
 
-tentang
-
-aspek
-
-Kriteria Rujukan
 1. Demam tifoid dengan keadaan umum yang berat (toxic typhoid).
 2. Tifoid dengan komplikasi.
 3. Tifoid dengan komorbid yang berat.
 4. Telah mendapat terapi selama 5 hari namun belum tampak perbaikan.
-Peralatan
+
+### Peralatan
+
 Poliklinik set dan peralatan laboratorium untuk melakukan pemeriksaan darah
 rutin dan serologi.
-Prognosis
-Prognosis adalah bonam, namun ad sanationam dubia ad bonam, karena
-penyakit dapat terjadi berulang.
-Referensi
-1. Keputusan Menteri Kesehatan RI No: 364/Menkes/SK/V/2006 tentang
-Pedoman Pengendalian Demam Tifoid.
-(Kementerian Kesehatan
-Republik Indonesia, t.thn.)
+
+### Prognosis
+
+Prognosis adalah bonam, namun ad sanationam dubia ad bonam, karena penyakit
+dapat terjadi berulang.
+
+## Referensi
+1. Keputusan Menteri Kesehatan RI No: 364/Menkes/SK/V/2006 tentang Pedoman
+   Pengendalian Demam Tifoid. (Kementerian Kesehatan Republik Indonesia,
+   t.thn.)
 2. Sudoyo AW, Setiyohadi B, Alwi I, Simadibrata M, Setiati S, eds. Buku ajar
-ilmu penyakit dalam. 4 ed. Vol. III. Jakarta: Pusat Penerbitan Departemen
-Ilmu Penyakit Dalam FKUI; 2006. (Sudoyo, et al., 2006)
+   ilmu penyakit dalam. 4 ed. Vol. III. Jakarta: Pusat Penerbitan Departemen
+   Ilmu Penyakit Dalam FKUI; 2006. (Sudoyo, et al., 2006)
 3. Feigin RD, Demmler GJ, Cherry JD, Kaplan SL. Textbook of pediatric
-infectious diseases. 5th ed. Philadelphia: WB Saunders; 2004. (Feigin, et
-al., 2004)
+   infectious diseases. 5th ed. Philadelphia: WB Saunders; 2004. (Feigin, et
+   al., 2004)
 4. Long SS, Pickering LK, Prober CG. Principles and practice of pediatric
-infectious diseases. 2nd ed. Philadelphia: Churchill & Livingstone; 2003.
-(Long, et al., 2003)
+   infectious diseases. 2nd ed. Philadelphia: Churchill & Livingstone; 2003.
+   (Long, et al., 2003)
 5. Gershon AA, Hotez PJ, Katz SL. Krugman’s infectious disease of children.
-11th ed. Philadelphia: Mosby; 2004. (Gershon, et al., 2004)
-6. Pomerans AJ, Busey SL, Sabnis S. Pediatric decision making strategies.
-WB Saunders: Philadelphia; 2002. (Pomerans, et al., 2002)
-7. CDC.
-Typhoid
-fever.
-2005.
-www.cdc.gov/ncidod/dbmd/diseaseinfo/typhoidfever_g.htm
-(Center for
-Disease and Control, 2005)
-8. Kalra SP, Naithani N, Mehta SR, Swamy AJ. Current trends in the
-management of typhoid fever. MJAFI. 2003;59:130-5. (Kalra, et al., 2003)
-9. Tam FCH, King TKW, Wong KT, Leung DTM, Chan RCY, Lim PL. The
-TUBEX test detects not only typhoid-specific antibodies but also soluble
-antigens and whole bacteria. Journal of Medical Microbiology.
-2008;57:316-23. (Tam, et al., 2008)
-10. Beig FK, Ahmadz F, Ekram M, Shukla I. Typhidot M and Diazo test vis-àvis blood culture and Widal test in the early diagnosis of typhoid fever in
-children in a resource poor setting. Braz J Infect Dis. 2010;14:589-93.
-(Beig, et al., 2010)
-
-111
-
-11. Summaries of infectious diseases. Dalam: Red Book Online 2009. Section
-3.
-http://aapredbook.aappublications.org/cgi/content/full/2009/1/3.117
-(Anon., 2009)
+   11$$^{th}$$ ed. Philadelphia: Mosby; 2004. (Gershon, et al., 2004) 6. Pomerans AJ,
+   Busey SL, Sabnis S. Pediatric decision making strategies. WB Saunders:
+   Philadelphia; 2002. (Pomerans, et al., 2002)
+7. CDC. Typhoid fever. 2005.
+   www.cdc.gov/ncidod/dbmd/diseaseinfo/typhoidfever_g.htm (Center for Disease
+   and Control, 2005)
+8. Kalra SP, Naithani N, Mehta SR, Swamy AJ. Current trends in the management
+   of typhoid fever. MJAFI. 2003;59:130-5. (Kalra, et al., 2003)
+9. Tam FCH, King TKW, Wong KT, Leung DTM, Chan RCY, Lim PL. The TUBEX test
+   detects not only typhoid-specific antibodies but also soluble antigens and
+   whole bacteria. Journal of Medical Microbiology. 2008;57:316-23. (Tam, et
+   al., 2008)
+10. Beig FK, Ahmadz F, Ekram M, Shukla I. Typhidot M and Diazo test vis-àvis
+   blood culture and Widal test in the early diagnosis of typhoid fever in
+   children in a resource poor setting. Braz J Infect Dis. 2010;14:589-93.
+   (Beig, et al., 2010)
+11. Summaries of infectious diseases. Dalam: Red Book Online 2009. Section 3.
+   http://aapredbook.aappublications.org/cgi/content/full/2009/1/3.117 (Anon.,
+   2009)

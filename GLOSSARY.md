@@ -72,3 +72,6 @@ Sistem Syaraf Pusat, terdiri dari otak cerebrum, pons, medulla oblongata, cerebe
 
 ## ACR
 *American College of Rheumatology*
+
+## GERD
+*Gastroesophageal Reflux Disease*

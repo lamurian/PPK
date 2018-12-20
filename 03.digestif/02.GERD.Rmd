@@ -86,7 +86,7 @@ Aspirasi paru.
 3. Pada kondisi tidak tersedianya PPI, maka penggunaan H2 Blocker 2x/hari:
    simetidin 400-800 mg atau ranitidin 150 mg atau famotidin 20 mg.
 
-![Gambar 3.1 Algoritme tatalaksana GERD (Refluks esofageal)](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/03_02_p_gerd01.png?raw=true)
+![Gambar 2.1 Algoritme tatalaksana GERD (Refluks esofageal)](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/03_02_p_gerd01.png?raw=true)
 
 Pemeriksaan penunjang dilakukan pada fasilitas layanan sekunder (rujukan) untuk
 endoskopi dan bila perlu biopsi

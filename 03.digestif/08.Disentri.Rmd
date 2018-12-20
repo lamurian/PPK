@@ -1,7 +1,4 @@
-
 ---
-author: <++>
-title: <++>
 output:
   html_document:
     toc: true
@@ -16,131 +13,135 @@ output:
     highlight: tango
   slidy_presentation:
     highlight: tango
-bibliography: ref.bib
 csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
-<++>
-Disentri Basiler dan Disentri Amuba
-
-No. ICPC-2
-No. ICD-10
-Tingkat Kemampuan
-
-: D70 Gastrointestinal infection
-: A06.0 Acute amoebic dysentery
-: 4A
+No. ICPC-2	: D70 *Gastrointestinal infection*  
+No. ICD-10	: A06.0 *Acute amoebic dysentery*  
+**Kompetensi 	: 4A**
 
 ## Masalah Kesehatan
 
 Disentri merupakan tipe diare yang berbahaya dan seringkali menyebabkan
-kematian dibandingkan dengan tipe diare akut yang lain.
-Penyakit ini dapat disebabkan oleh bakteri disentri basiler yang disebabkan
-oleh shigellosis dan amoeba (disentri amoeba).
-## Hasil Anamnesis (Subjective)
+kematian dibandingkan dengan tipe diare akut yang lain. Penyakit ini dapat
+disebabkan oleh bakteri disentri basiler yang disebabkan oleh shigellosis dan
+amoeba (disentri amoeba).
 
-Keluhan
+## *Subjective*
+
+### Keluhan
+
 1. Sakit perut terutama sebelah kiri dan buang air besar encer secara terus
-menerus bercampur lendir dan darah
+   menerus bercampur lendir dan darah
 2. Muntah-muntah
 3. Sakit kepala
-4. Bentuk yang berat (fulminating cases) biasanya disebabkan oleh S.
-dysentriae dengan gejalanya timbul mendadak dan berat, dan dapat
-meninggal bila tidak cepat ditolong.
-Faktor Risiko
-Higiene pribadi dan sanitasi lingkungan yang kurang.
-## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+4. Bentuk yang berat (*fulminating cases*) biasanya disebabkan oleh *S. dysentriae*
+   dengan gejalanya timbul mendadak dan berat, dan dapat meninggal bila tidak
+   cepat ditolong.
 
-Pemeriksaan Fisik
+### Faktor risiko
+
+Higiene pribadi dan sanitasi lingkungan yang kurang.
+
+## *Objective*
+
+### Pemeriksaan fisik
+
 Pada pemeriksaan fisik dapat ditemukan:
+
 1. Febris
 2. Nyeri perut pada penekanan di bagian sebelah kiri
 3. Terdapat tanda-tanda dehidrasi
 4. Tenesmus
-Pemeriksaan Penunjang
+
+### Pemeriksaan penunjang
+
 Pemeriksaan tinja secara langsung terhadap kuman penyebab.
-## Penegakan Diagnostik (Assessment)
 
-Diagnosis Klinis
-Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan
-pemeriksaan penunjang.
-Diagnosis Banding
-1. Infeksi Eschericiae coli
-2. Infeksi Escherichia coli Enteroinvasive (EIEC)
-3. Infeksi Escherichia coli Enterohemoragik (EHEC)
+## *Assessment*
 
-121
+### Diagnosis klinis
 
-Komplikasi
-1. Haemolytic uremic syndrome (HUS)
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan pemeriksaan
+penunjang.
+
+### Diagnosis banding
+
+1. Infeksi *Eschericiae coli*
+2. Infeksi *Escherichia coli Enteroinvasive* (EIEC)
+3. Infeksi *Escherichia coli Enterohemorrhagic* (EHEC)
+
+### Komplikasi
+
+1. *Haemolytic uremic syndrome* (HUS)
 2. Hiponatremia berat
 3. Hipoglikemia berat
 4. Komplikasi intestinal seperti toksik megakolon, prolaps rektal, peritonitis
-dan perforasi
-## Penatalaksanaan Komprehensif (Plan)
+   dan perforasi
 
-Penatalaksanaan
+## *Plan*
+
+### Penatalaksanaan
+
 1. Mencegah terjadinya dehidrasi
 2. Tirah baring
-3. Dehidrasi ringan sampai sedang dapat dikoreksi dengan cairan rehidrasi
-oral
+3. Dehidrasi ringan sampai sedang dapat dikoreksi dengan cairan rehidrasi oral
 4. Bila rehidrasi oral tidak mencukupi dapat diberikan cairan melalui infus
-5. Diet, diberikan makanan lunak sampai frekuensi BAB kurang dari
-5kali/hari, kemudian diberikan makanan ringan biasa bila ada kemajuan.
+5. Diet, diberikan makanan lunak sampai frekuensi BAB kurang dari 5kali/hari,
+   kemudian diberikan makanan ringan biasa bila ada kemajuan.
 6. Farmakologis:
-a. Menurut pedoman WHO, bila telah terdiagnosis shigelosis pasien
-diobati dengan antibiotik. Jika setelah 2 hari pengobatan menunjukkan
-perbaikan, terapi diteruskan selama 5 hari. Bila tidak ada perbaikan,
-antibiotik diganti dengan jenis yang lain.
-b. Pemakaian jangka pendek dengan dosis tunggal Fluorokuinolon
-seperti Siprofloksasin atau makrolid Azithromisin ternyata berhasil baik
-untuk pengobatan disentri basiler. Dosis Siprofloksasin yang dipakai
-adalah 2 x 500 mg/hari selama 3 hari sedangkan Azithromisin
-diberikan 1 gram dosis tunggal dan Sefiksim 400 mg/hari selama 5
-hari. Pemberian Siprofloksasin merupakan kontraindikasi terhadap
-anak-anak dan wanita hamil.
-c. Di negara-negara berkembang di mana terdapat kuman S.dysentriae
-tipe 1 yang multiresisten terhadap obat-obat, diberikan asam nalidiksik
-dengan dosis 3 x 1 gram/hari selama 5 hari. Tidak ada antibiotik yang
-dianjurkan dalam pengobatan stadium karier disentri basiler.
-d. Untuk disentri amuba diberikan antibiotik Metronidazol 500 mg 3x
-sehari selama 3-5 hari
-Rencana Tindak Lanjut
+   * Menurut pedoman WHO, bila telah terdiagnosis shigelosis pasien diobati dengan
+     antibiotik. Jika setelah 2 hari pengobatan menunjukkan perbaikan, terapi
+     diteruskan selama 5 hari. Bila tidak ada perbaikan, antibiotik diganti dengan
+     jenis yang lain.
+   * Pemakaian jangka pendek dengan dosis tunggal Fluorokuinolon seperti
+     Siprofloksasin atau makrolid Azithromisin ternyata berhasil baik untuk
+     pengobatan disentri basiler. Dosis Siprofloksasin yang dipakai adalah 2 x 500
+     mg/hari selama 3 hari sedangkan Azithromisin diberikan 1 gram dosis tunggal
+     dan Sefiksim 400 mg/hari selama 5 hari. Pemberian Siprofloksasin merupakan
+     kontraindikasi terhadap anak-anak dan wanita hamil.
+   * Di negara-negara berkembang di mana terdapat kuman *S. dysentriae* tipe 1
+     yang multiresisten terhadap obat-obat, diberikan asam nalidiksik dengan dosis
+     3 x 1 gram/hari selama 5 hari. Tidak ada antibiotik yang dianjurkan dalam
+     pengobatan stadium karier disentri basiler.
+   * Untuk disentri amuba diberikan antibiotik Metronidazol 500 mg 3x sehari
+     selama 3-5 hari.
+
+### Rencana tindak lanjut
+
 Pasien perlu dilihat perkembangan penyakitnya karena memerlukan waktu
 penyembuhan yang lama berdasarkan berat ringannya penyakit.
-Konseling dan Edukasi
+
+### Konseling dan edukasi
+
 1. Penularan disentri amuba dan basiler dapat dicegah dan dikurangi dengan
-kondisi lingkungan dan diri yang bersih seperti membersihkan tangan
-dengan sabun, suplai air yang tidak terkontaminasi serta penggunaan
-jamban yang bersih.
-2. Keluarga ikut berperan dalam mencegah penularan dengan kondisi
-lingkungan dan diri yang bersih seperti membersihkan tangan dengan
+   kondisi lingkungan dan diri yang bersih seperti membersihkan tangan dengan
+   sabun, suplai air yang tidak terkontaminasi serta penggunaan jamban yang
+   bersih.
+2. Keluarga ikut berperan dalam mencegah penularan dengan kondisi lingkungan
+   dan diri yang bersih seperti membersihkan tangan dengan sabun, suplai air
+   yang tidak terkontaminasi, penggunaan jamban yang bersih.
+3. Keluarga ikut menjaga diet pasien diberikan makanan lunak sampai frekuensi
+   BAB kurang dari 5 kali/hari, kemudian diberikan makanan ringan biasa bila
+   ada kemajuan.
 
-122
+### Kriteria rujukan
 
-sabun, suplai air yang tidak terkontaminasi, penggunaan jamban yang
-bersih.
-3. Keluarga ikut menjaga diet pasien diberikan makanan lunak sampai
-frekuensi BAB kurang dari 5 kali/hari, kemudian diberikan makanan ringan
-biasa bila ada kemajuan.
-Kriteria Rujukan
 Pada pasien dengan kasus berat perlu dirawat intensif dan konsultasi ke
 pelayanan kesehatan sekunder (spesialis penyakit dalam).
-Peralatan
+
+### Peralatan
+
 Laboratorium untuk pemeriksaan tinja
-Prognosis
+
+### Prognosis
+
 Prognosis sangat tergantung pada kondisi pasien saat datang, ada/tidaknya
 komplikasi, dan pengobatannya. Pada umumnya prognosis dubia ad bonam.
-Referensi
+
+## Referensi
 1. Sya’roni Akmal. Buku Ajar Ilmu Penyakit Dalam. Jilid III. Edisi ke 4.
-Jakarta: FK UI.2006. Hal 1839-41.
-2. Oesman, Nizam. Buku Ajar Ilmu Penyakit Dalam Edisi III. Jakarta:
-FKUI.2006.
-3. Kroser,
-A.
-J.
-Shigellosis.
-2007.
-Diakses
-dari
-www.emedicine.com/med/topic2112.htm.
+   Jakarta: FK UI.2006. Hal 1839-41.
+2. Oesman, Nizam. Buku Ajar Ilmu Penyakit Dalam Edisi III. Jakarta: FKUI.2006.
+3. Kroser, A. J. Shigellosis. 2007. Diakses dari
+   www.emedicine.com/med/topic2112.htm.
