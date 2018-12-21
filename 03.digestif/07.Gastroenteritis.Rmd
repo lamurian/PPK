@@ -106,8 +106,6 @@ Pada pasien anak ditanyakan secara jelas gejala diare:
 
 ![Tabel 7.3 Penentuan derajat dehidrasi menurut WHO 1995](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/03_07_o_GEA03.png?raw=true)
 
-Rencana terapi A, B, dan C dapat dilihat pada lampiran 6, 7, 8
-
 ## *Assessment*
 
 ### Diagnosis klinis
@@ -257,7 +255,7 @@ juga menjadi cara untuk mengobati diare.
       Penderita diare yang tidak dapat minum harus segera dirujuk ke Puskesmas untuk
       diinfus.
 
-![Tabel 3.6 Kebutuhan Oralit per Kelompok Umur](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/03_07_p_GEA04.png?raw=true)
+![Tabel 7.4 Kebutuhan Oralit per Kelompok Umur](https://github.com/lamurian/lamurian.github.io/blob/master/_fig/03_07_p_GEA04.png?raw=true)
 
 Untuk anak dibawah umur 2 tahun cairan harus diberikan dengan sendok dengan
 cara 1 sendok setiap 1 sampai 2 menit. Pemberian dengan botol tidak boleh

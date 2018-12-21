@@ -1,7 +1,4 @@
-
 ---
-author: <++>
-title: <++>
 output:
   html_document:
     toc: true
@@ -16,141 +13,142 @@ output:
     highlight: tango
   slidy_presentation:
     highlight: tango
-bibliography: ref.bib
 csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
-<++>
-12. Hepatitis B
-No. ICPC-2
-No. ICD-10
-Tingkat Kemampuan
-
-: D72 Viral Hepatitis
-: B16 Acute Hepatitis B
-: 3A
+No. ICPC-2	: D72 *Viral Hepatitis*  
+No. ICD-10	: B16 *Acute Hepatitis B*  
+**Kompetensi	: 3A**
 
 ## Masalah Kesehatan
 
 Hepatitis B adalah virus yang menyerang hati, masuk melalui darah ataupun
 cairan tubuh dari seseorang yang terinfeksi. Virus ini tersebar luas di seluruh
-dunia dengan angka kejadian yang berbeda-beda. Tingkat prevalensi hepatitis
-B di Indonesia sangat bervariasi berkisar 2,5% di Banjarmasin sampai 25,61%
-di Kupang, sehingga termasuk dalam kelompok negara dengan endemisitas
-sedang sampai tinggi.
-
-133
+dunia dengan angka kejadian yang berbeda-beda. Tingkat prevalensi hepatitis B
+di Indonesia sangat bervariasi berkisar 2,5% di Banjarmasin sampai 25,61% di
+Kupang, sehingga termasuk dalam kelompok negara dengan endemisitas sedang
+sampai tinggi.
 
 Infeksi hepatitis B dapat berupa keadaan yang akut dengan gejala yang
-berlangsung kurang dari 6 bulan. Apabila perjalanan penyakit berlangsung
-lebih dari 6 bulan maka kita sebut sebagai hepatitis kronik (5%). Hepatitis B
-kronik dapat berkembang menjadi sirosis hepatis, 10% dari penderita sirosis
-hepatis akan berkembang menjadi hepatoma.
-## Hasil Anamnesis (Subjective)
+berlangsung kurang dari 6 bulan. Apabila perjalanan penyakit berlangsung lebih
+dari 6 bulan maka kita sebut sebagai hepatitis kronik (5%). Hepatitis B kronik
+dapat berkembang menjadi sirosis hepatis, 10% dari penderita sirosis hepatis
+akan berkembang menjadi hepatoma.
 
-Keluhan
+## *Subjective*
+
+### Keluhan
+
 1. Umumnya tidak menimbulkan gejala terutama pada anak-anak.
 2. Gejala timbul apabila seseorang telah terinfeksi selama 6 minggu, antara
-lain:
-a. gangguan gastrointestinal, seperti: malaise, anoreksia, mual dan
-muntah;
-b. gejala flu: batuk, fotofobia, sakit kepala, mialgia.
+   lain:
+   * gangguan gastrointestinal, seperti: malaise, anoreksia, mual dan muntah;
+   * gejala flu: batuk, fotofobia, sakit kepala, mialgia.
 3. Gejala prodromal seperti diatas akan menghilang pada saat timbul kuning,
-tetapi keluhan anoreksia, malaise, dan kelemahan dapat menetap.
-4. Ikterus didahului dengan kemunculan urin berwarna gelap. Pruritus
-(biasanya ringan dan sementara) dapat timbul ketika ikterus meningkat.
-Pada saat badan kuning, biasanya diikuti oleh pembesaran hati yang
-diikuti oleh rasa sakit bila ditekan di bagian perut kanan atas. Setelah
-gejala tersebut akan timbul fase resolusi.
-Faktor Risiko
+   tetapi keluhan anoreksia, malaise, dan kelemahan dapat menetap.
+4. Ikterus didahului dengan kemunculan urin berwarna gelap. Pruritus (biasanya
+   ringan dan sementara) dapat timbul ketika ikterus meningkat. Pada saat badan
+   kuning, biasanya diikuti oleh pembesaran hati yang diikuti oleh rasa sakit
+   bila ditekan di bagian perut kanan atas. Setelah gejala tersebut akan timbul
+   fase resolusi.
+
+### Faktor risiko
+
 1. Mempunyai hubungan kelamin yang tidak aman dengan orang yang sudah
-terinfeksi hepatitis B.
-2. Memakai
-jarum
-suntik
-secara
-bergantian
-terutama
-kepada
-penyalahgunaan obat suntik.
-3. Menggunakan alat-alat yang biasa melukai bersama-sama dengan
-penderita hepatitis B.
-4. Orang yang bekerja pada tempat-tempat yang terpapar dengan darah
-manusia.
-5. Orang yang pernah mendapat transfusi darah sebelum dilakukan
-pemilahan terhadap donor.
+   terinfeksi hepatitis B.
+2. Memakai jarum suntik secara bergantian terutama kepada penyalahgunaan obat
+   suntik.
+3. Menggunakan alat-alat yang biasa melukai bersama-sama dengan penderita
+   hepatitis B.
+4. Orang yang bekerja pada tempat-tempat yang terpapar dengan darah manusia.
+5. Orang yang pernah mendapat transfusi darah sebelum dilakukan pemilahan
+   terhadap donor.
 6. Penderita gagal ginjal yang menjalani hemodialisis.
 7. Anak yang dilahirkan oleh ibu yang menderita hepatitis B.
-## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
 
-Pemeriksaan Fisik
+## *Objective*
+
+### Pemeriksaan fisik
+
 1. Konjungtiva ikterik
 2. Pembesaran dan sedikit nyeri tekan pada hati
 3. Splenomegali dan limfadenopati pada 15-20% pasien
-Pemeriksaan Penunjang
+
+### Pemeriksaan penunjang
+
 1. Tes laboratorium urin (bilirubin di dalam urin)
-
-134
-
-2. Pemeriksaan darah : peningkatan kadar bilirubin dalam darah, kadar
-SGOT dan SGPT ≥ 2x nilai normal tertinggi, dilakukan pada fasilitas
-primer yang lebih lengkap.
+2. Pemeriksaan darah : peningkatan kadar bilirubin dalam darah, kadar SGOT dan
+   SGPT ≥ 2x nilai normal tertinggi, dilakukan pada fasilitas primer yang lebih
+   lengkap.
 3. HBsAg (di pelayanan kesehatan sekunder)
-## Penegakan Diagnostik (Assessment)
 
-Diagnosis Klinis
-Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan
-pemeriksaan penunjang.
-Diagnosis Banding
+## *Assessment*
+
+### Diagnosis klinis
+
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan pemeriksaan
+penunjang.
+
+### Diagnosis banding
+
 Perlemakan hati, penyakit hati oleh karena obat atau toksin, hepatitis
 autoimun, hepatitis alkoholik, obstruksi akut traktus biliaris
-Komplikasi
-Sirosis hepar, Hepatoma
-## Penatalaksanaan Komprehensif (Plan)
 
-Penatalaksanaan
+### Komplikasi
+
+Sirosis hepar, Hepatoma
+
+## *Plan*
+
+### Penatalaksanaan
+
 1. Asupan kalori dan cairan yang adekuat
 2. Tirah baring
 3. Pengobatan simptomatik
-a. Demam: Ibuprofen 2x400mg/hari.
-b. Mual: antiemetik seperti Metoklopramid 3x10 mg/hari atau Domperidon
-3x10mg/hari.
-c. Perut perih dan kembung: H2 Bloker (Simetidin 3x200 mg/hari atau
-Ranitidin 2x 150mg/hari) atau Proton Pump Inhibitor (Omeprazol 1 x 20
-mg/hari).
-Rencana Tindak Lanjut
+   * Demam: Ibuprofen 2x400mg/hari.
+   * Mual: antiemetik seperti Metoklopramid 3x10 mg/hari atau Domperidon
+     3x10mg/hari.
+   * Perut perih dan kembung: H2 Bloker (Simetidin 3x200 mg/hari atau Ranitidin
+     2x 150mg/hari) atau Proton Pump Inhibitor (Omeprazol 1 x 20 mg/hari).
+
+### Rencana tindak lanjut
+
 Kontrol secara berkala untuk menilai hasil pengobatan.
-Kriteria Rujukan
-1. Penegakan diagnosis dengan pemeriksaan penunjang laboratorium di
-pelayanan kesehatan sekunder
-2. Penderita hepatitis B dengan keluhan ikterik yang menetap disertai
-keluhan yang lain.
-Konseling dan Edukasi
-1. Memberi edukasi pada keluarga untuk ikut mendukung pasien agar teratur
-minum obat karena pengobatan jangka panjang.
-2. Pada fase akut, keluarga ikut menjaga asupan kalori dan cairan yang
-adekuat, dan membatasi aktivitas fisik pasien.
-3. Pencegahan penularan pada anggota keluarga dengan modifikasi pola
-hidup untuk pencegahan transmisi dan imunisasi.
 
-135
+### Kriteria rujukan
 
-Peralatan
+1. Penegakan diagnosis dengan pemeriksaan penunjang laboratorium di pelayanan
+   kesehatan sekunder
+2. Penderita hepatitis B dengan keluhan ikterik yang menetap disertai keluhan
+   yang lain.
+
+### Konseling dan edukasi
+1. Memberi edukasi pada keluarga untuk ikut mendukung pasien agar teratur minum
+   obat karena pengobatan jangka panjang.
+2. Pada fase akut, keluarga ikut menjaga asupan kalori dan cairan yang adekuat,
+   dan membatasi aktivitas fisik pasien.
+3. Pencegahan penularan pada anggota keluarga dengan modifikasi pola hidup
+   untuk pencegahan transmisi dan imunisasi.
+
+### Peralatan
+
 Laboratorium darah rutin, urin rutin dan pemeriksaan fungsi hati
-Prognosis
+
+## Prognosis
+
 Prognosis sangat tergantung pada kondisi pasien saat datang, ada/tidaknya
-komplikasi, dan pengobatannya. Pada umumnya, prognosis pada hepatitis B
-adalah dubia, untuk fungtionam dan sanationam dubia ad malam.
-Referensi
+komplikasi, dan pengobatannya. Pada umumnya, prognosis pada hepatitis B adalah
+dubia, untuk fungtionam dan sanationam dubia ad malam.
+
+## Referensi
 1. Dienstaq, J.L. Isselbacher, K.J. Acute Viral Hepatitis. In: Braunwald, E. et
-th
-al. Harrison’s Principles of Internal Medicine. 16 Ed. McGraw-Hill. New
-York. 2004.
-2. Sherlock, S. Hepatitis B virus and hepatitis delta virus. In: Disease of Liver
-and Biliary System. Blackwell Publishing Company. 2002: p.285-96.
+   al. Harrison’s Principles of Internal Medicine. 16$$^{th}$$ Ed. McGraw-Hill. New
+   York. 2004.
+2. Sherlock, S. Hepatitis B virus and hepatitis delta virus. In: Disease of
+   Liver and Biliary System. Blackwell Publishing Company. 2002: p.285-96.
 3. Sanityoso, Andri. Buku Ajar Ilmu Penyakit Dalam. Jilid I. Edisi ke 4.
-Jakarta: FK UI. 2006: Hal 429-33.
-4. Soemohardjo, Soewignjo. Gunawan, Stephanus. Buku Ajar Ilmu Penyakit
-Dalam. Jilid I. Edisi ke 4. Jakarta: FK UI. 2006:Hal 435-9.
-5. Panduan Pelayanan Medik Ilmu Penyakit Dalam. Jakarta: Departemen
-Ilmu Penyakit Dalam FKUI/RSCM. 2004. Hal 15-17.
+   Jakarta: FK UI. 2006: Hal 429-33.
+4. Soemohardjo, Soewignjo. Gunawan, Stephanus. Buku Ajar Ilmu Penyakit Dalam.
+   Jilid I. Edisi ke 4. Jakarta: FK UI. 2006:Hal 435-9.
+5. Panduan Pelayanan Medik Ilmu Penyakit Dalam. Jakarta: Departemen Ilmu
+   Penyakit Dalam FKUI/RSCM. 2004. Hal 15-17.

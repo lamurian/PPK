@@ -1,7 +1,4 @@
-
 ---
-author: <++>
-title: <++>
 output:
   html_document:
     toc: true
@@ -16,38 +13,32 @@ output:
     highlight: tango
   slidy_presentation:
     highlight: tango
-bibliography: ref.bib
 csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
-<++>
-10. Hemoroid Grade 1-2
-No. ICPC-2
-No. ICD-10
-Tingkat Kemampuan
-
-: D95 Anal fissure/perianal abscess
-: I84 Haemorrhoids
-: 4A
+No. ICPC-2	: D95 *Anal fissure/perianal abscess*  
+No. ICD-10	: I84 *Haemorrhoids*  
+**Kompetensi 	: 4A**
 
 ## Masalah Kesehatan
 
 Hemoroid adalah pelebaran vena-vena di dalam pleksus hemoroidalis.
 
-128
+## *Subjective*
 
-## Hasil Anamnesis (Subjective)
+### Keluhan
 
-Keluhan
-1. Perdarahan pada waktu defekasi, darah berwarna merah segar. Darah
-dapat menetes keluar dari anus beberapa saat setelah defekasi.
-2. Prolaps suatu massa pada waktu defekasi. Massa ini mula-mula dapat
-kembali spontan sesudah defekasi, tetapi kemudian harus dimasukkan
-secara manual dan akhirnya tidak dapat dimasukkan lagi.
+1. Perdarahan pada waktu defekasi, darah berwarna merah segar. Darah dapat
+   menetes keluar dari anus beberapa saat setelah defekasi.
+2. Prolaps suatu massa pada waktu defekasi. Massa ini mula-mula dapat kembali
+   spontan sesudah defekasi, tetapi kemudian harus dimasukkan secara manual dan
+   akhirnya tidak dapat dimasukkan lagi.
 3. Pengeluaran lendir.
 4. Iritasi didaerah kulit perianal.
 5. Gejala-gejela anemia (seperti : pusing, lemah, pucat).
-Faktor Risiko
+
+### Faktor risiko
+
 1. Penuaan
 2. Lemahnya dinding pembuluh darah
 3. Wanita hamil
@@ -56,96 +47,103 @@ Faktor Risiko
 6. Peningkatan tekanan intraabdomen
 7. Batuk kronik
 8. Sering mengedan
-9. Penggunaan toilet yang berlama-lama (misal : duduk dalam waktu yang
-lama di toilet)
-## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+9. Penggunaan toilet yang berlama-lama (misal : duduk dalam waktu yang lama di
+   toilet)
 
-Pemeriksaan Fisik
+## *Objective*
+
+### Pemeriksaan fisik
+
 1. Periksa tanda-tanda anemia
 2. Pemeriksaan status lokalis
-a. Inspeksi:
- Hemoroid derajat 1, tidak menunjukkan adanya suatu kelainan di
-regio anal.
- Hemoroid derajat 2, tidak terdapat benjolan mukosa yang keluar
-melalui anus, akan tetapi bagian hemoroid yang tertutup kulit dapat
-terlihat sebagai pembengkakan.
- Hemoroid derajat 3 dan 4 yang besar akan segera dapat dikenali
-dengan adanya massa yang menonjol dari lubang anus yang bagian
-luarnya ditutupi kulit dan bagian dalamnya oleh mukosa yang
-berwarna keunguan atau merah.
-b. Palpasi:
- Hemoroid interna pada stadium awal merupaka pelebaran vena
-yang lunak dan mudah kolaps sehingga tidak dapat dideteksi
-dengan palpasi.
- Setelah hemoroid berlangsung lama dan telah prolaps, jaringan ikat
-mukosa mengalami fibrosis sehingga hemoroid dapat diraba ketika
-jari tangan meraba sekitar rektum bagian bawah.
+* Inspeksi:
+  * Hemoroid derajat 1, tidak menunjukkan adanya suatu kelainan di regio anal.
+  * Hemoroid derajat 2, tidak terdapat benjolan mukosa yang keluar melalui anus,
+    akan tetapi bagian hemoroid yang tertutup kulit dapat terlihat sebagai
+    pembengkakan.
+  * Hemoroid derajat 3 dan 4 yang besar akan segera dapat dikenali dengan adanya
+    massa yang menonjol dari lubang anus yang bagian luarnya ditutupi kulit dan
+    bagian dalamnya oleh mukosa yang berwarna keunguan atau merah.
+* Palpasi:
+  * Hemoroid interna pada stadium awal merupaka pelebaran vena yang lunak dan
+    mudah kolaps sehingga tidak dapat dideteksi dengan palpasi.
+  * Setelah hemoroid berlangsung lama dan telah prolaps, jaringan ikat mukosa
+    mengalami fibrosis sehingga hemoroid dapat diraba ketika jari tangan meraba
+    sekitar rektum bagian bawah.
 
-129
+### Pemeriksaan penunjang
 
-Pemeriksaan Penunjang
-Pemeriksaan darah rutin, bertujuan untuk mengetahui adanya anemia dan
-infeksi.
-## Penegakan Diagnostik (Assessment)
+Pemeriksaan darah rutin, bertujuan untuk mengetahui adanya anemia dan infeksi.
 
-Diagnosis Klinis
-Diagnosis ditegakkan berdasarkan
-pemeriksaan penunjang.
+## *Assessment*
 
-anamnesis,
+### Diagnosis klinis
 
-pemeriksaan
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik dan pemeriksaan
+penunjang.
 
-fisik
+### Klasifikasi hemoroid
 
-dan
-
-Klasifikasi hemoroid, dibagi menjadi :
 1. Hemoroid internal, yang berasal dari bagian proksimal dentate line dan
-dilapisi mukosa
-Hemoroid internal dibagi menjadi 4 grade, yaitu :
-a. Grade 1: hemoroid mencapai lumen anal kanal
-b. Grade 2: hemoroid mencapai sfingter eksternal dan tampak pada saat
-pemeriksaan tetapi dapat masuk kembali secara spontan.
-c. Grade 3: hemoroid telah keluar dari anal canal dan hanya dapat masuk
-kembali secara manual oleh pasien.
-d. Grade 4: hemoroid selalu keluar dan tidak dapat masuk ke anal kanal
-meski dimasukkan secara manual
+   dilapisi mukosa
+   Hemoroid internal dibagi menjadi 4 grade, yaitu :
+   * Grade 1: hemoroid mencapai lumen anal kanal
+   * Grade 2: hemoroid mencapai sfingter eksternal dan tampak pada saat
+     pemeriksaan tetapi dapat masuk kembali secara spontan.
+   * Grade 3: hemoroid telah keluar dari anal canal dan hanya dapat masuk kembali
+     secara manual oleh pasien.
+   * Grade 4: hemoroid selalu keluar dan tidak dapat masuk ke anal kanal meski
+     dimasukkan secara manual
 2. Hemoroid eksternal, berasal dari bagian dentate line dan dilapisi oleh
-epitel mukosa yang telah termodifikasi serta banyak persarafan serabut
-saraf nyeri somatik.
-Diagnosis Banding
+   epitel mukosa yang telah termodifikasi serta banyak persarafan serabut saraf
+   nyeri somatik.
+
+### Diagnosis banding
+
 Kondiloma Akuminata, Proktitis , Rektal prolaps
-Komplikasi
+
+### Komplikasi
+
 Anemia
-## Penatalaksanaan Komprehensif (Plan)
 
-Penatalaksanaan Hemoroid di layanan primer hanya untuk hemoroid grade 1
-dengan terapi konservatif medis dan menghindari obat-obat anti-inflamasi nonsteroid, serta makanan pedas atau berlemak.
-Hal lain yang dapat dilakukan adalah mengurangi rasa nyeri dan konstipasi
-pada pasien hemoroid.
-Konseling dan Edukasi
-Melakukan edukasi kepada pasien sebagai upaya pencegahan hemoroid.
-Pencegahan hemoroid dapat dilakukan dengan cara:
-1. Konsumsi serat 25-30 gram perhari. Hal ini bertujuan untuk membuat
-feses menjadi lebih lembek dan besar, sehingga mengurangi proses
-mengedan dan tekanan pada vena anus.
+## *Plan*
+
+Penatalaksanaan Hemoroid di layanan primer hanya untuk hemoroid grade 1 dengan
+terapi konservatif medis dan menghindari obat-obat anti-inflamasi nonsteroid,
+serta makanan pedas atau berlemak.
+
+Hal lain yang dapat dilakukan adalah mengurangi rasa nyeri dan konstipasi pada
+pasien hemoroid.
+
+### Konseling dan edukasi
+
+Melakukan edukasi kepada pasien sebagai upaya pencegahan hemoroid. Pencegahan
+hemoroid dapat dilakukan dengan cara:
+
+1. Konsumsi serat 25-30 gram perhari. Hal ini bertujuan untuk membuat feses
+   menjadi lebih lembek dan besar, sehingga mengurangi proses mengedan dan
+   tekanan pada vena anus.
 2. Minum air sebanyak 6-8 gelas sehari.
-3. Mengubah kebiasaan buang air besar. Segerakan ke kamar mandi saat
-merasa akan buang air besar, jangan ditahan karena akan memperkeras
-feses. Hindari mengedan.
+3. Mengubah kebiasaan buang air besar. Segerakan ke kamar mandi saat merasa
+   akan buang air besar, jangan ditahan karena akan memperkeras feses. Hindari
+   mengedan.
 
-130
+### Kriteria rujukan:
 
-Kriteria Rujukan:
 Hemoroid interna grade 2, 3, dan 4 dan hemoroid eksterna memerlukan
 penatalaksanaan di pelayanan kesehatan sekunder.
-Peralatan
+
+### Peralatan
+
 Sarung tangan
-Prognosis
+
+## Prognosis
+
 Prognosis pada umumnya bonam
-Referensi
-1. Thornton, Scott. Giebel, John. Hemorrhoids. Emedicine. Medscape.
-Update 12 September 2012. (Thornton & Giebel, 2012)
-2. Chong, PS & Bartolo, D.C.C. Hemorrhoids and Fissure in Ano.
-Gastroenterology Clinics of North America. 2008.
+
+## Referensi
+
+1. Thornton, Scott. Giebel, John. Hemorrhoids. Emedicine. Medscape. Update 12
+   September 2012. (Thornton & Giebel, 2012)
+2. Chong, PS & Bartolo, D.C.C. Hemorrhoids and Fissure in Ano. Gastroenterology
+   Clinics of North America. 2008.
