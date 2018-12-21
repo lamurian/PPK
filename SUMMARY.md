@@ -34,7 +34,7 @@
 	* [Disentri](03.digestif/08.Disentri.Rmd)
 	* [Perdarahan Saluran Cerna Atas](03.digestif/09.UGIT_Bleed.Rmd)
 	* [Perdarahan Saluran Cerna Bawah](03.digestif/10.LGIT_Bleed.Rmd)
-	* [Hemorrhoid](03.digestif/11.Hemorrhoud.Rmd)
+	* [Hemorrhoid](03.digestif/11.Hemorrhoid.Rmd)
 	* [Hepatitis A](03.digestif/12.Hep_A.Rmd)
 	* [Hepatitis B](03.digestif/13.Hep_B.Rmd)
 	* [Kolesistitis](03.digestif/14.Kolesistitis.Rmd)
