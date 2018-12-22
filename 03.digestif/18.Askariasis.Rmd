@@ -1,7 +1,4 @@
-
 ---
-author: <++>
-title: <++>
 output:
   html_document:
     toc: true
@@ -16,151 +13,159 @@ output:
     highlight: tango
   slidy_presentation:
     highlight: tango
-bibliography: ref.bib
 csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
-<++>
-17. Askariasis (infeksi cacing gelang)
-No. ICPC II
-No. ICD X
-Tingkat Kemampuan
-
-: D96 Worms/ other parasites
-: B77.9 Ascariaris unspecified
-: 4A
+No. ICPC-2	: D96 *Worms/ other parasites*  
+No. ICD-10	: B77.9 *Ascariaris unspecified*  
+**Kompetensi 	: 4A**
 
 ## Masalah Kesehatan
 
-Askariasis adalah suatu penyakit yang disebabkan oleh infestasi parasit
-Ascaris lumbricoides.
-Di Indonesia prevalensi askariasis tinggi, terutama pada anak. Frekuensinya
-antara 60-90%. Diperkirakan lebih dari 1 milyar orang di dunia terinfeksi
-Ascaris lumbricoides.
+Askariasis adalah suatu penyakit yang disebabkan oleh infestasi parasit Ascaris
+lumbricoides. Di Indonesia prevalensi askariasis tinggi, terutama pada anak.
+Frekuensinya antara 60-90%. Diperkirakan lebih dari 1 milyar orang di dunia
+terinfeksi Ascaris lumbricoides.
 
-147
+## *Subjective*
 
-## Hasil Anamnesis(Subjective)
+### Keluhan
 
-Keluhan
-Nafsu makan menurun, perut membuncit, lemah, pucat, berat badan menurun,
-mual, muntah.
-Gejala Klinis
+Nafsu makan menurun, perut membuncit, lemah, pucat, berat badan menurun, mual,
+muntah.
+
+### Gejala klinis
+
 Gejala yang timbul pada penderita dapat disebabkan oleh cacing dewasa dan
 migrasi larva.
+
 Gangguan karena larva biasanya terjadi pada saat larva berada diparu. Pada
 orang yang rentan, terjadi perdarahan kecil pada dinding alveolus dan timbul
-gangguan pada paru yang disertai dengan batuk, demam, dan eosinofilia.
-Pada foto thoraks tampak infiltrat yang menghilang dalam waktu 3 minggu.
-Keadaan ini disebut sindroma Loeffler.
-Gangguan yang disebabkan cacing dewasa biasanya ringan, dan sangat
-tergantung dari banyaknya cacing yang menginfeksi di usus. Kadang-kadang
-penderita mengalami gejala gangguan usus ringan seperti mual, nafsu makan
-berkurang, diare, atau konstipasi.
+gangguan pada paru yang disertai dengan batuk, demam, dan eosinofilia. Pada
+foto thoraks tampak infiltrat yang menghilang dalam waktu 3 minggu. Keadaan ini
+disebut **sindroma Loeffler**.
+
+Gangguan yang disebabkan cacing dewasa biasanya ringan, dan sangat tergantung
+dari banyaknya cacing yang menginfeksi di usus. Kadang-kadang penderita
+mengalami gejala gangguan usus ringan seperti mual, nafsu makan berkurang,
+diare, atau konstipasi.
+
 Pada infeksi berat, terutama pada anak dapat terjadi malabsorpsi sehingga
-memperberat keadaan malnutrisi. Gejala klinis yang paling menonjol adalah
-rasa tidak enak di perut, kolik akut pada daerah epigastrium, gangguan selera
-makan, mencret. Ini biasanya terjadi pada saat proses peradangan pada
-dinding usus. Pada anak kejadian ini bisa diikuti demam. Komplikasi yang
-ditakuti (berbahaya) adalah bila cacing dewasa menjalar ketempat lain
-(migrasi) dan menimbulkan gejala akut. Pada keadaan infeksi yang berat,
-paling ditakuti bila terjadi muntah cacing, yang akan dapat menimbulkan
-komplikasi penyumbatan saluran nafas oleh cacing dewasa. Pada keadaan
-lain dapat terjadi ileus oleh karena sumbatan pada usus oleh massa cacing,
-ataupun apendisitis sebagai akibat masuknya cacing ke dalam lumen
-apendiks. Bisa dijumpai penyumbatan ampulla Vateri ataupun saluran empedu
-dan terkadang masuk ke jaringan hati.
-Gejala lain adalah sewaktu masa inkubasi dan pada saat cacing menjadi
-dewasa di dalam usus halus, yang mana hasil metabolisme cacing dapat
-menimbulkan fenomena sensitisasi seperti urtikaria, asma bronkhial,
-konjungtivitis akut, fotofobia dan terkadang hematuria. Eosinofilia 10% atau
-lebih sering pada infeksi dengan Ascaris lumbricoides, tetapi hal ini tidak
-menggambarkan beratnya penyakit, tetapi lebih banyak menggambarkan
-proses sensitisasi dan eosinofilia ini tidak patognomonis untuk infeksi Ascaris
-lumbricoides.
-Faktor Risiko
+memperberat keadaan malnutrisi. Gejala klinis yang paling menonjol adalah rasa
+tidak enak di perut, kolik akut pada daerah epigastrium, gangguan selera makan,
+mencret. Ini biasanya terjadi pada saat proses peradangan pada dinding usus.
+Pada anak kejadian ini bisa diikuti demam. Komplikasi yang ditakuti (berbahaya)
+adalah bila cacing dewasa menjalar ketempat lain (migrasi) dan menimbulkan
+gejala akut. Pada keadaan infeksi yang berat, paling ditakuti bila terjadi
+muntah cacing, yang akan dapat menimbulkan komplikasi penyumbatan saluran nafas
+oleh cacing dewasa. Pada keadaan lain dapat terjadi ileus oleh karena sumbatan
+pada usus oleh massa cacing, ataupun apendisitis sebagai akibat masuknya cacing
+ke dalam lumen apendiks. Bisa dijumpai penyumbatan ampulla Vateri ataupun
+saluran empedu dan terkadang masuk ke jaringan hati.
+
+Gejala lain adalah sewaktu masa inkubasi dan pada saat cacing menjadi dewasa di
+dalam usus halus, yang mana hasil metabolisme cacing dapat menimbulkan fenomena
+sensitisasi seperti urtikaria, asma bronkhial, konjungtivitis akut, fotofobia
+dan terkadang hematuria. Eosinofilia 10% atau lebih sering pada infeksi dengan
+Ascaris lumbricoides, tetapi hal ini tidak menggambarkan beratnya penyakit,
+tetapi lebih banyak menggambarkan proses sensitisasi dan eosinofilia ini tidak
+patognomonis untuk infeksi Ascaris lumbricoides.
+
+### Faktor risiko
+
 1. Kebiasaan tidak mencuci tangan.
 2. Kurangnya penggunaan jamban.
 3. Kebiasaan menggunakan tinja sebagai pupuk.
-4. Kebiasaan tidak menutup makanan sehingga dihinggapi lalat yang
-membawa telur cacing
+4. Kebiasaan tidak menutup makanan sehingga dihinggapi lalat yang membawa telur
+   cacing
 
-148
+## *Objective*
 
-## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+### Pemeriksaan fisik
 
-Pemeriksaan Fisik
 1. Pemeriksaan tanda vital
 2. Pemeriksaan generalis tubuh: konjungtiva anemis, terdapat tanda-tanda
-malnutrisi, nyeri abdomen jika terjadi obstruksi.
-Pemeriksaan Penunjang
-Pemeriksaan penunjang untuk penyakit ini adalah dengan melakukan
-pemeriksaan tinja secara langsung. Adanya telur dalam tinja memastikan
-diagnosis Askariasis.
-## Penegakan Diagnostik (Assessment)
+   malnutrisi, nyeri abdomen jika terjadi obstruksi.
 
-Diagnosis Klinis
+### Pemeriksaan penunjang
+
+Pemeriksaan penunjang untuk penyakit ini adalah dengan melakukan pemeriksaan
+tinja secara langsung. Adanya telur dalam tinja memastikan diagnosis
+Askariasis.
+
+## *Assessment*
+
+### Diagnosis klinis
+
 Penegakan diagnosis dilakukan dengan anamnesis, pemeriksaan fisik dan
-ditemukannya larva atau cacing dalam tinja.
-Diagnosis Banding: jenis kecacingan lainnya
-Komplikasi: anemia defisiensi besi
+ditemukannya larva atau cacing dalam tinja. 
+
+### Diagnosis banding
+
+Jenis kecacingan lainnya.
+
+### Komplikasi
+
+Anemia defisiensi besi.
+
 ## Penatalaksanaan Komprehensif (Plan)
 
-Penatalaksanaan
-1. Memberi pengetahuan kepada masyarakat akan pentingnya kebersihan
-diri dan lingkungan, antara lain:
-a. Kebiasaan mencuci tangan dengan sabun dan air mengalir
-b. Menutup makanan
-## c. Masing-masing keluarga memiliki jamban
- keluarga
-d. Tidak menggunakan tinja sebagai pupuk
-e. Kondisi rumah dan lingkungan dijaga agar tetap bersih dan tidak
-lembab.
+### Penatalaksanaan
+
+1. Memberi pengetahuan kepada masyarakat akan pentingnya kebersihan diri dan
+   lingkungan, antara lain:
+   * Kebiasaan mencuci tangan dengan sabun dan air mengalir
+   * Menutup makanan
+   * Masing-masing keluarga memiliki jamban keluarga
+   * Tidak menggunakan tinja sebagai pupuk
+   * Kondisi rumah dan lingkungan dijaga agar tetap bersih dan tidak lembab.
 2. Farmakologis
-a. Pirantel pamoat 10 mg/kg BB/hari, dosis tunggal, atau
-b. Mebendazol, dosis 100 mg, dua kali sehari, diberikan selama tiga hari
-berturut-turut, atau
-c. Albendazol, pada anak di atas 2 tahun dapat diberikan 2 tablet (400
-mg) atau 20ml suspensi, dosis tunggal. Tidak boleh diberikan pada ibu
-hamil
+   * Pirantel pamoat 10 mg/kg BB/hari, dosis tunggal, atau
+   * Mebendazol, dosis 100 mg, dua kali sehari, diberikan selama tiga hari
+     berturut-turut, atau
+   * Albendazol, pada anak di atas 2 tahun dapat diberikan 2 tablet (400 mg)
+     atau 20ml suspensi, dosis tunggal. Tidak boleh diberikan pada ibu hamil
+
 Pengobatan dapat dilakukan secara perorangan atau secara masal pada
 masyarakat. Syarat untuk pengobatan massal antara lain:
-1. Obat mudah diterima dimasyarakat
+
+1. Obat mudah diterima di masyarakat
 2. Aturan pemakaian sederhana
 3. Mempunyai efek samping yang minimal
-4. Bersifat polivalen, sehingga dapat berkhasiat terhadap beberapa jenis
-cacing
+4. Bersifat polivalen, sehingga dapat berkhasiat terhadap beberapa jenis cacing
 5. Harga mudah dijangkau
 
-149
+### Konseling dan edukasi
 
-Konseling dan Edukasi
-Memberikan informasi kepada pasien dan keluarga mengenai pentingnya
-menjaga kebersihan diri dan lingkungan, yaitu antara lain:
-## 1. Masing-masing keluarga memiliki jamban keluarga. Sehingga kotoran
+Memberikan informasi kepada pasien dan keluarga mengenai pentingnya menjaga
+kebersihan diri dan lingkungan, yaitu antara lain:
 
-manusia tidak menimbulkan pencemaran pada tanah disekitar lingkungan
-tempat tinggal kita.
+1. Masing-masing keluarga memiliki jamban keluarga. Sehingga kotoran manusia
+   tidak menimbulkan pencemaran pada tanah disekitar lingkungan tempat tinggal
+   kita.
 2. Tidak menggunakan tinja sebagai pupuk.
 3. Menghindari kontak dengan tanah yang tercemar oleh tinja manusia.
 4. Menggunakan sarung tangan jika ingin mengelola limbah/sampah.
-5. Mencuci tangan sebelum dan setelah melakukan aktifitas dengan
-menggunakan sabun dan air mengalir.
+5. Mencuci tangan sebelum dan setelah melakukan aktifitas dengan menggunakan
+   sabun dan air mengalir.
 6. Kondisi rumah dan lingkungan dijaga agar tetap bersih dan tidak lembab.
-Kriteria Rujukan: Peralatan
-Peralatan laboratorium mikroskopik sederhana untuk pemeriksaan spesimen
-tinja.
-Prognosis
-Pada umumnya prognosis adalah bonam, karena jarang menimbulkan kondisi
-yang berat secara klinis.
-Referensi
-1. Gandahusada, S. 2000. Parasitologi Kedokteran. Edisi ketiga. Jakarta.
-Balai Penerbit Fakultas Kedokteran Universitas Indonesia. (Gandahusada,
-2000)
+
+### Peralatan
+
+Peralatan laboratorium mikroskopik sederhana untuk pemeriksaan spesimen tinja.
+
+## Prognosis
+
+Pada umumnya prognosis adalah bonam, karena jarang menimbulkan kondisi yang
+berat secara klinis.
+
+## Referensi
+
+1. Gandahusada, S. 2000. Parasitologi Kedokteran. Edisi ketiga. Jakarta. Balai
+   Penerbit Fakultas Kedokteran Universitas Indonesia. (Gandahusada, 2000)
 2. Written for World Water Day. 2001. Reviewed by staff and experts from the
-cluster on Communicable Diseases (CDS) and Water, Sanitation and
-Health unit (WSH), World Health Organization (WHO).
-3. King CH. Hookworms. In: Berhman RE, Kliegman RM, Arvin AM, editors.
-th
-Nelson’s Tetxbook of Pediatrics. 19 ed. Philadelphia: W.B.Saunders
-Company; 2012. p.1000-1.
+   cluster on Communicable Diseases (CDS) and Water, Sanitation and Health unit
+   (WSH), World Health Organization (WHO).
+3. King CH. Hookworms. In: Berhman RE, Kliegman RM, Arvin AM, editors. Nelson’s
+   Tetxbook of Pediatrics. 19$$^{th}$$ ed. Philadelphia: W.B.Saunders Company; 2012.
+   p.1000-1.

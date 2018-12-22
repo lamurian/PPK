@@ -1,7 +1,4 @@
-
 ---
-author: <++>
-title: <++>
 output:
   html_document:
     toc: true
@@ -16,151 +13,151 @@ output:
     highlight: tango
   slidy_presentation:
     highlight: tango
-bibliography: ref.bib
 csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
-<++>
-19. Skistosomiasis
-No. ICPC II
-No. ICD X
-Tingkat Kemampuan
+No. ICPC-2	: D96 *Worm/outer parasite*  
+No. ICD-10	:
 
-: D96 Worm/outer parasite
-: B65.9 Skistosomiasisunspecified
-B65.2 Schistomiasis due to S. japonicum
-: 4A
+* B65.9 *Skistosomiasis unspecified*  
+* B65.2 *Schistomiasis due to S. japonicum*  
+
+**Kompetensi 	: 4A**
 
 ## Masalah Kesehatan
 
 Skistosoma adalah salah satu penyakit infeksi parasit yang disebabkan oleh
 cacing trematoda dari genus schistosoma (blood fluke). Terdapat tiga spesies
-cacing trematoda utama yang menjadi penyebab skistosomiasis yaitu
-Schistosoma japonicum, Schistosoma haematobium dan Schistosoma
-mansoni. Spesies yang kurang dikenal yaitu Schistosoma mekongi dan
-Schistosoma intercalatum. Di Indonesia spesies yang paling sering ditemukan
-adalah Schistosoma japonicum khususnya di daerah lembah Napu dan sekitar
-danau Lindu di Sulawesi Tengah. Untuk menginfeksi manusia, Schistosoma
-memerlukan keong sebagai intermediate host. Penularan Schistosoma terjadi
-melalui serkaria yang berkembang dari host dan menembus kulit pasien dalam
-air. Skistosomiasis terjadi karena reaksi imunologis terhadap telur cacing yang
-terperangkap dalam jaringan. Prevalensi Schistosomiasis di lembah Napu dan
-danau Lindu berkisar 17% hingga 37%.
-## Hasil Anamnesis (Subjective)
+cacing trematoda utama yang menjadi penyebab skistosomiasis yaitu Schistosoma
+japonicum, Schistosoma haematobium dan Schistosoma mansoni. Spesies yang kurang
+dikenal yaitu Schistosoma mekongi dan Schistosoma intercalatum. Di Indonesia
+spesies yang paling sering ditemukan adalah Schistosoma japonicum khususnya di
+daerah lembah Napu dan sekitar danau Lindu di Sulawesi Tengah. Untuk
+menginfeksi manusia, Schistosoma memerlukan keong sebagai intermediate host.
+Penularan Schistosoma terjadi melalui serkaria yang berkembang dari host dan
+menembus kulit pasien dalam air. Skistosomiasis terjadi karena reaksi
+imunologis terhadap telur cacing yang terperangkap dalam jaringan. Prevalensi
+Schistosomiasis di lembah Napu dan danau Lindu berkisar 17% hingga 37%.
 
-Keluhan
-1. Pada fase akut, pasien biasanya datang dengan keluhan demam, nyeri
-kepala, nyeri tungkai, urtikaria, bronkitis, nyeri abdominal. Biasanya
-terdapat riwayat terpapar dengan air misalnya danau atau sungai 4-8
-minggu sebelumnya, yang kemudian berkembang menjadi ruam
-kemerahan (pruritic rash).
+## *Subjective*
+
+### Keluhan
+
+1. Pada fase akut, pasien biasanya datang dengan keluhan demam, nyeri kepala,
+   nyeri tungkai, urtikaria, bronkitis, nyeri abdominal. Biasanya terdapat
+   riwayat terpapar dengan air misalnya danau atau sungai 4-8 minggu
+   sebelumnya, yang kemudian berkembang menjadi ruam kemerahan (pruritic rash).
 2. Pada fase kronis, keluhan pasien tergantung pada letak lesi misalnya:
-a. Buang air kecil darah (hematuria), rasa tak nyaman hingga nyeri saat
-berkemih, disebabkan oleh urinary schistosomiasis biasanya
-disebabkan oleh S. hematobium.
-b. Nyeri abdomen dan diare berdarah biasanya disebabkan oleh
-intestinal skistosomiasis, biasanya disebabkan oleh S. mansoni, S.
-Japonicum juga S. Mekongi.
-c. Pembesaran perut, kuning pada kulit dan mata disebabkan oleh
-hepatosplenic skistosomiasis yang biasanya disebabkan oleh S.
-Japonicum.
-Faktor Risiko:
-Orang-orang yang tinggal atau datang berkunjung ke daerah endemik di
-sekitar lembah Napu dan Lindu, Sulawesi Tengah dan mempunyai kebiasaan
-terpajan dengan air, baik di sawah maupun danau di wilayah tersebut.
+   * Buang air kecil darah (hematuria), rasa tak nyaman hingga nyeri saat
+     berkemih, disebabkan oleh urinary schistosomiasis biasanya disebabkan oleh *S.
+     hematobium*.
+   * Nyeri abdomen dan diare berdarah biasanya disebabkan oleh intestinal
+     skistosomiasis, biasanya disebabkan oleh *S. mansoni*, *S. Japonicum* juga *S.
+     Mekongi*.
+   * Pembesaran perut, kuning pada kulit dan mata disebabkan oleh hepatosplenic
+     skistosomiasis yang biasanya disebabkan oleh *S. Japonicum*.
 
-154
+### Faktor risiko:
 
-## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
+Orang-orang yang tinggal atau datang berkunjung ke daerah endemik di sekitar
+lembah Napu dan Lindu, Sulawesi Tengah dan mempunyai kebiasaan terpajan dengan
+air, baik di sawah maupun danau di wilayah tersebut.
 
-Pemeriksaan Fisik
+## *Objective*
+
+### Pemeriksaan fisik
+
 1. Pada skistosomiasis akut dapat ditemukan:
-a. Limfadenopati
-b. Hepatosplenomegaly
-c. Gatal pada kulit
-d. Demam
-e. Urtikaria
-Buang air besar berdarah (bloody stool)
+   * Limfadenopati
+   * Hepatosplenomegaly
+   * Gatal pada kulit
+   * Demam
+   * Urtikaria
+   * Buang air besar berdarah (bloody stool)
 2. Pada skistosomiasiskronik bisa ditemukan:
-a. Hipertensi portal dengan distensi abdomen, hepatosplenomegaly
-b. Gagal ginjal dengan anemia dan hipertensi
-c. Gagal jantung dengan gagal jantung kanan
-d. Intestinal polyposis
-e. Ikterus
-Pemeriksaan Penunjang
-Penemuan telur cacing pada spesimen tinja dan pada sedimen urin.
-## Penegakan Diagnostik (Assessment)
+   * Hipertensi portal dengan distensi abdomen, hepatosplenomegaly
+   * Gagal ginjal dengan anemia dan hipertensi
+   * Gagal jantung dengan gagal jantung kanan
+   * Intestinal polyposis
+   * Ikterus
 
-Diagnosis Klinis
-Diagnosis ditegakkan dari anamnesis, pemeriksaan fisis dan juga penemuan
-telur cacing pada pemeriksaan tinja dan juga sedimen urin.
-Diagnosis Banding: Komplikasi:
+### Pemeriksaan penunjang
+
+Penemuan telur cacing pada spesimen tinja dan pada sedimen urin.
+
+## *Assessment*
+
+### Diagnosis klinis
+
+Diagnosis ditegakkan dari anamnesis, pemeriksaan fisis dan juga penemuan telur
+cacing pada pemeriksaan tinja dan juga sedimen urin.
+
+### Komplikasi
+
 1. Gagal ginjal
 2. Gagal jantung
-## Penatalaksanaan Komprehensif (Plan)
 
-Penatalaksanaan
-1. Pengobatan diberikan dengan dua tujuan yakni untuk menyembuhkan
-pasien atau meminimalkan morbiditas dan mengurangi penyebaran
-penyakit.
-2. Prazikuantel adalah obat pilihan yang diberikan karena dapat membunuh
-semua spesies Schistosoma. Walaupun pemberian single terapi sudah
-bersifat kuratif, namun pengulangan setelah 2 sampai 4 minggu dapat
-meningkatkan efektifitas pengobatan. Pemberian prazikuantel dengan
-dosis sebagai berikut:
+## *Plan*
 
-155
+### Penatalaksanaan
 
-Tabel 3.7. Dosis Prazikuantel
-Spesies Schistosoma
+1. Pengobatan diberikan dengan dua tujuan yakni untuk menyembuhkan pasien atau
+   meminimalkan morbiditas dan mengurangi penyebaran penyakit.
+2. Prazikuantel adalah obat pilihan yang diberikan karena dapat membunuh semua
+   spesies Schistosoma. Walaupun pemberian single terapi sudah bersifat
+   kuratif, namun pengulangan setelah 2 sampai 4 minggu dapat meningkatkan
+   efektifitas pengobatan. Pemberian prazikuantel dengan dosis sebagai berikut:
 
-Dosis Prazikuantel
+| Spesies Schistosoma                          | Dosis Prazikuantel                      |
+|----------------------------------------------|-----------------------------------------|
+| *S. mansoni, S. haematobium, S. intercalatum | 40 mg/kgBB/hari oral, dibagi dua dosis  |
+| *S. japonicum, S. mekongi                    | 60 mg/kgBB/hari oral, dibagi tiga dosis |
 
-S. mansoni, S. haematobium,
-S. intercalatum
+**Tabel 20.1. Dosis prazikuantel**
 
-40 mg/kg badan per hari oral dan
-dibagi dalam dua dosis perhari.
+### Rencana tindak lanjut
 
-S. japonicum, S. mekongi
-
-60 mg/kg berat badan per hari oral
-dan dibagi dalam tiga dosis perhari.
-
-Rencana Tindak Lanjut
 1. Setelah 4 minggu dapat dilakukan pengulangan pengobatan.
-2. Pada pasien dengan telur cacing positif dapat dilakukan pemeriksaan
-ulang setelah satu bulan untuk memantau keberhasilan pengobatan.
-Konseling dan Edukasi
+2. Pada pasien dengan telur cacing positif dapat dilakukan pemeriksaan ulang
+   setelah satu bulan untuk memantau keberhasilan pengobatan.
+
+### Konseling dan edukasi
+
 1. Hindari berenang atau menyelam di danau atau sungai di daerah endemik
-skistosomiasis.
-2. Minum air yang sudah dimasak untuk menghindari penularan lewat air
-yang terkontaminasi.
-Kriteria Rujukan
+   skistosomiasis.
+2. Minum air yang sudah dimasak untuk menghindari penularan lewat air yang
+   terkontaminasi.
+
+### Kriteria rujukan
+
 Pasien yang didiagnosis dengan skistosomiasis (kronis) disertai komplikasi.
-Peralatan
-Peralatan laboratorium sederhana untuk pemeriksaan tinja dan sedimen urin
-(pada S.haematobium).
-Prognosis
+
+### Peralatan
+
+Peralatan laboratorium sederhana untuk pemeriksaan tinja dan sedimen urin (pada
+*S.haematobium*).
+
+## Prognosis
+
 Pada skistosomiasis akut, prognosis adalah dubia ad bonam, sedangkan yang
 kronis, prognosis menjadi dubia ad malam.
-Referensi
-1. Gandahusada, S. 2000. Parasitologi Kedokteran. Edisi ketiga. Jakarta.
-Balai Penerbit Fakultas Kedokteran Universitas Indonesia.
-2. Centers for Disease Control and Prevention. Schistosomiasis. July 25,
-2013. http://www.cdc.gov/parasites/schistosomiasis. (Center for Disease
-and Control, 2013)
+
+## Referensi
+
+1. Gandahusada, S. 2000. Parasitologi Kedokteran. Edisi ketiga. Jakarta. Balai
+   Penerbit Fakultas Kedokteran Universitas Indonesia.
+2. Centers for Disease Control and Prevention. Schistosomiasis. July 25, 2013.
+   http://www.cdc.gov/parasites/schistosomiasis. (Center for Disease and
+   Control, 2013)
 3. World Health Organization. Schistosomiasis. July 25, 2013.
-http://www.who.int/topics/shcistosomiasis/end (World Health Organization,
-2013)
+   http://www.who.int/topics/shcistosomiasis/end (World Health Organization,
+   2013)
 4. Kayser, F.H., Bienz, K.A., Eckert, J., Zinkernagel, R.M. 2005. Schistosoma
-in Medical Microbiology. Germany. Thieme. Stutgart. (Kayser, et al., 2005)
-5. Sudomo, M., Pretty, S. 2007. Pemberantasan Schistosomiasis di
-Indonesia. Buletin Penelitian Kesehatan. Vol. 35, No. 1. (Sudomo &
-Pretty, 2007)
-6. King CH. Hookworms. In: Berhman RE, Kliegman RM, Arvin AM, editors.
-th
-Nelson’s Tetxbook of Pediatrics. 19 ed. Philadelphia: W.B.Saunders
-Company; 2012. p.1000-1.
+   in Medical Microbiology. Germany. Thieme. Stutgart. (Kayser, et al., 2005)
+5. Sudomo, M., Pretty, S. 2007. Pemberantasan Schistosomiasis di Indonesia.
+   Buletin Penelitian Kesehatan. Vol. 35, No. 1. (Sudomo & Pretty, 2007)
+6. King CH. Hookworms. In: Berhman RE, Kliegman RM, Arvin AM, editors. Nelson’s
+   Tetxbook of Pediatrics. 19$$^{th}$$ ed. Philadelphia: W.B.Saunders Company; 2012.
+   p.1000-1.
 
 

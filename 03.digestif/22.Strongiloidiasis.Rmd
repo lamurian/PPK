@@ -1,7 +1,4 @@
-
 ---
-author: <++>
-title: <++>
 output:
   html_document:
     toc: true
@@ -16,112 +13,113 @@ output:
     highlight: tango
   slidy_presentation:
     highlight: tango
-bibliography: ref.bib
 csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
-<++>
-21. Strongiloidiasis
-No. ICPC II
-No. ICD X
-Tingkat Kemampuan
-
-: D96 Worms/other parasites
-: B78.9 Strongyloidiasis
-: 4A
+No. ICPC-2	: D96 *Worms/other parasites*  
+No. ICD-10 	: B78.9 *Strongyloidiasis*  
+**Kompetensi 	: 4A**
 
 ## Masalah Kesehatan
 
-Strongiloidiasis adalah penyakit kecacingan yang disebabkan oleh
-Strongyloides stercoralis, cacing yang biasanya hidup di kawasan tropik dan
-subtropik. Sekitar 100 juta orang diperkirakan terkena penyakit ini di seluruh
-dunia. Infeksi cacing ini bisa menjadi sangat berat dan berbahaya pada
-mereka yang dengan status imun menurun seperti pada pasien HIV/AIDS,
-transplantasi organ serta pada pasien yang mendapatkan pengobatan
-kortikosteroid jangka panjang.
-## Hasil Anamnesis (Subjective)
+Strongiloidiasis adalah penyakit kecacingan yang disebabkan oleh Strongyloides
+stercoralis, cacing yang biasanya hidup di kawasan tropik dan subtropik.
+Sekitar 100 juta orang diperkirakan terkena penyakit ini di seluruh dunia.
+Infeksi cacing ini bisa menjadi sangat berat dan berbahaya pada mereka yang
+dengan status imun menurun seperti pada pasien HIV/AIDS, transplantasi organ
+serta pada pasien yang mendapatkan pengobatan kortikosteroid jangka panjang.
 
-Keluhan
-Pada infestasi ringan Strongyloides pada umumnya tidak menimbulkan gejala
-khas.
-Gejala klinis
+## *Subjective*
+
+### Keluhan
+
+Pada infestasi ringan Strongyloides pada umumnya tidak menimbulkan gejala khas.
+
+### Gejala klinis
+
 1. Rasa gatal pada kulit
-
-159
-
-2. Pada infeksi sedang dapat menimbulkan gejala seperti ditusuk-tusuk di
-daerah epigastrium dan tidak menjalar
+2. Pada infeksi sedang dapat menimbulkan gejala seperti ditusuk-tusuk di daerah
+   epigastrium dan tidak menjalar
 3. Mual, muntah
 4. Diare dan konstipasi saling bergantian
-Faktor Risiko
+
+### Faktor risiko
+
 1. Kurangnya penggunaan jamban.
-2. Tanah yang terkontaminasi dengan tinja yang mengandung larva
-Strongyloides stercoralis.
+2. Tanah yang terkontaminasi dengan tinja yang mengandung larva Strongyloides
+   stercoralis.
 3. Penggunaan tinja sebagai pupuk.
 4. Tidak menggunakan alas kaki saat bersentuhan dengan tanah.
-## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
 
-Pemeriksaan Fisik
+## *Objective*
+
+### Pemeriksaan fisik
+
 1. Timbul kelainan pada kulit “creeping eruption” berupa papul eritema yang
-menjalar dan tersusun linear atau berkelok-kelok meyerupai benang
-dengan kecepatan 2 cm per hari. Predileksi penyakit ini terutama pada
-daerah telapak kaki, bokong, genital dan tangan.
+   menjalar dan tersusun linear atau berkelok-kelok meyerupai benang dengan
+   kecepatan 2 cm per hari. Predileksi penyakit ini terutama pada daerah
+   telapak kaki, bokong, genital dan tangan.
 2. Pemeriksaan generalis: nyeri epigastrium.
-Pemeriksaan Penunjang
-1. Pemeriksaan laboratorium
-dalam tinja segar, atau
-stercoralis.
-2. Pemeriksaan laboratorium
-hipereosinofilia, walaupun
-normal.
 
-mikroskopik: menemukan larva rabditiform
-menemukan cacing dewasa Strongyloides
-darah: dapat ditemukan eosinofilia atau
-pada banyak kasus jumlah sel eosinofilia
+### Pemeriksaan penunjang
+
+1. Pemeriksaan mikroskopik: menemukan larva rabditiform menemukan cacing dewasa
+   *Strongyloides* dalam tinja segar, atau stercoralis.
+1. Pemeriksaan darah: dapat ditemukan eosinofilia atau hipereosinofilia, walaupun pada banyak kasus jumlah
+   sel eosinofilia normal.
 
 ## Penegakan Diagnostik (Assessment)
 
-Diagnosis Klinis
+### Diagnosis klinis
+
 Penegakan diagnosis dilakukan dengan anamnesis, pemeriksaan fisik dan
 ditemukannya larva atau cacing dalam tinja.
-## Diagnosis Banding: Komplikasi: Penatalaksanaan Komprehensif (Plan)
 
-Penatalaksanaan
+## *Plan*
+
+### Penatalaksanaan
+
 1. Menjaga kebersihan diri dan lingkungan, antara lain:
-a. Menggunakan jamban keluarga.
-b. Mencuci tangan sebelum dan sesudah melakukan aktifitas.
-c. Menggunakan alas kaki.
-d. Hindari penggunaan pupuk dengan tinja.
+   * Menggunakan jamban keluarga.
+   * Mencuci tangan sebelum dan sesudah melakukan aktifitas.
+   * Menggunakan alas kaki.
+   * Hindari penggunaan pupuk dengan tinja.
 2. Farmakologi
-a. Pemberian Albendazol menjadi terapi pilihan saat ini dengan dosis 400
-mg, 1-2 x sehari, selama 3 hari, atau
+   * Pemberian Albendazol menjadi terapi pilihan saat ini dengan dosis 400 mg, 1-2
+     x sehari, selama 3 hari, atau
+   * Mebendazol 100 mg, 3xsehari, selama 2 atau 4 minggu.
 
-160
+### Konseling dan edukasi
 
-b. Mebendazol 100 mg, 3xsehari, selama 2 atau 4 minggu.
-Konseling dan Edukasi
-Memberikan informasi kepada pasien dan keluarga mengenai pentingnya
-menjaga kebersihan diri dan lingkungan, yaitu antara lain:
+Memberikan informasi kepada pasien dan keluarga mengenai pentingnya menjaga
+kebersihan diri dan lingkungan, yaitu antara lain:
+
 1. Sebaiknya setiap keluarga memiliki jamban keluarga.
 2. Menghindari kontak dengan tanah yang tercemar oleh tinja manusia.
 3. Menggunakan sarung tangan jika ingin mengelola limbah/sampah.
-4. Mencuci tangan sebelum dan setelah melakukan aktifitas dengan
-menggunakan sabun.
+4. Mencuci tangan sebelum dan setelah melakukan aktifitas dengan menggunakan
+   sabun.
 5. Menggunakan alas kaki.
-Kriteria Rujukan: Pasien strongyloidiasis dengan keadaan imunokompromais seperti penderita
-AIDS
-Peralatan
+
+### Kriteria Rujukan
+
+Pasien strongyloidiasis dengan keadaan imunokompromais seperti penderita AIDS
+
+### Peralatan
+
 Peralatan laboratorium sederhana untuk pemeriksaan darah dan feses.
-Prognosis
+
+## Prognosis
+
 Pada umumnya prognosis penyakit ini adalah bonam, karena jarang
 menimbulkan kondisi klinis yang berat.
-Referensi
-1. Gandahusada, S. 2000. Parasitologi Kedokteran. Edisi ketiga. Jakarta.
-Balai Penerbit Fakultas Kedokteran Universitas Indonesia.
+
+## Referensi
+
+1. Gandahusada, S. 2000. Parasitologi Kedokteran. Edisi ketiga. Jakarta. Balai
+   Penerbit Fakultas Kedokteran Universitas Indonesia.
 2. Ganesh S, Cruz RJ. Review Strongyloidiasis: a multifaceted diseases.
-Gastroenetrology & hepatology 2011;7:194-6. (Ganesh & Cruz, 2011)
-3. King CH. Hookworms. In: Berhman RE, Kliegman RM, Arvin AM, editors.
-th
-Nelson’s Tetxbook of Pediatrics. 19 ed. Philadelphia: W.B.Saunders
-Company; 2012. p.1000-1.
+   Gastroenetrology & hepatology 2011;7:194-6. (Ganesh & Cruz, 2011)
+3. King CH. Hookworms. In: Berhman RE, Kliegman RM, Arvin AM, editors. Nelson’s
+   Tetxbook of Pediatrics. 19$$^{th}$$ ed. Philadelphia: W.B.Saunders Company; 2012.
+   p.1000-1.

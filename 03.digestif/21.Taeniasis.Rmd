@@ -1,7 +1,4 @@
-
 ---
-author: <++>
-title: <++>
 output:
   html_document:
     toc: true
@@ -16,42 +13,39 @@ output:
     highlight: tango
   slidy_presentation:
     highlight: tango
-bibliography: ref.bib
 csl: $HOME$/.pandoc/vancouver-superscript.csl
 ---
 
-<++>
-20. Taeniasis
-No. ICPC II
-No. ICD X
-Tingkat Kemampuan
-
-: D96 Worms/other parasites
-: B68.9 Taeniasis
-: 4A
+No. ICPC-2	: D96 *Worms/other parasites*  
+No. ICD-10	: B68.9 *Taeniasis*  
+**Kompetensi 	: 4A**
 
 ## Masalah Kesehatan
 
 Taeniasis adalah penyakit zoonosis parasiter yang disebabkan oleh cacing pita
-yang tergolong dalam genus Taenia (Taenia saginata, Taenia solium, dan
-Taenia asiatica) pada manusia.
-Taenia saginata adalah cacing yang sering ditemukan di negara yang
-penduduknya banyak makan daging sapi/kerbau. Infeksi lebih mudah terjadi
-bila cara memasak daging setengah matang.
-Taenia solium adalah cacing pita yang ditemukan di daging babi. Penyakit ini
-ditemukan pada orang yang biasa memakan daging babi khususnya yang
-diolah tidak matang. Ternak babi yang tidak dipelihara kebersihannya, dapat
-berperan penting dalam penularan cacing Taenia solium. Untuk T. solium
-terdapat komplikasi berbahaya yakni sistiserkosis. Sistiserkosis adalah kista
-T.solium yang bisa ditemukan di seluruh organ, namun yang paling berbahaya
-jika terjadi di otak.
-## Hasil Anamnesis (Subjective)
+yang tergolong dalam genus *Taenia* (*Taenia saginata*, *Taenia solium*, dan *Taenia
+asiatica*) pada manusia.
 
-Keluhan
+*Taenia saginata* adalah cacing yang sering ditemukan di negara yang penduduknya
+banyak makan daging sapi/kerbau. Infeksi lebih mudah terjadi bila cara memasak
+daging setengah matang.
+
+*Taenia solium* adalah cacing pita yang ditemukan di daging babi. Penyakit ini
+ditemukan pada orang yang biasa memakan daging babi khususnya yang diolah tidak
+matang. Ternak babi yang tidak dipelihara kebersihannya, dapat berperan penting
+dalam penularan cacing *Taenia solium*. Untuk *T. solium* terdapat komplikasi
+berbahaya yakni sistiserkosis. Sistiserkosis adalah kista *T. solium* yang bisa
+ditemukan di seluruh organ, namun yang paling berbahaya jika terjadi di otak.
+
+## *Subjectivea*
+
+### Keluhan
+
 Gejala klinis taeniasis sangat bervariasi dan tidak khas. Sebagian kasus tidak
 menunjukkan gejala (asimptomatis). Gejala klinis dapat timbul sebagai akibat
 iritasi mukosa usus atau toksin yang dihasilkan cacing. Gejala tersebut antara
 lain:
+
 1. Rasa tidak enak pada lambung
 2. Mual
 3. Badan lemah
@@ -63,66 +57,81 @@ lain:
 9. Pruritus ani
 10. Diare
 
-157
+### Faktor risiko
 
-Faktor Risiko
-1. Mengkonsumsi daging yang dimasak setengah matang/mentah, dan
-mengandung larva sistiserkosis.
+1. Mengkonsumsi daging yang dimasak setengah matang/mentah, dan mengandung
+   larva sistiserkosis.
 2. Higiene yang rendah dalam pengolahan makanan bersumber daging.
 3. Ternak yang tidak dijaga kebersihan kandang dan makanannya.
-## Hasil Pemeriksaan Fisik dan Penunjang Sederhana (Objective)
 
-Pemeriksaan Fisik
+## *Objective*
+
+### Pemeriksaan fisik
+
 1. Pemeriksaan tanda vital.
 2. Pemeriksaan generalis: nyeri ulu hati, ileus juga dapat terjadi jika cacing
-membuat obstruksi usus.
-Pemeriksaan Penunjang
-1. Pemeriksaan laboratorium mikroskopik dengan menemukan telur dalam
-spesimen tinja segar.
+   membuat obstruksi usus.
+
+### Pemeriksaan penunjang
+
+1. Pemeriksaan laboratorium mikroskopik dengan menemukan telur dalam spesimen
+   tinja segar.
 2. Secara makroskopik dengan menemukan proglotid pada tinja.
 3. Pemeriksaan laboratorium darah tepi: dapat ditemukan eosinofilia,
-leukositosis, LED meningkat.
-## Penegakan Diagnostik (Assessment)
+   leukositosis, LED meningkat.
 
-Diagnosis Klinis
-Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan
-pemeriksaan penunjang.
-Diagnosis Banding:Komplikasi: Sistiserkosis
-## Penatalaksanaan Komprehensif (Plan)
+## *Assessment*
 
-Penatalaksanaan
+### Diagnosis klinis
+
+Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan pemeriksaan
+penunjang.
+
+### Komplikasi
+
+Sistiserkosis
+
+## *Plan*
+
+### Penatalaksanaan
+
 1. Menjaga kebersihan diri dan lingkungan, antara lain:
-a. Mengolah daging sampai matang dan menjaga kebersihan hewan
-ternak.
-b. Menggunakan jamban keluarga.
+   * Mengolah daging sampai matang dan menjaga kebersihan hewan ternak.
+   * Menggunakan jamban keluarga.
 2. Farmakologi:
-a. Pemberian albendazol menjadi terapi pilihan saat ini dengan dosis 400
-mg, 1 x sehari, selama 3 hari berturut-turut, atau
-b. Mebendazol 100 mg, 3 x sehari, selama 2 atau 4 minggu.
-Pengobatan terhadap cacing dewasa dikatakan berhasil bila ditemukan
-skoleks pada tinja, sedangkan pengobatan sistiserkosis hanya dapat dilakukan
-dengan melakukan eksisi.
-Konseling dan Edukasi
-Memberikan informasi kepada pasien dan keluarga mengenai pentingnya
-menjaga kebersihan diri dan lingkungan, yaitu antara lain:
+   * Pemberian albendazol menjadi terapi pilihan saat ini dengan dosis 400 mg, 1 x
+     sehari, selama 3 hari berturut-turut, atau
+   * Mebendazol 100 mg, 3 x sehari, selama 2 atau 4 minggu. Pengobatan terhadap
+     cacing dewasa dikatakan berhasil bila ditemukan skoleks pada tinja, sedangkan
+     pengobatan sistiserkosis hanya dapat dilakukan dengan melakukan eksisi.
+
+### Konseling dan edukasi
+
+Memberikan informasi kepada pasien dan keluarga mengenai pentingnya menjaga
+kebersihan diri dan lingkungan, yaitu antara lain:
+
 1. Mengolah daging sampai matang dan menjaga kebersihan hewan ternak
 2. Sebaiknya setiap keluarga memiliki jamban keluarga.
 
-158
+### Kriteria rujukan
 
-Kriteria Rujukan
 Bila ditemukan tanda-tanda yang mengarah pada sistiserkosis.
-Peralatan
+
+### Peralatan
+
 Peralatan laboratorium sederhana untuk pemeriksaan darah dan feses.
-Prognosis
+
+## Prognosis
+
 Prognosis pada umumnya bonam kecuali jika terdapat komplikasi berupa
 sistiserkosis yang dapat mengakibatkan kematian.
-Referensi
-1. Gandahusada, S. 2000. Parasitologi Kedokteran. Edisi ketiga. Jakarta.
-Balai Penerbit Fakultas Kedokteran Universitas Indonesia.
-2. Keputusan Menteri Kesehatan RI Nomor 424 Tahun 2006 tentang
-Pedoman Pengendalian Kecacingan.
-3. King CH. Hookworms. In: Berhman RE, Kliegman RM, Arvin AM, editors.
-th
-Nelson’s Tetxbook of Pediatrics. 19 ed. Philadelphia: W.B.Saunders
-Company; 2012. p.1000-1.
+
+## Referensi
+
+1. Gandahusada, S. 2000. Parasitologi Kedokteran. Edisi ketiga. Jakarta. Balai
+   Penerbit Fakultas Kedokteran Universitas Indonesia.
+2. Keputusan Menteri Kesehatan RI Nomor 424 Tahun 2006 tentang Pedoman
+   Pengendalian Kecacingan.
+3. King CH. Hookworms. In: Berhman RE, Kliegman RM, Arvin AM, editors. Nelson’s
+   Tetxbook of Pediatrics. 19$$^{19}$$ ed. Philadelphia: W.B.Saunders Company; 2012.
+   p.1000-1.
